@@ -16,3 +16,11 @@ class ReportResponse(BaseModel):
     created_at: datetime
 
     model_config = ConfigDict(from_attributes=True)
+    
+
+class FinalReport(BaseModel):
+    title: str
+    executive_summary: str
+    key_data_points: list[str]
+    conclusion: str
+    
