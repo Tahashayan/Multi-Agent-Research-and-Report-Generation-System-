@@ -1,10 +1,11 @@
 from typing import TypedDict, Annotated
 from langgraph.graph.message import add_messages
-from app.agents.llm_setup import get_llm
-from app.tools.web_search import web_search
-from app.models.schemas import FinalReport
+from backend.app.agents.llm_setup import get_llm
+from backend.app.tools.web_search import web_search
+from backend.app.models.schemas import FinalReport
 from langgraph.prebuilt import ToolNode, tools_condition
 from langgraph.graph import StateGraph, START, END
+from langchain_core.messages import HumanMessage
 from langchain_core.messages import HumanMessage
 
 llm_with_tools = get_llm().bind_tools([web_search])
@@ -53,9 +54,8 @@ workflow.add_edge("writer", END)
 
 app = workflow.compile()
 
-if __name__ == "__main__":
-    inputs = {"messages": [HumanMessage(content="Analyze the current market difference between Apple Vision Pro and Meta Quest 3.")]}
-    
+def run_research_graph(topic: str):
+    inputs = {"messages": [HumanMessage(content=f"Research this topic: {topic}")]}
     result = app.invoke(inputs)
-    
-    print(result["final_report"])
+    return result["final_report"]
+
