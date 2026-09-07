@@ -55,7 +55,24 @@ workflow.add_edge("writer", END)
 app = workflow.compile()
 
 def run_research_graph(topic: str):
+    from langchain_core.messages import HumanMessage
+    
+    print(f"\n🚀 [STARTING] New research task started for: '{topic}'")
     inputs = {"messages": [HumanMessage(content=f"Research this topic: {topic}")]}
-    result = app.invoke(inputs)
-    return result["final_report"]
+    
+    final_report = None
+    
+    # app.stream yields the output after EVERY single node finishes
+    for output in app.stream(inputs):
+        # 'output' is a dictionary: {"node_name": {"state_key": "state_value"}}
+        for node_name, state_update in output.items():
+            print(f"✅ [AGENT UPDATE] '{node_name.upper()}' just finished its task.")
+            
+            # If the node that just finished was the writer, grab the report!
+            if node_name == "writer":
+                final_report = state_update["final_report"]
+                
+    print(f"🏁 [FINISHED] Research complete for: '{topic}'\n")
+    
+    return final_report
 
