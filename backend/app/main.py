@@ -26,7 +26,7 @@ def get_report(report_id: str):
 
 async def process_report_in_background(report_id: str, topic: str):
     try:
-        final_report = run_research_graph(topic)
+        final_report = run_research_graph(report_id, topic)
         dict_content = final_report.model_dump()
         update_report_content(
             report_id,

@@ -6,7 +6,7 @@ from backend.app.models.schemas import FinalReport
 from langgraph.prebuilt import ToolNode, tools_condition
 from langgraph.graph import StateGraph, START, END
 from langchain_core.messages import HumanMessage
-from langchain_core.messages import HumanMessage
+from langgraph.checkpoint.memory import MemorySaver
 
 llm_with_tools = get_llm().bind_tools([web_search])
 
@@ -15,7 +15,7 @@ tool_node = ToolNode([web_search])
 class AgentState(TypedDict):
     messages: Annotated[list, add_messages]
     research_plan: str
-    final_report: FinalReport
+    final_report: dict
 
 def planner_node(state: AgentState):
     response = llm_with_tools.invoke(state["messages"])
@@ -29,7 +29,7 @@ def research_node(state: AgentState):
 def writer_node(state: AgentState):
     structured_llm = llm_with_tools.with_structured_output(FinalReport)
     response = structured_llm.invoke(state["messages"])
-    return {"final_report": response}
+    return {"final_report": response.model_dump()}
         
 
 workflow = StateGraph(AgentState)
@@ -52,10 +52,12 @@ workflow.add_conditional_edges(
 workflow.add_edge("tools", "researcher")
 workflow.add_edge("writer", END)
 
-app = workflow.compile()
+memory = MemorySaver()
+app = workflow.compile(checkpointer=memory)
 
-def run_research_graph(topic: str):
-    from langchain_core.messages import HumanMessage
+def run_research_graph(report_id: str, topic: str):
+    
+    config = {"configurable": {"thread_id": report_id}}
     
     print(f"\n🚀 [STARTING] New research task started for: '{topic}'")
     inputs = {"messages": [HumanMessage(content=f"Research this topic: {topic}")]}
@@ -63,7 +65,7 @@ def run_research_graph(topic: str):
     final_report = None
     
     # app.stream yields the output after EVERY single node finishes
-    for output in app.stream(inputs):
+    for output in app.stream(inputs, config):
         # 'output' is a dictionary: {"node_name": {"state_key": "state_value"}}
         for node_name, state_update in output.items():
             print(f"✅ [AGENT UPDATE] '{node_name.upper()}' just finished its task.")
@@ -73,6 +75,10 @@ def run_research_graph(topic: str):
                 final_report = state_update["final_report"]
                 
     print(f"🏁 [FINISHED] Research complete for: '{topic}'\n")
+    
+    final_state = app.get_state(config)
+    print("\n🧠 [MEMORY CHECK] Here is the saved state in LangGraph:")
+    print(final_state.values.keys())
     
     return final_report
 
