@@ -27,7 +27,7 @@ def get_report(report_id: str):
 async def process_report_in_background(report_id: str, topic: str):
     try:
         final_report = run_research_graph(report_id, topic)
-        dict_content = final_report.model_dump()
+        dict_content = final_report.model_dump() if hasattr(final_report, "model_dump") else final_report
         update_report_content(
             report_id,
             dict_content,

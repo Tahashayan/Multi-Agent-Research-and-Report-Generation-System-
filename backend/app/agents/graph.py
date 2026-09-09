@@ -29,7 +29,8 @@ def research_node(state: AgentState):
 def writer_node(state: AgentState):
     structured_llm = llm_with_tools.with_structured_output(FinalReport)
     response = structured_llm.invoke(state["messages"])
-    return {"final_report": response.model_dump()}
+    validated = response if isinstance(response, FinalReport) else FinalReport.model_validate(response)
+    return {"final_report": validated.model_dump()}
         
 
 workflow = StateGraph(AgentState)
