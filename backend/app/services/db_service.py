@@ -56,3 +56,13 @@ def update_report_status_failed(report_id: str):
         .execute()
     )
     return response.data[0] if response.data else None
+
+def update_report_status_pending_approval(report_id: str):
+    response = (
+        supabase
+        .table("reports")
+        .update({"status": "pending_approval"})
+        .eq("id", report_id)
+        .execute()
+    )
+    return response.data[0] if response.data else None

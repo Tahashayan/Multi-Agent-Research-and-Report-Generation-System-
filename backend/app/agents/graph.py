@@ -1,3 +1,4 @@
+import json
 from typing import TypedDict, Annotated
 from langgraph.graph.message import add_messages
 from backend.app.agents.llm_setup import get_llm
@@ -54,7 +55,7 @@ workflow.add_edge("tools", "researcher")
 workflow.add_edge("writer", END)
 
 memory = MemorySaver()
-app = workflow.compile(checkpointer=memory)
+app = workflow.compile(checkpointer=memory, interrupt_after=["planner"])
 
 def run_research_graph(report_id: str, topic: str):
     
@@ -63,23 +64,46 @@ def run_research_graph(report_id: str, topic: str):
     print(f"\n🚀 [STARTING] New research task started for: '{topic}'")
     inputs = {"messages": [HumanMessage(content=f"Research this topic: {topic}")]}
     
-    final_report = None
-    
-    # app.stream yields the output after EVERY single node finishes
     for output in app.stream(inputs, config):
-        # 'output' is a dictionary: {"node_name": {"state_key": "state_value"}}
-        for node_name, state_update in output.items():
-            print(f"✅ [AGENT UPDATE] '{node_name.upper()}' just finished its task.")
-            
-            # If the node that just finished was the writer, grab the report!
-            if node_name == "writer":
-                final_report = state_update["final_report"]
-                
-    print(f"🏁 [FINISHED] Research complete for: '{topic}'\n")
+        pass
     
     final_state = app.get_state(config)
     print("\n🧠 [MEMORY CHECK] Here is the saved state in LangGraph:")
     print(final_state.values.keys())
+    print(f"⏸️  [PAUSED] Next node: {final_state.next}")
     
-    return final_report
+    if final_state.next and "researcher" in final_state.next:
+        print(f"🛑 [AWAITING APPROVAL] Research plan ready for '{topic}', waiting for user approval.\n")
+        return "pending_approval"
+                
+    print(f"🏁 [FINISHED] Research complete for: '{topic}'\n")
+    
+    return None
 
+
+def resume_research_graph(report_id: str):
+    config = {"configurable": {"thread_id": report_id}}
+    print(f"\n▶️  [RESUMING] Continuing research task for report_id: '{report_id}'")
+    
+    final_report = None
+    
+    for output in app.stream(None, config):
+        for node_name, state_update in output.items():
+            print(f"✅ [AGENT UPDATE] '{node_name.upper()}' just finished its task.")
+            
+            if node_name == "writer":
+                final_report = state_update["final_report"]
+    
+    print(f"🏁 [FINISHED] Research complete for report_id: '{report_id}'\n")
+    
+    if hasattr(final_report, "model_dump"):
+        final_report_dict = final_report.model_dump()
+    else:
+        final_report_dict = json.loads(json.dumps(final_report, default=str))
+    
+    del final_report
+    del output
+    del node_name
+    del state_update
+    
+    return final_report_dict
