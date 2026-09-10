@@ -2,12 +2,21 @@ import json
 import uuid
 import asyncio
 from fastapi import FastAPI, BackgroundTasks
+from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import StreamingResponse
 from backend.app.models.schemas import ReportRequest
 from backend.app.services.db_service import create_report_entry, get_report_by_id, update_report_content, update_report_status_failed, update_report_status_pending_approval
 from backend.app.agents.graph import run_research_graph, resume_research_graph
 
 app = FastAPI()
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["http://localhost:3000"], # Your React app
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 @app.get("/")
 def root():
