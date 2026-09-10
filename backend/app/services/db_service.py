@@ -57,6 +57,16 @@ def update_report_status_failed(report_id: str):
     )
     return response.data[0] if response.data else None
 
+def update_report_step(report_id: str, step_message: str):
+    response = (
+        supabase
+        .table("reports")
+        .update({"current_step": step_message})
+        .eq("id", report_id)
+        .execute()
+    )
+    return response.data[0] if response.data else None
+
 def update_report_status_pending_approval(report_id: str):
     response = (
         supabase

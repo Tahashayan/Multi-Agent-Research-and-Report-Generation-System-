@@ -4,6 +4,7 @@ from langgraph.graph.message import add_messages
 from backend.app.agents.llm_setup import get_llm
 from backend.app.tools.web_search import web_search
 from backend.app.models.schemas import FinalReport
+from backend.app.services.db_service import update_report_step
 from langgraph.prebuilt import ToolNode, tools_condition
 from langgraph.graph import StateGraph, START, END
 from langchain_core.messages import HumanMessage
@@ -64,6 +65,8 @@ def run_research_graph(report_id: str, topic: str):
     print(f"\n🚀 [STARTING] New research task started for: '{topic}'")
     inputs = {"messages": [HumanMessage(content=f"Research this topic: {topic}")]}
     
+    update_report_step(report_id, "Planner is thinking...")
+    
     for output in app.stream(inputs, config):
         pass
     
@@ -81,6 +84,7 @@ def run_research_graph(report_id: str, topic: str):
     return None
 
 
+
 def resume_research_graph(report_id: str):
     config = {"configurable": {"thread_id": report_id}}
     print(f"\n▶️  [RESUMING] Continuing research task for report_id: '{report_id}'")
@@ -90,6 +94,11 @@ def resume_research_graph(report_id: str):
     for output in app.stream(None, config):
         for node_name, state_update in output.items():
             print(f"✅ [AGENT UPDATE] '{node_name.upper()}' just finished its task.")
+            
+            if node_name == "researcher":
+                update_report_step(report_id, "Searcher the web...")
+            elif node_name == "writer":
+                update_report_step(report_id, "Drafting the final report...")
             
             if node_name == "writer":
                 final_report = state_update["final_report"]

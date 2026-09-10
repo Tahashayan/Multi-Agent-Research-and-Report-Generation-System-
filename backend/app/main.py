@@ -1,11 +1,13 @@
+import json
 import uuid
-from fastapi import FastAPI, HTTPException, BackgroundTasks
+import asyncio
+from fastapi import FastAPI, BackgroundTasks
+from fastapi.responses import StreamingResponse
 from backend.app.models.schemas import ReportRequest
 from backend.app.services.db_service import create_report_entry, get_report_by_id, update_report_content, update_report_status_failed, update_report_status_pending_approval
 from backend.app.agents.graph import run_research_graph, resume_research_graph
 
 app = FastAPI()
-
 
 @app.get("/")
 def root():
@@ -27,6 +29,21 @@ async def approve_report(report_id: str, background_task: BackgroundTasks):
 def get_report(report_id: str):
     report = get_report_by_id(report_id)
     return report
+
+@app.get("/stream-status/{report_id}")
+async def stream_status(report_id: str):
+    async def generate():
+        while True:
+            report = get_report_by_id(report_id)
+            payload = {
+                "step": report.get("current_step"),
+                "status": report.get("status"),
+            }
+            yield f"data: {json.dumps(payload)}\n\n"
+            await asyncio.sleep(1)
+            if report.get("status") in ("completed", "failed"):
+                break
+    return StreamingResponse(generate(), media_type="text/event-stream")
 
 
 async def process_report_in_background(report_id: str, topic: str):
