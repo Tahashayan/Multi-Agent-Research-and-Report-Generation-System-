@@ -1,8 +1,30 @@
+"use client";
+
+import { useState, useEffect } from "react";
 import Link from "next/link";
+import { createClient } from "../utils/supabase/client";
 
 export default function Home() {
+  const [ctaLink, setCtaLink] = useState("/login");
+  const [isChecking, setIsChecking] = useState(true); // <-- NEW: Loading state
+
+  useEffect(() => {
+    const checkAuth = async () => {
+      const supabase = createClient();
+      const { data: { user } } = await supabase.auth.getUser();
+      
+      if (user) {
+        setCtaLink("/dashboard");
+      } else {
+        setCtaLink("/login");
+      }
+      setIsChecking(false); // Done checking!
+    };
+    
+    checkAuth();
+  }, []);
+
   return (
-    // FIX 1: Removed justify-center and added pt-24 (Padding Top) to push it away from the navbar
     <div className="min-h-[calc(100vh-4rem)] flex flex-col items-center pt-24 px-6 pb-24 text-center">
       
       {/* Hero Section */}
@@ -23,17 +45,23 @@ export default function Home() {
       </p>
 
       <div className="flex gap-4">
-        <Link 
-          href="/login" 
-          className="bg-emerald-600 text-white px-8 py-3.5 rounded-full font-bold text-lg hover:bg-emerald-700 shadow-lg shadow-emerald-200 transition-all hover:scale-105 tracking-wide"
-        >
-          Start Researching Free
-        </Link>
+        {/* FIX: Show a pulsing skeleton button while checking Auth to prevent the text flash */}
+        {isChecking ? (
+          <div className="bg-emerald-600/50 animate-pulse text-transparent px-8 py-3.5 rounded-full font-bold text-lg select-none">
+            Loading Button...
+          </div>
+        ) : (
+          <Link 
+            href={ctaLink} 
+            className="bg-emerald-600 text-white px-8 py-3.5 rounded-full font-bold text-lg hover:bg-emerald-700 shadow-lg shadow-emerald-200 transition-all hover:scale-105 tracking-wide"
+          >
+            {ctaLink === "/dashboard" ? "Go to Dashboard" : "Start Researching Free"}
+          </Link>
+        )}
       </div>
 
-      {/* FIX 2: Replaced the empty box with a beautiful CSS mockup of an AI Dashboard */}
+      {/* CSS Mockup of AI Dashboard */}
       <div className="mt-20 w-full max-w-5xl rounded-2xl bg-white border border-slate-200 shadow-2xl overflow-hidden flex flex-col text-left">
-        {/* Mockup Window Header (Mac style dots) */}
         <div className="h-12 bg-slate-100 border-b border-slate-200 flex items-center px-4 gap-2">
           <div className="flex gap-1.5">
             <div className="w-3 h-3 rounded-full bg-red-400"></div>
@@ -45,9 +73,7 @@ export default function Home() {
           </div>
         </div>
         
-        {/* Mockup Window Body */}
         <div className="flex flex-1 p-6 md:p-8 gap-8 bg-slate-50">
-          {/* Mockup Sidebar */}
           <div className="hidden md:flex flex-col gap-4 w-1/4">
             <div className="h-4 bg-slate-200 rounded-md w-3/4"></div>
             <div className="h-4 bg-slate-200 rounded-md w-1/2"></div>
@@ -56,7 +82,6 @@ export default function Home() {
             <div className="h-4 bg-slate-200 rounded-md w-full"></div>
           </div>
           
-          {/* Mockup Main Content (The AI working) */}
           <div className="flex-1 bg-white border border-slate-200 rounded-xl p-6 shadow-sm flex flex-col gap-4">
             <div className="flex justify-between items-start mb-2">
               <div className="h-6 bg-blue-900 rounded-md w-1/2"></div>
@@ -67,7 +92,6 @@ export default function Home() {
             <div className="h-3 bg-slate-100 rounded-full w-full"></div>
             <div className="h-3 bg-slate-100 rounded-full w-4/5"></div>
             
-            {/* Live progress simulation box */}
             <div className="mt-6 bg-blue-950 rounded-lg p-5 flex flex-col gap-3 shadow-inner relative overflow-hidden">
               <div className="flex items-center gap-3 mb-1">
                 <div className="w-4 h-4 rounded-full border-2 border-emerald-400 border-t-transparent animate-spin"></div>
@@ -85,7 +109,6 @@ export default function Home() {
           </div>
         </div>
       </div>
-
     </div>
   );
 }
