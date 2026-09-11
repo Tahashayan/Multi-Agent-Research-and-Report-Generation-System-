@@ -3,8 +3,9 @@ from typing import TypedDict, Annotated
 from langgraph.graph.message import add_messages
 from backend.app.agents.llm_setup import get_llm
 from backend.app.tools.web_search import web_search
+from langchain_core.messages import SystemMessage 
 from backend.app.models.schemas import FinalReport
-from backend.app.services.db_service import update_report_step
+from backend.app.services.db_service import update_report_step, update_report_content
 from langgraph.prebuilt import ToolNode, tools_condition
 from langgraph.graph import StateGraph, START, END
 from langchain_core.messages import HumanMessage
@@ -20,8 +21,29 @@ class AgentState(TypedDict):
     final_report: dict
 
 def planner_node(state: AgentState):
-    response = llm_with_tools.invoke(state["messages"])
-    return {"research_plan": response.content}
+    # 1. Get the topic
+    topic_message = state["messages"][0].content
+    
+    # 2. Use a strict System Prompt to FORCE the local LLM to output text
+    messages = [
+        SystemMessage(content="You are an expert research planner. You must write a 3-step web search plan. You MUST respond with plain text. Do not leave your response blank."),
+        HumanMessage(content=f"Create a 3-step research plan for this topic: {topic_message}")
+    ]
+    
+    # 3. Call the LLM (without tools)
+    response = get_llm().invoke(messages)
+    plan_text = response.content
+    
+    # 4. THE FAILSAFE: If the local model still returns a blank string, inject a default plan!
+    if not plan_text or str(plan_text).strip() == "":
+        print("⚠️ [WARNING] The LLM returned a blank plan. Using failsafe plan.")
+        plan_text = (
+            f"1. Search the web for the latest news and updates regarding '{topic_message}'.\n"
+            f"2. Analyze the technical specifications, pricing, and market reception.\n"
+            f"3. Compare the findings with top competitors in the industry."
+        )
+        
+    return {"research_plan": plan_text}
 
 def research_node(state: AgentState):
     research_plan = state["research_plan"]
@@ -65,6 +87,7 @@ def run_research_graph(report_id: str, topic: str):
     print(f"\n🚀 [STARTING] New research task started for: '{topic}'")
     inputs = {"messages": [HumanMessage(content=f"Research this topic: {topic}")]}
     
+    # This works now because it was imported at the very top of the file!
     update_report_step(report_id, "Planner is thinking...")
     
     for output in app.stream(inputs, config):
@@ -75,14 +98,18 @@ def run_research_graph(report_id: str, topic: str):
     print(final_state.values.keys())
     print(f"⏸️  [PAUSED] Next node: {final_state.next}")
     
-    if final_state.next and "researcher" in final_state.next:
-        print(f"🛑 [AWAITING APPROVAL] Research plan ready for '{topic}', waiting for user approval.\n")
-        return "pending_approval"
-                
-    print(f"🏁 [FINISHED] Research complete for: '{topic}'\n")
+    current_state = app.get_state(config)
+    next_node = current_state.next
     
-    return None
-
+    if "researcher" in next_node:
+        print("\n✋ [PAUSED] The graph is waiting for human approval!")
+        plan = current_state.values.get("research_plan", "No plan found")
+        
+        # We removed the import from here. Just call the functions directly!
+        update_report_step(report_id, "Waiting for your approval...")
+        update_report_content(report_id, {"research_plan": plan})
+        
+        return "pending_approval"
 
 
 def resume_research_graph(report_id: str):
