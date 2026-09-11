@@ -76,3 +76,15 @@ def update_report_status_pending_approval(report_id: str):
         .execute()
     )
     return response.data[0] if response.data else None
+
+def get_report_by_user(user_id: str):
+    response = (
+        supabase
+        .table("reports")
+        .select("*")
+        .eq("user_id", user_id)
+        .order("created_at", desc=True)
+        .execute()
+    )
+    
+    return response.data

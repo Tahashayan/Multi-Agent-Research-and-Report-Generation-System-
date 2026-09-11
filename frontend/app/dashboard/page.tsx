@@ -21,6 +21,7 @@ export default function Dashboard() {
   const [currentStep, setCurrentStep] = useState<string>("");
   const [finalReport, setFinalReport] = useState<FinalReport | null>(null);
   const [userEmail, setUserEmail] = useState<string | null>(null);
+  const [userId, setUserId] = useState<string | null>(null);
 
   useEffect(() => {
     const checkUser = async () => {
@@ -29,6 +30,7 @@ export default function Dashboard() {
         router.push("/login"); 
       } else {
         setUserEmail(user.email || null);
+        setUserId(user.id); // <-- ADD THIS
       }
     };
     checkUser();
@@ -49,7 +51,7 @@ export default function Dashboard() {
       const response = await fetch("http://localhost:8000/generate-report", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ topic }),
+        body: JSON.stringify({ topic: topic, user_id: userId }), 
       });
       const data = await response.json();
       setReportId(data.id);

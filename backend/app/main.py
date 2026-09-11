@@ -5,7 +5,7 @@ from fastapi import FastAPI, BackgroundTasks
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import StreamingResponse
 from backend.app.models.schemas import ReportRequest
-from backend.app.services.db_service import create_report_entry, get_report_by_id, update_report_content, update_report_status_failed, update_report_status_pending_approval
+from backend.app.services.db_service import create_report_entry, get_report_by_id, update_report_content, update_report_status_failed, update_report_status_pending_approval, get_report_by_user
 from backend.app.agents.graph import run_research_graph, resume_research_graph
 
 app = FastAPI()
@@ -24,8 +24,7 @@ def root():
 
 @app.post("/generate-report")
 async def generate_report(request: ReportRequest, background_task: BackgroundTasks):
-    user_id = str(uuid.uuid4()) 
-    report = create_report_entry(topic = request.topic, user_id = user_id)
+    report = create_report_entry(topic = request.topic, user_id = request.user_id)
     background_task.add_task(process_report_in_background, report["id"], request.topic)
     return report
 
@@ -38,6 +37,10 @@ async def approve_report(report_id: str, background_task: BackgroundTasks):
 def get_report(report_id: str):
     report = get_report_by_id(report_id)
     return report
+
+@app.get("/user-reports/{user_id}")
+def get_user_reports(user_id: str):
+    return get_report_by_user(user_id)
 
 @app.get("/stream-status/{report_id}")
 async def stream_status(report_id: str):

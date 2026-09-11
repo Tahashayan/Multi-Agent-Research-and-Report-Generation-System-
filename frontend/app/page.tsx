@@ -29,13 +29,6 @@ export default function Home() {
         >
           Start Researching Free
         </Link>
-        <Link 
-          href="https://github.com" 
-          target="_blank"
-          className="bg-white text-blue-950 border border-slate-200 px-8 py-3.5 rounded-full font-bold text-lg hover:bg-slate-50 transition-all shadow-sm"
-        >
-          View Source Code
-        </Link>
       </div>
 
       {/* FIX 2: Replaced the empty box with a beautiful CSS mockup of an AI Dashboard */}

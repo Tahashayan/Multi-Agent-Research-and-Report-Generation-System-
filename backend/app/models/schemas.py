@@ -5,6 +5,7 @@ from pydantic import BaseModel, ConfigDict
 
 class ReportRequest(BaseModel):
     topic: str
+    user_id: str
 
 
 class ReportResponse(BaseModel):

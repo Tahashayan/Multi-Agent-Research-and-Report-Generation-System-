@@ -91,12 +91,13 @@ def resume_research_graph(report_id: str):
     
     final_report = None
     
+    # We run the loop. If it's empty, output is never created!
     for output in app.stream(None, config):
         for node_name, state_update in output.items():
             print(f"✅ [AGENT UPDATE] '{node_name.upper()}' just finished its task.")
             
             if node_name == "researcher":
-                update_report_step(report_id, "Searcher the web...")
+                update_report_step(report_id, "Searching the web...")
             elif node_name == "writer":
                 update_report_step(report_id, "Drafting the final report...")
             
@@ -105,14 +106,19 @@ def resume_research_graph(report_id: str):
     
     print(f"🏁 [FINISHED] Research complete for report_id: '{report_id}'\n")
     
+    # Fallback: Just in case the loop skipped the writer, let's grab it from memory directly
+    if final_report is None:
+        final_report = app.get_state(config).values.get("final_report")
+    
     if hasattr(final_report, "model_dump"):
         final_report_dict = final_report.model_dump()
     else:
         final_report_dict = json.loads(json.dumps(final_report, default=str))
     
-    del final_report
-    del output
-    del node_name
-    del state_update
+    # SAFE CLEANUP: Only delete variables if they actually exist in local memory
+    if 'final_report' in locals(): del final_report
+    if 'output' in locals(): del output
+    if 'node_name' in locals(): del node_name
+    if 'state_update' in locals(): del state_update
     
     return final_report_dict
