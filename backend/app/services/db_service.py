@@ -88,3 +88,14 @@ def get_report_by_user(user_id: str):
     )
     
     return response.data
+
+
+def delete_report(report_id: str):
+    try:
+        # We explicitly execute the delete command and return the data
+        response = supabase.table("reports").delete().eq("id", report_id).execute()
+        print(f"🗑️ [DB] Successfully deleted report: {report_id}")
+        return response.data
+    except Exception as e:
+        print(f"❌ [DB ERROR] Failed to delete report {report_id}: {e}")
+        raise e

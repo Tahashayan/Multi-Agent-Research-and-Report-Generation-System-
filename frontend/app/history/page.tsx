@@ -14,14 +14,11 @@ export default function HistoryPage() {
 
   useEffect(() => {
     const fetchHistory = async () => {
-      // 1. Check Auth
       const { data: { user } } = await supabase.auth.getUser();
       if (!user) {
         router.push("/login");
         return;
       }
-
-      // 2. Fetch reports from FastAPI backend
       try {
         const response = await fetch(`http://localhost:8000/user-reports/${user.id}`);
         const data = await response.json();
@@ -32,15 +29,50 @@ export default function HistoryPage() {
         setLoading(false);
       }
     };
-
     fetchHistory();
   }, [router, supabase]);
 
   const toggleReport = (id: string) => {
-    if (expandedReportId === id) {
-      setExpandedReportId(null);
-    } else {
-      setExpandedReportId(id);
+    setExpandedReportId(expandedReportId === id ? null : id);
+  };
+
+  // --- NEW: Delete Logic ---
+    const handleDelete = async (id: string, e: React.MouseEvent) => {
+    e.stopPropagation(); 
+    const confirmed = window.confirm("Are you sure you want to delete this report? This cannot be undone.");
+    if (!confirmed) return;
+
+    try {
+      const response = await fetch(`http://localhost:8000/report/${id}`, { method: "DELETE" });
+      
+      if (!response.ok) {
+        throw new Error("Backend failed to delete the report");
+      }
+
+      // If successful, remove it from the screen
+      setReports((prev) => prev.filter((report) => report.id !== id));
+      if (expandedReportId === id) setExpandedReportId(null);
+      
+    } catch (error) {
+      console.error("Failed to delete report", error);
+      alert("Failed to delete the report from the database. Please try again.");
+    }
+  };
+
+  // --- NEW: Approve Logic from History ---
+  const handleApprove = async (id: string, e: React.MouseEvent) => {
+    e.stopPropagation();
+    try {
+      await fetch(`http://localhost:8000/approve-report/${id}`, { method: "POST" });
+      // Update the UI to show it's researching now
+      setReports((prev) =>
+        prev.map((report) =>
+          report.id === id ? { ...report, status: "researching" } : report
+        )
+      );
+      alert("Report approved! The AI is now researching in the background.");
+    } catch (error) {
+      console.error("Failed to approve report", error);
     }
   };
 
@@ -48,7 +80,7 @@ export default function HistoryPage() {
     <div className="min-h-[calc(100vh-4rem)] bg-slate-50 p-6 md:p-12">
       <div className="max-w-5xl mx-auto mb-10">
         <h1 className="text-3xl font-extrabold text-blue-950 tracking-tight">Research History</h1>
-        <p className="text-slate-500 mt-2">Access all your previously generated AI reports.</p>
+        <p className="text-slate-500 mt-2">Manage and view all your generated AI reports.</p>
       </div>
 
       <div className="max-w-5xl mx-auto">
@@ -71,6 +103,9 @@ export default function HistoryPage() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             {reports.map((report) => {
               const isCompleted = report.status === "completed";
+              const isPending = report.status === "pending_approval";
+              const isFailed = report.status === "failed";
+              const isWorking = report.status === "researching" || report.status === "pending";
               const isExpanded = expandedReportId === report.id;
               
               return (
@@ -81,11 +116,14 @@ export default function HistoryPage() {
                   }`}
                 >
                   {/* Card Header */}
-                  <div className="p-6 flex justify-between items-start gap-4">
+                  <div className="p-6 flex flex-col sm:flex-row justify-between items-start gap-4">
                     <div>
                       <div className="flex items-center gap-3 mb-2">
                         <span className={`px-3 py-1 rounded-full text-xs font-bold uppercase tracking-wider ${
-                          isCompleted ? "bg-emerald-100 text-emerald-700" : "bg-amber-100 text-amber-700"
+                          isCompleted ? "bg-emerald-100 text-emerald-700" : 
+                          isPending ? "bg-amber-100 text-amber-700 animate-pulse" :
+                          isFailed ? "bg-red-100 text-red-700" :
+                          "bg-blue-100 text-blue-700"
                         }`}>
                           {report.status.replace("_", " ")}
                         </span>
@@ -96,19 +134,44 @@ export default function HistoryPage() {
                       <h2 className="text-xl font-bold text-blue-950 capitalize">{report.topic}</h2>
                     </div>
 
-                    {isCompleted && (
-                      <button 
-                        onClick={() => toggleReport(report.id)}
-                        className={`shrink-0 px-4 py-2 rounded-lg text-sm font-bold transition-colors ${
-                          isExpanded ? "bg-slate-100 text-slate-600 hover:bg-slate-200" : "bg-blue-50 text-blue-700 border border-blue-100 hover:bg-blue-100"
-                        }`}
-                      >
-                        {isExpanded ? "Close" : "View Report"}
-                      </button>
-                    )}
+                    {/* Action Buttons Container */}
+                    <div className="flex gap-2 w-full sm:w-auto shrink-0">
+                      
+                      {/* Approve Button (Only for Pending) */}
+                      {isPending && (
+                        <button 
+                          onClick={(e) => handleApprove(report.id, e)}
+                          className="flex-1 sm:flex-none px-4 py-2 rounded-lg text-sm font-bold bg-emerald-500 text-white hover:bg-emerald-600 transition-colors shadow-sm"
+                        >
+                          Approve
+                        </button>
+                      )}
+
+                      {/* View Report Button (Only for Completed) */}
+                      {isCompleted && (
+                        <button 
+                          onClick={() => toggleReport(report.id)}
+                          className={`flex-1 sm:flex-none px-4 py-2 rounded-lg text-sm font-bold transition-colors ${
+                            isExpanded ? "bg-slate-100 text-slate-600 hover:bg-slate-200" : "bg-blue-50 text-blue-700 border border-blue-100 hover:bg-blue-100"
+                          }`}
+                        >
+                          {isExpanded ? "Close" : "View"}
+                        </button>
+                      )}
+
+                      {/* Delete Button (For everything except currently researching) */}
+                      {!isWorking && (
+                        <button 
+                          onClick={(e) => handleDelete(report.id, e)}
+                          className="flex-1 sm:flex-none px-4 py-2 rounded-lg text-sm font-bold bg-white text-red-500 border border-red-200 hover:bg-red-50 transition-colors"
+                        >
+                          Delete
+                        </button>
+                      )}
+                    </div>
                   </div>
 
-                  {/* Expanded Report Content */}
+                  {/* Expanded Report Content (Only renders if completed) */}
                   {isExpanded && report.content && (
                     <div className="border-t border-slate-100 bg-slate-50 p-6 md:p-10">
                       <div className="mb-8">

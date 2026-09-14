@@ -3,9 +3,10 @@ import uuid
 import asyncio
 from fastapi import FastAPI, BackgroundTasks
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi import HTTPException
 from fastapi.responses import StreamingResponse
 from backend.app.models.schemas import ReportRequest
-from backend.app.services.db_service import create_report_entry, get_report_by_id, update_report_content, update_report_status_failed, update_report_status_pending_approval, get_report_by_user
+from backend.app.services.db_service import create_report_entry, get_report_by_id, update_report_content, update_report_status_failed, update_report_status_pending_approval, get_report_by_user, delete_report
 from backend.app.agents.graph import run_research_graph, resume_research_graph
 
 app = FastAPI()
@@ -41,6 +42,14 @@ def get_report(report_id: str):
 @app.get("/user-reports/{user_id}")
 def get_user_reports(user_id: str):
     return get_report_by_user(user_id)
+
+@app.delete("/report/{report_id}")
+def delete_user_report(report_id: str):
+    try:
+        delete_report(report_id)
+        return {"status": "success", "message": "Report deleted"}
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
 
 @app.get("/stream-status/{report_id}")
 async def stream_status(report_id: str):
