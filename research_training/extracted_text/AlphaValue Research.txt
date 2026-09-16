@@ -1,0 +1,3912 @@
+--- PAGE 1 ---
+Contract research, paid for by the above corporate entity. Equity research methods and procedures are as applied by AlphaValue. Target prices and opinions are thus exclusively determined by
+those methods and procedures.
+
+12 Nov 2020
+Sponsored research
+Electrical Products-Misc
+France
+Opinion
+Buy
+Upside (%)
+47.1
+Price (€)
+0.27
+Target Price (€)
+0.39
+Bloomberg Code
+ALDRV FP
+Market Cap (€M)
+42.3
+Enterprise Value (€th)
+39,684
+Momentum
+GOOD
+Governance
+4.9/10
+Credit Risk
+C
+Research Analysts
+Hugo Paternoster
++33 (0) 1 70 61 10 50
+capitalgoods@alphavalue.eu
+
+Conflicts of interest
+Corporate broking
+No
+Trading in corporate shares
+No
+Analyst ownership
+No
+Advice to corporate
+No
+Research paid for by corporate Yes
+Corporate access
+No
+Brokerage activity at
+AlphaValue
+No
+Client of AlphaValue Research
+No
+This research has been commissioned and
+paid for by the company and is deemed to
+constitute
+an
+acceptable
+minor
+non-
+monetary benefit as defined in MiFID II
+Drone Volt
+Moving upwards in the value-added chain
+PROS
+CONS
+KEY DATA
+12/18A
+12/19A
+12/20E
+12/21E
+12/22E
+Adjusted P/E (x)
+-7.31
+-3.44
+-24.9
+17.5
+7.79
+Dividend yield (%)
+0.00
+0.00
+0.00
+0.00
+0.00
+EV/EBITDA(R) (x)
+-10.4
+-10.2
+ns
+6.69
+2.34
+Adjusted EPS (€)
+-0.08
+-0.05
+-0.01
+0.02
+0.03
+Growth in EPS (%)
+n/a
+n/a
+n/a
+n/a
+125
+Dividend (€)
+0.00
+0.00
+0.00
+0.00
+0.00
+Sales (€th)
+7,421
+7,108
+6,767
+17,518
+24,991
+Other margin (%)
+32.8
+34.3
+38.6
+53.1
+58.7
+Attributable net profit (€th)
+-2,465
+-2,570
+-1,255
+2,610
+5,863
+ROE (after tax) (%)
+-32.7
+-29.6
+-8.40
+11.9
+22.2
+Gearing (%)
+13.7
+41.2
+6.05
+-13.7
+-20.9
+R&D effort to develop and commercialise in-house drone solutions and AI applications
+which will allow the company to improve its pricing power and profitability
+Training is a key part of the strategy, where the development of a comprehensive
+regulatory framework should unleash demand for both drone and training
+New sources of profitable growth through royalty-based partnerships, providing both
+USA-made drone stamps of approval and credibility in power line inspection
+Nascent market, displaying high potential growth, but little visibility on contract timings
+and overall adoption of this technology
+Very fragmented market, with a myriad of competitors, inevitable need for market
+concentration (via acquisitions or bankruptcies)
+Supplier risk for distribution segment, heavily exposed to Chinese DJI with a risk of
+dependency and limited pricing power
+
+--- PAGE 2 ---
+
+12/19A
+12/20E
+12/21E
+12/22E
+Adjusted P/E
+x
+-3.44
+-24.9
+17.5
+7.79
+EV/EBITDA
+x
+-10.2
+ns
+6.69
+2.34
+P/Book
+x
+1.15
+2.20
+1.94
+1.54
+Dividend yield
+%
+0.00
+0.00
+0.00
+0.00
+Free Cash Flow Yield
+%
+-45.4
+-4.20
+2.81
+10.2
+ROE (after tax)
+%
+-29.6
+-8.40
+11.9
+22.2
+ROCE
+%
+-25.6
+-6.41
+17.8
+33.8
+Net debt/EBITDA
+x
+-3.01
+12.8
+-0.72
+-0.85
+
+12/19A
+12/20E
+12/21E
+12/22E
+Sales
+€th
+7,108
+6,767
+17,518
+24,991
+EBITDA
+€th
+-1,687
+-200
+5,373
+9,936
+Underlying operating profit
+€th
+-3,143
+-1,275
+4,041
+8,591
+Operating profit (EBIT)
+€th
+-3,468
+-1,526
+3,802
+8,363
+Net financial expenses
+€th
+-423
+-378
+-343
+-349
+Pre-tax profit before exceptional items
+€th
+-3,891
+-1,904
+3,459
+8,014
+Corporate tax
+€th
+1,069
+523
+-950
+-2,201
+Attributable net profit
+€th
+-2,570
+-1,255
+2,610
+5,863
+Adjusted attributable net profit
+€th
+-2,570
+-1,255
+2,610
+5,863
+
+12/19A
+12/20E
+12/21E
+12/22E
+Total operating cash flows
+€th
+-1,635
+508
+4,142
+7,501
+Capital expenditure
+€th
+-2,762
+-2,036
+-2,522
+-2,542
+Total investment flows
+€th
+-2,782
+-2,036
+-2,522
+-2,542
+Dividends (parent company)
+€th
+New shareholders' equity
+€th
+3,660
+9,545
+0.00
+Total financial flows
+€th
+4,605
+9,509
+-343
+-349
+Change in net debt position
+€th
+-1,213
+7,640
+1,276
+4,610
+Free cash flow (pre div.)
+€th
+-4,819
+-1,905
+1,276
+4,610
+
+12/19A
+12/20E
+12/21E
+12/22E
+Goodwill
+€th
+151
+149
+148
+147
+Total intangible
+€th
+6,112
+7,321
+8,764
+10,257
+Tangible fixed assets
+€th
+860
+1,004
+1,183
+1,362
+Right-of-use
+€th
+366
+384
+404
+424
+WCR
+€th
+1,614
+1,537
+1,844
+2,121
+Total assets (net of short term liabilities)
+€th
+15,119
+19,787
+21,371
+23,004
+Ordinary shareholders' equity (group share)
+€th
+9,212
+20,657
+23,374
+29,394
+Provisions for pensions
+€th
+0.00
+0.00
+0.00
+Net debt / (cash)
+€th
+5,069
+-2,571
+-3,847
+-8,457
+Total liabilities and shareholders' equity
+€th
+15,119
+19,787
+21,371
+23,004
+
+12/19A
+12/20E
+12/21E
+12/22E
+Adjusted EPS (bfr gwill amort. & dil.)
+€
+-0.05
+-0.01
+0.02
+0.03
+Net dividend per share
+€
+0.00
+0.00
+0.00
+0.00
+Free cash flow per share
+€
+-0.10
+-0.02
+0.01
+0.03
+Book value per share
+€
+0.15
+0.12
+0.14
+0.17
+Number of diluted shares (average)
+Th
+50,616
+117,223
+171,445
+171,445
+
+Detailed financials at the end of this report
+Key Ratios
+Consolidated P&L
+Cashflow Statement
+Balance Sheet
+Per Share Data
+ALPHAVALUE CORPORATE SERVICES
+Drone Volt (Buy)
+November 12 2020
+Copyright AlphaValue - 2020 – www.alphavalue.com
+Page 2
+
+--- PAGE 3 ---
+Contents
+Businesses & Trends..............................................................
+Money Making........................................................................
+Valuation................................................................................
+DCF.......................................................................................
+NAV/SOTP.............................................................................
+Debt......................................................................................
+Worth Knowing.......................................................................
+Governance & Management...................................................
+Social....................................................................................
+Staff & Pension matters..........................................................
+Updates.................................................................................
+Graphics................................................................................
+Financials...............................................................................
+Methodology..........................................................................
+4
+10
+13
+15
+16
+17
+18
+21
+23
+24
+25
+31
+35
+41
+ALPHAVALUE CORPORATE SERVICES
+Drone Volt (Buy)
+November 12 2020
+Copyright AlphaValue - 2020 – www.alphavalue.com
+Page 3
+
+--- PAGE 4 ---
+Drone Volt is a French company based at Villepinte, near the Roissy-Charles de
+Gaulle international airport. The company, created by Mr Dimitri Batsis, is
+specialised in the conception, assembly and distribution of aerial remote-controlled
+drones, as well as associated services, training and software. Its products address
+various ranges of markets and clients, from consumer to professional civil uses,
+mostly in sectors such as security, inspection, transportation, and topography.
+The core activities of the company include product development, engineering &
+design and the manufacturing of hardware, flying sensors, data processing
+platforms and drones. The company has also developed software and Artificial
+Intelligence expertise in order to enhance customer services, proposing turnkey
+solutions. Drone Volt also provides after-sales services as well as training on its
+equipment and the regulations for drone pilots.
+Drone Volt Group operates in France and internationally through subsidiaries in
+Denmark, Benelux, Canada, the Netherlands and has agents in the USA and
+Switzerland.
+Drone Volt’s organisational chart is as follows:
+General market, expected to display high growth
+The company addresses a market with huge potential, but which is today still in its
+early stages, for several reasons. The technology was reserved first for military
+use, starting as early as the 1970s, and only reached the civilian domain just a few
+years ago, thanks to progress in miniaturisation and a decrease in costs.
+In terms of market projection, it turns out not to be easy to find reliable and recent
+market studies. However, according to The Insight Partner in a report published in
+August 2019, the global civil drone market was valued at $6.56bn in 2018 and is
+expected to reach $21.61bn by 2027 with a CAGR growth rate of 14.3% in the
+forecast period from 2019 to 2027. The pace of growth is also expected to increase
+at the end of this timeframe when the major contributors in civil drone spending will
+be in agriculture, real estate/infrastructure, and energy & power. Additionally, in a
+report published in June 2019, Teal Group predicted that worldwide civil drone
+production will almost triple over the next decade. Non-military UAS production will
+total $88.3bn over the next decade, soaring from $4.9bn in 2019 to $14.3bn in
+2028, equivalent to a 12.6% CAGR. The study includes forecasts of commercial,
+Businesses & Trends
+ALPHAVALUE CORPORATE SERVICES
+Drone Volt (Buy)
+November 12 2020
+Copyright AlphaValue - 2020 – www.alphavalue.com
+Page 4
+
+--- PAGE 5 ---
+consumer and civil government systems. A year before, GlobeNewswire highlighted
+the research from Market Research Future that the size of the drone market would
+mushroom to $129.3bn by 2028, equivalent to a 20.18% CAGR from 2018 to 2028.
+The drone market can be subdivided into four categories of players:
+A very fragmented market, in the midst of transformation, chasing economic
+profitability
+Despite impressive growth projections, the market is characterised by its relatively
+early stage of adoption and usages, as well as being extremely fragmented with a
+myriad of small players, and yet has to prove its economic viability. As an example,
+according to Les Echos, there were 7,000 companies identified in France in 2018
+with a total turnover between €100m and €150m. This translates into a highly
+competitive environment, where some players (the smallest) drive prices down by
+using leisure drones and where the added value in the service offered is very low.
+This partly explains the large number of bankruptcies in the last few years and the
+difficulties found by some players, while very few companies are currently
+profitable. Thus, players are switching from the “retailer” status towards
+design/assembly to improve along the value-added ladder.
+The drone market is confronted with a variety of barriers, one of which is the fear
+of change. This has materialised with the relatively small contracts as tests in the
+first place, with the need to get to know and understand the technology, which can
+later be transformed into larger volumes and cross selling. A second barrier is
+more to do with regulation hurdles related to UAV flights, which is just at its
+beginning, with no harmonisation across countries or regions.
+Growing regulation
+While the former can be a barrier, we also believe that the development of a
+comprehensive regulatory framework should unleash demand, enabling drone
+flight, pilot training and clarify insurance matters. Indeed, in the absence of
+regulation, facing a legal limbo in many countries, the development of the drone
+industry has been slow, as operators can’t rely on clear rules, causing insurance
+problems when the utilisation of drones is not simply banned. In the US, there has
+been no federal regulation for a long time, opening the way to local
+experimentation, until the Federal Aviation Administration (FAA) set restricting rules
+in early 2015, before slightly relaxing them in mid-2016. But, the 2020 COVID-19
+health crisis might accelerate what would seem to be inevitable at some point. The
+FAA has granted two companies the rights to deliver equipment and products
+between hospitals via drones.
+• The assemblers, which can buy or design their components, and assemble
+them to create operational drone platforms.
+• The distributors, generally addressing the consumer markets.
+• The operators, which operate the drones in various conditions and
+utilisations.
+*The training organisations, which provide the training and certification of
+the pilots willing to operate within the regulatory framework.
+ALPHAVALUE CORPORATE SERVICES
+Drone Volt (Buy)
+November 12 2020
+Copyright AlphaValue - 2020 – www.alphavalue.com
+Page 5
+
+--- PAGE 6 ---
+On its side, France has been a pioneer market for drones and, according to the
+DGAC (Direction Générale de l’Aviation Civile / the French Civil Aviation Authority),
+the country stands at third place worldwide in terms of drone pilots. DGAC
+established as early as April 2012 four different scenarios (detailed in Worth
+Knowing) which set precise limits to the operation of aerial drones. The French
+regulation is also very strict concerning the different registrations and certificates
+necessary respectively for the drone makers, the operators, the pilots and the flight
+authorisations, establishing a complex regulatory environment but opening clear
+business opportunities. However, this regulatory framework must now be
+approached in the light of a new European regulation (published in June 2019),
+which will gradually replace national requirements in order to contribute to the
+emergence of a European market for the drone industry. The first regulation, to be
+in place in January 2021, will define the categories of drone operations. The next
+major step to follow will be the implementation of the so-called U-Space at the
+European level, to allow traffic management for drones (expected to be operational
+by 2023).
+In the meantime, emphasis is put on training and traceability. Online training and
+evaluation are being implemented to raise awareness amongst telepilots of
+recreational drones weighing more than 800 grams on the basic rules of safety,
+airspace traffic and privacy. Theoretical and practical training for professional
+telepilots, somewhat comparable but less demanding than the private pilot licence
+(PPL) and focused on the use of drones, the certificate of theoretical aptitude has
+been introduced. Lastly, safety instructions are now required in the packaging as
+well as the administrative registration of drones weighing more than 800 grammes.
+Addressable markets
+Thanks to its high-end products coupled with a high degree of customisation,
+Drone Volt addresses the niche markets of civil security, inspection and
+surveillance. For the industrial market, Drone Volt’s products can be used in a wide
+range of areas, such as power or wind turbine inspection for utilities, with clients
+like Vietnam Electricity. In our view, this market should offer a wide range of
+opportunities for the company as the utility sector is shifting towards more
+digitalisation, exacerbated by the move to renewable energy, forcing players to
+lower their operating costs. Maintenance tasks and network monitoring
+performance by drone can indeed reduce the costs, along with improved quality
+through using artificial intelligence (AI). Dangerous inspection procedures, which
+are usually performed by humans, or by expensive helicopters or airplanes, could
+at some point be replaced by drones. In a study published in May 2016, PwC
+estimated the addressable market of drone-powered solutions in the power and
+utilities market at $9.46bn. To date, Drone Volt has scored an important contract
+with RTE to equip the company with inspection drones. The products can also be
+deployed for telecom tower inspection or the surveillance of industrial sites. AI,
+when embarked on a drone, can perform tasks rapidly and effectively with few
+resources by automatically spotting divergences or inefficiencies from a pre-
+established pattern (impact on wind turbines, on high-power lines, etc.). This can
+be a real game-changer for some industries, reducing costs and improving safety.
+ALPHAVALUE CORPORATE SERVICES
+Drone Volt (Buy)
+November 12 2020
+Copyright AlphaValue - 2020 – www.alphavalue.com
+Page 6
+
+--- PAGE 7 ---
+In addition, thanks to its knowledge and expertise in AI, the company can
+potentially propose pure software solutions for computer vision. This goes beyond
+its original scope, which then becomes far wider (such as smart cities, production
+and logistics for quality control, etc.).
+From a distributor to a designer
+Drone Volt organises its activity into two distinct segments;
+- Distribution activity – sale of third-party drones
+- Drone Volt Factory: sale of own drones, after-sales service and training
+The company started its activity by assembling and distributing drone parts and
+systems coming from other manufacturers, such as the Chinese DJI. These
+products were aimed at the consumer market and addressed a small fraction of
+well-informed customers, which would buy spare parts for systems they built
+themselves. This business line (Distribution) is still contributing to the activity but is
+no longer the priority for future top-line growth, and is expected to remain at best
+flattish compared to the strong increase expected in the other business lines.
+Since 2016, and under the leadership of the management team that arrived in
+2012, the company has gradually shifted towards the professional drone market,
+which is more lucrative and offers ever-growing opportunities. The Drone Volt
+Factory (DVF) proposes an integrated chain of services, from the drone system
+developed in house (Hercule drones) to the formation and administrative support to
+comply with French regulations. This integration represents a commercial and
+marketing strength, as the customer receives an almost immediate turnkey product.
+This activity, which mobilised R&D, production and development capacities in its
+early days, can now be largely subcontracted out for its production. France
+benefits from a high-flying aeronautical industrial fabric, which also ensures a
+certain flexibility in terms of opex. In addition, the Hercule range requires a greater
+need for after-sales service and maintenance than the Distribution activity (third-
+party brands), providing a steadier streamline of cash flows. In 2017, Drone Volt
+acquired the activities of its competitor Aerialtronics, adding to its portfolio the
+Altura Zenith drone, as well as the intelligent Pensar camera, beefing up at the
+same time its R&D capabilities.
+DVF drove a progressive increase in the added value
+Starting from zero in the professional sector, the company initially mostly
+assembled already-designed parts, which limited its capacity for innovation and set
+a situation of dependency on its suppliers but allowed it to deliver fast execution.
+Subsequently, an own R&D effort was launched to design customised parts for its
+products, on its own initiative or in order to respond to customers’ demands. This
+permitted an increase customisation as well as greater innovation, which resulted in
+some innovative drones (such as the Drone Spray) and established the reputation
+of the company as a major player in the business. This level of customisation
+remains limited to the “accessories”, as the underlying technical basis remains
+external to the company, but it allows a significant premium with limited costs, as
+most of the production is outsourced.
+ALPHAVALUE CORPORATE SERVICES
+Drone Volt (Buy)
+November 12 2020
+Copyright AlphaValue - 2020 – www.alphavalue.com
+Page 7
+
+--- PAGE 8 ---
+Drone Volt Factory allows Drone Volt to increase in the value chain thanks to the
+launch of an assembly line for internally-designed drones. The company follows its
+going upmarket strategy, with an exclusive design based on external parts as well
+as the development of the associated software, which represents the essential part
+of the added value. Combining the system, along with the software and the
+associated services, Drone Volt now offers turnkey solutions to its clients.
+Training as a strong growth catalyst
+In parallel, we estimate that the ongoing enhancement of the drone regulatory
+framework worldwide should: i) stimulate the demand for drones, and ii) the need to
+train telepilots as well as stricter regulations. Drone Volt has developed its
+regulation and training expertise in France, following on from the regulations
+established by the DGAC, which requires operators to be registered by the DGAC,
+to file requests to prefectures to obtain flight authorisations, and have pilots enlist in
+a compulsory training period and obtain certification. Drone Volt can facilitate
+administrative procedures by proposing additional packs to the drone system and
+has created its Academy to propose training sessions for future pilots. This
+Academy benefits from solid infrastructures in Villepinte, among which include an
+enclosed hall allowing flight sessions to be carried out when the weather is bad.
+Today, Drove Volt has nine training centres in Europe and North America and can
+leverage its French expertise in other countries.
+International
+expansion,
+strengthen
+with
+partnerships
+and
+licence
+agreements
+Thanks to its experience in a heavily-regulated environment, the company can
+scale its business model to another country. The company chose to develop at first
+in Europe, with the opening of a Danish subsidiary in early 2015. International
+expansion accelerated in 2016 with a distribution contract signed for the Benelux,
+Switzerland, USA and Canada. The Aerialtronics acquisition in 2017 also helped
+the company to tie relationships with Asian customers.
+However, apart from these self-financed developments, we believe that the
+company has recently tied up very constructive relationships with players across
+the Atlantic. Expanding its business in North America at cheaper cost.
+Indeed, in order to accelerate its development in the USA at a lower cost, Drone
+Volt announced in November 2019 an agreement with Robotic Skies, for the
+production and marketing of “made in USA” Hercules drones. This agreement,
+which will remunerate Drone Volt via royalties, makes it possible to open a
+bridgehead at a lower cost in this country, where Chinese drones are in the
+process of being banned.
+In late August 2020, the company also announced the signing of a Letter of Intent
+with Aquiline Drones. Aquiline Drones is an American drone- and cloud-based
+company offering a wide range of services for drone operators. It would like to
+produce Hercules 2, Altura Zenith and its Pensar camera before the end of 2020,
+at an exciting rate of 1,000 units per month. The company targets ambitious
+volumes and hopes to increase its production line by 3,000 units, monthly, to reach
+a steady 10,000 units per month total. This sounds huge. Aquline Drone plans to
+sell these drones to its existing clients as well as to fill the gap created by the US
+ALPHAVALUE CORPORATE SERVICES
+Drone Volt (Buy)
+November 12 2020
+Copyright AlphaValue - 2020 – www.alphavalue.com
+Page 8
+
+--- PAGE 9 ---
+
+Sector
+12/19A
+12/20E
+12/21E
+12/22E
+Change 20E/19
+Change 21E/20E
+€th
+of % total
+€th
+of % total
+Total sales
+7,103
+6,767
+17,518
+24,991
+-336
+100%
+10,751
+100%
+Drone Volt Factory
+Electrical
+Products-Misc
+2,796
+2,661
+12,308
+18,719
+-135
+40%
+9,647
+90%
+Distribution
+Electrical
+Products-Misc
+4,307
+3,446
+3,101
+2,791
+-861
+256%
+-345
+-3%
+Training
+Electrical
+Products-Misc
+Consumer
+Electrical
+Products-Misc
+Professional
+Electrical
+Products-Misc
+Royalties
+Electrical
+Products-Misc
+661
+2,109
+3,481
+661
+-197%
+1,448
+13%
+Other
+
+restriction imposed by the federal administration on using Chinese drones. We see
+this potential partnership as very promising and value creative for Drone Volt.
+Under the current terms, Drone Volt would be granted a 10% cut of revenue from
+the commercialisation of its drones and cameras over a 5-year licensing period,
+with annual reviews. Drone Volt would be entitled to receive a minimum of $400k
+annually (of which $250k for Altura Zenith and $150k for Hercules 2), to be revised
+by +10% annually. Furthermore, an upfront payment of $450k will be added in the
+first year, to compensate for the transfer of know-how. To strengthen the
+partnership, both companies may consider swapping their shares for up to 10% of
+their respective share base.
+In addition, a highly structured contract was announced in March 2020 regarding
+the signature of a Memorandum of Understanding between Drone Volt and Hydro-
+Québec. It aims at reaching an agreement on the exclusive industrial development
+and marketing of a drone designed to inspect high-voltage power transmission
+lines. We estimate that this achievement with Hydro-Québec will further solidify
+Drone Volt’s credibility in the power grids inspection area, and should ultimately
+enable the company to expand its client portfolio in this activity. Once the industrial
+and commercial partnership agreement is finalised, Drone Volt will be able to
+market the drone throughout the world. The company targets one hundred
+deliveries over five years and expects to start by the end of 2020/beginning 2021.
+We address exposures (eg. how much of the turnover is exposed to the $ ) rather than sensitivities (say, how much a 5% move in the $ affects the bottom line). This is to make
+comparisons easier and provides useful tools when extracting relevant data.
+Actually, the subject is rather complex on the ground. The default position is one of an investor managing in €. An investor in £ will obviously not react to a £ based stock trading partly in €
+as would a € based investor. In addition, certain circumstances can prove difficult to unravel such as for eg. a € based investor confronted to a Swiss company reporting in $ but with a
+quote in CHF... Sales exposure is probably straightforward but one has to be careful with deep cyclicals. Costs exposure is a bit less easy to determine (we do not allow for hedges as
+they can only be postponing the day of reckoning). How much of the equity is exposed to a given subject is rarely straightforward but can be quite telling
+In addition, subjects are frequently intertwined. A $ exposure may encompass all revenues in $ pegged currencies and an emerging currency exposure is likely to include $ pegged
+currencies as well.
+Exposure to global warming issues is frequently indirect and may require to stretch a bit imagination.
+Divisional Breakdown Of Revenues
+
+Revenues
+Costs
+Equity
+Dollar
+0.0%
+15.0%
+0.0%
+Emerging currencies
+0.0%
+0.0%
+0.0%
+Long-term global warming
+20.0%
+0.0%
+0.0%
+Renminbi
+0.0%
+40.0%
+0.0%
+Key Exposures
+
+Europe
+42.0%
+France
+36.0%
+Other
+22.0%
+Sales By Geography
+ALPHAVALUE CORPORATE SERVICES
+Drone Volt (Buy)
+November 12 2020
+Copyright AlphaValue - 2020 – www.alphavalue.com
+Page 9
+
+--- PAGE 10 ---
+Voluntarily reducing the development of Distribution
+In its aim to shift its cash generation sources, the Distribution segment is voluntarily
+left slightly behind. Indeed, Distribution’s core activity of sole assembly and
+distribution of third-party products didn’t allow high margins to be generated (gross
+margin of c. 20%), as the added value was minimal, the drone parts being available
+from other supply sources. Indeed, third-party drones rely on an already integrated
+platform from Chinese maker DJI, which provides almost ready-to-fly machines.
+These machines can be heavily customised in detail, but even in this case most of
+the components are currently sourced from existing manufacturers (mostly from
+China), limiting the margin potential and creating a dependency on the suppliers’
+commercial policies: should they increase their prices or develop similar solutions
+to Drone Volt’s and propose them at a lower price, then the margin level would
+plummet, jeopardising the very existence of the segment.
+Still, this segment offers a way for cross-selling, penetrating markets thanks to it
+allowing Drone Volt to propose its services and training as well as to introduce its
+own offers.
+Regaining control of the value added
+Thanks to the combined set-up of a dedicated R&D team for the assembly line in
+2016, and the acquisition of Aerialtronics, Drone Volt has created its own
+capabilities to sell in-house designed drones as well as cameras embedding
+artificial intelligence solutions, which can be customised to suit customer needs. A
+better control will be permitted by a “fabless” model: instead of building
+manufacturing chains, Drone Volt focuses on the sole design and assembly of the
+parts, the manufacturing itself being subcontracted. Although transferring part of
+the added value to an external partner, this will allow greater flexibility and better
+overall margins due to the relatively small volumes expected compared to those
+necessary to amortise fully a factory, as the planned in-house production of the
+internally-designed machines is likely to remain limited in volumes. Drone Volt,
+however, keeps full control of the flight management systems, as well as artificial
+intelligence software. This allows the company to control both pricing and
+profitability. We estimate the gross margin of its drone at slightly below c. 50%,
+while intelligent cameras might be well above 70%.
+The power of turnkey solution
+Addressing professional customers has permitted the development of an integrated
+offer, which binds the machine to services such as training and administrative
+registration, thus leveraging margins. The training of the operator is required by the
+DGAC, and Drone Volt has thus set up an Academy to provide the teaching of the
+theoretical and practical requirements for pilots, with the advantage of using the
+same machine that will be used during commercial operations. Moreover, thanks to
+its proven relation with the DGAC and its full knowledge of regulations, the
+company can ease the heavy administrative process necessary for commercial
+drone operations. With the growing complexity of regulations, these services are
+bound to represent a growing contribution to earnings (carrying an estimated gross
+Money Making
+ALPHAVALUE CORPORATE SERVICES
+Drone Volt (Buy)
+November 12 2020
+Copyright AlphaValue - 2020 – www.alphavalue.com
+Page 10
+
+--- PAGE 11 ---
+margin c. 70%), as the end customers generally want a platform operational as
+soon as possible. The services are mostly bundled in the purchase price of the
+machines, as this integration allows for a substantial commercial leverage.
+Optionality to diversify further away from hardware
+On top of this, an additional part could be added to the current business model but
+is currently more at the consideration stage and has yet to prove its viability. This is
+related to computer vision capabilities developed in-house by Aerialtronics, which
+could, at some point, become a fully-fledged business. Indeed, the software could
+be implemented on other platforms (not only the Pensar camera) and be
+customised for a wide range of uses. However, due to the great uncertainty in
+terms of commercial development of this business, we have based our estimates
+solely on the prospects of the first three businesses described above.
+Projection 2020-22
+Looking at 2020, and after the shock of the pandemic, we expect a significant
+rebound in the activity for the second half of the year, with c. €4m revenue in H2
+20. Part of the sales missed in 2020 should be shifted into the next two to three
+years. This outlook is reinforced by the company’s backlog, which remained at c.
+€15m, while no cancellations were recorded due to the COVID-19 pandemic.
+For the next three years, we anticipate two different scenarios for the two Drone
+Volt segments. Not being part of the core development strategy, we anticipate the
+Distribution activity to decrease by 13% on average by 2022. At the same time, the
+strong pipeline acquired by Drone Volt Factory for in-house designed solutions
+should fuel growth by c. +70% on average over 2019-22. This includes the ramp-
+up of the Hydro-Québec partnership, which is expected to start at the beginning of
+2021 with a higher ASP (c. €350k per unit for the line drone).
+On top of this, the two promising announcements (i.e. the Aquiline Drones’ LOI
+followed by the Hungarian LOI) play a significant part in our earnings estimates.
+First, we have integrated the Aquiline Drones contract in our estimates with a
+degree of cautiousness. Still, the potential impact could be a game-changer for the
+company. We anticipate the contract to kick off in 2021 with an average of 1,000
+units per month (compared to 3,000 in the LOI), growing to 1,500 by 2022 and
+3,000 in 2023, on its way towards 7,000 units by 2026. This licensing agreement
+could represent c. €2m in 2021 and c. €3.3m/€7.4m in 2022/2023, with a direct
+impact on profitability.
+Secondly, we have integrated (yet to be confirmed and accounted for in Drone Volt
+Factory) the Hungarian contract for the supply of at least 275 Hercules 20 drones
+over three years. Here again we take a more prudent approach than the company,
+leaving the number of units unchanged but we anticipate a price discount due to
+the size of the order, relying on a price per unit of €15k vs €20k. Under these
+assumptions, this could bring additional revenue of c. €1,375k per year from 2021
+to 2022.
+In terms of profitability, we anticipate the gross margin will expand, driven by: i)
+volume and production gains for drones, while both Services and Training should
+take-off, lifting the margin upwards, and ii) the strong relative impact of the
+licencing revenues. Distribution’s gross margin should remain flattish at above 20%
+ALPHAVALUE CORPORATE SERVICES
+Drone Volt (Buy)
+November 12 2020
+Copyright AlphaValue - 2020 – www.alphavalue.com
+Page 11
+
+--- PAGE 12 ---
+
+12/19A
+12/20E
+12/21E
+12/22E
+Change 20E/19
+Change 21E/20E
+€th
+of % total
+€th
+of % total
+Total
+2,441
+2,611
+9,298
+14,663
+170
+100%
+6,687
+100%
+Drone Volt Factory
+1,449
+1,398
+6,476
+10,540
+-51
+-30%
+5,078
+76%
+Distribution
+992
+552
+713
+642
+-440
+-259%
+161
+2%
+Consumer
+Professional
+Training
+Royalties
+661
+2,109
+3,481
+661
+389%
+1,448
+22%
+Other/cancellations
+
+12/19A
+12/20E
+12/21E
+12/22E
+Total
+34.4%
+38.6%
+53.1%
+58.7%
+Drone Volt Factory
+51.8%
+52.5%
+52.6%
+56.3%
+Distribution
+23.0%
+16.0%
+23.0%
+23.0%
+Consumer
+Professional
+Training
+Royalties
+100%
+100%
+100%
+
+on average, while we anticipate Drone Volt Factory’s gross margin to improve to
+52% by 2022, driven by the product mix and the higher level of value (fuelled by
+higher technology embedded in the drone as well as the Pensar camera).
+Altogether, we anticipate Drone Volt to be EBIT positive by 2021.
+Divisional Other profit breakdown Analysis
+Divisional Other profit breakdown Analysis margin
+ALPHAVALUE CORPORATE SERVICES
+Drone Volt (Buy)
+November 12 2020
+Copyright AlphaValue - 2020 – www.alphavalue.com
+Page 12
+
+--- PAGE 13 ---
+In order to build our valuation, which is a combination of DCF, NAV and peers, we
+started with the order pipeline provided by the company, but we hold a more
+cautious approach and have made adjustments to our estimated impact of the
+COVID-19 outbreak (see Money Making).
+DCF
+Following the sharp 2020-22 growth, we expect some form of stabilisation near the
+market’s long-term average. We had previously assumed an expected market
+growth of c. 14% CAGR over 2019-27. However, as of today, very few drone
+companies have actually managed to sustain this growth rate. We therefore apply a
+more conservative growth rate in our DCF, namely 7% growth over 2023-30. In
+spite of cost containment measures along with positive volume effects, we believe
+that an EBITDA margin in the high 30% might be hard to sustain over the long run.
+We therefore estimate a long-term growth of 5.5% for our EBITDA.
+The US business based on royalties could add significantly to our DCF. Our base
+case scenario with Aquiline Drones is currently limited to half the size of what was
+announced in the LOI. In a best case, our DCF has the potential to be lifted to
+€0.80 (all things being equal).
+NAV
+For the NAV, in order to reflect the strong growth potential and to compensate for
+the still early stage of the company, with sharp volatility in profitability, we have
+chosen to base our valuation on sales multiples. We value the company through its
+different segments, based on three-year average forecast sales, to which we apply
+a multiple. We value Distribution at 1x its estimated three-year average sales. This
+multiple is in line with similar distribution activities of European companies, taking
+into account the limited value-added and growth prospects. For Drone Volt Factory,
+we have fine-tuned our valuation as we split this into three different parts. First, we
+value the holding in Aerialtronics separately. Secondly, and in order to bring to the
+fore Training, which we believe will be a key asset for Drone Volt as regulation is
+taking more importance, we value this activity on a standalone basis, based on our
+rolling three-year revenue estimates to which we apply a multiple of 3.5x (equivalent
+to a 50% premium over drone companies), accounting for its strong profitability.
+Thirdly, we value the remaining business of DVF (corresponding to drone and
+camera sales, as well as services) based on the current trading multiples gathered
+on Bloomberg for competitors, or c. 2x of their revenue. In addition, we value
+separately the revenue derived from the recent partnership tied with Robotic Skies
+as well as the potential business with Aquiline Drones. We applied here a 5x
+multiple on three-year estimated average royalties. Finally, the Aquiline Drones
+partnership could involve an equity swap for 10% of each company. Given the fact
+that Aquiline Drones is a non-listed company, with no access to its accounts, we
+decided to value this stake based on the revenue derived from our base-case
+scenario (described above), to which we apply a 2x multiple on sales.
+Peers
+With regard to peers, finding a similar company to Drone Volt is quite a pitfall since
+there is currently no perfect match in our coverage, nor on the listed market. We,
+however, address this issue by valuing Drone Volt in line with the relevant players
+Valuation
+ALPHAVALUE CORPORATE SERVICES
+Drone Volt (Buy)
+November 12 2020
+Copyright AlphaValue - 2020 – www.alphavalue.com
+Page 13
+
+--- PAGE 14 ---
+of the drone industry, such as Elbit Systems, Irobot, Aerovironment and ECA
+Group, as well as the robotic company like Kuka.
+Benchmarks
+
+Values (€)
+Upside
+Weight
+DCF
+
+0.48
+82%
+40%
+NAV/SOTP per share
+
+0.34
+28%
+40%
+P/E
+Peers
+0.40
+49%
+5%
+EV/Ebitda
+Peers
+0.52
+95%
+5%
+P/Book
+Peers
+0.32
+20%
+5%
+Dividend Yield
+Peers
+0.00
+-100%
+5%
+Target Price
+
+0.39
+47%
+
+Computed on 18 month forecasts
+P/E (x)
+Ev/Ebitda (x)
+P/Book (x)
+Yield(%)
+Peers ratios
+59.2
+16.9
+2.32
+0.20
+Drone Volt's ratios
+20.1
+7.62
+1.94
+0.00
+Premium
+0.00%
+0.00%
+0.00%
+0.00%
+Default comparison based valuation (€)
+0.40
+0.52
+0.32
+0.00
+Elbit Systems
+15.8
+9.89
+n/a
+n/a
+Irobot
+29.1
+12.8
+2.67
+0.00
+Aerovironment
+41.8
+23.6
+3.46
+n/a
+KUKA
+ns
+19.5
+1.53
+0.52
+ECA Group
+24.3
+8.92
+2.22
+1.34
+Valuation Summary
+Comparison based valuation
+ALPHAVALUE CORPORATE SERVICES
+Drone Volt (Buy)
+November 12 2020
+Copyright AlphaValue - 2020 – www.alphavalue.com
+Page 14
+
+--- PAGE 15 ---
+
+12/19A 12/20E 12/21E 12/22E Growth 12/23E 12/30E
+Sales
+€th
+
+7,108
+6,767 17,518 24,991
+7.00% 26,740 42,939
+EBITDA
+€th
+
+-1,687
+-200
+5,373
+9,936
+5.50% 10,483 15,249
+EBITDA Margin
+%
+
+-23.7
+-2.96
+30.7
+39.8
+39.2
+35.5
+Change in WCR
+€th
+
+576
+77.3
+-307
+-277
+7.00%
+-296
+-475
+Total operating cash flows (pre tax)
+€th
+
+-2,703
+-14.4
+5,091
+9,702
+10,187 14,774
+Corporate tax
+€th
+
+1,069
+523
+-950 -2,201
+7.00%
+-2,355 -3,781
+Net tax shield
+€th
+
+-127
+-113
+-103
+-105
+7.00%
+-112
+-180
+Capital expenditure
+€th
+
+-2,762 -2,036 -2,522 -2,542
+7.00%
+-2,720 -4,368
+Capex/Sales
+%
+
+-38.9
+-30.1
+-14.4
+-10.2
+-10.2
+-10.2
+Pre financing costs FCF (for DCF purposes)
+€th
+
+-4,523 -1,641
+1,517
+4,855
+5,000
+6,445
+Various add backs (incl. R&D, etc.) for DCF
+purposes
+€th
+
+Free cash flow adjusted
+€th
+
+-4,523 -1,641
+1,517
+4,855
+5,000
+6,445
+Discounted free cash flows
+€th
+
+-4,523 -1,641
+1,398
+4,127
+3,920
+2,863
+Invested capital
+€
+
+8.59
+13.9
+15.9
+17.8
+19.1
+30.6
+
+DCF Valuation Per Share
+WACC
+%
+8.45
+PV of cashflow FY1-FY11
+€th
+32,517
+FY11CF
+€th
+6,574
+Normalised long-term growth"g"
+%
+2.00
+ESG weighted "g"
+%
+1.86
+Terminal value
+€th
+99,709
+PV terminal value
+€th
+44,291
+PV terminal value in % of total value
+%
+57.7
+Total PV
+€th
+76,808
+Avg net debt (cash) at book value
+€th
+-3,209
+Provisions
+€th
+60.0
+Unrecognised actuarial losses (gains)
+€th
+0.00
+Financial assets at market price
+€th
+4,068
+Minorities interests (fair value)
+€th
+887
+Equity value
+€th
+83,138
+Number of shares
+Th
+171,445
+Implied equity value per share
+€
+0.48
+Assessing The Cost Of Capital
+Synthetic default risk free rate
+%
+3.50
+Target equity risk premium
+%
+5.00
+Tax advantage of debt finance
+(normalised)
+%
+30.0
+Average debt maturity
+Year
+5
+Sector asset beta
+x
+0.99
+Debt beta
+x
+2.60
+Market capitalisation
+€th
+45,375
+Net debt (cash) at book value
+€th
+-2,571
+Net debt (cash) at market value
+€th
+-2,571
+Company debt spread
+bp
+1,300
+Marginal Company cost of debt
+%
+16.5
+Company beta (leveraged)
+x
+0.95
+Company gearing at market value
+%
+-5.67
+Company market gearing
+%
+-6.01
+Required return on geared equity
+%
+8.26
+Cost of debt
+%
+11.6
+Cost of ungeared equity
+%
+8.45
+WACC
+%
+8.45
+DCF Calculation
+ALPHAVALUE CORPORATE SERVICES
+Drone Volt (Buy)
+November 12 2020
+Copyright AlphaValue - 2020 – www.alphavalue.com
+Page 15
+
+--- PAGE 16 ---
+
+% owned
+Valuation
+technique
+Multiple
+used
+Valuation at
+100%
+(€th)
+Stake
+valuation
+(€th)
+In
+currency
+per share
+(€)
+% of gross
+assets
+Royalties
+100%
+EV/Sales
+5
+21,000
+21,000
+0.12
+40.3%
+Drone Volt Factory
+100%
+EV/Sales
+2
+10,880
+10,880
+0.06
+20.9%
+Aquiline Drones
+10.0%
+EV/Sales
+2
+85,000
+8,500
+0.05
+16.3%
+Aerialtronics
+100%
+NAV
+7,030
+7,030
+0.04
+13.5%
+Training
+100%
+EV/Sales
+3
+6,000
+6,000
+0.03
+11.5%
+Distribution
+100%
+EV/Sales
+1
+3,100
+3,100
+0.02
+5.94%
+Other
+-4,358
+-0.03
+-8.36%
+Total gross assets
+52,152
+0.30
+100%
+Net cash/(debt) by year end
+6,152
+0.04
+11.8%
+Commitments to pay
+Commitments received
+NAV/SOTP
+58,304
+0.34
+112%
+Number of shares net of treasury shares - year end (Th)
+171,445
+NAV/SOTP per share (€)
+0.34
+Current discount to NAV/SOTP (%)
+21.7
+
+NAV/SOTP Calculation
+ALPHAVALUE CORPORATE SERVICES
+Drone Volt (Buy)
+November 12 2020
+Copyright AlphaValue - 2020 – www.alphavalue.com
+Page 16
+
+--- PAGE 17 ---
+
+12/19A
+12/20E
+12/21E
+12/22E
+EBITDA
+€th
+-1,687
+-200
+5,373
+9,936
+Funds from operations (FFO)
+€th
+-2,667
+53.2
+4,105
+7,429
+Ordinary shareholders' equity
+€th
+9,212
+20,657
+23,374
+29,394
+Gross debt
+€th
+6,004
+6,346
+6,346
+6,346
++ Gross Cash
+€th
+935
+8,916
+10,193
+14,803
+= Net debt / (cash)
+€th
+5,069
+-2,571
+-3,847
+-8,457
+Gearing (at book value)
+%
+41.2
+6.05
+-13.7
+-20.9
+Adj. Net debt/EBITDA(R)
+x
+-3.01
+12.8
+-0.72
+-0.85
+Adjusted Gross Debt/EBITDA(R)
+x
+-3.58
+-32.0
+1.19
+0.65
+Adj. gross debt/(Adj. gross debt+Equity)
+%
+39.6
+23.7
+21.5
+17.9
+Ebit cover
+x
+-7.43
+-3.37
+11.8
+24.6
+FFO/Gross Debt
+%
+-44.1
+0.83
+64.0
+116
+FFO/Net debt
+%
+-52.6
+-2.07
+-107
+-87.8
+FCF/Adj. gross debt (%)
+%
+-79.7
+-29.7
+19.9
+71.8
+(Gross cash+ "cash" FCF+undrawn)/ST debt
+x
+-2.42
+35.1
+57.3
+97.1
+"Cash" FCF/ST debt
+x
+-3.02
+-9.53
+6.38
+23.1
+
+At the end of 2019, the company’s net debt amounted to just over €5m, compared
+to €2.5m a year earlier and a net cash position of €276,000 in 2017. Over the
+period 2017 to 2019, net gearing went from -4% to 58%. This increase in debt was
+mainly created by the acquisition of Aerialtronics in 2017, as well as the financing
+of the restructuring of this entity, which we estimate to be close to €4m at the end
+of 2019.
+To finance itself, as well as its acquisition, Drone Volt has mainly used a funding
+line through the issue of bonds convertible into shares with share subscription
+warrants (OCABSA and ORNANE) between 2016 and 2019. At the end of 2019,
+and in order to limit shareholders’ dilution from convertible bonds, the company has
+diversified its funding sources through the issuance of a €1.7m bond, carrying a
+12% coupon.
+In 2020, Drone Volt continued to diversify its funding sources (by obtaining a
+€500,000 state-guaranteed loan) and strengthened its capital through three capital
+increases for a total of c. €3.7m (of which €411,000 in March and €2.16m in May
+to refinance 90% of the ORNANE issued in 2019 and €1.1m in June). In addition,
+Drone Volt secured two new financings for a total of €20.4m, of which a €10m
+financing in August 2020 through an equity line contract (€1.6m drawn down) as
+well as a €10.2m OCABSA (fully undrawn) with ATLAS in September 2020.
+Detailed financials at the end of this report
+Debt
+Funding - Liquidity
+ALPHAVALUE CORPORATE SERVICES
+Drone Volt (Buy)
+November 12 2020
+Copyright AlphaValue - 2020 – www.alphavalue.com
+Page 17
+
+--- PAGE 18 ---
+Regulatory environment
+To date, we list the main regulations required to operate a drone in a commercial
+context. Note that these rules evolve quickly, as new fields open every day and the
+pressure for more freedom from operators on the regulators is always there.
+Four drone flying operation scenarios are envisaged for now:
+- S-1: operations with direct sight of the drone, outside a populated zone, at a
+maximum distance of 200m from the pilot.
+- S-2: operations out of sight, outside a populated zone, at a maximum distance of
+1km from the pilot and below an altitude of 50m. No one is allowed within the
+operating zone.
+- S-3: operations in a populated area or near persons/animals, in direct sight and
+at a maximum distance of 100m from the pilot.
+-
+S-4:
+special
+operations
+(view
+shooting,
+observations,
+plotting,
+aerial
+surveillance…) out of sight, outside a populated zone and not corresponding to S-
+2.
+The last scenario is of most importance, indeed it makes France one of the few
+countries having regulated flights with the pilot out of sight.
+Among other important points in the current regulations:
+- Drone builders have to have their models certified by the DGAC, stipulating the
+category of drone in which the model falls, the nature of its operations and the
+scenario in which it will operate.
+- The operators have to register on a DGAC list, and have to mention the nature of
+their operations, the scenarios exploited, as well as the model of drones used and
+its maker.
+- The pilots have to obtain an official certificate (theoretical training) and hold a
+Statement of Skill Level (DNC).
+- Operations have to be allowed by the prefectures via a flight authorisation,
+solicited by the filing of a Textbook of Particular Activities (MAP).
+Summary of requirements applicable to the operator, its aircraft and telepilots
+according to the DGCA:
+Worth Knowing
+ALPHAVALUE CORPORATE SERVICES
+Drone Volt (Buy)
+November 12 2020
+Copyright AlphaValue - 2020 – www.alphavalue.com
+Page 18
+
+--- PAGE 19 ---
+R = Range
+A = Altitude
+These rules are about to be reinforced at the European level, under the supervision
+of The European Aviation Safety Agency (EASA). The regulatory framework
+should cover security, safety, privacy, data protection and insurance matters. The
+EASA has published a first regulation, which should be implemented on 1 January
+2021, which will define the categories of UAV operations according to three
+classes based on their risk.
+Open Category: Leisure or professional drone flights of less than 25kg whose flight
+is made in sight. No permission, authorisation or training will be required. The
+aircraft will have to meet CE marking standards. Technical standards are currently
+being developed in Europe.
+Specific Category: This category covers characteristics that have not been
+covered under the ‘open’ category. Under this category, the drone operator has to
+undergo a safety risk assessment and identify a mitigation structure that needs to
+be reviewed and approved by the National Aviation Authority (NAA). A Manual of
+Operations is mandatory to obtain approval.
+Certified Category: Includes large unmanned aircraft and their operations, carrying
+a higher degree of risk (transport of goods, urban logistics and people). It will follow
+aeronautical principles, such as certification and the need to have a drone pilot’s
+licence. Its full definition is still pending criteria from EASA.
+Transaction on Aerialtronics
+Drone Volt bought up the assets of the Aerialtronics company. On 18 September
+2017, Drone Volt took majority control of the main assets (including products,
+inventory and intellectual property, as well as the knowledgeable team members
+and sites) of the Dutch company, Aerialtronics DV BV.
+On 9 September 2020, Drone Volt acquired the remaining shares to the minorities,
+or 49.8% of the market capitalisation. The operation was based on a $5.95
+valuation, or €5m, financed with a vendor loan over 36 months, carrying 3%
+interest.
+ALPHAVALUE CORPORATE SERVICES
+Drone Volt (Buy)
+November 12 2020
+Copyright AlphaValue - 2020 – www.alphavalue.com
+Page 19
+
+--- PAGE 20 ---
+Name
+% owned
+Of which
+% voting rights
+Of which
+% free to float
+Dimitri Batsis Investissement
+1.91%
+1.91%
+0.00%
+Apparent free float
+
+98.1%
+Shareholders
+ALPHAVALUE CORPORATE SERVICES
+Drone Volt (Buy)
+November 12 2020
+Copyright AlphaValue - 2020 – www.alphavalue.com
+Page 20
+
+--- PAGE 21 ---
+Mr Dimitri Batsis is the founder of the company and the main shareholder. He has
+experience in pioneer markets as the former CEO and founder in 1987 of Zeni
+Coporation. This company focused on interactive technologies and moved in as
+early as 1998 towards an internet-based business, providing technical support and
+management for internet businesses and proposing a structured offer, mixing
+strategy, marketing and technological support to a broad range of customers
+(Microsoft, M6, PSA, the French Ministry of Defence, etc.). The company had a
+successful IPO in April 2000 and was acquired in 2007 by Keyrus.
+He ran the company until May 2017, when he resigned and left his successor, Mr
+Olivier Gualdoni, in charge. Mr Gualdoni joined the company in 2015 and helped
+Mr Batsis to structure the company. Prior to joining Drone Volt, he served as CEO
+of Cybergun SA.
+On 18 October 2020, Drone Volt changed its governance due to the death of the
+CEO Mr Olivier Gualdoni on 17 October. The Board has thus co-opted Dimitri
+Batsis, founder of Drone Volt and historical shareholder since 2012, as a director
+and appointed him Chairman of the Board of Directors, a position it had entrusted
+to Olivier Gualdoni a few years earlier. The Board unanimously decided to separate
+the functions of Chairman and Chief Executive Officer and appointed Marc
+Courcelle, until then Drone Volt’s Director of Production, as Chief Executive
+Officer.
+Company (Sector)
+Independent board
+4.9 (6.6)
+Yes
+Parameters
+Company
+Sector
+Score
+Weight
+Number of board members
+5
+N/A
+10/10
+5.0%
+Board feminization (%)
+0
+N/A
+1/10
+5.0%
+Board domestic density (%)
+100
+N/A
+0/10
+10.0%
+Average age of board's members
+58
+N/A
+6/10
+5.0%
+Type of company : Small cap, controlled
+4/10
+10.0%
+Independent directors rate (%)
+80
+N/A
+8/10
+20.0%
+One share, one vote
+
+10.0%
+Chairman vs. Executive split
+
+0.0%
+Chairman not ex executive
+
+5.0%
+Full disclosure on mgt pay
+
+5.0%
+Disclosure of performance anchor for bonus trigger
+
+5.0%
+Compensation committee reporting to board of directors
+
+5.0%
+Straightforward, clean by-laws
+
+15.0%
+Governance score
+4.9/10
+100.0%
+
+Name
+Function
+Birth date
+Date in
+Date out
+Compensation, in k€ (year)
+Cash
+Equity linked
+Marc COURCELLE
+M
+CEO
+2020
+Sylvain NAVARRO
+M
+CFO
+1977
+2018
+(2019)
+Governance & Management
+Governance score
+Management
+ALPHAVALUE CORPORATE SERVICES
+Drone Volt (Buy)
+November 12 2020
+Copyright AlphaValue - 2020 – www.alphavalue.com
+Page 21
+
+--- PAGE 22 ---
+Name
+Indep. Function
+Completion
+of current
+mandate
+Birth
+date
+Date in
+Date out
+Fees / indemnity,
+in k€ (year)
+Value of holding,
+in k€ (year)
+Dimitri BATSIS
+M
+
+President/Chairman of th...
+2020
+Jean-Claude BOURDON
+M
+
+Member
+2025
+1952
+2019
+Fabrice LEGRAND
+M
+
+Member
+2022
+1964
+2016
+Laurent LELEUP
+M
+
+Member
+2022
+1966
+2017
+Stanislas VEILLET
+M
+
+Member
+2021
+1965
+2017
+Board of Directors
+ALPHAVALUE CORPORATE SERVICES
+Drone Volt (Buy)
+November 12 2020
+Copyright AlphaValue - 2020 – www.alphavalue.com
+Page 22
+
+--- PAGE 23 ---
+Company (Sector)
+4.6 (6.2)
+AlphaValue analysts tick boxes on essential components of the social/HR corporate life.
+Decision about ticking Yes or No is very much an assessment that combines the corporate’s communication on
+relevant issue and the analyst’s better judgment from experience.
+Qualitative score
+Parameters
+Yes
+/ No
+Weight
+Accidents at work
+
+25%
+Set targets for work safety on all group sites?
+10.0%
+Are accidents at work declining?
+15.0%
+Human resources development
+
+35%
+Are competences required to meet medium term targets identified?
+3.5%
+Is there a medium term (2 to 5 years) recruitment plan?
+3.5%
+Is there a training strategy tuned to the company objectives?
+3.5%
+Are employees trained for tomorrow's objectives?
+3.5%
+Can all employees have access to training?
+3.5%
+Has the corporate avoided large restructuring lay-offs over the last year to
+date?
+3.5%
+Have key competences stayed?
+3.5%
+Are managers given managerial objectives?
+3.5%
+If yes, are managerial results a deciding factor when assessing
+compensation level?
+3.5%
+Is mobility encouraged between operating units of the group?
+3.5%
+Pay
+
+20%
+Is there a compensation committee?
+6.0%
+Is employees' performance combining group AND individual performance?
+14.0%
+Job satisfaction
+
+10%
+Is there a measure of job satisfaction?
+3.3%
+Can anyone participate ?
+3.4%
+Are there action plans to prop up employees' morale?
+3.3%
+Internal communication
+
+10%
+Are strategy and objectives made available to every employee?
+10.0%
+Qualitative score
+6.2/10
+100.0%
+Social
+Quantitative metrics (67%)
+Set of staff related numerical metrics available in AlphaValue proprietary modelling
+aimed at ranking on social/HR matters
+Parameters
+Score
+Weight
+Staffing Trend
+9/10
+15%
+Average wage trend
+1/10
+30%
+Share of added value taken up by staff cost
+1/10
+20%
+Share of added value taken up by taxes
+1/10
+15%
+Wage dispersion trend
+9/10
+20%
+Pension bonus (0 or 1)
+0
+
+Quantitative score
+3.8/10
+100%
+Qualitative metrics (33%)
+Set of listed qualitative criterias and for the analyst to tick
+Parameters
+Score
+Weight
+Accidents at work
+4/10
+25%
+Human resources development
+7/10
+35%
+Pay
+7/10
+20%
+Job satisfaction
+3/10
+10%
+Internal communication
+10/10
+10%
+
+Qualitative score
+6.2/10
+100%
+ALPHAVALUE CORPORATE SERVICES
+Drone Volt (Buy)
+November 12 2020
+Copyright AlphaValue - 2020 – www.alphavalue.com
+Page 23
+
+--- PAGE 24 ---
+As of the end of December 2019, the group had 46 employees, compared with 57
+in 2018. This reduction is part of the plan to optimise the cost structure of the
+company in order to bring profitability. New departures are expected in 2020,
+particularly in the Aerialtronics subsidiary. In addition, Drone Volt has the use of
+subcontractors for the production of its drones, limiting the cost base in production
+sites, and some of the workforce is also subcontracted, to ensure an extended
+flexibility.
+However, we expect a net increase in new hires from 2021 onwards in order to
+sustain activity, particularly in training.
+Staff & Pension matters
+ALPHAVALUE CORPORATE SERVICES
+Drone Volt (Buy)
+November 12 2020
+Copyright AlphaValue - 2020 – www.alphavalue.com
+Page 24
+
+--- PAGE 25 ---
+Recent updates
+12/11/2020
+Clearing all waivers ahead of structural partnership with Aquiline
+Drones
+M&A /Corp. Action
+Drone Volt has announced the launch of a capital increase with preferential
+subscription rights for an amount of c.€3.5m, which may be increased to
+€4.1m in the event that the extension clause is fully exercised. This operation
+clears all the necessary steps to implement the partnership with Aquiline
+Drones.
+Fact
+Drone Volt has launched a capital increase with preferential subscription rights for
+an amount of c.€3.5m on a 10-for-1 basis at €0.22. The operation aims at clearing
+all the necessary steps to implement the partnership with Aquiline Drones and is
+backed 90% by the founders and managers of the company. The subscription
+period will run from 16 November 2020 to 27 November 2020 (inclusive).
+Analysis
+All lights are green for the Aquiline Drones partnership
+This capital increase enables the last pending condition to be waived before
+implementing the partnership with Aquiline Drones. Under its terms, Aquiline
+Drones will produce and commercialise the Hercules 2, the Altura Zenith, and its
+Pensar camera, at a rate of 1,000 units per month in the early life of the contract.
+Aquiline Drones targets ambitious volumes and would have to increase its
+production line by 3,000 units monthly, to reach a steady 10,000 units per month in
+total. Aquiline Drones’ strategy is to become the Uber of the drone, addressing the
+entire US market and benefiting from the banning of Chinese drones.
+For its part, Drone Volt would be granted a 10% cut in revenue from the
+commercialisation of its drones and cameras over a 5-year licensing period. Drone
+Volt would be entitled to receive a minimum of $100k per month (which started in
+October 2020). On an annual basis, this would grant Drone Volt $1.2m per year, to
+be revised by +10% annually, for a minimum total value of $7.7m until 2025. In
+addition, Drone Volt should receive an upfront payment of $450k by the end of this
+year to compensate for the transfer of know-how. This also represents a unique
+way to address the US market, without the need to invest in either opex or capex.
+In order to strengthen the partnership and benefit further from the value-added of
+the deal, both companies will swap their shares for 10% of their respective share
+base.
+On our side and based on a conservative monthly run rate of 1k units in 2021, 1.5k
+units in 2022 and 3k unit in 2023, we model a positive impact on Drone Volt’s
+revenue of respectively €2m/€3.4/€7.4m over this period.
+What it means for shareholders
+ALPHAVALUE CORPORATE SERVICES
+Drone Volt (Buy)
+November 12 2020
+Copyright AlphaValue - 2020 – www.alphavalue.com
+Page 25
+
+--- PAGE 26 ---
+This operation should allow current shareholders to increase their stakes in the
+capital of their companies on the same financial terms as those used for the
+exchange of shareholdings (10% of the respective capital of the two companies)
+between Drone Volt and Aquiline Drones, an operation which must be finalised
+before the end of January 2021. More concretely, based on the price pre-
+announcement (€0.254) and the parity of the deal (1 new share at €0.22 for 10
+subscription rights), the current shareholder will receive on 12 November a
+subscription right theoretically valued at €0.003 for each share. This leads to a
+neutral economic situation for current shareholders since, in spite of a discount of
+c. 13% on the pre-announced price, the price to participate in the capital hike for
+new shareholders will be the subscription price topped by the need to purchase 10
+subscription rights.
+Lastly, in order to guarantee the success of the deal, the founder and managers of
+the company are backing the operation, up to 90% of its value should there be less
+interest.
+15/10/2020
+Q3 20: strong rebound in Q3, further improvement expected in Q4
+Earnings/sales releases
+Drone Volt has released its Q3 20 figures which showed a strong rebound in
+activity during this quarter, fuelled by drone deliveries. The third quarter was
+rich in terms of commercial announcements, with a strategic partnership tied
+with the US company Aquiline Drones. We anticipate this good momentum to
+continue in Q4.
+Fact
+Analysis
+Sharp sequential rebound in Q3
+During the quarter, Drone Volt delivered a total of 27 drones and cameras, a sharp
+improvement over the 13 deliveries of Q1 20 and just one delivery during the
+second quarter. This included 22 drones (same level compared to Q3 19) and five
+Pensar cameras (vs eight last year).
+The activity rebounded strongly in both segments to €1.3m, up 79% qoq (down
+26% yoy). This was mainly been driven by a steep improvement at Drone Volt
+Factory where sales grew to €579k (down 17% yoy but revenue multiplied by more
+than 4x on a sequential basis). The third-party’s distribution also rebounded to
+€749k, up 30% qoq (and down 25 yoy). In terms of profitability, the gross margin
+reached €358k, against €630k in Q3 19 and up from €202k in Q2 20. Margins have
+• Q3 20 deliveries reached 27 units, down 10% yoy and a sharp rebound
+from Q2 20
+• Q3 20 revenue was €1,327k, down 26% yoy
+• Q3 20 gross profit was €357k, against €630k last year
+• Backlog still at €15m, no cancellations ytd related to the pandemic
+• Concretisation of the contract with Aquiline Drones
+ALPHAVALUE CORPORATE SERVICES
+Drone Volt (Buy)
+November 12 2020
+Copyright AlphaValue - 2020 – www.alphavalue.com
+Page 26
+
+--- PAGE 27 ---
+sustained with the regain in activity despite lower training business. Drone Volt
+Factory’s gross profit was €212k and third-party distribution was €146k (19% gross
+margin).
+Still healthy backlog and a good commercial momentum
+Commercially, the order backlog remained strong at €15m, with no cancellations
+related to the pandemic since the beginning of the year. In addition, Drone Volt
+signed the contract with Aquline Drones for the sale under licence of its dronex in
+this US. We see this as very positive for Drone Volt as it should bring in at least
+$300k of cash inflow for Q4, topped by a down-payment of $450k to compensate
+for the transfer of know-how, which is favourable for FCF generation. We also
+estimate that revenue directly linked to this activity could reach €2m by 2021 and
+€3.5m by 2022.
+Further improvements expected in Q4
+All in all, the rebound is well engaged, and we expect this trend to continue in Q4,
+still supported by the above-mentioned backlog. We also anticipate a rebound in
+training activity in Q4 (which lagged somewhat in Q3) to support further the gross
+margin of the company. All in all, Q4 could reach €4.8m in revenue, implying FY20
+revenue at €6.7m along with a €1.7m gross profit (€2.6m on a full-year basis).
+Impact
+We maintain our current estimates for the remainder of the year and we keep our
+Add rating on the stock.
+14/10/2020
+Concretisation of the contract with Aquiline Drones
+Significant news
+Drone Volt has announced the signing of the contract with Aquiline Drone
+for the licensing of Hercules 2 and Altura Zenith along with its camera Pensar
+in the USA. We view the concretisation of the contract with Aquiline Drones
+as very positive and encouraging for the next steps and the implementation
+of the production phase.
+Fact
+Drone Volt announced the signing of the contract with Aquiline Drone for the
+licensing of Hercules 2 and Altura Zenith along with its camera Pensar in the USA.
+As a reminder, this follows the signing of a Letter of Intent with Aquiline Drones in
+order to produce the Hercules 2, the Altura Zenith, and its Pensar camera before
+the end of 2020, at a rate of 1,000 units per month in the early life of the contract.
+Thereafter, the company targets ambitious volumes and should increase its
+production line by 3,000 units monthly, to reach a steady 10,000 units per month in
+total.
+Under the revised terms announced with the signing of the contract, Drone Volt
+would be granted a 10% cut in the revenue from the commercialisation of its
+ALPHAVALUE CORPORATE SERVICES
+Drone Volt (Buy)
+November 12 2020
+Copyright AlphaValue - 2020 – www.alphavalue.com
+Page 27
+
+--- PAGE 28 ---
+drones and cameras over a five-year licensing period. Drone Volt would be entitled
+to receive a minimum of $100k per month, to start in October 2020. On an annual
+basis, this would grant Drone Volt $1.2m per year, to be revised by +10% annually,
+which is well above the terms of the LOI that stated $400k annually (of which $250k
+for Altura Zenith and $150k for the Hercules 2). In addition, Drone Volt should
+receive an upfront payment of $450k by the end of this year to compensate for the
+transfer of know-how.
+Furthermore, Drone Volt will have access to Aquiline Drones’ facilities in order to
+produce its own drones for international markets. We see this as a positive addition
+to the already full production capacity of the company, especially considering the
+fact that no capex will be spent on it.
+Impact
+While at this stage, this signature has little impact on our model, except for +$300k
+for 2020, we view the concretisation of the contract with Aquiline Drones as very
+positive and encouraging for the next steps and the implementation of the
+production phase.
+12/10/2020
+The verge of a new era for Drones
+Initiation cov.
+Drone Volt is a French company specialised in civilian drones for
+professional use, addressing a wide range of end-market thanks to the
+combination of its proprietary drone, software and Artificial Intelligence
+capabilities. The company is scaling-up its activity, thanks to a healthy €15m
+pipeline of orders as well as partnerships with North American players. In
+addition, Drone Volt is on the verge to significantly increase its royalty-based
+business, a potential game-changer for its earnings.
+We initiate coverage of Drone Volt with a Buy recommendation and 34% upside.
+Drone Volt is a French company listed on Euronext Growth in Paris. The company
+operates in the civilian drones market for consumers and professionals.
+The core activities of the company include product development, engineering &
+design and the manufacturing of hardware, flying sensors, data processing
+platforms and drones. The company has also developed software and Artificial
+Intelligence expertise in order to enhance customer services, proposing turnkey
+solutions for its clients. Drone Volt also provides after-sales services as well as
+training on its equipment and the regulations for drone pilots.
+Drone Volt Group operates in France and internationally through subsidiaries,
+mainly in Europe and Canada as well as in the USA thanks to partnerships.
+The company organises its activity into two distinct segments:
+• Drone Volt Factory (DVF) – which is the Sale of proprietary drones as well
+as services such as after-sales service and training
+• Distribution activity – which gather sales of third-party drones
+ALPHAVALUE CORPORATE SERVICES
+Drone Volt (Buy)
+November 12 2020
+Copyright AlphaValue - 2020 – www.alphavalue.com
+Page 28
+
+--- PAGE 29 ---
+While Distribution represented 60% of its revenue in 2019 (or €4.3m), this
+business line is expected to fade, from 2020 onwards as 1) Drone Volt will
+voluntarily shift its efforts towards DVF and 2) the expected growth of DVF will
+marginalise Distribution in the revenue mix. Therefore, the equity story of the
+company could be sum-up as a distributor of third-party drone which has become
+a designer (thanks to R&D investments), in order to grow its value-added, with a
+shift of clients from the consumer market towards professional uses.
+As such, the main point of interest for the company is its DVF segment, which
+gathers proprietary high-end products coupled with a high degree of customisation.
+Thanks to this capabilities Drone Volt addresses the niche markets of civil security,
+inspection and surveillance. In terms of end-market, its main clients can be found
+mainly in Industry, Telecoms and Utilities for either site protection our assets
+inspections. (for instance, securing sensitive nuclear sites, or controlling power
+lines through drones). In addition, with its knowledge and expertise acquired in AI,
+the company can potentially propose pure software solutions for computer vision.
+This goes beyond its original scope, which then becomes far wider (such as smart
+cities, production and logistics for quality control, etc.). More generally speaking,
+the Drone market for professional uses is set to reach a considerable growth in the
+near future according to several researches, fuelled by growing usage adoption.
+One of the key enablers for this growth will be the regulation, as the development of
+a comprehensive regulatory framework should unleash demand, enabling drone
+flight, pilot training and clarify insurance matters. The latter could be a catalyst for
+Drone Volt which has developed its regulation and training expertise, creating a
+pilot academy like.
+Going forward, and in spite of being impacted by a lower level of activity in 2020,
+we anticipate Drone Volt to generate c €6.5m this year and full revenue to jump at
+c. €17m next year. The sales of Drone Volt Factory are expected to take the lion
+share of this growth as we anticipate Distribution to remain stable. Indeed, we
+anticipate sales of drones to take-off in early 2021 to €7m, somewhat delayed by
+the COVID-19 pandemic. This should be fuelled by:
+1) a positive commercial momentum and a healthy backlog of €15m which has
+remained stable with no cancellation since the beginning of the year. Also, given
+the early stage of the business (since 2017 for DVF) a few orders have the
+potential lift sales meaningfully.
+2) a growing ASP thanks to the partnership with Hydro-Québec, which will license
+the technology of a drone to inspect high power lines. This drone carries an ASP
+of c. €350k vs €20k for current drones, with sales prospect of c. 100 drone over
+the next 5 years (in its €7m)
+3) the ramp-up of services, i.e after sales and training which will accompany the
+sales of drones.
+4) Last but not least, the company recently announced the signing of a Letter of
+Intent with Aquiline Drones. Aquiline Drones is an American for the production
+under licence fee of up to 10k unit per/m of its small drone hercule2 (with an ASP
+of c. €2k). We consider that if realised, the outcome could potentially become
+highly relative in terms of earnings for the company, which has rallied in the wake
+of this announcement. Under the current term of the LOI, DV would be entitled to
+10% of the sales that we estimate in our conservative scenario at €24m in year
+one. In a best-case, our DCF has the potential to be lifted to €0.80 (all things being
+ALPHAVALUE CORPORATE SERVICES
+Drone Volt (Buy)
+November 12 2020
+Copyright AlphaValue - 2020 – www.alphavalue.com
+Page 29
+
+--- PAGE 30 ---
+equals).
+ALPHAVALUE CORPORATE SERVICES
+Drone Volt (Buy)
+November 12 2020
+Copyright AlphaValue - 2020 – www.alphavalue.com
+Page 30
+
+--- PAGE 31 ---
+
+Momentum analysis consists in evaluating the stock market trend of a given financial instrument, based on the analysis of its trading flows.
+The main indicators used in our momentum tool are simple moving averages over three time frames: short term (20 trading days), medium term (50 days)
+and long term (150 days). The positioning of these moving averages relative to each other gives us the direction of the flows over these time frames.
+For example, if the short and medium-term moving averages are above the long-term moving average, this suggests an uptrend which will need to be
+confirmed. Attention is also paid to the latest stock price relative to the three moving averages (advance indicator) as well as to the trend in these three
+moving averages - downtrend, neutral, uptrend - which is more of a lagging indicator.
+The trend indications derived from the flows through moving averages and stock prices must be confirmed against trading volumes in order to confirm the
+signal. This is provided by a calculation based on the average increase in volumes over ten weeks together with a buy/sell volume ratio.
+: Strong momentum corresponding to a continuous and overall positive moving average trend confirmed by volumes
+: Relatively good momentum corresponding to a positively-oriented moving average, but offset by an overbought pattern or lack of confirmation from
+volumes
+: Relatively unfavorable momentum with a neutral or negative moving average trend, but offset by an oversold pattern or lack of confirmation from
+volumes
+: Strongly negative momentum corresponding to a continuous and overall negative moving average trend confirmed by volumes
+Momentum
+ALPHAVALUE CORPORATE SERVICES
+Drone Volt (Buy)
+November 12 2020
+Copyright AlphaValue - 2020 – www.alphavalue.com
+Page 31
+
+--- PAGE 32 ---
+
+Moving Average MACD & Volume
+ALPHAVALUE CORPORATE SERVICES
+Drone Volt (Buy)
+November 12 2020
+Copyright AlphaValue - 2020 – www.alphavalue.com
+Page 32
+
+--- PAGE 33 ---
+
+€/$ sensitivity
+Euro/Chinese Yuan sensitivity
+ALPHAVALUE CORPORATE SERVICES
+Drone Volt (Buy)
+November 12 2020
+Copyright AlphaValue - 2020 – www.alphavalue.com
+Page 33
+
+--- PAGE 34 ---
+
+Sector Capital Goods
+ALPHAVALUE CORPORATE SERVICES
+Drone Volt (Buy)
+November 12 2020
+Copyright AlphaValue - 2020 – www.alphavalue.com
+Page 34
+
+--- PAGE 35 ---
+
+12/19A
+12/20E
+12/21E
+12/22E
+Adjusted P/E
+x
+-3.44
+-24.9
+17.5
+7.79
+Reported P/E
+x
+-4.13
+-36.2
+17.4
+7.74
+EV/EBITDA(R)
+x
+-10.2
+ns
+6.69
+2.34
+P/Book
+x
+1.15
+2.20
+1.94
+1.54
+Dividend yield
+%
+0.00
+0.00
+0.00
+0.00
+Free cash flow yield
+%
+-45.4
+-4.20
+2.81
+10.2
+Average stock price
+€
+0.17
+0.27
+0.27
+0.27
+
+12/19A
+12/20E
+12/21E
+12/22E
+Sales
+€th
+7,108
+6,767
+17,518
+24,991
+Sales growth
+%
+-4.22
+-4.79
+159
+42.7
+Sales per employee
+€th
+155
+157
+373
+500
+Organic change in sales
+%
+Purchases and external costs (incl. IT)
+€th
+-7,402
+-6,046
+-10,865
+-13,502
+R&D costs as % of sales
+%
+0.00
+0.00
+0.00
+0.00
+Staff costs
+€th
+-1,366
+-1,296
+-1,438
+-1,553
+Operating lease payments
+€th
+Cost of sales/COGS (indicative)
+€th
+-4,703
+-4,156
+-8,220
+-10,328
+EBITDA
+€th
+-1,687
+-200
+5,373
+9,936
+EBITDA(R)
+€th
+-1,687
+-200
+5,373
+9,936
+EBITDA(R) margin
+%
+-23.7
+-2.96
+30.7
+39.8
+EBITDA(R) per employee
+€th
+-36.7
+-4.66
+114
+199
+Depreciation
+€th
+Depreciations/Sales
+%
+0.00
+0.00
+0.00
+0.00
+Amortisation
+€th
+-1,456
+-1,075
+-1,333
+-1,345
+Underlying operating profit
+€th
+-3,143
+-1,275
+4,041
+8,591
+Underlying operating margin
+%
+-44.2
+-18.8
+23.1
+34.4
+Other income/expense (cash)
+€th
+-325
+-251
+-238
+-229
+Other inc./ exp. (non cash; incl. assets revaluation)
+€th
+Earnings from joint venture(s)
+€th
+Impairment charges/goodwill amortisation
+€th
+Operating profit (EBIT)
+€th
+-3,468
+-1,526
+3,802
+8,363
+Interest expenses
+€th
+-158
+-309
+-254
+-241
+of which effectively paid cash interest expenses
+€th
+-456
+Financial income
+€th
+0.00
+0.00
+0.00
+0.00
+Other financial income (expense)
+€th
+-265
+-69.1
+-89.7
+-108
+Net financial expenses
+€th
+-423
+-378
+-343
+-349
+of which related to pensions
+€th
+0.00
+0.00
+0.00
+Pre-tax profit before exceptional items
+€th
+-3,891
+-1,904
+3,459
+8,014
+Exceptional items and other (before taxes)
+€th
+of which cash (cost) from exceptionals
+€th
+Current tax
+€th
+1,069
+523
+-950
+-2,201
+Impact of tax loss carry forward
+€th
+Deferred tax
+€th
+Corporate tax
+€th
+1,069
+523
+-950
+-2,201
+Tax rate
+%
+27.5
+27.5
+27.5
+27.5
+Net margin
+%
+-39.7
+-20.4
+14.3
+23.3
+Equity associates
+€th
+Actual dividends received from equity holdings
+€th
+Minority interests
+€th
+252
+126
+101
+50.4
+Actual dividends paid out to minorities
+€th
+Income from discontinued operations
+€th
+
+Detailed Financials
+Valuation Key Data
+Consolidated P&L
+ALPHAVALUE CORPORATE SERVICES
+Drone Volt (Buy)
+November 12 2020
+Copyright AlphaValue - 2020 – www.alphavalue.com
+Page 35
+
+--- PAGE 36 ---
+Attributable net profit
+€th
+-2,570
+-1,255
+2,610
+5,863
+Impairment charges/goodwill amortisation
+€th
+0.00
+0.00
+0.00
+0.00
+Other adjustments
+€th
+Adjusted attributable net profit
+€th
+-2,570
+-1,255
+2,610
+5,863
+Interest expense savings
+€th
+Fully diluted adjusted attr. net profit
+€th
+-2,570
+-1,255
+2,610
+5,863
+NOPAT
+€th
+-2,200
+-892
+2,828
+6,014
+
+12/19A
+12/20E
+12/21E
+12/22E
+EBITDA
+€th
+-1,687
+-200
+5,373
+9,936
+Change in WCR
+€th
+576
+77.3
+-307
+-277
+of which (increases)/decr. in receivables
+€th
+-254
+68.1
+-271
+-244
+of which (increases)/decr. in inventories
+€th
+-445
+93.0
+-370
+-333
+of which increases/(decr.) in payables
+€th
+1,137
+-83.8
+333
+300
+of which increases/(decr.) in other curr. liab.
+€th
+138
+0.00
+0.00
+0.00
+Actual dividends received from equity holdings
+€th
+0.00
+0.00
+0.00
+0.00
+Paid taxes
+€th
+-1,069
+523
+-950
+-2,201
+Exceptional items
+€th
+Other operating cash flows
+€th
+545
+109
+25.4
+42.4
+Total operating cash flows
+€th
+-1,635
+508
+4,142
+7,501
+Capital expenditure
+€th
+-2,762
+-2,036
+-2,522
+-2,542
+Capex as a % of depreciation & amort.
+%
+190
+189
+189
+189
+Net investments in shares
+€th
+Other investment flows
+€th
+-20.0
+Total investment flows
+€th
+-2,782
+-2,036
+-2,522
+-2,542
+Net interest expense
+€th
+-423
+-378
+-343
+-349
+of which cash interest expense
+€th
+-456
+-378
+-343
+-349
+Dividends (parent company)
+€th
+Dividends to minorities interests
+€th
+0.00
+0.00
+0.00
+0.00
+New shareholders' equity
+€th
+3,660
+9,545
+0.00
+of which (acquisition) release of treasury shares
+€th
+0.00
+(Increase)/decrease in net debt position
+€th
+1,401
+342
+0.00
+0.00
+Other financial flows
+€th
+Total financial flows
+€th
+4,605
+9,509
+-343
+-349
+Change in cash position
+€th
+189
+7,981
+1,276
+4,610
+Change in net debt position
+€th
+-1,213
+7,640
+1,276
+4,610
+Free cash flow (pre div.)
+€th
+-4,819
+-1,905
+1,276
+4,610
+Operating cash flow (clean)
+€th
+-1,635
+508
+4,142
+7,501
+Reinvestment rate (capex/tangible fixed assets)
+%
+321
+203
+213
+187
+
+Cashflow Statement
+ALPHAVALUE CORPORATE SERVICES
+Drone Volt (Buy)
+November 12 2020
+Copyright AlphaValue - 2020 – www.alphavalue.com
+Page 36
+
+--- PAGE 37 ---
+
+12/19A
+12/20E
+12/21E
+12/22E
+Capitalised R&D
+€th
+2,022
+2,839
+3,850
+4,867
+Goodwill
+€th
+151
+149
+148
+147
+Other intangible assets
+€th
+3,939
+4,333
+4,766
+5,243
+Total intangible
+€th
+6,112
+7,321
+8,764
+10,257
+Tangible fixed assets
+€th
+860
+1,004
+1,183
+1,362
+Right-of-use
+€th
+366
+384
+404
+424
+Financial fixed assets (part of group strategy)
+€th
+4,068
+4,068
+4,068
+Other financial assets (investment purpose mainly)
+€th
+161
+169
+178
+186
+WCR
+€th
+1,614
+1,537
+1,844
+2,121
+of which trade & receivables (+)
+€th
+1,422
+1,354
+1,625
+1,868
+of which inventories (+)
+€th
+1,942
+1,849
+2,219
+2,552
+of which payables (+)
+€th
+1,750
+1,666
+1,999
+2,299
+of which other current liabilities (+)
+€th
+Other current assets
+€th
+6,006
+5,303
+4,932
+4,587
+of which tax assets (+)
+€th
+0.00
+Total assets (net of short term liabilities)
+€th
+15,119
+19,787
+21,371
+23,004
+Ordinary shareholders' equity (group share)
+€th
+9,212
+20,657
+23,374
+29,394
+Minority interests
+€th
+-493
+-296
+-355
+-355
+Provisions for pensions
+€th
+0.00
+0.00
+0.00
+Other provisions for risks and liabilities
+€th
+40.0
+60.0
+69.0
+79.4
+Deferred tax liabilities
+€th
+0.00
+0.00
+0.00
+0.00
+Other liabilities
+€th
+1,291
+1,937
+2,130
+2,343
+Net debt / (cash)
+€th
+5,069
+-2,571
+-3,847
+-8,457
+Total liabilities and shareholders' equity
+€th
+15,119
+19,787
+21,371
+23,004
+Average net debt / (cash)
+€th
+3,792
+1,249
+-3,209
+-6,152
+
+12/19A
+12/20E
+12/21E
+12/22E
+EV/EBITDA(R)
+x
+-10.2
+ns
+6.69
+2.34
+EV/EBIT (underlying profit)
+x
+-5.48
+-31.1
+8.90
+2.71
+EV/Sales
+x
+2.42
+5.86
+2.05
+0.93
+EV/Invested capital
+x
+2.00
+2.85
+2.27
+1.31
+Market cap
+€th
+10,619
+45,375
+45,375
+45,375
++ Provisions (including pensions)
+€th
+40.0
+60.0
+69.0
+79.4
++ Unrecognised actuarial losses/(gains)
+€th
+0.00
+0.00
+0.00
+0.00
++ Net debt at year end
+€th
+5,069
+-2,571
+-3,847
+-8,457
++ Leases debt equivalent
+€th
+0.00
+0.00
+0.00
+0.00
+- Financial fixed assets (fair value) & Others
+€th
+4,068
+6,712
+14,766
++ Minority interests (fair value)
+€th
+1,479
+887
+1,065
+1,065
+= Enterprise Value
+€th
+17,207
+39,684
+35,950
+23,296
+
+Balance Sheet
+EV Calculations
+ALPHAVALUE CORPORATE SERVICES
+Drone Volt (Buy)
+November 12 2020
+Copyright AlphaValue - 2020 – www.alphavalue.com
+Page 37
+
+--- PAGE 38 ---
+
+12/19A
+12/20E
+12/21E
+12/22E
+Adjusted EPS (bfr gwill amort. & dil.)
+€
+-0.05
+-0.01
+0.02
+0.03
+Growth in EPS
+%
+n/a
+n/a
+n/a
+125
+Reported EPS
+€
+-0.04
+-0.01
+0.02
+0.03
+Net dividend per share
+€
+0.00
+0.00
+0.00
+0.00
+Free cash flow per share
+€
+-0.10
+-0.02
+0.01
+0.03
+Operating cash flow per share
+€
+-0.03
+0.00
+0.02
+0.04
+Book value per share
+€
+0.15
+0.12
+0.14
+0.17
+Number of ordinary shares
+Th
+60,741
+170,328
+170,328
+170,328
+Number of equivalent ordinary shares (year end)
+Th
+60,741
+170,328
+170,328
+170,328
+Number of shares market cap.
+Th
+60,741
+158,706
+170,328
+170,328
+Treasury stock (year end)
+Th
+Number of shares net of treasury stock (year end)
+Th
+60,741
+170,328
+170,328
+170,328
+Number of common shares (average)
+Th
+48,138
+115,534
+170,328
+170,328
+Conversion of debt instruments into equity
+Th
+Settlement of cashable stock options
+Th
+Probable settlement of non mature stock options
+Th
+Other commitments to issue new shares
+Th
+2,261
+1,117
+1,117
+1,117
+Increase in shares outstanding (average)
+Th
+2,478
+1,689
+1,117
+1,117
+Number of diluted shares (average)
+Th
+50,616
+117,223
+171,445
+171,445
+Goodwill per share (diluted)
+€
+0.00
+0.00
+0.00
+0.00
+EPS after goodwill amortisation (diluted)
+€
+-0.05
+-0.01
+0.02
+0.03
+EPS before goodwill amortisation (non-diluted)
+€
+-0.05
+-0.01
+0.02
+0.03
+Actual payment
+€
+%
+0.00
+0.00
+0.00
+0.00
+Capital payout ratio (div +share buy back/net income)
+%
+0.00
+0.00
+0.00
+
+12/19A
+12/20E
+12/21E
+12/22E
+EBITDA
+€th
+-1,687
+-200
+5,373
+9,936
+Funds from operations (FFO)
+€th
+-2,667
+53.2
+4,105
+7,429
+Ordinary shareholders' equity
+€th
+9,212
+20,657
+23,374
+29,394
+Gross debt
+€th
+6,004
+6,346
+6,346
+6,346
+o/w Less than 1 year - Gross debt
+€th
+1,608
+200
+200
+200
+o/w 1 to 5 year - Gross debt
+€th
+4,396
+6,146
+6,146
+6,146
++ Gross Cash
+€th
+935
+8,916
+10,193
+14,803
+= Net debt / (cash)
+€th
+5,069
+-2,571
+-3,847
+-8,457
+Bank borrowings
+€th
+852
+1,352
+1,352
+1,352
+Issued bonds
+€th
+3,126
+2,941
+2,941
+2,941
+Financial leases liabilities
+€th
+436
+436
+436
+436
+Other financing
+€th
+1,590
+1,617
+1,617
+1,617
+Gearing (at book value)
+%
+41.2
+6.05
+-13.7
+-20.9
+Adj. Net debt/EBITDA(R)
+x
+-3.01
+12.8
+-0.72
+-0.85
+Adjusted Gross Debt/EBITDA(R)
+x
+-3.58
+-32.0
+1.19
+0.65
+Adj. gross debt/(Adj. gross debt+Equity)
+%
+39.6
+23.7
+21.5
+17.9
+Ebit cover
+x
+-7.43
+-3.37
+11.8
+24.6
+FFO/Gross Debt
+%
+-44.1
+0.83
+64.0
+116
+FFO/Net debt
+%
+-52.6
+-2.07
+-107
+-87.8
+FCF/Adj. gross debt (%)
+%
+-79.7
+-29.7
+19.9
+71.8
+(Gross cash+ "cash" FCF+undrawn)/ST debt
+x
+-2.42
+35.1
+57.3
+97.1
+"Cash" FCF/ST debt
+x
+-3.02
+-9.53
+6.38
+23.1
+
+Per Share Data
+Funding - Liquidity
+ALPHAVALUE CORPORATE SERVICES
+Drone Volt (Buy)
+November 12 2020
+Copyright AlphaValue - 2020 – www.alphavalue.com
+Page 38
+
+--- PAGE 39 ---
+
+12/19A
+12/20E
+12/21E
+12/22E
+Tax burden (Net income/pretax pre excp income)
+x
+0.66
+0.66
+0.75
+0.73
+EBIT margin (EBIT/sales)
+%
+-48.8
+-22.5
+21.7
+33.5
+Assets rotation (Sales/Avg assets)
+%
+53.4
+38.8
+85.1
+113
+Financial leverage (Avg assets /Avg equity)
+x
+1.53
+1.17
+0.93
+0.84
+ROE
+%
+-29.6
+-8.40
+11.9
+22.2
+ROA
+%
+-40.4
+-15.5
+32.2
+60.9
+
+12/19A
+12/20E
+12/21E
+12/22E
+Y-1 shareholders' equity
+€th
+8,303
+9,389
+20,657
+23,374
++ Net profit of year
+€th
+-2,570
+-1,255
+2,610
+5,863
+- Dividends (parent cy)
+€th
+0.00
+0.00
+0.00
+0.00
++ Additions to equity
+€th
+3,660
+9,545
+0.00
+0.00
+o/w reduction (addition) to treasury shares
+€th
+0.00
+0.00
+0.00
+0.00
+- Unrecognised actuarial gains/(losses)
+€th
+0.00
+0.00
+0.00
+0.00
++ Comprehensive income recognition
+€th
+-3.20
+2,978
+108
+156
+= Year end shareholders' equity
+€th
+9,389
+20,657
+23,374
+29,394
+
+12/19A
+12/20E
+12/21E
+12/22E
+Sales per staff
+€th
+155
+157
+373
+500
+Staff costs per employee
+€th
+-29.7
+-30.1
+-30.6
+-31.1
+Change in staff costs
+%
+-27.5
+-5.12
+10.9
+7.98
+Change in unit cost of staff
+%
+-10.2
+1.50
+1.50
+1.50
+Staff costs/(EBITDA+Staff costs)
+%
+-426
+118
+21.1
+13.5
+Average workforce
+unit
+46.0
+43.0
+47.0
+50.0
+Europe
+unit
+46.0
+43.0
+47.0
+50.0
+North America
+unit
+0.00
+0.00
+0.00
+0.00
+South Americas
+unit
+0.00
+0.00
+0.00
+0.00
+Asia
+unit
+0.00
+0.00
+0.00
+0.00
+Other key countries
+unit
+0.00
+0.00
+0.00
+0.00
+Total staff costs
+€th
+-1,366
+-1,296
+-1,438
+-1,553
+Wages and salaries
+€th
+-1,366
+-1,296
+-1,438
+-1,553
+of which social security contributions
+€th
+-301
+-286
+-317
+-342
+Equity linked payments
+€th
+Pension related costs
+€th
+0.00
+0.00
+0.00
+
+12/19A
+12/20E
+12/21E
+12/22E
+Total sales
+€th
+7,103
+6,767
+17,518
+24,991
+Drone Volt Factory
+€th
+2,796
+2,661
+12,308
+18,719
+Distribution
+€th
+4,307
+3,446
+3,101
+2,791
+Training
+€th
+Consumer
+€th
+Professional
+€th
+Royalties
+€th
+661
+2,109
+3,481
+Other
+€th
+
+ROE Analysis (Dupont's Breakdown)
+Shareholder's Equity Review (Group Share)
+Staffing Analytics
+Divisional Breakdown Of Revenues
+ALPHAVALUE CORPORATE SERVICES
+Drone Volt (Buy)
+November 12 2020
+Copyright AlphaValue - 2020 – www.alphavalue.com
+Page 39
+
+--- PAGE 40 ---
+
+12/19A
+12/20E
+12/21E
+12/22E
+Other profit breakdown Analysis Analysis
+Drone Volt Factory
+€th
+1,449
+1,398
+6,476
+10,540
+Distribution
+€th
+992
+552
+713
+642
+Consumer
+€th
+Professional
+€th
+Training
+€th
+Royalties
+€th
+661
+2,109
+3,481
+Other/cancellations
+€th
+Total
+€th
+2,441
+2,611
+9,298
+14,663
+Other profit breakdown Analysis margin
+%
+34.3
+38.6
+53.1
+58.7
+
+12/19A
+12/20E
+12/21E
+12/22E
+France
+%
+37.5
+36.0
+Europe
+%
+42.3
+42.0
+Other
+%
+20.1
+22.0
+
+12/19A
+12/20E
+12/21E
+12/22E
+ROCE (NOPAT+lease exp.*(1-tax))/(net) cap employed adjusted
+%
+-25.6
+-6.41
+17.8
+33.8
+CFROIC
+%
+-56.1
+-13.7
+8.05
+25.9
+Goodwill
+€th
+151
+149
+148
+147
+Accumulated goodwill amortisation
+€th
+0.00
+0.00
+0.00
+0.00
+All intangible assets
+€th
+3,939
+4,333
+4,766
+5,243
+Accumulated intangible amortisation
+€th
+0.00
+0.00
+0.00
+0.00
+Financial hedges (LT derivatives)
+€th
+0.00
+0.00
+0.00
+0.00
+Capitalised R&D
+€th
+2,022
+2,839
+3,850
+4,867
+PV of non-capitalised lease obligations
+€th
+0.00
+0.00
+0.00
+0.00
+Other fixed assets
+€th
+860
+1,004
+1,183
+1,362
+Accumulated depreciation
+€th
+0.00
+0.00
+0.00
+0.00
+WCR
+€th
+1,614
+1,537
+1,844
+2,121
+Other assets
+€th
+0.00
+4,068
+4,068
+4,068
+Unrecognised actuarial losses/(gains)
+€th
+0.00
+0.00
+0.00
+0.00
+Capital employed after deprec. (Invested capital)
+€th
+8,586
+13,930
+15,858
+17,807
+Capital employed before depreciation
+€th
+8,586
+13,930
+15,858
+17,807
+
+12/19A
+12/20E
+12/21E
+12/22E
+Drone Volt Factory
+€th
+Distribution
+€th
+Consumer
+€th
+Professional
+€th
+Training
+€th
+Royalties
+€th
+Other
+€th
+8,586
+13,930
+15,858
+17,807
+Total capital employed
+€th
+8,586
+13,930
+15,858
+17,807
+
+Divisional Breakdown Of Earnings
+Revenue Breakdown By Country
+ROCE/CFROIC/Capital Invested
+Divisional Breakdown Of Capital Employed
+ALPHAVALUE CORPORATE SERVICES
+Drone Volt (Buy)
+November 12 2020
+Copyright AlphaValue - 2020 – www.alphavalue.com
+Page 40
+
+--- PAGE 41 ---
+Fundamental Opinion
+It is implicit that recommendations are made in good faith but should not be regarded as the sole source of advice.
+Recommendations are geared to a “value” approach.
+Valuations are computed from the point of view of a secondary market minority holder looking at a medium term (say 6 months) performance.
+Valuation tools are built around the concepts of transparency, all underlying figures are accessible, and consistency, same methodology whichever the
+stock, allowing for differences in nature between financial and non financial stocks. A stock with a target price below its current price should not and will not
+be regarded as an Add or a Buy.
+Recommendations are based on target prices with no allowance for dividend returns. The thresholds for the four recommendation levels may change from
+time to time depending on market conditions. Thresholds are defined as follows, ASSUMING long risk free rates remain in the 2-5% region.
+Recommendation
+Low Volatility
+10 < VIX index < 30
+Normal Volatility
+15 < VIX index < 35
+High Volatility
+35 < VIX index
+Buy
+More than 15% upside
+More than 20% upside
+More than 30% upside
+Add
+From 5% to 15%
+From 5% to 20%
+From 10% to 30%
+Reduce
+From -10% to 5%
+From -10% to 5%
+From -10% to 10%
+Sell
+Below -10%
+Below -10%
+Below -10%
+There is deliberately no “neutral” recommendation. The principle is that there is no point investing in equities if the return is not at least the risk free rate (and
+the dividend yield which again is not allowed for).
+Although recommendations are automated (a function of the target price whenever a new equity research report is released), the management of AlphaValue
+intends to maintain global consistency within its universe coverage and may, from time to time, decide to change global parameters which may affect the
+level of recommendation definitions and /or the distribution of recommendations within the four levels above. For instance, lowering the risk premium in a
+gloomy context may increase the proportion of positive recommendations.
+
+ALPHAVALUE CORPORATE SERVICES
+Drone Volt (Buy)
+November 12 2020
+Copyright AlphaValue - 2020 – www.alphavalue.com
+Page 41
+
+--- PAGE 42 ---
+Valuation
+Valuation processes have been organized around transparency and consistency as primary objectives.
+Stocks belong to different categories that recognise their main operating features : Banks, Insurers and Non Financials.
+Within those three universes, the valuation techniques are the same and in relation to the financial data available.
+The weighting given to individual valuation techniques is managed centrally and may be changed from time to time. As a rule, all stocks of a similar profile
+are valued using equivalent weighting of the various valuation techniques. This is for obvious consistency reasons.
+Within the very large universe of Non Financials, there are in effect 4 sub-categories of weightings to cater for subsets: 1) 'Mainstream' stocks; 2) 'Holding
+companies' where the stress is on NAV measures; 3) 'Growth' companies where the stress is on peer based valuations; 4) 'Loss making sectors' where
+peers review is essentially pointing nowhere (ex: Bio techs). The bulk of the valuation is then built on DCF and NAV, in effect pushing back the time horizon.
+Valuation Issue
+Normal
+industrials
+Growth
+industrials
+Holding
+company
+Loss
+runners
+Bank
+Insurers
+DCF
+35%
+35%
+10%
+40%
+0%
+0%
+NAV
+20%
+20%
+55%
+40%
+50%
+15%
+PE
+10%
+10%
+10%
+5%
+10%
+20%
+EV/EBITDA
+20%
+20%
+0%
+5%
+0%
+0%
+Yield
+10%
+10%
+20%
+5%
+10%
+15%
+Book
+5%
+5%
+5%
+5%
+10%
+10%
+Banks' instrinsic method
+0%
+0%
+0%
+0%
+10%
+0%
+Embedded Value
+0%
+0%
+0%
+0%
+0%
+40%
+Mkt Cap/Gross Operating Profit
+0%
+0%
+0%
+0%
+10%
+0%
+ALPHAVALUE CORPORATE SERVICES
+Drone Volt (Buy)
+November 12 2020
+Copyright AlphaValue - 2020 – www.alphavalue.com
+Page 42

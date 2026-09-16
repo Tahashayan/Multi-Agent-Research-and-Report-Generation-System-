@@ -1,0 +1,4839 @@
+--- PAGE 1 ---
+Disclosures:
+Ownership and material conflicts of interest
+The author(s), or a member of their household, of this report [holds] a financial interest in the securities of this company.
+The author(s), or a member of their household, of this report [does not know] of the existence of any conflicts of interest that
+might bias the content or publication of this report.
+Receipt of compensation
+Compensation of the author(s) of this report is not based on investment banking revenue.
+Position as an officer or director
+The author(s), or a member of their household, does not serve as an officer, director, or advisory board member of the subject
+company.
+Marketing making
+The author(s) does not act as a market maker in the subject company’s securities.
+Disclaimer
+The information set forth herein has been obtained or derived from sources generally available to the public and believed by
+the author(s) to be reliable, but the author(s) does not make any representation or warranty, express or implied, as to its
+accuracy or completeness. The information is not intended to be used as the basis of any investment decisions by any person
+or entity. This information does not constitute investment advice, nor is it an offer or a solicitation of an offer to buy or sell
+any security.
+Equity Research Report – Adobe Inc.
+Mathias Guerra | Udyat Kapasi
+
+--- PAGE 2 ---
+EXECUTIVE SUMMARY
+Figure 1: Summary
+Figure 2: S&P North America
+Technology & Software ETF $
+Price 6M
+THESIS 1 – EXPLOITING THE SOFTWARE DE-RATING
+Adobe Inc. (NASDAQ:ADBE)
+Sector: Technology
+Industry: Software – Application
+Current Price: $262.41
+As of 28th February 2026
+Target Price: $408.12
+Recommendation: BUY
+Upside: 55.5%
+*Closing Price as of 28.02.2026
+Source: Team Analysis
+Adobe is currently a victim of an extremely broad sector-wide sell-off affecting the
+whole SaaS industry. While the market has heavily discounted such companies on
+fear of AI substitution, as highlighted in Goldman Sachs’ February 2026 research,
+Adobe’s fundamentals and numbers suggest that this fear is decoupled from
+reality.
+Market Mispricing: According to Goldman’s findings, the recent software rout, with
+the sector around 20% down YTD (Figure 2), reflects a shift in sentiments towards
+heavy asset, low obsolescence (HALO) stocks rather than a deterioration in
+software earnings. Valuation Gap: Currently, Adobe is trading at a significant
+discount when compared with peers across all metrics. Most notably, EV/EBITDA
+of 11.3x vs. peer median of 18.7x. Fundamental Resilience: Unlike at-risk SaaS
+firms, Adobe has maintained a 41.4% FCF margin (Figure 27) and a 57.3% ROIC
+(Figure 31) throughout the fiscal year of 2025. This creates a valuation spring where
+any evidence of sustained AI monetization will likely trigger a rapid upward re-rating
+towards the target price of $408.12.
+THESIS 2 – THE GENERATIVE AI MOAT EXPANDER
+Generative AI is not a threat to Adobe. It is a defensive and offensive moat that
+increases user stickiness and average revenue per user (ARPU). Enterprise Safety:
+Large corporations cannot rely on open-source or generic AI due to copyright and
+legal risks. Adobe’s Firefly is trained on licensed data and offers legal
+indemnification, making it a unique and viable choice to Fortune 500 companies.
+Monetization Success: Approximately 90% of Adobe’s top 50 clients have
+adopted Firefly or GenStudio. This has led to a 4x increase in content volume for
+these clients, pivoting Adobe from a per-seat model to a more lucrative
+consumption-based monetization (Figure 20). Increased Switching Costs: By
+embedding AI natively into Photoshop, Illustrator, and Premiere Pro, Adobe has
+made the cost of switching to an AI-only competitor prohibitively high for
+professional workflows.
+THESIS 3 – THE CREATIVE INTEGRATION
+Adobe is the only player that successfully bridges the gap between content
+creation/digital media, and content activation/experience cloud. This creates a
+creative supply chain that competitors like Salesforce or Canva cannot easily
+replicate.
+The Synergistic Flywheel: The integration of Semrush (Figure 6), expected to
+close 2026, and the rise of autonomous marketing agents allows users to create
+an asset in creative cloud and instantly deploy/optimize it via the experience cloud.
+Experience Cloud Dominance: Digital Experience Revenue grew to $5.8 billion in
+FY2025 (Figure 5). By linking the creation of an asset to its real-time performance,
+Adobe captures the entire enterprise marketing spend. Efficiency Gains:
+Enterprises using Adobe GenStudio report 75% faster production speeds (Figure
+20). In a high inflation, margin-conscious environment, this productivity gain makes
+Adobe an essential utility rather than a discretionary expense.
+We initiate coverage of Adobe Inc. (NASDAQ: ADBE) with a BUY recommendation
+and a 12-month price target of $408.12, representing 55.5% upside from the
+closing price of $262.41 on February 28, 2026. Our valuation is based on a
+discounted cash flow analysis weighted at 100%, with confirmation from relative
+valuation indicating 109% upside to a median peer-based price of $536. (Figure 1)
+Adobe is a global technology leader best known for creating the industry-standard
+tools for digital creativity, such as Photoshop and the PDF format. Beyond creative
+work, Adobe also offers enterprise-grade solutions for electronic signatures and
+data analytics, helping businesses automate their entire digital workflow.
+Source: Team Analysis | Google Finance
+Figure 3: Adobe’s Key Value
+Drivers
+Source: Team Analysis | Company Report
+*-20.48% over the past 6 months
+Subscription
+Revenue Core
+Primary profit engine,
+driving consistent sales.
+Represents 96% of
+FY2025 rev.
+Strong Free
+Cashflow
+Consistently high FCF
+margins (41.4%).
+Outperforming peers by
+20%+
+Native AI Features
+Proprietary tools like
+Firefly & Acrobat AI
+assistant with high
+adoption rates
+Deep Competitive
+Moat
+Deep ecosystem integrations
+& high switching costs.
+Defending market leadership
+against alternatives
+Capital Allocation
+No short-term debt, 21%
+D/A ratio and a AAA
+synthetic credit rating.
+Major share buybacks
+upwards of 100% of FCFs
+Strategic
+Acquisitions
+Adobe strategically acquires
+companies to keep up with
+agentic AI and competition,
+allowing for Adobe to remain
+competitive
+RECOMMENDATION
+BUY
+Valuation Date
+28.02.2026
+Target Price
+$
+408.1
+Current Price*
+$
+262.4
+Upside
+%
+55.5%
+Market Capitalization
+bn $
+107.1
+Shares Outstanding
+mn
+410.5
+52 Week High
+$
+453.8
+52 Week Low
+$
+251.1
+
+--- PAGE 3 ---
+BUSINESS DESCRIPTION
+NASDAQ
+Sector: Technology
+Industry: Software – Application
+Figure 4: Revenue per Segment
+Source: Team Analysis | FY2025 Rev
+Founded in 1982 by John Warnock and Charles Geschke, Adobe Inc. (NASDAQ:
+ADBE) evolved from pioneering the PDF standard and building the creative
+industry's toolset into one of the most successful SaaS transitions in enterprise
+software history. Renowned for industry-leading margins, robust free cash flow, and
+an aggressive share buyback program, Adobe today stands as a mega-cap
+constituent of the S&P 100 and NASDAQ-100.
+BUSINESS MODEL
+Adobe operates a subscription-based SaaS model across three reportable
+segments, generating a revenue mix that is overwhelmingly recurring in nature
+and provides strong visibility into forward earnings.
+1.
+Digital Media is Adobe's flagship segment and primary profit engine,
+contributing 74.3% of total revenue in FY2025 ($17.6 Billion) (Figure 5) with
+consistent double digit YoY growth since FY2020. It houses both the Creative
+Cloud and Document Cloud. Creative Cloud encompasses the industry-
+standard creative suite including Photoshop, Illustrator, Premiere Pro, After
+Effects, and InDesign, serving creative professionals, enterprises, social media
+creators, and consumers across image editing, video production, and graphic
+design workflows. Adobe has recently embedded its proprietary generative AI
+models under the Firefly brand natively across these applications, deepening
+product value and reinforcing switching costs. Document Cloud, also within
+this segment, centers on Acrobat and Adobe Sign for PDF creation, editing, and
+e-signatures, serving both individuals and enterprises seeking to digitize
+document workflows.
+2.
+Digital Experience is Adobe's enterprise-facing segment, offering an integrated
+platform of marketing and commerce tools including Adobe Analytics, Target,
+and Experience Manager. The segment generated 24.7% of revenue in FY2025
+($5.8 Billion) (Figure 5) mainly serving marketers, brand managers, data
+analysts, and C-suite executives seeking to manage, personalize, and optimize
+the full customer journey. Sold primarily through multi-year enterprise
+contracts, this segment competes with Salesforce and Oracle in the broader
+marketing technology landscape.
+3.
+Publishing and Advertising is Adobe's smallest and most mature segment,
+containing legacy products across eLearning, technical publishing, web
+conferencing, and Adobe Advertising. This segment is not a growth driver
+accounting for only 1.1% of total revenue in 2025 (Figure 4) with consistent
+negative YoY growth since FY2020 and, is best understood as a collection of
+heritage offerings that Adobe continues to maintain.
+Figure 5: Historical Revenue Mix
+Source: Team Analysis
+*in Mn USD
+GEOGRAPHIC MIX
+Adobe generates revenue across four geographic regions, with the United States
+remaining the dominant market throughout the period. In FY2025, the US
+accounted for 52.7% of total revenue at $12.5bn, (Figure 7) a share that has
+remained broadly stable since FY2020. EMEA is the second largest region,
+contributing $6.3bn (Figure 7) or roughly 26% of total revenue in FY2025, while
+APAC contributed $3.4bn (Figure 7) at approximately 14%. The remaining Americas
+markets accounted for $1.6bn or around 7%. All four regions have grown
+consistently over the period, with total revenue nearly doubling from $12.9bn in
+FY2020 to $23.8bn in FY2025.
+CUSTOMER MIX
+Adobe serves two primary customer groups across its Digital Media and Digital
+Experience segments. “Creative and Marketing Professionals”, the larger cohort
+at $16.3bn in FY2025 subscription revenue (Figure 8), require comprehensive, AI-
+enabled solutions for high-volume content creation, served through flagship
+Creative Cloud applications such as Photoshop, Illustrator, and Lightroom
+alongside Experience Cloud offerings and newer generative AI tools including
+Firefly and GenStudio. “Business Professionals and Consumers”, contributing
+$6.5bn (Figure 8), seek accessible web and mobile applications with intuitive AI
+capabilities, primarily served through Acrobat and Adobe Express.
+Figure 8: Customer Segment
+Subscription Revenue Mix
+Source: Company Report
+Customer Group
+2025 ($M)
+2024 ($M)
+2023 ($M)
+Creative &
+Marketing
+Professionals
+$16,303
+$14,749
+$13,425
+Business
+Professionals &
+Consumers
+$6,495
+$5,662
+$4,744
+Total DM & DE
+Revenue
+$22,798
+$20,411
+$18,169
+Figure 7: Geographic Revenue Mix
+Source: Team Analysis
+Figure 6: Adobe’s Acquisition History
+*in Mn USD
+Semrush
+$1.9B
+Film Impact
+Undisclosed
+Rephrase ai
+Undisclosed
+Abstract
+Undisclosed
+ContentCal
+Undisclosed
+Figma (Blocked)
+$20B
+Workfront
+$1.5B
+Frame.io
+$1.275B
+Nov. 2020
+Oct. 2021
+Dec. 2021
+Dec. 2021
+Dec. 2023
+2023
+Nov. 2025
+Sep. 2025
+Source: Team
+Analysis | Adobe
+Newsroom
+
+--- PAGE 4 ---
+NASDAQ
+Sector: Technology
+Industry: Software – Application
+INDUSTRY OVERVIEW
+MARKET DYNAMICS
+Figure 9: Global E-Signature Market
+Size
+Adobe is in the global application software industry, specializing in systems and
+subscriptions software (Annex 4). We define Adobe’s industry as the ‘Global Digital
+Content Creation & Customer Experience (CX) Software Industry’.
+The industry landscape for Adobe in 2026 is defined by a paradoxical shift. While the
+demand for digital content has reached an all-time high with a forecasted CAGR of
+13.8% till 2034, the traditional barriers to creating that content have never been
+lower. This dynamic has fundamentally altered the competitive forces acting upon
+the company. (Annex 5)
+POLITICAL
+•
+Data sovereignty & digital policy: Governments increasingly regulate where
+data can be stored and processed (EU, China, Middle East). This raises
+compliance costs for global SaaS vendors but favors scaled incumbents that can
+localize infrastructure.
+•
+Public sector digitization: Governments are increasingly adopting digital
+documents, e-signatures, and automated workflows. This shift is materially
+expanding demand for digital signature solutions, with the global e-signature
+market projected to grow from roughly $5–6 billion today to over $150 billion by
+2034 (Figure 9), driven by regulatory acceptance and ongoing public-sector
+modernization.
+ECONOMIC
+•
+IT budget cyclicality: Creative and marketing spend is discretionary, making
+the industry somewhat sensitive to enterprise and SMB budget tightening during
+economic slowdowns (Figure 10).
+•
+Subscription resilience: High recurring revenue and mission-critical workflows
+provide earnings durability vs. cyclical software peers.
+•
+FX exposure: Significant revenue outside the U.S (Figure 11). i.e. currency
+volatility impacts reported growth. U.S. dollar volatility under Trump may affect
+reported revenue given Adobe’s significant international exposure..
+SOCIAL
+•
+Creator economy growth: Explosion of digital creators, social media, video, and
+content marketing expands the industry’s TAM.
+•
+Remote & hybrid work: Sustains demand for cloud-based collaboration, PDFs,
+e-signatures, and digital workflows due to increasing trend of remote/hybrid work
+(Figure 12).
+•
+Democratization of creativity: Rise of non-professional creators expands the
+market but introduces down-market competitive pressure. Ie. Design literacy
+becoming mainstream increases competition from simpler tools like Canva.
+TECHNOLOGICAL
+•
+Generative AI disruption: Rapid advances in generative AI are reshaping
+creative workflows, lowering skill barriers, and accelerating product innovation
+cycles. This introduces both opportunity and risk, including potential shifts
+toward usage-based pricing models.
+•
+Cloud-native development: Browser-based, collaborative-first tools enable
+faster iteration and lower distribution costs, intensifying competition and
+reducing switching frictions for users.
+•
+Platform vs. point-solution dynamics: Vendors must choose between broad,
+integrated platforms and best-in-class point solutions, with technology driving
+frequent changes in competitive advantage.
+ECOLOGICAL
+•
+Low direct environmental exposure: Software-based business models have
+limited physical environmental impact compared to hardware or industrial
+sectors.
+•
+Cloud infrastructure sustainability: Growing scrutiny of data center energy
+usage and emissions indirectly affects the industry through reliance on third-
+party cloud providers.
+LEGAL (Figure 13)
+•
+Intellectual property and copyright: Creative software providers face
+increasing legal complexity around content ownership, licensing, and AI training
+data, particularly as generative tools proliferate.
+•
+Privacy and data protection laws: Regulations such as GDPR and CCPA
+increase compliance costs but also raise barriers to entry, favoring vendors with
+robust legal and compliance capabilities.
+Source: Fortune Business Insights
+Figure 12: Work Locations for U.S.
+Employees With Remote-Capable
+Jobs
+Source: Gallup
+Figure 10: Average Marketing Budget
+as a % of Total Revenue
+Source: Gartner
+Figure 11: FY2025 Geographic
+Revenue Mix
+Source: Team Analysis | Company Report
+Figure 13: Data Sovereignty & Digital
+Policy Regulatory Burden by Region
+across 3 Key Dimensions
+Sources: EU GDPR / eIDAS 2.0 | China PIPL /
+CAC regulations | Saudi Arabia PDPL | India
+DPDP Act 2023 | UK DPDI Bill | US USMCA /
+ESIGN Act | EU AI Act 2024
+
+--- PAGE 5 ---
+NASDAQ
+Sector: Technology
+Industry: Software – Application
+INDUSTRY FORCES
+COMPETITIVE RIVALRY - HIGH
+Competitive rivalry is high and increasingly centered on ecosystem-level
+competition rather than individual tools. As AI-driven convergence collapses
+marketing, analytics, and workflow software into an integrated content supply
+chain, competition has shifted from feature differentiation to platform-scale
+execution. Leading incumbents compete primarily on ecosystem completeness,
+depth of integration, and their ability to orchestrate end-to-end workflows.
+Despite an oligopolistic market structure, rivalry remains intense due to
+overlapping product roadmaps and rapid innovation cycles. File formats,
+embedded workflows, and organizational adoption create meaningful switching
+frictions, which moderate price-based competition and help sustain industry
+profitability even as rivalry intensifies.
+High fixed costs in AI R&D (Figure 16), cloud infrastructure, and ecosystem
+investment, combined with near-zero marginal costs, incentivize continuous
+feature expansion, bundling, and aggressive roadmap execution. Significant exit
+barriers arising from sunk investments in said infrastructure further reinforce
+competitive intensity, as incumbents are structurally incentivized to defend share
+rather than exit. While rivalry is high in innovation spend and strategic positioning,
+it is less destructive in pricing due to disciplined competition among scaled
+incumbents and enterprise lock-in.
+THREAT OF ENTRY - MEDIUM
+The threat of new entrants in the digital content and experience industry is
+moderate and structurally bifurcated. Technological advances such as AI have
+lowered barriers to entry for launching new creative and marketing tools,
+particularly at the prosumer and SMB level. This enables small teams to introduce
+feature-rich products with limited upfront capital. This dynamic contributes to
+ongoing feature-level fragmentation and localized price pressure but does not
+meaningfully undermine the position of scaled platform incumbents.
+In contrast, barriers to entry at the enterprise platform level remain high and
+continue to rise. Competing for global enterprise customers requires significant
+scale, deep workflow integration across content creation and activation, global
+sales and support capabilities, and long-term operational credibility. Regulatory
+and compliance requirements related to data security, privacy, and AI governance
+(Figure 17) create additional hurdles, as enterprise buyers increasingly demand
+formal certifications, and enforceable safeguards.
+Entrenched incumbents such as Adobe further benefit from switching costs
+embedded in proprietary file formats, accumulated content archives, organizational
+training, and deeply integrated workflows. As a result, while entry at the tool and
+feature level is frequent and persistent, meaningful entry into the core enterprise
+profit pool remains constrained, reinforcing the durability of incumbent
+platforms’ revenue and margins.
+THREAT OF SUBSTITUTES - HIGH
+The threat of substitutes in the digital content and experience industry is rising,
+driven primarily by AI-enabled workflows rather than direct competitor software
+(Figure 18). Generative AI platforms, automated content engines, and low-cost
+tools increasingly perform specific content production tasks without reliance on
+professional creative software, particularly where speed and scale matter more
+than manual control.
+Substitution pressure is highest for high-volume, low-stakes, and mid-market use
+cases, where automated solutions can meet functional requirements at lower cost
+and with fewer licenses. By contrast, substitution remains limited for brand-critical,
+regulated,
+and
+complex
+enterprise
+workflows
+that
+require
+governance,
+collaboration, and quality control. The primary impact of substitutes is sustained
+pressure on pricing models and seat expansion rather than immediate
+displacement of enterprise platforms, shifting differentiation toward integrated
+workflows, data, and ecosystem lock-in.
+BARGAINING POWER OF BUYERS - HIGH
+Buyer power in the digital content and experience industry has increased materially,
+driven by AI-enabled productivity gains and the concentration of spend among
+large enterprises and agencies. Automation allows organizations to produce more
+content with fewer licenses, weakening the traditional per-seat pricing model
+and giving buyers greater leverage to negotiate flexible, outcome-based, or hybrid
+pricing structures.
+Figure 14: Competitive Positioning |
+Adobe vs. Peers
+Source: Team Analysis
+Figure 15: Porter’s 5 Forces
+Summary
+Source: Team Analysis
+Figure 18: Global AI Integration in
+SaaS Adoption
+Source: Team Analysis | Gartner | IDC | Gitnux Market
+Reports
+Figure 16: SaaS Industry Average
+R&D Investment
+Source: Team Analysis | Gartner | IDC | Zylo |
+BVP Cloud Indices
+Figure 17: Regulatory Snapshot
+Source: Team Analysis | Company Report
+
+--- PAGE 6 ---
+While switching costs remain meaningful at the workflow and organizational level,
+functional capabilities at the tool level are increasingly standardized, improving
+buyers’ negotiating position. Large customers further amplify their influence
+through vendor consolidation, sophisticated procurement processes, and the
+ability to supplement commercial software with in-house or AI-driven solutions.
+As a result, buyers exert sustained pressure on pricing, contract terms, and
+roadmap prioritization, increasing competitive intensity without fully eliminating
+incumbent platform advantages.
+BARGAINING POWER OF SUPPLIERS - MEDIUM
+Supplier power in the digital content and experience industry (Figure 19) has
+increased with the shift toward AI-driven, cloud-intensive workflows. Key
+suppliers include cloud infrastructure providers, GPU and semiconductor
+manufacturers, and select AI technology vendors, many of which are concentrated
+and exert influence over input availability and pricing. Dependence on high-
+performance computing introduces cost volatility, particularly through usage-based
+cloud pricing and periodic hardware constraints.
+However, supplier power is moderated for large incumbents by scale advantages,
+multi-cloud strategies, long-term contracts, and the ability to develop or fine-tune
+models in-house. While these dynamics pressure margins and increase
+operational complexity, they do not confer sustained strategic control to
+suppliers. As a result, supplier power primarily affects cost variability and capital
+allocation rather than long-term competitive positioning.
+COMPETITIVE LANDSCAPE
+The Creative Cloud is positioned as one of the main professional-grade
+ecosystems that offers IP-safe generative AI, a critical differentiator from the
+scrapped models of competitors like Midjourney or Flux. While the industry analysis
+highlighted the high threat of substitutes like Canva and Google’s Nano Banana Pro,
+Adobe defends its moat by offering full legal indemnification to Fortune 500
+clients, a requirement that low-cost startups currently cannot meet. The segment’s
+primary future threat remains "seat-count compression" from AI efficiency.
+However, Adobe is converting this into an opportunity by pivoting toward
+consumption-based monetization and Adobe GenStudio (Figure 20), which
+automates high-volume performance marketing tasks that were previously too
+manual for the core creative suite to capture.
+CREATIVE CLOUD’S SCALE-BASED MOAT
+DOCUMENT CLOUD’S AI PIVOT
+Document Cloud has moved beyond the “PDF utility" classification to become an
+AI-powered productivity engine for knowledge workers. While it faces intense
+pressure from larger firms, as established in the industry analysis, Adobe positions
+Acrobat as a platform-neutral "universal language" that lives outside the Windows
+silo, dominating fellow specializers (Figure 21). The competitive advantage here is
+the Acrobat AI Assistant, which has successfully transformed static documents
+into searchable knowledge hubs. The future opportunity lies in the transition to
+intelligent insights, where the platform moves from simple e-signatures to auditing
+thousands of contracts autonomously, allowing Adobe to maintain high Net
+Revenue Retention (NRR) even as basic PDF editing becomes a commoditized
+feature in free office suites.
+EXPERIENCE CLOUD’S UNIQUE INTEGRATION
+In the Experience Cloud, Adobe is positioned as the content-to-commerce leader,
+fighting a direct war for the enterprise with Salesforce and Oracle (Figure 22). While
+rivals focus on the customer relationship management record, Adobe leverages its
+dominance in the Creative Cloud to position itself as the unique provider that can
+link the creation of an asset to its real-time performance. The recent announcement
+of the integration of Semrush is forecasted to provide a unique competitive edge
+by embedding marketing visibility and SEO insights directly into the workflow. The
+major future opportunity for this segment is the shift from autopilots to
+autonomous marketing agents, which allows enterprise clients to bypass
+traditional agency costs by using Adobe’s platform to plan, execute, and optimize
+global campaigns at a speed that standalone competitors cannot match.
+Figure 19: Industry Supplier
+Dependency Map
+Figure 20: Adobe GenStudio
+Statistics
+Source: Team Analysis | Company Report
+Figure 21: Document Cloud
+Revenue Peer Comparison
+Source: Team Analysis | Company Report
+Figure 22: Experience Cloud Peer
+Differentiator
+Source: Team Analysis | Company Report
+Source: Team Analysis
+
+--- PAGE 7 ---
+FINANCIAL ANALYSIS
+OVERALL ASSESSMENT
+REVENUE DYNAMICS & BUSINESS MIX
+DUPONT DECOMPOSITION ANALYSIS
+FY2020
+FY2021
+FY2022
+FY2023
+FY2024
+FY2025
+FY2026E
+FY2027E
+FY2028E
+FY2029E
+FY2030E
+DuPont Analysis
+Gross Margin
+86.6%
+88.2%
+87.7%
+87.9%
+89.0%
+89.3%
+88.4%
+88.4%
+88.9%
+89.4%
+89.6%
+EBIT Margin
+32.9%
+36.8%
+34.6%
+34.3%
+31.3%
+36.6%
+31.6%
+33.6%
+37.2%
+38.2%
+38.7%
+EBITDA Margin
+38.8%
+41.7%
+39.5%
+38.8%
+35.3%
+40.1%
+35.0%
+36.9%
+40.5%
+41.6%
+42.1%
+Net Margin
+40.9%
+30.5%
+27.0%
+28.0%
+25.9%
+30.0%
+25.8%
+27.4%
+30.3%
+31.2%
+31.5%
+FCF Margin
+41.2%
+43.6%
+42.0%
+35.8%
+36.6%
+41.4%
+35.6%
+40.0%
+41.7%
+43.5%
+42.9%
+Asset Turnover
+0.53x
+0.61x
+0.65x
+0.68x
+0.72x
+0.80x
+0.92x
+1.03x
+1.07x
+1.07x
+1.07x
+Return on Equity (ROE)
+39.7%
+34.4%
+33.0%
+35.5%
+36.3%
+55.4%
+62.6%
+79.6%
+88.6%
+85.0%
+80.5%
+Return on Assets (ROA)
+21.7%
+18.7%
+17.5%
+19.1%
+18.5%
+23.9%
+23.6%
+28.2%
+32.4%
+33.4%
+33.8%
+Return on Inv. Capital (ROIC)
+41.4%
+32.5%
+34.6%
+40.8%
+44.6%
+57.3%
+59.4%
+68.1%
+83.8%
+106.6%
+127.4%
+FCF Return on Equity
+22.6%
+28.6%
+32.0%
+30.9%
+34.2%
+45.1%
+47.9%
+57.0%
+63.5%
+65.5%
+65.2%
+Liquidity
+Current Ratio
+1.48x
+1.25x
+1.11x
+1.34x
+1.07x
+1.00x
+0.80x
+0.80x
+0.94x
+1.08x
+1.23x
+Quick Ratio
+1.34x
+1.11x
+1.00x
+1.22x
+0.95x
+0.88x
+0.68x
+0.68x
+0.83x
+0.97x
+1.13x
+Cash Flow Quality
+FCF Conversion (FCF / Net Income)
+100.9%
+142.7%
+155.5%
+127.9%
+141.6%
+138.2%
+138.1%
+146.1%
+137.7%
+139.5%
+136.0%
+Quality of Earnings (CFO / Net Income 108.9%
+149.9%
+164.8%
+134.5%
+144.9%
+140.7%
+143.9%
+151.2%
+142.0%
+143.4%
+139.8%
+FCF / EBITDA
+106.3%
+104.4%
+106.4%
+92.3%
+103.6%
+103.4%
+101.8%
+108.4%
+103.2%
+104.6%
+101.8%
+Leverage & Solvency
+Total Debt / Equity
+0.31x
+0.28x
+0.26x
+0.22x
+0.29x
+0.53x
+0.59x
+0.56x
+0.46x
+0.38x
+0.31x
+Net Debt / EBITDA
+(0.07x)
+0.04x
+(0.09x)
+(0.47x)
+(0.46x)
+0.08x
+0.16x
+0.16x
+(0.02x)
+(0.24x)
+(0.41x)
+Equity / Total Assets
+54.6%
+54.3%
+51.7%
+55.5%
+46.7%
+39.4%
+35.8%
+34.9%
+38.1%
+40.4%
+43.5%
+Total Debt / Total Assets
+17.0%
+15.1%
+13.4%
+12.2%
+13.7%
+21.1%
+21.3%
+19.7%
+17.3%
+15.2%
+13.4%
+Figure 23: Key Financials
+Source: Team Analysis
+Adobe exhibits one of the strongest financial profiles in the global software sector. In FY2025, Adobe generated an FCF
+margin of 41.4% (Figure 27), materially ahead of Microsoft (25%), Salesforce (32%), and Workday (24%), placing it in a select
+group of cash-generative enterprise software franchises. The company combines predictable recurring revenue, strong
+operating leverage, and exceptional free cash flow generation with disciplined capital allocation , reflected in an ROIC of
+57.3% in FY2025 (Figure 31) . Our forecasts indicate the company can sustain high-single-digit revenue growth through
+FY2030, with EBIT margins recovering from a near-term AI investment trough of 31.6% in FY2026 toward 38.7% by FY2030
+(Figure 23) , and free cash flow expanding from $9.85B in FY2025 to $15.6B, a 58% cumulative increase (Figure 23) driven by
+operating leverage on a near-fixed cost base. This financial profile supports Adobe's positioning as a durable long-term
+compounder with strong earnings visibility and significant capacity to reinvest in innovation while continuing to return capital
+to shareholders.
+Adobe has transitioned from a high-growth software provider to a durable
+compounder, with revenue growing from $19.4B in FY2023 to $23.8B in FY2025 and
+forecast to reach $36.3B by FY2030, implying a high-single-digit forward CAGR.
+Revenue quality is exceptional with subscription revenue representing 96% of
+total sales, with deferred revenue balances providing strong forward visibility.
+Profitability is industry-leading. Gross margins of 89% (Figure 23) in FY2025 reflect a
+highly scalable infrastructure, though EBIT margins will temporarily compress to
+31.6% in FY2026 (Figure 23) as AI-related R&D and sales investments ramp, before
+recovering to 38.7% by FY2030 (Figure 23) as operating leverage reasserts. Net
+margins remain structurally anchored near 30% (Figure 23). Digital Media (75% of
+revenue) remains the primary earnings driver while Digital Experience (25%) and
+Legacy publishing stays immaterial to long-term valuation.
+The DuPont decomposition illustrates that Adobe's rising ROE is driven primarily
+by strong net margins and the equity multiplier effect from sustained share
+repurchases, rather than increased financial risk. Net margins of 30% in FY2025,
+among the highest in enterprise software, remain the core profitability driver,
+supported by high gross margins and operating leverage. ROA expanding from 23.9%
+in FY2025 to 33.8% by FY2030 (Figure 25) confirms that asset productivity is
+genuinely improving independently of the leverage effect, while asset turnover
+reaches 1.07x by FY2030 (Figure 23) within the asset-light SaaS model. ROE
+increases from 55.4% in FY2025 to a projected peak of 88.6% in FY2028 (Figure 25)
+before moderating as buyback intensity normalizes, confirming return expansion is
+structurally supported by operating strength rather than excessive leverage. ROIC of
+57.3% in FY2025 (Figure 25), expanding materially through the forecast period,
+Figure 24: Revenue Mix & Growth
+Source: Team Analysis
+Figure 25: Capital Return Evolution
+Source: Team Analysis
+Avg Growth Rate FY2020-30
+ROE
+8.7%
+ROA
+5.2%
+ROIC
+12.9%
+Figure 26: Capital Return Growth Rates
+
+--- PAGE 8 ---
+CASH FLOW AND EARNINGS QUALITY
+Adobe's cash flow generation remains a defining strength when compared to peers
+(Figure 28). Operating cash flow exceeded $10B in FY2025, while free cash flow
+reached $9.85B, (Figure 27) corresponding to an FCF margin of 41%, (Figure 23)
+outperforming peers by an average of 20%. Free cash flow consistently exceeds
+net income, with conversion ratios above 1.3x across both the historical and
+forecast period, reflecting favorable working capital dynamics underpinned by
+recurring subscription billing structures, significant deferred revenue inflows, and
+minimal capital intensity. CapEx remains modest at 1–1.5% of revenue through
+the forecast period, preserving Adobe's structurally high cash conversion. We
+forecast a modest 6% decline in FCF during FY2026, reflecting elevated sales and
+marketing investments as the company competes with firms implementing AI
+capabilities and accelerates client adoption of Firefly and future AI integrations. This
+near-term pressure proves temporary. Our projections show free cash flow
+expanding to $15.5B by FY2030 (Figure 27), underpinned by sustained revenue
+growth and operating margin recovery as AI investments mature. This trajectory
+enables substantial discretionary capital deployment through share repurchases
+and strategic reinvestment while preserving balance sheet strength.
+DEBT & CAPITAL ALLOCATION
+Debt Structure: Adobe maintains a near net-cash position, with $6.6B in liquid
+assets offsetting $6.2B in long-term debt as of FY2025, resulting in a Net
+Debt/EBITDA of just 0.08x (Figure 29). The company carries no short-term debt and
+is not expected to issue new debt through FY2030, with scheduled long-term
+repayments declining from $340M in FY2026 to $260M by FY2030 representing the
+only debt service activity in our model. Interest coverage remains extremely
+strong, and the combination of minimal leverage and robust FCF generation
+provides significant financial flexibility and insulation from credit market volatility.
+Share Repurchase Program & Stock-Based Compensation: Share repurchases
+remain Adobe's primary capital return mechanism; the company has never paid a
+dividend. $11.2B of stock was repurchased in FY2025, representing 115% of free
+cash flow (Figure 30), driven by the company's $25B repurchase program and
+reflecting management's confidence in long-term intrinsic value. Buybacks are
+modelled to remain elevated through FY2026, supporting further equity base
+compression and ROE expansion, before moderating as the program matures.
+Stock-based compensation runs at 8–9% of revenue historically, partially
+offsetting repurchase activity on a gross dilution basis, though net share count
+reduction remains a consistent and meaningful contributor to EPS growth.
+RETURNS ON CAPITAL
+Adobe generates exceptional returns on capital, reflecting strong margins and an
+asset-light business model. ROIC reached 57.3% in FY2025 (Figure 31), and is
+forecast to expand materially through the forecast period, as rising NOPAT
+compounds against a shrinking invested capital base driven by sustained buyback
+activity. Against a WACC of 10.48%, the ROIC-WACC spread of 46.8% (Figure 31),
+in FY2025 is one of the widest in global enterprise software, and widens further
+through the forecast horizon. ROE of 55.4% in FY2025 and ROA of 23.9% (Figure 23),
+both expanding materially through FY2030 confirming that return improvement is
+broad-based rather than leverage-driven, with asset productivity genuinely improving
+as revenue compounds on a relatively stable and low-intensity asset base.
+The substantial and widening ROIC-WACC spread confirms consistent
+economic value creation across the forecast horizon. The subscription model's
+operating leverage means each incremental revenue dollar generates a
+disproportionate increment in NOPAT, sustaining the spread even as absolute ROIC
+levels normalize post-peak. This structural value creation dynamic is the primary
+analytical justification for Adobe's premium valuation positioning relative to
+software peers.
+Figure 27: Free Cash Flow Generation
+Source: Team Analysis
+Figure 28: Peer FCF Margin
+Source: Team Analysis
+Figure 30: Share Repurchase & Comp
+Source: Team Analysis
+Figure 29: FY2025 Debt Profile (ADBE)
+Source: Team Analysis
+Metric
+FY2025
+Debt Ratio
+21.1%
+Net Debt / EBITDA
+0.08x
+Figure 31: FY2025 ROIC-WACC Spread
+Source: Team Analysis
+further reinforces that capital deployment generates returns well in excess of Adobe's
+cost of capital.
+
+--- PAGE 9 ---
+Valuation
+We issue a BUY recommendation for ADBE based on a rigorous valuation analysis
+using two different approaches, a DCF and relative valuation, to arrive at a 12-
+month target price of $408.12 per share (Figure 32), a 55.5% upside from ADBE’s
+closing price of 262.41 on February 28th, 2026. Our methodology assigns a
+weighting of 100% on our DCF approach due to its superior ability to capture the
+company’s long-term intrinsic value through detailed cash flow forecasts,
+operational insights, and financial projections, and the relative differences and
+complexity of the software industry. Our other approach alongside a market
+consensus also confirms our buy recommendation for ADBE.
+Figure 32: Valuation Football Field
+Source: Team Analysis
+DCF VALUATION - $408.12
+Revenue: Multi-segment growth driven by AI monetization and strategic M&A
+Digital Media (74.3% of 2025 revenue): We forecast revenue growth decelerating
+from 10.5% in 2026 to 7.0% by 2030 (Figure 33, Annex 1), reaching $26.7B. Key
+drivers include: a) sustained adoption of Firefly generative AI across Creative Cloud,
+driving both user acquisition and ARPU expansion; b) Acrobat AI Assistant
+penetration among enterprise customers; and c) market maturation offsetting AI-
+driven tailwinds in later forecast years. Our projections reflect the reality that Digital
+Media is Adobe's largest but most mature segment, where AI represents an
+incremental growth driver rather than a fundamental reacceleration.
+Digital Experience (25% of 2025 revenue): We project more robust growth of 8.8%–
+11.2% through 2027, moderating to 9.5% by 2030 (Figure 33, Annex 1), reaching
+$9.5B. The Semrush acquisition, set to close in 2026, provides a full-year revenue
+tailwind and meaningful cross-sell opportunities starting in 2026, particularly in
+SEO-integrated marketing workflows. Beyond M&A, organic growth stems from
+Experience Cloud's expanding enterprise footprint and GenStudio's workflow
+consolidation capabilities.
+Publishing and Advertising (1% of 2025 revenue): This legacy segment continues
+its secular decline, contracting at an accelerating rate from -6% in 2026 to -22% by
+2030 (Figure 33, Annex 1), reaching $129M. By 2030, this segment is essentially
+negligible as legacy contracts have been exited or migrated to Experience Cloud
+offerings.
+Gross Margins: We project stable Digital Media gross margins around 95.0%–95.9%
+(Figure 34, Annex 1) as AI-driven COGS remain contained through cloud
+infrastructure efficiencies. Digital Experience margins expand from 69% in 2026 to
+72% by 2030 (Figure 34, Annex 1), reflecting operational leverage from the Semrush
+integration and Adobe's shift toward higher-margin Experience Cloud modules.
+Blended gross margins stabilize at 89.4%–89.6% across the forecast horizon (Figure
+34, Annex 1).
+Operating Expenses: Strategic investment phase followed by operating leverage
+R&D Expense: Initially elevated at 19.5% of revenue in 2026, reflecting
+management's explicit guidance on "outsized investment" in GPU-optimized
+software, autonomous agents, and next-generation AI capabilities. We model
+gradual efficiency gains, with R&D declining to 17.8% of revenue by 2030 (Figure 35,
+Annex 1) as core AI infrastructure matures and the company transitions from
+foundational R&D to incremental refinement.
+Sales & Marketing: Maintained at 30% in 2026–2027 to support aggressive
+conversion of Firefly free users into paying AI subscriptions and to establish
+GenStudio in enterprise workflows. We anticipate operating leverage thereafter as
+Adobe shifts toward upselling existing customers, with S&M declining to 27.2% of
+revenue by 2030 (Figure 35, Annex 1).
+G&A Expense: Modeled at 6.5% in 2026, incorporating elevated legal and
+compliance costs associated with implementing AI trust architectures and NIS
+2 directive requirements. G&A stabilizes at 5.0% of revenue from 2027 onward
+(Figure 35, Annex 1), consistent with Adobe's historically lean corporate overhead.
+Net Working Capital:
+Deferred Revenue: Represents 26% of revenue in 2026–2027 (Figure 36, Annex 1),
+gradually declining to 24% by 2030. This modest compression reflects Adobe's
+evolving customer mix as enterprise contracts, constitute a larger portion of total
+revenue, partially offset by continued SaaS subscription stability.
+Receivables and Payables: Accounts receivable are held constant at 35 credit days
+DCF
+Relative
+Market
+Consensus
+Current Price:
+$262.41
+$408.12
+$561.71
+$300.79
+$419.70
+$536.26
+$1088.6
+$270
+$408.47
+$605
+Figure 33: YoY Forecasted Revenue
+Growth Mix
+Source: Team Analysis
+Figure 34: Gross Margin Evolution by
+Segment
+Source: Team Analysis
+Figure 35: Forecasted Operating
+Expense Mix
+Source: Team Analysis
+Figure 36: Working Capital Days
+Source: Team Analysis
+
+--- PAGE 10 ---
+(Figure 36, Annex 1), reflecting stable enterprise payment terms and Adobe's strong
+collections discipline. Accounts payable remain at 55 days (Figure 36, Annex 1),
+capturing modest vendor financing optimization without aggressive working capital
+management.
+Other Working Capital Items (Annex 1): Accrued expenses are maintained at 10.9%
+of revenue, consistent with Adobe's historical operational patterns. Other current
+liabilities grow at a steady 5% annually, while other long-term liabilities grow at 3%
+annually. Deferred tax liabilities decline by 2% Aper year, reflecting gradual
+utilization of existing tax positions.
+BETA, WACC & TERMINAL GROWTH
+Beta: We employ a weighted beta of 1.26, derived from four distinct methodologies
+(Annex 14) to ensure robustness: Houses of finance average, beta from peers , a 5-
+year regression beta vs. S&P 500 (Figure 37) adjusted to deflate beta from the Figma
+deal collapse, and Damodaran’s industry beta estimate. Cost of Equity (CoE):
+10.96% (Annex 11) , calculated using the Capital Asset Pricing Model (CAPM) with a
+risk-free rate of 4.21% (10-year U.S. Treasury yield as of February 2026) and an
+equity risk premium of 5.40%. Cost of Debt (CoD): 3.57% (after-tax) (Annex 12),
+derived through a blended approach using interest-bearing liabilities method and
+synthetic credit rating method which corresponded to an AAA rating and a 75 bps
+credit spread over the risk-free rate. WACC: Estimated at 10.48% (Figure 38, Annex
+13), reflecting Adobe's capital structure with equity representing 94.5% of enterprise
+value and debt representing 5.5%. This WACC is applied consistently across the
+explicit forecast period to discount unlevered free cash flows.
+The base case terminal growth rate is set at 2.5% (Annex 13) , positioned above
+long-term inflation (2.0%) but below nominal GDP growth (3.5%–4.0%). This reflects:
+a) Adobe's entrenched position in creative and marketing workflows, providing
+durable competitive moats; b) the maturation of core Creative Cloud and Experience
+Cloud markets, limiting Adobe's ability to sustain historical growth rates in
+perpetuity; and c) the expectation that AI-driven productivity gains will support
+modest real growth beyond 2030. This assumption is intentionally conservative
+given Adobe's historically strong ROIC averaging above 20%, but accounts for
+eventual market saturation and intensifying competition from AI-native entrants
+RELATIVE VALUATION - $536.26
+We valued Adobe using comparable companies' valuation multiples of EV/Revenue,
+EV/EBITDA, P/E ratio, EV/FCF, and Price/Sales. EV/EBITDA and EV/FCF reflect
+operational performance and cash generation, while P/E captures equity-specific
+factors, offering a balanced perspective. The peer median multiples were 7.7x
+EV/Revenue, 18.7x EV/EBITDA, 26.8x P/E, 22.4x EV/FCF, and 7.0x Price/Sales
+(Figure 39, Annex 15). Adobe currently trades at a significant discount to peers
+across all metrics. The company's EV/EBITDA multiple of 11.3x represents a 40%
+discount to the peer median of 18.7x, while its P/E ratio of 15.3x trades 43% below
+the peer median of 26.8x (Figure 39). This discount is striking given Adobe's superior
+EBITDA margin of 38.9%, which exceeds the peer median of 28.0% by 39%. The
+relative valuation yielded implied prices ranging from $420 to $1,089, with a median
+of $536 indicating 109% upside (Figure 39, Annex 15). The relative valuation was not
+used for the final price calculation but supplements our BUY view on Adobe.
+SENSITIVTY ANALYSIS
+We conducted a sensitivity analysis varying two key valuation drivers
+simultaneously: WACC and the terminal growth rate (Figure 40, Annex 16). The
+analysis demonstrates that a 50 bps increase in WACC from our base case of
+10.48% to 10.98% reduces the implied share price by approximately 5% to $383,
+while a 50 bps decrease to 9.98% increases the price by 7% to $437. Terminal
+growth rate changes exhibit similar but slightly less pronounced effects, with a 50
+bps increase from 2.50% to 3.00% raising the price by 5% to $429. Our Bear Case
+($301, 14.6% upside): Assumes WACC of 12.48% and terminal growth of 1.50%
+(Figure 40, Annex 16). Our Bull Case ($561, 114.0% upside): Assumes WACC of
+8.48% and terminal growth of 3.25% (Figure 40, Annex 16). The sensitivity analysis
+confirms that our base case valuation of $408 is positioned conservatively within the
+range of plausible outcomes, and even under pessimistic scenarios, Adobe's
+implied valuation supports meaningful upside from the current $262 market price.
+Figure 37: ADBE vs S&P500 weekly 5 yr
+returns regression analysis
+Source: Team Analysis
+Figure 38: WACC Calculation
+Source: Team Analysis
+1.50% 2.00% 2.50% 3.00% 3.50%
+8.48% 485.9 516.2 551.5 593.4 643.6
+9.48% 422.1 444.2 469.5 498.7 532.8
+10.48% 372.6 389.3 408.1 429.5 453.9
+11.48% 333.1 346.0 360.5 376.6 394.8
+12.48% 300.8 311.1 322.4 335.0 348.9
+Figure 40: Sensitivity Analysis –
+WACC/Terminal Growth Rate
+Source: Team Analysis
+WACC
+Equity - Weight
+%
+94.52%
+Debt - Weight
+%
+5.48%
+Tax
+%
+18.50%
+Cost of Equity
+%
+10.88%
+Cost of Debt
+%
+3.55%
+WACC
+%
+10.48%
+Terminal Growth Rate
+WACC
+y = 1.4388x – 0.4686
+Figure 39: Relative Valuation Metrics
+Source: Team Analysis
+Current Price: $262.41
+Share Price $300.79 $408.12 $561.71
+Upside
+14.63%
+55.53% 114.06%
+WACC
+12.48%
+10.48%
+8.98%
+TGR
+1.50%
+2.50%
+3.25%
+Bear
+Base Bull
+
+--- PAGE 11 ---
+ENVIRONMENTAL, SOCIAL, & GOVERNANCE
+ALIGNMENT TO ESG REGULATION
+ENVIRONMENTAL PERFORMANCE ANALYSIS
+SOCIAL PERFORMANCE ANALYSIS
+Adobe represents a critical case study in the evolution of ESG factors as a primary
+indicator of long-term resilience and competitive advantage (Annex 17). This is
+due to the organization navigating a transitional era defined by the rapid adoption of
+generative artificial intelligence and the tightening of global sustainability
+regulations. For the institutional investor, Adobe’s ESG performance is no longer a
+peripheral consideration but a fundamental component of its enterprise risk
+management and product differentiation strategy.
+The global regulatory landscape is currently undergoing a shift from voluntary
+disclosure to mandatory, audit-ready reporting standards. Adobe’s compliance
+strategy for the European Union’s Corporate Sustainability Reporting Directive
+(CSRD) involves mapping its existing ESG reporting, data collection, and internal
+controls against the European Sustainability Reporting Standards (ESRS). The
+double materiality assessment (DMA) process includes a comprehensive of
+sustainability-related impacts, risks, and opportunities (IROs) across the global
+supply chain. By setting internal thresholds for IRO scores, Adobe ensures that
+material issues are addressed with the same rigor as financial liabilities. (Figure 41)
+Beyond climate-related mandates, Adobe’s regulatory alignment is heavily
+weighted towards data sovereignty and privacy. The firm’s adherence to the
+General Data Protection Regulation (GDPR) and the California Consumer
+Privacy Act (CCPA) is built on its philosophy: “privacy by design”. Adobe’s
+Common Controls Framework (CCF) rationalizes over 1350 global regulatory
+requirements into a set of Adobe-specific controls, allowing the company to
+maintain a broad range of certifications, including SOC 2, ISO 27001, and
+FedRAMP, which are critical for its enterprise and government contracts.
+Figure 41: Current ESG Regulation
+Alignment Status
+Source: Team Analysis | Company Report
+Adobe’s environmental strategy is characterized by an ambitious transition from
+carbon offsetting to fundamental carbon reduction, targeting net-zero emissions
+by 2050. The organization’s interim 2030 targets are aligned with the 1.5ºC scenario
+of the Paris Agreement, necessitating a 42% absolute reduction in Scope 1 and 2
+emissions from a 2022 base year. However, it comes to stand that the company’s
+Scope 3 emissions dwarf both its Scope 1 and 2 emission values (Figure 42 and 43),
+making the firm’s net-zero commitment a tougher goal. Furthermore, although the
+firm is in the top 88% of evaluated companies, compared to its peers, Adobe’s
+Ditchcarbon Score sits at the middle of the spectrum at 79/100 (Figure 44).
+A central pillar of Adobe’s environmental performance has been its commitment to
+100% renewable electricity by 2025, which it has indeed achieved. Unlike many
+industry peers who rely on unbundled renewable energy credits (RECs) to achieve
+parity, Adobe prioritizes direct procurement through grid-scale Power Purchase
+Agreements (PPAs) that add new clean energy to the grids where it operates.
+Notable initiatives include: India Solar PPA, U.S. Aggregate Wind Energy, and
+Founders Tower.
+The most significant environmental impact of Adobe’s business model is realized
+through the "handprint" of its products - the carbon and resource savings enabled
+for its global customer base. Through purposeful product design and efficient
+engineering, Adobe empowers its customers to accelerate their own sustainability
+journeys by replacing resource-intensive physical workflows with digital
+alternatives.
+Figure 42: Adobe’s Carbon Emissions
+Evolution
+Source: Team Analysis | Company Report
+Figure 43: Scope 3 Distribution
+Source: Team Analysis | Company Report
+Figure 44: DitchCarbon Peer
+Comparison
+Source: Team Analysis | DitchCarbon Database
+Adobe’s social pillar is anchored in its "Adobe for All" commitment, which views
+diversity and inclusion as foundational to innovation. The company has
+demonstrated consistent progress in workforce representation and equitable
+compensation, which are critical for maintaining its "Best Place to Work" status
+(Figure 45) and attracting elite engineering talent in the AI era.
+The organization fosters a culture of involvement through eight employee
+networks and significant investments in leadership development. In 2023, over
+18,000 employees participated in "Adobe for All Days”, reflecting high levels of
+engagement with the company’s DEI strategy. Furthermore, Adobe’s Learning
+Fund provides funding for education and professional development, ensuring that
+all employees have the opportunity to invest in their long-term career growth.
+
+--- PAGE 12 ---
+GOVERNANCE PERFORMANCE ANALYSIS
+ESG AS A VALUATION MECHANISM
+MATERIAL ESG RISKS
+Adobe has maintained global gender pay parity since 2018 and has extended this
+commitment to include race and ethnicity parity in the United States. The
+organization’s current workforce demographics indicate a steady increase in
+representation. Global Gender Diversity: 35.3% of the global employee base are
+women, with 29.0% of leadership roles (director-level and above) held by women.
+U.S. Minority Representation: 11.6% of the U.S. workforce identify as
+underrepresented
+minorities
+(URM),
+including
+Black/African
+American,
+Hispanic/Latinx, and Native American individuals (Figure 46). Talent Pipeline:
+Programs like the Adobe Digital Academy and Adobe for All Days foster an inclusive
+culture and provide pathways for individuals from underrepresented backgrounds
+to enter the technology sector. Interestingly, as of April 2025, Adobe has formally
+moved away from specific numeric racial and ethnical targets to focus on
+broader fairness in the hiring pipeline.
+Additionally, as Adobe integrates generative AI across its entire product stack, its
+commitment to ethical AI has become its primary competitive differentiator.
+Adobe’s internal AI ethics framework is overseen by a diverse cross-functional AI
+Ethics Review Board. The process includes.: AI Ethics Impact Assessment:
+Required for all new AI-powered features to identify potential social and ethical
+risks. Diverse Human Oversight: The Review Board brings perspectives from
+various personal and professional backgrounds to identify issues that a
+homogeneous team might overlook. Continuous Testing: Rigorous automated and
+human testing to reduce biased or inaccurate results, followed by feedback
+mechanisms that allow users to report concerns in real-time.
+Figure 45: Glassdoor Review Peer
+Comparison
+Source: Team Analysis | Glassdoor Database
+Adobe’s governance structure is designed to balance strong executive leadership
+with robust independent oversight, a critical factor for an organization managing
+the high-speed transformation of the AI inflection point. The Adobe Board of
+Directors features a combined Chair and CEO role, held by Shantanu Narayen, as
+well as the Lead Director, currently Frank Calderoni, whose responsibilities
+include presiding over executive sessions of the independent directors, overseeing
+the CEO’s performance evaluation, and acting as a liaison between the board and
+the stockholders.
+Management team record: (Annex 3) The Adobe management team is
+characterized by a "track record of innovation, financial performance, and
+growth”. Under Narayen’s leadership, the company achieved record revenue of
+$21.51 billion in fiscal 2024. David Wadhwani, the digital media business
+president, leverages his previous experience as CEO of AppDynamics as well as his
+prior tenure at Adobe to lead the company’s AI product strategy. Dana Rao, the
+chief trust officer and general counsel, leads Adobe’s legal, security, and policy
+organizations. Lastly, the CFO Dan Durn provides the financial discipline necessary
+to support the company’s aggressive R&D investments in AI while maintaining
+robust cash flows from operations, which reached $2.20 billion in Q3 FY2025.
+For a company at the center of the global content supply chain, the most critical
+material risks relate to the security of its data and the ethical deployment of its AI
+models. Adobe manages a vast repository of intellectual property for its customers,
+making it a primary target for sophisticated cyberattacks. The organization’s
+response to this risk is the Adobe Secure Product Lifecycle (SPLC), a set of several
+hundred security activities integrated into the development process. However,
+controversies and vulnerabilities persist:
+ColdFusion and Commerce Vulnerabilities: In September 2025, Adobe patched
+20 vulnerabilities, including a critical path traversal flaw in ColdFusion (CVE-2025-
+54261) that carried a CVSS score of 9.0.
+The SessionReaper Incident: In late 2025, an upgrade error in Adobe Analytics
+caused proprietary customer data to appear in unrelated dashboards. While
+resolved within 24 hours, the incident highlighted the risks inherent in shared cloud
+infrastructure and the potential for system-level errors to cross organizational
+boundaries.
+Adobe’s ESG profile is one of the strongest in the software sector, frequently
+achieving an AAA rating from MSCI. Adobe competes in a space where ESG
+excellence is the standard rather than the exception (Figure 47). A comparative
+analysis (Figure 48) shows that while peers like Salesforce and Microsoft have
+achieved net-zero residual emissions across their value chains, Adobe’s
+competitive edge lies in the ethical training and "commercial safety" of its
+creative AI models.
+Figure 46: US Race and Ethnicity
+Breakdown
+Source: Team Analysis | Company Report
+Figure 48: Comparative Competitive
+ESG Edge
+Source: Team Analysis | Company Report
+Figure 47: S&P Global CSA & ESG
+Score
+Source: Team Analysis | S&P Database
+
+--- PAGE 13 ---
+ANNEX – TABLE OF CONTENTS
+ANNEX 1 – Forecasts & Assumptions
+ANNEX 2 – Shareholder Structure of Adobe
+ANNEX 3 – Board of Directors
+ANNEX 4 – PESTEL Analysis
+ANNEX 5 – Five Forces Analysis
+ANNEX 6 – Historical Events
+ANNEX 7 – Balance Sheet (FY2020-2030)
+ANNEX 8 – Income Statement (FY2020-2030)
+ANNEX 9 – Cash Flow Statement (FY2020-2030)
+ANNEX 1 – Forecasts & Assumptions
+Revenues & Other Income
+1.
+Period of analysis was established to be 2026-2030. The revenue forecast is driven by three key quantitative factors: a)
+segment-specific growth rates, b) gross margin evolution by business segment, and c) geographic revenue mix. We use
+Adobe's three-segment reporting structure to model revenue and cost dynamics with precision. Our understanding of
+forward growth is anchored in Adobe's strategic initiatives (AI monetization via Firefly and Acrobat AI Assistant, Semrush
+acquisition integration) and structural market trends (enterprise cloud adoption, generative AI adoption rates).
+2.
+Segment growth rates and unit economics: We model Digital Media to grow from 10.5% (FY2026) to 7.0% (FY2030),
+reflecting rapid AI tool adoption offset by market maturation. Digital Experience accelerates from 8.8% (FY2026) to 11.2%
+(FY2027) following full-year Semrush integration, then moderates to 9.5% by FY2030. Publishing & Advertising enters terminal
+decline at -6.0% to -22.0% annually as legacy contracts migrate to Experience Cloud. We do not assume Adobe will expand
+into new business segments during the forecast period, consistent with management's stated focus on deepening AI
+capabilities within existing product families.
+3.
+Growth drivers: Our model assumes the largest unit volume increases in a) Digital Media, driven by conversion of freemium
+users to paid AI subscriptions (Firefly, Acrobat AI Assistant) and expansion of Creative Cloud enterprise seats, and b) Digital
+Experience, supported by the Semrush acquisition which provides full-year revenue contribution starting FY2027 and unlocks
+cross-sell opportunities across Adobe's enterprise base. For Digital Media, we project ARR growth decelerating from 10.5%
+to 7.0% as the installed base matures but AI features drive ARPU expansion. For Digital Experience, we model sustained
+double-digit growth (11.2% in FY2027) as marketing automation and customer data platform adoption accelerates post-
+Semrush integration.
+Costs
+1.
+Gross margins: We model gross margins with segment-level granularity. Digital Media maintains exceptionally high margins
+(95.0-95.9%) reflecting pure SaaS economics with negligible incremental delivery costs. Digital Experience margins improve
+from 69.0% to 72.0% as Semrush integration synergies materialize and the product mix shifts toward higher-margin cloud
+services. Publishing & Advertising holds steady at 70.0% despite revenue decline, as fixed costs are absorbed. We believe
+consolidation of gross margins is not a structural risk given Adobe's software-centric business model, though AI
+infrastructure costs (GPU compute) create modest headwinds absorbed in R&D rather than COGS.
+2.
+Operating expenses are modeled as percentage of revenue with time-variant assumptions. R&D expense projects at 19.5%
+(FY2026) reflecting management's commitment to "outsized investment" in GPU-optimized infrastructure and autonomous
+agents, declining to 17.8% (FY2030) as platform investments stabilize. Sales & Marketing remains elevated at 30.0%
+(FY2026-2027) to drive freemium-to-paid AI conversion and Semrush customer onboarding, compressing to 27.2% (FY2030)
+as customer acquisition efficiency improves. G&A decreases from 6.5% to 5.0% reflecting operating leverage, with initial
+elevation accounting for AI governance compliance costs (NIS 2 Directive, trust architecture buildout).
+CAPEX and D&A
+1.
+Capital expenditures: CAPEX increases modestly with revenue growth, averaging 1.2-1.5% of revenue throughout the
+forecast period. The investments primarily support data center infrastructure for AI workloads (GPU clusters, inference
+optimization) and cloud service capacity expansion. We project CAPEX of $392M (FY2026) rising to $435M (FY2030),
+reflecting the shift toward compute-intensive generative AI applications while maintaining Adobe's asset-light model.
+2.
+Depreciation & Amortization: D&A is calculated using component-based models. Property & Equipment depreciates using
+historical patterns (weighted average 6 years). Intangible assets amortize based on acquisition accounting—straight-line
+over acquired useful lives for technology-related intangibles (primarily Semrush), with customer relationship intangibles
+amortizing over 7 years. Total D&A projects from $875M (FY2026) to $1,247M (FY2030), with the step-up in FY2026 reflecting
+Semrush-related intangible amortization.
+Source: Team Analysis
+ANNEX 10 – Investment Module
+ANNEX 11 – Cost of Equity
+ANNEX 12 – Cost of Debt
+ANNEX 13 – WACC & Terminal Growth
+ANNEX 14 – Beta Calculations
+ANNEX 15 – Relative Valuation
+ANNEX 16 – Sensitivity Analysis
+ANNEX 17 – ESG Metrics
+ANNEX 18 - Sources
+
+--- PAGE 14 ---
+Working Capital Forecasts
+1.
+Deferred Revenue: Modeled as 26.0% of revenue (FY2026-2027), declining to 24.0% (FY2030). The compression reflects
+gradual mix shift toward larger enterprise contracts with more structured billing, while the SaaS subscription model
+continues generating substantial upfront cash collection. We model deferred revenue buildup tied to billing cycle timing
+(primarily annual subscriptions billed upfront), with release to revenue matching subscription recognition patterns.
+2.
+Credit days/Accounts Receivable: Fixed at 35 days throughout the forecast period. While increasing enterprise customer
+mix could pressure collections, we assume management payment optimization initiatives (automated invoicing, early
+payment incentives) offset this effect. Historical DSO has remained structurally stable at ~30-35 days due to upfront
+subscription billing.
+3.
+Credit days/Accounts Payable: Held constant at 55 days, reflecting Adobe's strong vendor relationships and strategic
+financing arrangements. No material extension assumed given Adobe's already-optimized payables structure and preference
+for maintaining supplier partnerships.
+4.
+Other working capital items: Accrued Expenses maintain at 10.9% of revenue, consistent with historical operating patterns.
+Other Current Liabilities grow at 5.0% annually, Other Long-term Liabilities at 3.0% annually, reflecting baseline operating
+complexity growth. Deferred Tax Liabilities reduce by 2.0% annually as timing differences reverse.
+Capital Allocation
+1.
+Debt structure: Total debt includes long-term debt only, as Adobe maintains no short-term borrowings given strong cash
+generation. Debt is modeled using a Debt/EBITDA ratio expected to decline from 0.71x (FY2026) to 0.34x (FY2030) based on
+historical deleveraging trajectory and conservative capital structure preferences. We model no new debt issuances during
+the forecast period, assuming Adobe continues financing needs through operating cash flow. The company maintains
+investment-grade credit ratings and has articulated preference for organic deleveraging.
+2.
+Dividend policy: No dividends assumed throughout the forecast period, consistent with Adobe's historical capital allocation
+strategy. Management has demonstrated strong preference for share repurchases over dividends, viewing buybacks as more
+tax-efficient return of capital given Adobe's shareholder base.
+3.
+Share repurchase program: Modeled at $10.7B annually (FY2026), then ranging $10.3-12.4B (FY2027-2030). The FY2026
+figure incorporates Adobe's announced $25B accelerated share repurchase program initiated in Q1 2026 (representing ~40%
+advance execution), with remaining years reflecting normalized buyback intensity of ~115% of free cash flow. Repurchases
+occur at prevailing market prices, with dilution from stock-based compensation ($2.2-3.1B annually) offsetting gross
+buyback impact. Treasury Stock increases accordingly, with net share count reduction of ~1.5-2.0% annually.
+4.
+Other equity movements: Common Stock & APIC increases from $15.4B (FY2025) to $28.6B (FY2030) driven entirely by
+stock-based compensation expense recognition (averaging 8.5% of revenue), consistent with Adobe's equity compensation
+practices for talent retention in competitive software markets. No new equity issuances assumed beyond employee stock
+plans
+Foreign Exchange
+Currency exposure: Adobe generates 47.3% of revenue outside the United States (FY2025: Americas ex-US 6.7%, EMEA 26.5%,
+APAC 14.1%). We model revenue in constant currency terms, assuming:
+•
+No structural FX hedging gains/losses in operating results.
+•
+Historical FX volatility (±2-3% annually) absorbed in guidance ranges but not explicitly modelled
+•
+Long-term PPP convergence neutralizes FX impact on cash flows
+ANNEX 2 – Shareholder structure of Adobe Inc.
+Shareholder
+Shares
+%
+Corporations:
+e disclosed
+-
+-
+Individuals:
+Shantanu Narayen (Chair & CEO)
+357,967
+0.09%
+John E. Warnock (Director, Co-Founder)
+392,460
+0.10%
+Anil Chakravarthy (President & CXO)
+58,770
+0.01%
+Other individuals (owning <0.01% shares)
+522,153
+0.13%
+Institutions:
+The Vanguard Group, Inc.
+41,280,000
+10.08%
+BlackRock, Inc.
+40,430,000
+9.87%
+State Street Corporation
+20,300,000
+4.96%
+Geode Capital Management, LLC
+11,100,000
+2.71%
+Norges Bank (Norway)
+8,500,000
+2.07%
+Arrowstreet Capital, LP
+7,200,000
+1.76%
+Morgan Stanley
+6,800,000
+1.66%
+Bank of New York Mellon Corp
+6,500,000
+1.59%
+Invesco Ltd.
+5,900,000
+1.44%
+UBS Asset Management Americas Inc.
+5,400,000
+1.32%
+Other institutions (owning <1% of shares individually )
+187,558,700
+
+45.78%
+Public and other
+67,368,000
+16.44%
+Total
+409,668,050
+100%
+Note: Shareholding data as of Q4 2025 (February 2026). Total
+shares outstanding: 409.69 million (basic shares outstanding).
+Institutional ownership represents approximately 80.22% of
+total shares outstanding. Insider ownership (executives and
+directors) represents 0.34% of total shares outstanding. "Other
+institutions" represents aggregate holdings of approximately
+2,850+ institutional investors, each individually holding less
+than 1% of shares outstanding.
+Data sources: SEC Form 13F/13G filings (Q4 2025), company
+DEF 14A proxy statement (2025), and financial databases
+(Fintel, WallStreetZen, Yahoo Finance).
+
+--- PAGE 15 ---
+ANNEX 4 – PESTEL Analysis
+P
+•
+Low direct political risk given digital, non-defense software exposure, though civil society exposure exists.
+•
+Data sovereignty regulations (EU, China, Middle East) raise compliance costs for global SaaS vendors but favor scaled incumbents able to
+localize infrastructure.
+•
+Public sector digitization is a meaningful demand driver as governments adopting e-signatures and digital workflows underpin the e-signature
+market's projected growth from ~$5–6B today to $150B+ by 2034.
+•
+Geopolitical tensions (notably US–China) carry limited tariff risk for software but can slow international enterprise IT spending and constrain
+expansion in China.
+•
+Creative and marketing spend is discretionary, making revenue somewhat sensitive to enterprise and SMB budget tightening which is
+partially offset by high recurring revenue and mission-critical workflows that provide earnings durability.
+•
+With 40%+ of revenue outside the US, currency volatility meaningfully impacts reported growth, compounded by an increasingly weak-dollar
+policy environment.
+•
+Strong brand equity supports selective price increases, though vendors broadly face a trade-off between maintaining pricing power in prof.
+segments and offering lower-cost tiers to retain the budget-conscious.
+•
+The explosion of digital creators, social media, and content marketing continues to expand the industry's TAM, while the shift to
+remote/hybrid work sustains demand for cloud collaboration, e-signatures, and digital workflows which has reinforcing the public-sector
+digitization trend noted above.
+•
+Rising design literacy and the democratization of creativity broaden the overall market but introduce competitive pressure from simpler,
+lower-cost tools (e.g. Canva) as non-professional creators become a meaningful user segment.
+•
+Generative AI is reshaping creative workflows, lowering skill barriers, and accelerating product cycles, creating both
+opportunity and risk, including a potential shift toward usage-based pricing models.
+•
+Cloud-native, browser-based development enables faster iteration and lower distribution costs, reducing switching friction
+and intensifying competition.
+•
+Vendors face ongoing tension between building broad integrated platforms and best-in-class point solutions, with
+technology shifts frequently resetting competitive advantage.
+•
+Direct environmental exposure is minimal given software-based business models.
+•
+Indirect exposure exists through reliance on third-party cloud infrastructure, with the IEA forecasting global data center
+energy consumption to reach ~900TWh by 2030, intensifying scrutiny on vendors' cloud partners.
+•
+ESG considerations are increasingly factored into enterprise vendor selection, though they remain a secondary purchasing
+factor.
+•
+Generative AI is intensifying legal complexity around IP, content ownership, and AI training data — an evolving risk with
+limited regulatory clarity.
+•
+GDPR, CCPA, and similar privacy regulations increase compliance costs but raise barriers to entry, favoring vendors with
+established legal infrastructure.
+•
+Platform scale and M&A activity attract antitrust scrutiny, particularly around large acquisitions and ecosystem control.
+ANNEX 3 – Board of Directors
+E
+S
+T
+E
+L
+Name & Position
+Background
+BOARD OF DIRECTORS
+Shantanu Narayen, Chair of the Board of Directors and CEO
+25+ years at Adobe, CEO since December 2007, Chair since January 2017. Previously President and COO (2005-2007), Executive VP Worldwide Product Marketing and Development (2001-2005).
+Also serves as Lead Independent Director at Pfizer Inc. B.S. Electronics Engineering (Osmania University, India), M.S. Computer Science (Bowling Green State University), M.B.A. (Haas School of
+Business, UC Berkeley)
+Frank Calderoni, Lead Independent Director
+12+ years on Adobe Board, Former CEO of Velocity Global (2023-2024), Former Chair and CEO of Anaplan (2017-2022). Previously Executive VP Operations and CFO at Red Hat (2015-2016),
+Executive VP and CFO at Cisco (2008-2015). B.S. Accounting and Finance (Fordham University), M.B.A. Finance (Pace University)
+Cristiano Amon, Director
+President and CEO of Qualcomm since June 2021, Previously President (2018-2021). 29+ years at Qualcomm in various technical and leadership roles. Deep expertise in wireless technology,
+global operations and engineering. B.S. Electrical Engineering (UNICAMP, Brazil)
+Amy Banse, Director
+12+ years on Adobe Board, Partner at Mosaic General Partnership since March 2021. Previously Executive VP at Comcast and Managing Director/Head of Funds at Comcast Ventures (2011-
+2020), President of Comcast Interactive Media (2004-2011). 30+ years in media and technology. Chair of Executive Compensation Committee. B.A. (Harvard), J.D. (Temple University)
+Melanie Boulden, Director
+4+ years on Adobe Board, Executive VP and Chief Growth Officer at Tyson Foods since February 2023. Previously Chief Marketing Officer North America at Coca-Cola (2021-2022), President Still
+Beverages Business Unit at Coca-Cola (2020-2021). B.S. English (Iowa State), M.B.A. Marketing and Finance (University of Iowa)
+Laura Desmond, Director
+12+ years on Adobe Board, CEO of Smartly.io since September 2022, Founder and CEO of Eagle Vista Partners since March 2017. Previously Chief Revenue Officer of Publicis Groupe (2016-
+2017), Global CEO of Starcom MediaVest Group (2008-2016). Provides specific insight on Adobe's Digital Experience business. B.B.A. Marketing (University of Iowa)
+Spencer Neumann, Director
+CFO of Netflix since January 2019. Previously CFO of Activision Blizzard (2017-2019), CFO and Executive VP Global Guest Experience at Walt Disney Parks and Resorts (2012-2017). Extensive
+financial expertise across media, entertainment and technology sectors. B.A. Economics and M.B.A. (Harvard)
+Kathleen Oberg, Director
+5+ years on Adobe Board, CFO and Executive VP Development at Marriott International since February 2023. Previously CFO and Executive VP at Marriott (2016-2023), CFO of The Ritz-Carlton
+(2013-2016). 25+ years in financial leadership roles. Chair of Audit Committee. B.S. Commerce Finance/MIS (University of Virginia), M.B.A. (Stanford)
+Dheeraj Pandey, Director
+5+ years on Adobe Board, Chair and CEO of DevRev since December 2020. Co-founder and CEO of Nutanix (2009-2020), took company from startup to publicly traded. Previously VP Engineering
+at Aster Data Systems (acquired by Teradata). B.Tech Computer Science (IIT Kanpur), M.S. Computer Science (UT Austin)
+David Ricks, Director
+6+ years on Adobe Board, Chair, President and CEO of Eli Lilly and Company since June 2017. Previously Senior VP and President Lilly Bio-Medicines (2012-2016), President Lilly USA (2009-
+2012), President and General Manager Lilly China (2008-2009). B.S. (Purdue), M.B.A. (Indiana University)
+Daniel Rosensweig, Director
+15+ years on Adobe Board, Executive Chair and Co-Chair of Chegg since June 2024. Previously President and CEO of Chegg (2010-2024), President and CEO of RedOctane/Activision Publishing
+(2009-2010), COO of Yahoo! (2002-2007), President of CNET Networks (2000-2002). Longest-tenured independent director. B.A. Political Science (Hobart College)
+Note: Board composition as of January 15, 2026 (per 2025 proxy statement for April 22, 2025 Annual Meeting). Average board tenure: 9.1 years. Board independence: 91%
+(10 of 11 directors). Average age: 58 years. Demographic diversity: 7 of 11 directors (64%) represent gender and/or racial/ethnic diversity. The Board maintains three
+standing committees: Audit Committee (chaired by Kathleen Oberg), Executive Compensation Committee (chaired by Amy Banse), and Governance and Sustainability
+Committee (chaired by Frank Calderoni).
+Sources: Adobe Inc. 2025 Proxy Statement (DEF 14A filed February 28, 2025),
+Adobe 10-K (FY2024), and company website.
+
+--- PAGE 16 ---
+ANNEX 5 – Five Forces Analysis
+Rivalry in digital content and
+experience software is high and
+increasingly ecosystem-driven.
+AI convergence has unified
+creative, marketing, analytics,
+and workflow tools into
+integrated content supply
+chains, shifting competition
+from features to platform-scale
+execution. Scaled incumbents
+such as Adobe, Microsoft, and
+Salesforce compete on
+ecosystem breadth, workflow
+integration, and end-to-end
+orchestration.
+Despite concentrated
+enterprise spend, rivalry
+remains intense due to
+overlapping roadmaps and
+rapid innovation.
+Differentiation centers on data
+integration, workflow depth,
+enterprise trust, and
+extensibility. Switching frictions
+embedded in file formats,
+content libraries, and
+organizational workflows
+moderate price competition
+and support profitability.
+High fixed costs in AI R&D and
+cloud infrastructure, combined
+with minimal marginal costs,
+drive continuous feature
+expansion and bundling.
+Significant sunk investments
+raise exit barriers and reinforce
+share defense. Innovation
+competition is elevated, but
+pricing remains relatively
+disciplined, sustaining a high
+yet economically resilient
+competitive environment.
+The threat of entry is
+structurally bifurcated. Cloud
+infrastructure and generative AI
+have lowered barriers to
+launching creative and
+marketing tools, particularly in
+prosumer and SMB segments.
+Small teams can deploy
+feature-rich products with
+limited capital, driving feature-
+level fragmentation and
+localized pricing pressure.
+However, entry into enterprise-
+scale platforms remains
+difficult. Competing for global
+enterprise customers requires
+deep workflow integration,
+global sales and support,
+regulatory compliance, and
+operational credibility.
+Enterprise buyers demand
+certifications, auditability, IP
+indemnification, and long-term
+roadmap visibility, which new
+entrants typically lack.
+Incumbents such as Adobe
+benefit from switching costs
+tied to proprietary file formats,
+embedded workflows,
+accumulated content libraries,
+and organizational training. As
+a result, while tool-level entry is
+frequent, penetration of the
+core enterprise profit pool is
+constrained. Overall threat of
+entry is medium.
+The threat of substitutes in the
+digital content and experience
+industry is rising, driven
+primarily by AI-enabled
+workflows rather than direct
+competitor software.
+Generative AI platforms,
+automated content engines,
+and low-cost tools increasingly
+perform specific content
+production tasks without
+reliance on professional
+creative software, particularly
+where speed and scale matter
+more than manual control.
+Substitution pressure is highest
+for high-volume, low-stakes,
+and mid-market use cases,
+where automated solutions can
+meet functional requirements
+at lower cost and with fewer
+licenses. By contrast,
+substitution remains limited for
+brand-critical, regulated, and
+complex enterprise workflows
+that require governance,
+collaboration, and quality
+control. The primary impact of
+substitutes is sustained
+pressure on pricing models and
+seat expansion rather than
+immediate displacement of
+enterprise platforms, shifting
+differentiation toward
+integrated workflows, data, and
+ecosystem lock-in.
+Buyer power in the digital
+content and experience
+industry has increased
+materially, driven by AI-enabled
+productivity gains and the
+concentration of spend among
+large enterprises and agencies.
+Automation allows
+organizations to produce more
+content with fewer licenses,
+weakening the traditional per-
+seat pricing model and giving
+buyers greater leverage to
+negotiate flexible, outcome-
+based, or hybrid pricing
+structures.
+While switching costs remain
+meaningful at the workflow and
+organizational level, functional
+capabilities at the tool level are
+increasingly standardized,
+improving buyers’ negotiating
+position. Large customers
+further amplify their influence
+through vendor consolidation,
+sophisticated procurement
+processes, and the ability to
+supplement commercial
+software with in-house or AI-
+driven solutions. As a result,
+buyers exert sustained
+pressure on pricing, contract
+terms, and roadmap
+prioritization, increasing
+competitive intensity without
+fully eliminating incumbent
+platform advantages.
+Supplier power in the digital
+content and experience
+industry has increased with the
+shift toward AI-driven, cloud-
+intensive workflows. Key
+suppliers include cloud
+infrastructure providers, GPU
+and semiconductor
+manufacturers, and select AI
+technology vendors, many of
+which are concentrated and
+exert influence over input
+availability and pricing.
+Dependence on high-
+performance computing
+introduces cost volatility,
+particularly through usage-
+based cloud pricing and
+periodic hardware constraints.
+However, supplier power is
+moderated for large
+incumbents by scale
+advantages, multi-cloud
+strategies, long-term contracts,
+and the ability to develop or
+fine-tune models in-house.
+While these dynamics pressure
+margins and increase
+operational complexity, they do
+not confer sustained strategic
+control to suppliers. As a result,
+supplier power primarily affects
+cost variability and capital
+allocation rather than long-
+term competitive positioning.
+Competitive Rivalry
+Threat of Entry
+Threat of Substitutes
+Buyer Power
+Supplier Power
+ANNEX 6 – Historical Events
+FOUNDATION &
+LEADERSHIP
+Founded by John
+Warnock &
+Charles Geschke
+POSTSCRIPT
+RELEASED
+Global digital
+standard for computer
+printing, launching the
+digital publishing era
+1982
+1985
+ILLUSTRATOR 1.0
+Pioneering vector
+graphics software
+1987
+1990
+PHOTOSHOP 1.0
+Redefining digital
+imaging
+1993
+PDF INVENTED &
+ACROBAT
+Invention of the
+Portable Document
+Format (PDF) and
+Adobe Acrobat,
+creating ‘Document
+Clooud’
+2005
+MACROMEDIA
+ACQUISITION
+Expanding web and
+creative tools
+CREATIVE CLOUD
+LAUNCH
+Industry’s first
+major SaaS
+subscription-based
+model with
+Creative Cloud
+2012
+2016
+ADOBE SENSEI AI
+AI framework
+embedded across
+products
+MARKETO &
+MAGENTO
+ACQUISITION
+Strategic
+acquisitions to
+build Experience
+Cloud
+2020
+2018
+WORKFRONT
+ACQUISITION
+Work management
+and collaboration
+tools
+2023
+2024
+ADOBE FIREFLY
+LAUNCH
+Commercially
+safe generative
+AI model
+ADOBE
+GENSTUDIO
+LAUNCH
+AI-powered
+enterprise
+supply chain
+
+--- PAGE 17 ---
+ANNEX 7 – Balance Sheet $mn (FY2020-30)
+ASSETS
+FY2020
+FY2021
+FY2022
+FY2023
+FY2024
+FY2025
+FY2026E
+FY2027E
+FY2028E
+FY2029E
+FY2030E
+Cash & Cash Equivalents
+4,478
+$
+3,844
+$
+4,236
+$
+7,141
+$
+7,613
+$
+5,431
+$
+4,420
+$
+3,858
+$
+5,480
+$
+8,296
+$
+10,986
+$
+Short-term Investments
+1,514
+$
+1,954
+$
+1,860
+$
+701
+$
+273
+$
+1,164
+$
+101
+$
+1,147
+$
+1,520
+$
+1,020
+$
+820
+$
+Accounts Receivable
+1,398
+$
+1,878
+$
+2,065
+$
+2,224
+$
+2,072
+$
+2,344
+$
+2,505
+$
+2,749
+$
+2,996
+$
+3,235
+$
+3,478
+$
+Other Current Assets
+756
+$
+993
+$
+835
+$
+1,018
+$
+1,274
+$
+1,224
+$
+1,255
+$
+1,286
+$
+1,318
+$
+1,351
+$
+1,385
+$
+Total Current Assets
+8,146
+$
+8,669
+$
+8,996
+$
+11,084
+$
+11,232
+$
+10,163
+$
+8,280
+$
+9,040
+$
+11,315
+$
+13,903
+$
+16,669
+$
+Property & Equipment (Net)
+1,517
+$
+1,673
+$
+1,908
+$
+2,030
+$
+1,936
+$
+1,873
+$
+1,599
+$
+1,268
+$
+874
+$
+412
+$
+(93)
+$
+Goodwill
+10,742
+$
+12,668
+$
+12,787
+$
+12,805
+$
+12,788
+$
+12,857
+$
+12,857
+$
+12,857
+$
+12,857
+$
+12,857
+$
+12,857
+$
+Intangible Assets (Net)
+1,359
+$
+1,820
+$
+1,449
+$
+1,088
+$
+782
+$
+495
+$
+625
+$
+752
+$
+850
+$
+927
+$
+983
+$
+Other Long-term Assets
+2,520
+$
+2,411
+$
+2,025
+$
+2,772
+$
+3,492
+$
+4,108
+$
+4,211
+$
+4,316
+$
+4,424
+$
+4,534
+$
+4,648
+$
+Total Long-term Assets
+16,138
+$
+18,572
+$
+18,169
+$
+18,695
+$
+18,998
+$
+19,333
+$
+19,292
+$
+19,194
+$
+19,005
+$
+18,731
+$
+18,395
+$
+TOTAL ASSETS
+24,284
+$
+27,241
+$
+27,165
+$
+29,779
+$
+30,230
+$
+29,496
+$
+27,572
+$
+28,234
+$
+30,320
+$
+32,633
+$
+35,063
+$
+LIABILITIES & EQUITY
+Accounts Payable
+306
+$
+312
+$
+379
+$
+314
+$
+361
+$
+417
+$
+456
+$
+502
+$
+523
+$
+539
+$
+571
+$
+Accrued Expenses
+1,422
+$
+1,736
+$
+1,790
+$
+1,942
+$
+2,336
+$
+2,648
+$
+2,847
+$
+3,125
+$
+3,405
+$
+3,677
+$
+3,953
+$
+Deferred Revenue
+3,629
+$
+4,733
+$
+5,297
+$
+5,837
+$
+6,131
+$
+6,905
+$
+6,792
+$
+7,454
+$
+7,811
+$
+8,434
+$
+8,704
+$
+Short-term Debt
+-
+$
+-
+$
+500
+$
+-
+$
+1,499
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+Other Current Liabilities
+155
+$
+151
+$
+162
+$
+158
+$
+194
+$
+230
+$
+242
+$
+254
+$
+266
+$
+280
+$
+294
+$
+Total Current Liabilities
+5,512
+$
+6,932
+$
+8,128
+$
+8,251
+$
+10,521
+$
+10,200
+$
+10,337
+$
+11,335
+$
+12,005
+$
+12,930
+$
+13,521
+$
+Long-term Debt
+4,117
+$
+4,123
+$
+3,629
+$
+3,634
+$
+4,129
+$
+6,210
+$
+5,870
+$
+5,550
+$
+5,250
+$
+4,970
+$
+4,710
+$
+Deferred Tax Liabilities
+529
+$
+534
+$
+530
+$
+514
+$
+548
+$
+469
+$
+460
+$
+450
+$
+441
+$
+433
+$
+424
+$
+Other Long-term Liabilities
+862
+$
+855
+$
+827
+$
+862
+$
+927
+$
+994
+$
+1,024
+$
+1,055
+$
+1,086
+$
+1,119
+$
+1,152
+$
+Total Long-term Liabilities
+5,508
+$
+5,512
+$
+4,986
+$
+5,010
+$
+5,604
+$
+7,673
+$
+7,353
+$
+7,055
+$
+6,778
+$
+6,521
+$
+6,286
+$
+Common Stock & APIC
+7,357
+$
+8,428
+$
+9,868
+$
+11,586
+$
+13,419
+$
+15,361
+$
+17,581
+$
+20,018
+$
+22,674
+$
+25,542
+$
+28,624
+$
+Retained Earnings
+19,611
+$
+23,905
+$
+28,319
+$
+33,346
+$
+38,470
+$
+45,354
+$
+52,085
+$
+59,941
+$
+69,413
+$
+79,923
+$
+91,365
+$
+Treasury Stock
+(13,546)
+$
+(17,399)
+$
+(23,843)
+$
+(28,129)
+$
+(37,583)
+$
+(48,847)
+$
+(59,540)
+$
+(69,871)
+$
+(80,305)
+$
+(92,038)
+$
+(104,488)
+$
+Accumulated OCI
+(158)
+$
+(137)
+$
+(293)
+$
+(285)
+$
+(201)
+$
+(245)
+$
+(245)
+$
+(245)
+$
+(245)
+$
+(245)
+$
+(245)
+$
+Total Stockholders' Equity
+13,264
+$
+14,797
+$
+14,051
+$
+16,518
+$
+14,105
+$
+11,623
+$
+9,882
+$
+9,843
+$
+11,537
+$
+13,182
+$
+15,256
+$
+TOTAL LIABILITIES & EQUITY
+24,284
+$
+27,241
+$
+27,165
+$
+29,779
+$
+30,230
+$
+29,496
+$
+27,572
+$
+28,234
+$
+30,320
+$
+32,633
+$
+35,063
+$
+ANNEX 8 – Income Statement $mn (FY2020-30)
+FY2020
+FY2021
+FY2022
+FY2023
+FY2024
+FY2025
+FY2026E
+FY2027E
+FY2028E
+FY2029E
+FY2030E
+Revenue
+12,868
+$
+15,785
+$
+17,606
+$
+19,409
+$
+21,505
+$
+23,769
+$
+26,123
+$
+28,671
+$
+31,242
+$
+33,736
+$
+36,266
+$
+YoY Growth%
+22.7%
+11.5%
+10.2%
+10.8%
+10.5%
+9.9%
+9.8%
+9.0%
+8.0%
+7.5%
+
+Cost of Revenue
+1,722
+$
+1,865
+$
+2,165
+$
+2,354
+$
+2,358
+$
+2,551
+$
+3,025
+$
+3,333
+$
+3,471
+$
+3,577
+$
+3,787
+$
+Gross Profit
+11,146
+$
+13,920
+$
+15,441
+$
+17,055
+$
+19,147
+$
+21,218
+$
+23,098
+$
+25,337
+$
+27,771
+$
+30,159
+$
+32,478
+$
+Gross Margin
+86.6%
+88.2%
+87.7%
+87.9%
+89.0%
+89.3%
+88.4%
+88.4%
+88.9%
+89.4%
+89.6%
+R&D Expense
+2,188
+$
+2,540
+$
+2,987
+$
+3,473
+$
+3,944
+$
+4,294
+$
+5,094
+$
+5,447
+$
+5,624
+$
+6,039
+$
+6,455
+$
+Sales & Marketing
+3,591
+$
+4,321
+$
+4,968
+$
+5,351
+$
+5,764
+$
+6,488
+$
+7,837
+$
+8,601
+$
+8,748
+$
+9,277
+$
+9,864
+$
+G&A Expense
+968
+$
+1,085
+$
+1,219
+$
+1,413
+$
+1,529
+$
+1,573
+$
+1,698
+$
+1,434
+$
+1,562
+$
+1,687
+$
+1,813
+$
+Acquisition Termination Fee
+-
+$
+-
+$
+-
+$
+-
+$
+1,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+Amortization
+162
+$
+172
+$
+169
+$
+168
+$
+169
+$
+157
+$
+210
+$
+217
+$
+215
+$
+259
+$
+307
+$
+Total Operating Expenses
+6,909
+$
+8,118
+$
+9,343
+$
+10,405
+$
+12,406
+$
+12,512
+$
+14,838
+$
+15,699
+$
+16,149
+$
+17,262
+$
+18,440
+$
+EBIT
+4,237
+$
+5,802
+$
+6,098
+$
+6,650
+$
+6,741
+$
+8,706
+$
+8,259
+$
+9,638
+$
+11,622
+$
+12,896
+$
+14,038
+$
+EBIT Margin %
+32.9%
+36.8%
+34.6%
+34.3%
+31.3%
+36.6%
+31.6%
+33.6%
+37.2%
+38.2%
+38.7%
+Interest & Other Income
+(61)
+$
+(97)
+$
+(90)
+$
+148
+$
+190
+$
+28
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+EBT
+4,176
+$
+5,705
+$
+6,008
+$
+6,798
+$
+6,931
+$
+8,734
+$
+8,259
+$
+9,638
+$
+11,622
+$
+12,896
+$
+14,038
+$
+Tax Expense (Provoison)
+(1,084)
+$
+883
+$
+1,252
+$
+1,371
+$
+1,371
+$
+1,604
+$
+1,528
+$
+1,783
+$
+2,150
+$
+2,386
+$
+2,597
+$
+NET Tax Rate %
+(26.0%)
+15.5%
+20.8%
+20.2%
+19.8%
+18.4%
+18.5%
+18.5%
+18.5%
+18.5%
+18.5%
+Net Income
+5,260
+$
+4,822
+$
+4,756
+$
+5,427
+$
+5,560
+$
+7,130
+$
+6,731
+$
+7,855
+$
+9,472
+$
+10,511
+$
+11,441
+$
+Net Margin %
+40.9%
+30.5%
+27.0%
+28.0%
+25.9%
+30.0%
+25.8%
+27.4%
+30.3%
+31.2%
+31.5%
+Source: Team Analysis
+Source: Team Analysis
+ANNEX 9 – Cash Flow Statement $mn (FY2020-30)
+Source: Team Analysis
+
+--- PAGE 18 ---
+Trade Receivables (net)
+106
+$
+(430)
+$
+(198)
+$
+(159)
+$
+143
+$
+(275)
+$
+(161)
+$
+(244)
+$
+(247)
+$
+(239)
+$
+(243)
+$
+Prepaid expenses and other assets
+(288)
+$
+(475)
+$
+(94)
+$
+(818)
+$
+(616)
+$
+(90)
+$
+(133)
+$
+(137)
+$
+(140)
+$
+(144)
+$
+(147)
+$
+Trade Payables
+96
+$
+(20)
+$
+66
+$
+(49)
+$
+44
+$
+64
+$
+39
+$
+46
+$
+21
+$
+16
+$
+32
+$
+Accrued expenses and other liabilites
+86
+$
+162
+$
+7
+$
+146
+$
+196
+$
+180
+$
+211
+$
+290
+$
+293
+$
+285
+$
+290
+$
+Income taxes payable
+(72)
+$
+2
+$
+19
+$
+(11)
+$
+68
+$
+(45)
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+Deferred Rev
+258
+$
+1,053
+$
+536
+$
+536
+$
+309
+$
+771
+$
+(113)
+$
+662
+$
+356
+$
+623
+$
+270
+$
+Cash from Operations
+5,727
+$
+7,230
+$
+7,838
+$
+7,302
+$
+8,056
+$
+10,031
+$
+9,690
+$
+11,881
+$
+13,449
+$
+15,071
+$
+15,998
+$
+INVESTING ACTIVITIES
+CapEx
+(419)
+$
+(348)
+$
+(442)
+$
+(360)
+$
+(183)
+$
+(179)
+$
+(392)
+$
+(401)
+$
+(406)
+$
+(405)
+$
+(435)
+$
+Other Investing
+5
+$
+(3,189)
+$
+(128)
+$
+1,136
+$
+332
+$
+(1,008)
+$
+723
+$
+(1,390)
+$
+(686)
+$
+163
+$
+(163)
+$
+Cash from Investing
+(414)
+$
+(3,537)
+$
+(570)
+$
+776
+$
+149
+$
+(1,187)
+$
+332
+$
+(1,791)
+$
+(1,092)
+$
+(242)
+$
+(598)
+$
+FINANCING ACTIVITIES
+Dividends
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+Share Repurchases
+(3,050)
+$
+(3,950)
+$
+(6,550)
+$
+(4,400)
+$
+(9,500)
+$
+(11,281)
+$
+(10,693)
+$
+(10,331)
+$
+(10,434)
+$
+(11,733)
+$
+(12,450)
+$
+Other Financing
+(438)
+$
+(351)
+$
+(275)
+$
+(782)
+$
+1,776
+$
+221
+$
+(340)
+$
+(320)
+$
+(300)
+$
+(280)
+$
+(260)
+$
+Cash from Financing
+(3,488)
+$
+(4,301)
+$
+(6,825)
+$
+(5,182)
+$
+(7,724)
+$
+(11,060)
+$
+(11,033)
+$
+(10,651)
+$
+(10,734)
+$
+(12,013)
+$
+(12,710)
+$
+Net Change in Cash
+1,825
+$
+(608)
+$
+443
+$
+2,896
+$
+481
+$
+(2,216)
+$
+(1,011)
+$
+(562)
+$
+1,623
+$
+2,816
+$
+2,690
+$
+ANNEX 10 – Investment Module
+Investment Module ($mn)
+Investments into PPE
+FY2025
+FY2026E
+FY2027E
+FY2028E
+FY2029E
+FY2030E
+New Investments
+391.8
+$
+401.4
+$
+406.1
+$
+404.8
+$
+435.2
+$
+Acc. Acquisition Value
+3,601.0
+$
+3,992.8
+$
+4,394.2
+$
+4,800.4
+$
+5,205.2
+$
+5,640.4
+$
+Depreciation
+665.5
+$
+732.4
+$
+800.1
+$
+867.5
+$
+940.1
+$
+Opening Acc. Depreciation
+1,728.0
+$
+2,393.5
+$
+3,125.8
+$
+3,925.9
+$
+4,793.4
+$
+Depreciation for the Year
+665.5
+$
+732.4
+$
+800.1
+$
+867.5
+$
+940.1
+$
+Accumulated Depreciation
+1,728.0
+$
+2,393.5
+$
+3,125.8
+$
+3,925.9
+$
+4,793.4
+$
+5,733.5
+$
+BOOK VALUE
+1,873.0
+$
+1,599.4
+$
+1,268.4
+$
+874.5
+$
+411.8
+$
+(93.1)
+$
+Investments into Intangibles
+FY2025
+FY2026E
+FY2027E
+FY2028E
+FY2029E
+FY2030E
+New Investments
+339.6
+$
+344.0
+$
+312.4
+$
+337.4
+$
+362.7
+$
+Acc. Acquisition Value
+2,521.0
+$
+2,860.6
+$
+3,204.6
+$
+3,517.1
+$
+3,854.4
+$
+4,217.1
+$
+New Acc. Investments
+339.6
+$
+683.6
+$
+996.1
+$
+1,333.4
+$
+1,696.1
+$
+New Amortization
+48.5
+$
+97.7
+$
+142.3
+$
+190.5
+$
+242.3
+$
+Amortization Projections on Existing Assets
+161.0
+$
+119.0
+$
+73.0
+$
+69.0
+$
+65.0
+$
+Opening Acc. Amortization
+2,026.0
+$
+2,235.5
+$
+2,452.2
+$
+2,667.5
+$
+2,927.0
+$
+Amortization for the Year
+209.5
+$
+216.7
+$
+215.3
+$
+259.5
+$
+307.3
+$
+Accumulated Amortization
+2,026.0
+$
+2,235.5
+$
+2,452.2
+$
+2,667.5
+$
+2,927.0
+$
+3,234.3
+$
+BOOK VALUE
+495.0
+$
+625.1
+$
+752.5
+$
+849.6
+$
+927.5
+$
+982.8
+$
+We assume an average
+life of 6 and 7 years for
+PPE and intangibles
+respectively (based on an
+average from FY2025 10-
+K. Existing asset
+amortization values have
+been sourced from 10K
+pg. 70
+Source: Team Analysis | Company Report
+ANNEX 11 – Cost of Equity
+CoE CAPM
+Risk Free Rate
+4.20%
+Beta
+1.26
+Market Risk Premium
+5.30%
+We calculate cost of equity using the Capital Asset Pricing Model (CAPM). The risk-free rate
+of 4.21% represents the 10-year U.S. Treasury yield as of February 2026, ensuring
+consistency with the valuation date. The market risk premium of 5.40% reflects the long-term
+historical equity risk premium for U.S. markets. We employ a levered beta of 1.25, derived
+through a weighted methodology combining three distinct approaches to ensure robustness
+and capture Adobe's true systematic risk. We believe the ESG factors are already priced in by
+the market and hence do not use any ESG adjustments in our cost of equity calculations.
+Source: Team Analysis
+ANNEX 12 – Cost of Debt
+Method 1 – Adobe's Outstanding Bonds
+Method 2 – Synthetic credit ratings
+Bond Maturity
+Coupon Rate
+Current YTM
+Principal ($M)
+EBIT 2025 [$M]
+8,706
+Feb-27
+2.15%
+3.89%
+500 Interest Expense [$M]
+27.9
+Apr-27
+4.85%
+3.78%
+500 Interest coverage ratio
+310.9x
+Apr-29
+4.80%
+3.98%
+750 Synthetic credit rating assigned
+AAA
+Feb-30
+2.30%
+4.16%
+1,250 Credit spread (Damodaran)
+0.75%
+Jan-35
+5.30%
+4.66%
+500 Risk-free rate
+4.21%
+Weighted Average Pre-tax CoD
+4.10%
+Pre-tax Cost of debt
+4.95%
+Tax rate
+18.50%
+Tax rate
+18.50%
+After-tax cost of debt
+3.34%
+After-tax cost of debt
+4.03%
+Source: Team Analysis | Damodaran
+Note: The effective interest rate of 4.1% is based on Adobe's existing debt
+portfolio. Current market YTMs reflect February 2026 bond pricing.
+
+--- PAGE 19 ---
+Blended Cost of Debt Calculation
+Method
+Weight After-tax CoD Contribution
+Interest-Bearing Liabilities
+70%
+3.34%
+2.34%
+Synthetic Credit Rating
+30%
+4.03%
+1.21%
+Blended After-tax Cost of Debt
+3.55%
+To estimate the cost of debt for Adobe, we employed two
+complementary methods to ensure comprehensiveness:
+a) interest-bearing liabilities (IBL) method based on
+Adobe's existing debt portfolio, and b) synthetic credit
+rating approach using interest coverage ratios. We assign
+a 70% weight to the IBL method, recognizing that Adobe's
+actual borrowing costs provide the most accurate
+reflection of the company's cost of debt. The 30% weight
+on the synthetic rating approach serves as a forward-
+looking validation.
+ANNEX 13 – WACC & TERMINAL GROWTH
+WACC
+Forecast Period
+Terminal Period
+Equity - Weight
+%
+94.52%
+Debt - Weight
+%
+5.48%
+Tax
+%
+18.50%
+Cost of Equity
+%
+10.88%
+Cost of Debt
+%
+3.55%
+WACC
+%
+10.48%
+10.48%
+Same as forecast
+period, we do not
+assume separate
+WACC for the reasons
+explained below
+Terminal Growth Rate (%)
+2.50%
+We assume a stable WACC of 10.48% throughout the DCF
+forecast period as opposed to dynamic WACC or a distinct
+calculation for the terminal year. We use a stable WACC because
+it reflects our assumption about Adobe's risk profile and stable
+future capital structure, with equity representing 96.4% of
+enterprise value and debt representing 3.6%. Additionally, the U.S.
+10-year Treasury yield of 4.21% already incorporates market
+expectations for future economic conditions, making further
+adjustments to the WACC redundant. By keeping the WACC
+constant, we ensure the valuation remains focused on realistic
+and consistent assumptions, without speculative fluctuations that
+could undermine its reliability.
+Our terminal growth rate of 2.5% is positioned above long-term U.S. inflation (2.0%) but below nominal GDP growth (3.5%–4.0%).
+This reflects: a) Adobe's mature creative and marketing software markets limiting perpetual high growth; b) generative AI
+providing incremental but moderating growth drivers beyond 2030; and c) Adobe's entrenched competitive position supporting
+modest real growth above inflation. The 2.5% rate is intentionally conservative given Adobe's historical ROIC above 20%, but
+accounts for eventual market saturation and intensifying competition from AI-native entrants.
+Source: Team Analysis
+ANNEX 14 – Beta Calculations
+Peer
+Ticker
+Levered beta
+HubSpot
+HUBS
+1.39
+Autodesk ADSK
+1.45
+Salesforce CRM
+1.3
+Oracle
+ORCL
+1.63
+SAP
+SAP
+0.71
+DocuSign DOCU
+1.01
+Dropbox
+DBX
+0.63
+Microsoft MSFT
+1.08
+Alphabet
+GOOG
+1.09
+Meta
+META
+1.28
+Figma
+FIG
+1.33
+Average
+1.1727
+Houses of Finance Adobe Beta
+Yahoo Finance
+1.51
+Trading View
+1
+CNBC
+1.53
+Investing.com
+1.51
+eToro
+1.15
+Lightyear
+1.53
+MarketWatch
+1.3
+Average
+1.36
+Regression vs. S&P 500
+5-year regression Beta
+1.439
+Adjusted regresison Beta
+1.263
+Method
+Weight
+Beta
+Contribution
+Peer Relative Beta
+10%
+1.1727
+0.117
+Houses of Finance Average
+10%
+1.36
+0.136
+5-yr Regression on the S&P500
+50%
+1.263
+0.632
+Damodaran's Indsutry Estimate
+30%
+1.25
+0.375
+Weighted ADBE Beta
+1.260
+Sources: Team Analysis | Damodaran
+| Houses of Finance | Yahoo Finance
+Method 2: Houses of Finance
+average aggregates
+published beta estimates
+from Yahoo Finance, Trading
+View, CNBC, Investing.com,
+eToro, Lightyear, and
+MarketWatch. The average
+across all providers is 1.36,
+with variation ranging from
+1.00 to 1.53 reflecting
+differences in calculation
+methodologies.
+Method 1: Bottom-up approach uses
+comparable software and SaaS companies
+including HubSpot, Autodesk, Salesforce,
+Oracle, SAP, DocuSign, Dropbox, Microsoft,
+Alphabet, Meta, and Figma giving us a beta of
+1.17
+Method 3: 5-year regression of
+Adobe's weekly stock returns against
+the S&P 500 index captures the
+company's historical systematic risk
+over a complete business cycle. The
+regression output beta was adjusted
+to deflated beta due to the Figma
+deal collapse.
+Method 4: Lastly, we use
+Damodaran’s Industry Beta
+estimate.
+Damodaran's Industry Beta Estimate
+1.25
+Final Weighted Beta: We assign 50% weight to regression,
+30% to Damodaran’s estimate, 10% to bottom-up peers,
+and 10% to Houses of Finance average. The 50% weighting
+on regression reflects our view that historical market
+behavior is the most reliable predictor of future systematic
+risk. This produces a final weighted beta of 1.26.
+
+--- PAGE 20 ---
+ANNEX 15 – Relative Valuation
+SECTION 1: COMPANY OVERVIEW & MARKET DATA
+Company
+Ticker
+Market Cap ($B)
+Stock Price
+Enterprise Value ($B)
+Revenue ($B)
+EBITDA ($B)
+Net Income ($B)
+Diluted EPS ($)
+Free Cash Flow ($B)
+Adobe Inc.
+ADBE
+$105.07
+$256.25
+$104.69
+$23.77
+$9.24
+$7.13
+$16.69
+$9.85
+Microsoft Corp.
+MSFT
+$2,960.00
+$399.73
+$2,807.67
+$305.45
+$175.26
+$119.26
+$15.99
+$77.40
+Salesforce Inc.
+CRM
+$179.31
+$191.03
+$171.22
+$40.32
+$11.80
+$7.22
+$7.49
+$12.89
+Oracle Corp.
+ORCL
+$430.94
+$150.04
+$513.32
+$61.02
+$26.27
+$15.43
+$5.32
+-$13.18
+Alphabet Inc.
+GOOG
+$3,760.00
+$310.84
+$3,532.23
+$402.84
+$150.18
+$132.17
+$10.82
+$73.26
+Figma Inc.
+FIG
+$16.15
+$30.76
+$17.58
+$1.06
+-$1.27
+-$1.25
+-$3.71
+$0.27
+Docusign Inc.
+DOCU
+$8.69
+$43.13
+$6.38
+$3.16
+$0.32
+$0.30
+$1.43
+$0.98
+Intuit Inc.
+INTU
+$105.70
+$379.77
+$104.73
+$19.43
+$5.19
+$4.12
+$14.57
+$6.39
+Synopsys Inc.
+SNPS
+$86.14
+$449.51
+$97.99
+$7.05
+$1.33
+$1.33
+$8.05
+$1.35
+Autodesk Inc.
+ADSK
+$47.70
+$225.45
+$47.70
+$6.89
+$1.77
+$1.11
+$5.15
+$2.12
+SAP SE
+SAP
+$204.86
+$198.16
+$187.79
+$36.80
+$11.70
+$7.33
+$7.37
+$8.40
+Peer Median (Ex-ADBE)
+$142.51
+$211.81
+$137.97
+$28.12
+$8.45
+$5.67
+$7.43
+$4.26
+Peer Mean (Ex-ADBE)
+$779.9
+$237.8
+$748.7
+$88.4
+$38.3
+$28.7
+$7.2
+$17.0
+SECTION 2: VALUATION MULTIPLES
+Company
+EV/Revenue
+EV/EBITDA
+P/E Ratio
+Price/Sales
+Price/Book
+EV/FCF
+FCF Yield (%)
+Revenue Growth %
+EBITDA Margin %
+Adobe Inc.
+4.40x
+11.33x
+15.28x
+4.42x
+4.42x
+10.63x
+0.09x
+10%
+39%
+Microsoft Corp.
+9.19x
+16.02x
+24.33x
+9.42x
+9.69x
+36.27x
+0.03x
+15%
+57%
+Salesforce Inc.
+4.25x
+14.51x
+24.72x
+4.49x
+4.45x
+13.28x
+0.07x
+7%
+29%
+Oracle Corp.
+8.41x
+19.54x
+27.47x
+7.11x
+7.06x
+-38.95x
+-0.03x
+9%
+43%
+Google Inc.
+8.77x
+23.52x
+28.76x
+9.34x
+9.33x
+48.22x
+0.02x
+15%
+37%
+Figma Inc.
+16.58x
+-13.84x
+-10.16x
+16.31x
+15.24x
+65.10x
+0.02x
+29%
+-120%
+Docusign Inc.
+2.02x
+20.05x
+29.97x
+2.75x
+2.75x
+6.51x
+0.11x
+8%
+10%
+Intuit Inc.
+5.39x
+17.92x
+26.06x
+5.23x
+5.17x
+16.39x
+0.06x
+16%
+27%
+Synopsys Inc.
+13.90x
+73.78x
+55.83x
+12.28x
+2.89x
+72.59x
+0.02x
+15%
+19%
+Autodesk Inc.
+6.92x
+26.92x
+43.76x
+6.90x
+16.19x
+22.50x
+0.04x
+12%
+26%
+SAP Inc.
+5.10x
+16.05x
+26.08x
+5.19x
+5.57x
+22.36x
+0.04x
+10%
+32%
+Peer Median (Ex-ADBE)
+7.67x
+18.73x
+26.78x
+7.01x
+6.31x
+22.43x
+0.03x
+0.13x
+0.28x
+Peer Mean (Ex-ADBE)
+8.05x
+21.45x
+27.68x
+7.90x
+7.83x
+26.43x
+0.04x
+0.13x
+0.16x
+SECTION 3: IMPLIED VALUATION ANALYSIS
+Valuation Method
+Peer Median Multiple
+Adobe Metric
+Implied Value ($B)
+Less: Net Debt ($B)
+Implied Equity Value ($B)
+Shares Out (M)
+Implied Price/Share
+Current Price
+Upside/(Downside)
+EV/Revenue
+7.7x
+4.40
+$182.3
+$0.8
+$181.5
+410.5
+$442.10
+$256.25
+172.5%
+EV/EBITDA
+18.7x
+11.33
+$173.1
+$0.8
+$172.3
+410.5
+$419.70
+$256.25
+163.8%
+P/E Ratio
+26.8x
+15.28
+$446.9
+$0.0
+$446.9
+410.5
+$1,088.61
+$256.25
+424.8%
+EV/FCF
+22.4x
+10.63
+$220.9
+$0.8
+$220.1
+410.5
+$536.26
+$256.25
+209.3%
+Price/Sales
+7.0x
+4.42
+$405.6
+$0.0
+$405.6
+410.5
+$988.12
+$256.25
+385.6%
+VALUATION SUMMARY
+Average Implied Price (All Methods):
+$694.96
+Median Implied Price (All Methods)
+$536.26
+Current Market Price:
+$256.25
+Implied Upside/(Downside):
+171.2%
+From Avg
+Implied Upside/(Downside):
+109.3%
+From Med
+Sources: Team Analysis | Company Reports
+ANNEX 16 – Sensitivity Analysis
+1.50%
+1.75%
+2.00%
+2.25%
+2.50%
+2.75%
+3.00%
+3.25%
+3.50%
+8.48% $485.88
+$500.47 $516.18 $533.15
+$551.55 $571.55 $593.37
+$617.28 $643.60
+8.98% $451.84
+$464.28 $477.61 $491.93
+$507.35 $524.01 $542.07 $561.71 $583.13
+9.48% $422.08
+$432.79 $444.21 $456.42
+$469.51 $483.57 $498.72
+$515.08 $532.81
+9.98% $395.86
+$405.15 $415.02 $425.54
+$436.75 $448.74 $461.59
+$475.40 $490.27
+10.48% $372.58
+$380.70 $389.30 $398.42 $408.12 $418.44 $429.46
+$441.23 $453.85
+10.98% $351.77
+$358.91 $366.46 $374.43
+$382.88 $391.84 $401.36
+$411.50 $422.32
+11.48% $333.06
+$339.38 $346.04 $353.06
+$360.47 $368.30 $376.60
+$385.40 $394.75
+11.98% $316.15 $321.77 $327.68 $333.90
+$340.44 $347.33 $354.61
+$362.30 $370.45
+12.48% $300.79
+$305.82 $311.09 $316.62
+$322.42 $328.53 $334.95
+$341.72 $348.87
+Terminal Growth Rate
+WACC
+Source: Team Analysis
+We conducted a two-way
+sensitivity analysis varying
+WACC from 8.48% to
+12.48% (±200 bps around
+our base case of 10.48%)
+and terminal growth from
+1.50% to 3.50% (±100 bps
+around our base case of
+2.50%). The analysis
+demonstrates that our $408
+target price is robust across
+reasonable assumption
+ranges. The valuation
+exhibits greater sensitivity to
+WACC than terminal growth,
+a 50 bps WACC change
+impacts the share price by
+approximately ±$18, while a
+50 bps terminal growth
+change impacts the price by
+approximately ±$10.
+Bear Case ($301, 14.6% upside): WACC of 12.48% and terminal growth of 1.50%. Primary
+downside drivers include: a) slower AI monetization limiting ARPU expansion across Creative
+Cloud and Experience Cloud; b) intensified competition from AI-native entrants compressing
+Digital Media margins below 95%; c) Semrush integration challenges delaying cross-sell
+opportunities; and d) elevated R&D spending extending beyond 2027 as GPU infrastructure
+costs remain high.
+Base Case ($408, 55.5% upside): WACC of 10.48% and terminal growth of 2.50%. Reflects
+our central assumptions on AI adoption trajectories, margin stability, and competitive
+positioning.
+Bull Case ($561, 114.0% upside): WACC of 8.48% and terminal growth of 3.25%. Primary
+upside drivers include: a) accelerated enterprise adoption of GenStudio driving Digital
+Experience growth above 12% through 2028; b) Firefly premium tier penetration exceeding
+15%; c) Digital Experience margins reaching 75% by 2030 from Semrush synergies; and d)
+faster AI infrastructure maturation allowing R&D to decline to 16% of revenue.
+Even under the bear case
+scenario, Adobe's implied
+valuation supports meaningful
+upside from the current $262
+market price, providing
+substantial margin of safety
+and reinforcing our BUY
+recommendation.
+
+--- PAGE 21 ---
+ANNEX 17 – ESG Metrics
+Metric
+2024
+2023
+2022
+Total Board Members
+11
+12
+12
+Independent Board Members (%)
+91%
+92%
+91%
+Separate CEO and Chair Roles
+No
+No
+No
+Independent Audit Committee
+Yes
+Yes
+Yes
+Independent Compensation Committee
+Yes
+Yes
+Yes
+Independent Nominating/Governance Committee
+Yes
+Yes
+Yes
+Metric
+2024
+2023
+2022
+Anti-Competitive Fines & Settlements
+$0
+$0
+$0
+Customer Privacy Fines & Settlements
+$0
+$0
+$0
+Data Security Breaches (Disclosed)
+0
+0
+0
+Environmental Fines & Settlements
+$0
+$0
+$0
+Health & Safety Non-Compliance Incidents
+0
+0
+0
+TABLE 1: BOARD OF DIRECTORS & GOVERNANCE
+TABLE 2: COMPLIANCE & LEGAL
+Metric
+2024
+2023
+2022
+Political Contributions to Parties/Politicians/PACs
+$0
+$0
+$0
+Lobbying Expenses ($M)
+$2.40
+$2.20
+$2.00
+Metric
+2024
+2023
+2022
+Suppliers Required to Comply with RBA (%)
+100%
+100%
+100%
+Suppliers Undergone Human Rights Screenings (%)
+100%
+100%
+100%
+Suppliers with Human Rights Clauses (% by Spend)
+100%
+100%
+100%
+Incidents Related to Freedom of Association
+0
+0
+0
+Incidents Related to Child Labor
+0
+0
+0
+Incidents Related to Forced Labor
+0
+0
+0
+TABLE 3: POLITICAL & LOBBYING ACTIVITIES
+TABLE 4: SUPPLY CHAIN RESPONSIBILITY
+TABLE 5: GLOBAL WORKFORCE
+Metric
+2024
+2023
+2022
+Total Global Employees
+30,709
+29,945
+29,239
+Employees in U.S. (%)
+50%
+50%
+51%
+Employees Outside U.S. (%)
+50%
+50%
+49%
+TABLE 6: WORKFORCE DIVERSITY - GENDER
+Metric
+2024
+2023
+2022
+Female Employees (%)
+35.40%
+35.30%
+34.60%
+Male Employees (%)
+64.60%
+64.10%
+64.70%
+By Role
+Female Leadership (Director+) (%)
+32.50%
+29.00%
+27.70%
+Male Leadership (%)
+67.30%
+70.80%
+72.10%
+Female People Managers (%)
+39.80%
+34.20%
+32.90%
+Male People Managers (%)
+59.90%
+65.50%
+66.70%
+Female Individual Contributors (%)
+38.70%
+36.00%
+35.40%
+Male Individual Contributors (%)
+60.10%
+63.40%
+63.80%
+By Function
+Females in Tech Roles (%)
+30.40%
+27.60%
+26.90%
+Males in Tech Roles (%)
+68.50%
+71.80%
+72.40%
+
+--- PAGE 22 ---
+TABLE 7: WORKFORCE DIVERSITY - RACE & ETHNICITY (U.S. ONLY)
+Race/Ethnicity
+2024
+2023
+2022
+White
+50.50%
+51.40%
+52.50%
+Asian
+32.60%
+31.80%
+30.70%
+Hispanic/Latinx
+5.60%
+5.60%
+5.60%
+Black/African American
+3.00%
+3.00%
+3.10%
+Native Hawaiian/Pacific Islander
+0.20%
+0.20%
+0.20%
+Native American/Alaska Native
+0.20%
+0.20%
+0.20%
+Two or More Races
+3.00%
+2.50%
+2.60%
+Undisclosed
+5.30%
+5.20%
+5.10%
+Female by Race/Ethnicity
+2024
+2023
+2022
+White
+46.30%
+47.20%
+48.10%
+Asian
+36.20%
+35.30%
+34.10%
+Hispanic/Latinx
+6.70%
+6.70%
+6.80%
+Black/African American
+3.10%
+3.10%
+3.30%
+Native American/Alaska Native
+0.20%
+0.20%
+0.20%
+Native Hawaiian/Pacific Islander
+0.20%
+0.20%
+0.20%
+Two or More Races
+3.00%
+3.00%
+3.00%
+Undisclosed
+4.30%
+4.30%
+4.30%
+Male by Race/Ethnicity
+2024
+2023
+2022
+White
+53.70%
+54.70%
+55.80%
+Asian
+30.60%
+29.90%
+28.80%
+Hispanic/Latinx
+5.00%
+5.00%
+4.90%
+Black/African American
+3.00%
+3.00%
+3.00%
+Native American/Alaska Native
+0.10%
+0.10%
+0.20%
+Native Hawaiian/Pacific Islander
+0.20%
+0.20%
+0.20%
+Two or More Races
+2.30%
+2.20%
+2.30%
+Undisclosed
+5.00%
+4.80%
+4.90%
+Metric
+2024
+2023
+2022
+Employee Satisfaction (%)
+81%
+85%
+84%
+Total Attrition Rate (%)
+7.80%
+7.40%
+11.70%
+Ratio of Female to Male Compensation
+1:01
+1:01
+1:01
+Employee Fatalities per 100,000
+0
+0
+0
+Contractor Fatalities per 100,000
+0
+0
+0
+Injuries & Illnesses per 200,000 Hours
+0.16
+0.04
+0.3
+TABLE 8: HUMAN CAPITAL MANAGEMENT
+Metric (tonnes CO2e)
+2024
+2023
+2022
+Scope 1 Emissions
+7,218
+7,649
+6,568
+Natural Gas & Diesel
+4,465
+5,274
+4,815
+Ozone-Depleting Substances
+928
+378
+427
+Mobile Sources
+1,825
+1,997
+1,326
+Scope 2 Emissions (Location-Based)
+63,296
+62,662
+57,168
+Scope 2 Emissions (Market-Based)
+19,602
+22,950
+22,936
+Scope 3 Emissions (Total)
+496,591
+612,099
+463,437
+Purchased Goods & Services
+409,284
+511,376
+405,645
+Capital Goods
+14,548
+47,112
+26,084
+Fuel & Energy Related Activities
+10,984
+5,470
+6,227
+Upstream Transportation
+472
+559
+66
+Business Travel
+49,260
+38,141
+19,704
+Employee Commuting
+12,043
+9,441
+5,711
+GHG Emissions Reduction
+5,072
+5,494
+95
+Carbon Intensity (Scope 1+2/FTE)
+0.87
+1.02
+1.01
+TABLE 9: GREENHOUSE GAS EMISSIONS
+
+--- PAGE 23 ---
+Metric
+2024
+2023
+2022
+Total Energy Consumption (MWh)
+228,700
+230,711
+213,408
+Total Energy Consumption (GJ)
+823,319
+830,559
+768,269
+% Grid Electricity of Total Energy
+86%
+84%
+84%
+% Renewable Energy of Total
+64%
+56%
+53%
+% Renewable Electricity of Total
+74%
+66%
+62%
+Grid Electricity Consumed (MWh)
+197,076
+194,481
+180,011
+% from Managed Colocated Data Centers
+22%
+22%
+25%
+Fuel Consumed (MWh)
+31,010
+36,047
+32,786
+Energy Intensity (MWh/FTE)
+7.4
+7.7
+7.3
+Metric
+2024
+2023
+2022
+Total Workspace (Sq. Ft.)
+5,150,439
+5,387,228
+4,614,038
+% LEED/Green-Certified Buildings
+96%
+87%
+85%
+% Employees in Certified Workspaces
+75%
+69%
+61%
+% Owned & Managed Buildings
+72%
+69%
+56%
+% Leased Buildings
+28%
+31%
+44%
+Workspace by Geography
+% in U.S.
+62%
+63%
+62%
+% in India
+23%
+22%
+22%
+% in Rest of World
+14%
+15%
+17%
+Adobe Workspace Energy (MWh)
+106,842
+107,331
+96,772
+Energy Intensity (kWh/Sq. Ft.)
+20.7
+19.9
+21
+Metric
+2024
+2023
+2022
+Adobe-Owned Data Center (Hillsboro, OR)
+Scope 2 Location-Based (tonnes CO2e)
+19,778
+20,342
+18,651
+Scope 2 Market-Based (tonnes CO2e)
+7,881
+8,582
+10,920
+Electricity Consumed (MWh)
+71,647
+70,244
+64,395
+Colocated Data Centers
+Scope 2 Location-Based (tonnes CO2e)
+12,255
+12,341
+12,775
+Scope 2 Market-Based (tonnes CO2e)
+6,166
+5,629
+5,903
+Electricity Consumed (MWh)
+42,385
+43,028
+45,766
+Metric
+2024
+2023
+2022
+Total Water Withdrawn (Cubic Meters)
+363,413
+318,834
+264,682
+% Water Recycled & Reused
+9%
+8%
+7%
+% in High/Extremely High Water Stress Regions
+28%
+30%
+28%
+% in High Risk Areas
+0%
+21%
+24%
+% in Extremely High Risk Areas
+28%
+9%
+4%
+Water Intensity (Cubic Meters/FTE)
+11.8
+10.6
+9.1
+TABLE 10: ENERGY CONSUMPTION & RENEWABLES
+TABLE 11: SUSTAINABLE WORKPLACES
+TABLE 12: DATA CENTER ENVIRONMENTAL PERFORMANCE
+TABLE 13: WASTE AND WATER USE & MANAGEMENT
+Metric (Metric Tons)
+2024
+2023
+2022
+Total Waste Generated
+2,035
+1,607
+1,992
+Waste Diverted from Landfill
+1,682
+1,316
+1,761
+Recycled
+623
+471
+864
+Composted
+1,059
+845
+896
+Waste Sent to Landfill
+353
+291
+231
+Waste Diversion Rate (%)
+83%
+82%
+88%
+
+--- PAGE 24 ---
+Metric
+2024
+2023
+2022
+Total Community Investment ($M)
+$134.80
+$115.20
+$113.80
+Company Match of Employee Contributions ($M)
+$22.40
+$22.00
+$16.60
+Product Donation - FMV ($M)
+$60.60
+$68.80
+$63.50
+Value of Pro Bono Projects ($K)
+$1,155
+$1,282
+$414
+Hours Volunteered
+203,182
+201,404
+150,239
+Organizations Served
+74,428
+83,457
+89,110
+TABLE 14: COMMUNITY ENGAGEMENT (CALENDAR YEAR)
+TABLE 15: CDP CLIMATE SCORE & VERIFICATION
+Metric
+2024
+2023
+2022
+CDP Climate Score
+B
+A-
+A
+Scope 1 Verification Status
+3rd Party Verified 3rd Party Verified 3rd Party Verified
+Scope 2 Verification Status
+3rd Party Verified 3rd Party Verified 3rd Party Verified
+Scope 3 Verification Status
+3rd Party Verified 3rd Party Verified 3rd Party Verified
+ANNEX 18 – Sources
+PRIMARY SOURCES
+•
+Adobe Inc. Forms 10-K (Annual Reports), FY2020-FY2025. SEC EDGAR Database (CIK: 0000796343)
+•
+Adobe Inc. Proxy Statements (DEF 14A), 2021-2025. SEC EDGAR Database
+•
+Adobe Inc. Quarterly Earnings Reports, Q4 2020 – Q4 2025. Adobe Investor Relations
+•
+Adobe Inc. Corporate Social Responsibility Reports, 2020-2024. www.adobe.com/corporate-responsibility
+•
+Adobe Inc. 2025 Proxy Statement. February 28, 2025
+INDUSTRY DATA & RESEARCH
+•
+Damodaran, A. (2026). Industry Betas and Cost of Capital. NYU Stern School of Business
+•
+Fortune Business Insights (2024). Global E-Signature Market Analysis 2024-2034
+•
+Gartner Inc. (2024). Marketing Budget Trends 2020-2024
+•
+Goldman Sachs Research (Feb 2026). Software Sector De-Rating Report
+•
+International Energy Agency (2024). Data Centre Energy Projections to 2030
+•
+IDC (2025). SaaS Industry Benchmarks
+•
+Zylo (2025). SaaS Operational Metrics Report 2025
+ESG & RATINGS
+•
+CDP (2025). Climate Change Questionnaire – Adobe Inc.
+•
+DitchCarbon (2025). Corporate Carbon Emissions Database
+•
+Glassdoor (2025). Adobe Inc. Employer Reviews
+•
+MSCI Inc. (2025). ESG Ratings – Adobe Inc.
+•
+S&P Global (2025). Corporate Sustainability Assessment – Adobe Inc.
+•
+GRI (2024). Global Reporting Initiative Standards
+•
+SASB (2024). Software & IT Services Standards
+REGULATORY FRAMEWORKS
+•
+EU General Data Protection Regulation (GDPR), 2016
+•
+EU NIS 2 Directive, 2022
+•
+EU Artificial Intelligence Act, 2024
+•
+EU Corporate Sustainability Reporting Directive (CSRD), 2022
+•
+California Consumer Privacy Act (CCPA), 2018
+•
+China Personal Information Protection Law (PIPL), 2021
+•
+India Digital Personal Data Protection Act, 2023
+•
+US Electronic Signatures in Global and National Commerce Act (ESIGN), 2000
+MARKET DATA
+•
+Nasdaq (2026). ADBE Institutional Holdings
+•
+Yahoo Finance (2026). Adobe Inc. Stock Data
+•
+Fintel (2026). Adobe Institutional Ownership Analysis
+•
+WallStreetZen (2026). Adobe Ownership Data
+PEER COMPANY DATA
+•
+Annual Reports (10-K/20-F) for Microsoft, Salesforce, Oracle, SAP, Workday, Autodesk, HubSpot, DocuSign, Dropbox (FY2020-2025). SEC EDGAR Database
+SPECIALIZED SOURCES
+•
+Adobe Newsroom (2025). Acquisition Announcements
+•
+Adobe Content Authenticity Initiative (C2PA) (2025). Technical Specifications
+•
+Adobe Digital Academy (2025). Program Overview
+•
+AnitaB.org (2024). Technical Occupations Framework
+•
+Gallup (2024). Remote Work Statistics
+•
+World Resources Institute (2024). Aqueduct Water Risk Atlas
+•
+Responsible Business Alliance (2024). RBA Code of Conduct v8.0
+•
+KPMG LLP (2025). Independent Auditor's Report – Adobe Inc.

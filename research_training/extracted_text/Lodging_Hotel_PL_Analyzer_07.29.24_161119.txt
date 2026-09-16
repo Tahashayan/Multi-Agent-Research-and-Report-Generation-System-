@@ -1,0 +1,374 @@
+--- PAGE 1 ---
+Truist Securities
+Equity Research Report
+CONSUMER: Lodging
+Gregory J. Miller
+212-303-4198
+Gregory.J.Miller@truist.com
+C. Patrick Scholes
+212-319-3915
+Patrick.Scholes@truist.com
+Samuel Durno
+212-303-4183
+Samuel.Durno@truist.com
+9 Page Document
+Reasons for this report
+Review of 2Q24 hotel-level profits for
+institutional U.S. full- and select-service
+hotels (data source: HotStats) with read-
+through to 2Q earnings for both Lodging C-
+corps and REITS
+SEE PAGE 7 FOR REQUIRED DISCLOSURE INFORMATION
+July 29, 2024
+Hotel P&L Analyzer: Full-service 2Q
+margins (-90 bps y/y) a tad better than
+1Q's -120 bps.
+In our analysis of over 1,000 U.S. hotels (data source HotStats): 2Q24 Gross
+Operating Profit (GOP) margins for our full-service/luxury set were 37.9%, -90 bps
+y/y and -110 bps vs. same time 2019. These figures compare with 1Q24 of -120
+bps y/y / -70 bps vs. same time 2019. Trends were mixed. On the strongest month
+YTD, May had +5% y/y total revenues but margins down 80 bps. June despite a heavier
+leisure mix: total revenues just +1.6% but margins only -20 bps. 2Q24 results may not
+be enough to take down EBITDA guides. We are cautious on 2H24 guidance and the
+2025+ impact from union negotiations.
+.
+For select-service hotels (primarily institutional higher-rated select-service at
+Upper Midscale/Upscale levels): 2Q24 Gross Operating Profit (GOP) margins
+were 42.8%, -110 bps y/y and -620 bps vs. same time 2019. These figures compare
+with 1Q24 of -200 bps y/y / -840 bps vs. same time 2019. Absolute GOP fell 80 bps
+in 2Q24, far better than 1Q24's 660 bps decline. However, these results continue to
+support why select-service development is challenged at the high-end of select-service
+and the subsequent impact to C-corp development strategy as discussed below. We
+continue to suggest C-corp focus will be in part the introduction of "downscaled" new
+hotel brands, a topic we have written about since April 2023.
+•
+Interestingly, a recent Mews Survey noted that "nearly 80% of travelers would be
+willing to stay at a hotel with a completely automated front desk or self-service kiosk,
+with more than 40% of them preferring to check in via a hotel’s website, app or digital
+kiosk." (No Vacancy News). While we personally have some reservations about
+taking the personal service focus out of a primary part of the guest experience not
+to mention life-safety considerations, we would view select-service hotels an easier
+fit for a low-touch point environment and to help sluggish margins.
+Not for Investment Purposes
+
+--- PAGE 2 ---
+Truist Securities
+.
+FY 2024 REIT and C-corp guidances and consensus estimate considerations:
+Are there going to be REIT guidance changes during earnings due to fundamental operating performance? It is a tricky call for us
+to say if EBITDA guides are going to be materially revised as 2Q GOP data was not especially soft -- and our GOP data does not
+incorporate fixed costs such as property taxes that continue to be fought for lowered assessments. Real estate tax credits (such
+as the big credit Pebblebrook (PEB, Hold) received in May) and eventual lower property tax assessments for some profit-strained REIT-
+owned urban hotels may provide eventual tailwinds for Hotel EBITDA margins if/when tax reductions occur. As far as property insurance,
+we currently assume flattish to up single-digit y/y costs for the 2024-2025 period given the encouraging conversations at June NAREIT
+(an improvement from the ~ +10% y/y increases we expected several months ago). As a reminder, some REIT insurance renewals begin
+around June (the start of hurricane season) and some REIT renewals are in November (around the end of hurricane season).
+•
+While we lack conviction at this time that 2024 REIT guidances will come down at 2Q earnings particularly given a quasi-
+reiteration by some companies during NAREIT, we are also not terribly bullish on profit trend prospects for the remainder of
+the year -- or put differently we view the downside risks are currently greater than the upside risks.
+.
+•
+2Q24 results may not be weak enough to result in lowered FY24 EBITDA guides but we remain cautious on expectations for
+the back half of the year, especially if 2H RevPAR growth is closer to +1-3% than +3-5%. Said differently, if guides are revised,
+we may view 2H expectations as a primary driver. Given the long established strategy for hotels to push group mix higher in 2024
+despite the negative hit to RevPAR growth, we see Absolute EBITDA less impaired than margin trends or RevPAR growth itself
+(perhaps the high-ends of some RevPAR guides are at greater risk). As for profit guidance, many investors understandably
+care about margin trends even above absolute EBITDA movement. Continued relative softness for leisure and gaping holes for
+business travel/groups for weeks surrounding holidays add concerns for us on how strong 2H24 will be for both profit margins and
+absolute EBITDA growth or if we see a continuation of similar trends from 1H24.
+○Is PEB's recent earnings guidance revisions a read-through to other names? We would say perhaps to an extent although
+PEB is much more leisure-oriented than some peer companies and the REITS' leisure assets are quite geographically diversified by
+company. Similarly, PEB has more impact from citywide pace in San Francisco than peers. What will be an interesting comparison
+this earnings season is if other REITS with a wider array of hard-brand assets and the C-corps as managers can quickly enact
+operating cost savings in an increasingly choppy macro. Our gut feeling is PEB has a bit of an advantage in this respect especially
+Truist Securities
+Page 2
+Not for Investment Purposes
+
+--- PAGE 3 ---
+Truist Securities
+compared to the luxury hard branded hotels where brand standards and labor staffing are less flexible (at times intentionally so to
+justify high ADRs). Conversely, hard branded hotels should also have more occupancy support due to their affiliations and loyalty
+programs; we would be surprised to hear some of the other REITS speaking as much as PEB did with regards to raising exposures
+in lower ADR (and/or net RevPAR) wholesale and consortia.
+•
+We would be critical for any REITS that call out surprising weakness for group around holiday weeks as a justification for
+lowering guidance -- this trend of group softness for the weeks before or after holiday weeks has been occurring since PEB identified
+this emerging issue after Thanksgiving in 2022.
+•
+As a proxy for FY 2024 guidance considerations, the June YTD full-service results are as follows:
+○Total revenues: +2.9% y/y
+○Gross Operating Profit margins: -110 bps (only HST and RLJ Hotel EBITDA consensus margins are lower than -110 bps)
+○Gross Operating Profit Per Available Room: +0.1%
+○Hotel Payroll Per Occupied Room: +4.7%
+C-corp guidances: in this note we focus on incentive management fees (IMFs) in isolation due to the IMF relationship to hotel-
+level profits, mostly a consideration for Marriott (MAR, Hold, Scholes), Hyatt (H, Buy, Scholes), and Hilton (HLT, Hold, Scholes)
+in that order. While we view IMFs highly difficult to forecast, the sequential RevPAR growth from 1Q to 2Q could suggest IMF
+consensus may be too aggressive. We do not have strong conviction, however. Our logic: most regional results of materiality had
+lower RevPAR growth sequentially from 1Q but y/y IMF consensus is higher. A bigger question: what were the C-corps anticipating for
+China results for 2Q24/FY24 as of 1Q24 earnings and/or were initial overall EBITDA guidances conservative enough?
+.
+.
+•
+While IMF outperformance has contributed to company beats in some quarters, we struggle with IMF outperformance in 2Q24.
+•
+There may be portfolio-specific considerations to suggest the IMF consensus is correct; however, we particularly question if China 2Q
+RevPAR results (important given the general lack of hurdles for C-corps to receive IMFs in APAC) were simply weaker than expectations.
+We caution that we do not receive chain scale data for China and national STR results may skew to domestic, lower-rated hotels in
+Tier 2-4 cities outside the scope of MAR/HLT/H. We also note that Beijing and Shanghai appear to be holding better on the top-line
+than leisure-focused Sanya -- and that regional leisure cities popular with the Chinese may be taking share from the domestic market.
+To illustrate, below are YTD June RevPAR y/y growth in local currency (per STR):
+○China: -1.6%
+○Beijing: +3.8% / Shanghai +3.9% / Hong Kong: +12.2% - greater C-corp exposure
+○Sanya: -14.8% - weak domestic leisure
+○Bali: +22.5% / Macau +35.8% (Macau is in Renminbi) / Seoul +16.3% / Taiwan +2.9% / Tokyo +30.8% - strong regional markets
+Transactions and development/pipeline impact:
+•
+C-corps: We would view continued weak U.S. hotel-level profit results especially in select-service as a continued challenge for new
+build hotel development, especially for the more fee lucrative (higher absolute ADR) Upscale brands. As a result, we expect continued
+intense focus on conversions and conversion brands, disciplined new build prototypes that are cost friendly particularly in Midscale and
+the upper-tier of Economy, and international focus. To continue to grow the U.S. pipeline in higher-rated hotels, we anticipate more
+Lodging C-corp M&A activity such as brand acquisitions, marketing or strategic partnerships, and in some cases going after
+struggling companies that may present weaker business models but are simply too cheap to pass up given the benefit to
+net unit growth (NUG) and some investor focus on NUG growth over fee contribution. That said, accretive small acquisitions
+despite mixed ten-year growth prospects are still accretive. We are keeping an eye on the small cap public companies that have
+gone public since the pandemic to disastrous stock price results as well as private companies with mediocre growth prospects/financial
+results/liquidity/investors seeking exits and/or battled by any owned asset exposures.
+•
+REITS: While we anticipate a pickup in transactions activity including acquisitions announced before/around earnings, we still view
+U.S. hotel transactions activity lagging broker and other industry expectations of a robust 2H24 as has been discussed for months
+Truist Securities
+Page 3
+Not for Investment Purposes
+
+--- PAGE 4 ---
+Truist Securities
+(notably, brokers benefit financially from said transactions) (CoStar). In an environment where some hotels are not distressed enough
+for deals to accelerate (excluding a market like San Francisco) and continued uncertainty in near- and longer-term performance, we
+can appreciate why bid-ask spreads may remain wide at times.
+Organized labor:
+We remain cautious about the 2025+ financial impact from current negotiations in several U.S. cities. While we appreciate that
+workers with pre-pandemic contracts have seen cost of living increases that may be ahead of negotiated compensation set pre-pandemic,
+our data combined with stock performance and property transaction pricing all support the challenged position for hotel-level profitability
+especially for full-service hotels in still recovering urban Top 25 markets. We would view efforts by the unions to strike at hotels (strike
+authorization votes may transpire in August in Boston, San Francisco, Honolulu, and Providence per a Reuters article) as potentially very
+hazardous at a time when group demand is very important for the U.S. lodging industry given relative softness/weakness in transient
+leisure and still recovering transient business and international inbound travel. This negative setup is particularly problematic in San
+Francisco where meeting planners do not need yet another reason to avoid events at the Moscone Center or local hotels and instead
+choose a non-union market.
+•
+We view organized labor can be a better industry partner to support U.S. tourism (including international inbound demand) which
+ultimately leads to more hotel employment and better hotel-level profits. If the unions are engaged with local/federal government
+agencies and travel bureaus in the background, we would welcome knowing that these efforts are transpiring.
+•
+As much as organized labor would like to see more employees at their hotels, occupancy levels do not necessarily justify
+staffing to pre-pandemic levels. We do not support messaging that incorrectly states how hotels are "very profitable" today -- if that
+was the case, there would be more new construction of full-service hotels and likely better pricing on hotel transactions.
+Other labor takeaways:
+National nominal wage growth is slowing (2Q24 y/y ~ +3.94% versus 1Q24 y/y ~ +4.25% and improved from the north of +5% y/y
+growth in 2022 and +4.5-5.0% for most of 2023)) (WSJ). We see similar high-level setups in our data sets although we may have a
+better sense of granular impact later this year.
+We question if hotels have been able to push group contracts hard enough on both room block ADRs and food and beverage
+(F&B) spend relative to hotel operating cost pressures -- particularly given some meeting planners may be pushing back. Below
+results are YTD June 2024 y/y for our full-service/luxury comp set:
+•
+Segmentation:
+○Group ADR: +7.4%, led by association/convention at +14.6% and Government at +12.5%. Comparatively corporate group ADR
+was +3.6%. Some association/convention groups use a lot of hotel banquet space; some spend more of their time at convention
+centers. We view corporate group as more in-house.
+•
+Revenues:
+○Banquet food revenues per occupied room (POR): +5.8% (F&B outlets +0-1% by comparison)
+○Banquet beverage revenues POR: +1.1% (F&B outlets -3% by comparison)
+○Audiovisual revenues POR: +1.1%
+○Total F&B revenues POR: +3.3%
+•
+Expenses:
+○F&B department labor costs: up 90 bps
+○Banquet hourly labor salaries and wages as a percentage of F&B revenue: flat
+•
+Profits:
+○F&B department profit: down 20 bps
+○F&B flowthrough/flex: -390 bps (definition: ratio that measures the proportion of the dollar change in gross operating profit relative
+to dollar changes in total revenue)
+Full-service results by month
+•
+April results may surprise some of our readers as GOP margins fell 150 bps despite 4.4% total revenue growth. We view the
+Easter Shift impact potentially greater to some of the luxury hotels in our data set and we do not suggest overreading weakness in
+margins. May data being a cleaner month of comparison offers more interesting insights for us.
+•
+May results for full-service were discouraging for margin growth for the best RevPAR month of the year: 5% Total RevPAR
+which includes F&B and other revenues was quite insufficient for flat margins. Is May a negative read-through for the strong
+group months in 2H24? We are not completely sure; if so we would be concerned about profit trends for the anticipated strong group
+months this fall. We also wonder if part of the issue in May is from urban hotels that have lagged in pushing room rates post-pandemic
+due in part to keeping corporate negotiated room rates flat during the heart of the pandemic while inflation was rising fast and the
+consequential challenges to push harder on corporate group contracts, although we appreciate that pushing up corporate ADR when
+demand could not be induced is tricky.
+•
+June presented a better storyline for full-service profit margins despite lower RevPAR growth and a more leisure-focused
+month. Similar to April, June data may be noisier due to holiday shift impact and the midweek timing of Juneteenth.
+Truist Securities
+Page 4
+Not for Investment Purposes
+
+--- PAGE 5 ---
+Truist Securities
+.
+.
+Truist Securities
+Page 5
+Not for Investment Purposes
+
+--- PAGE 6 ---
+Truist Securities
+.
+A few asides on our data: our data sets had minor revisions due to sample changes. However, our data set of over 1,000 institutional
+quality hotels remains in our opinion to be an excellent directional read-through to the financial performance of U.S. select- and full-service
+hotels. We decided to split full- and select-service for analysis as trends are simply quite distinct.
+Truist Securities
+Page 6
+Not for Investment Purposes
+
+--- PAGE 7 ---
+Truist Securities
+Companies Mentioned in This Note
+DiamondRock Hospitality Company (DRH, $8.33, Hold, C. Patrick Scholes)
+Hyatt Hotels Corporation (H, $149.85, Buy, C. Patrick Scholes)
+Hilton Worldwide Holdings Inc. (HLT, $215.61, Hold, C. Patrick Scholes)
+Host Hotels & Resorts, Inc. (HST, $17.45, Hold, C. Patrick Scholes)
+Marriott International, Inc. (MAR, $236.60, Hold, C. Patrick Scholes)
+Pebblebrook Hotel Trust (PEB, $13.73, Hold, Gregory Miller)
+Park Hotels & Resorts Inc. (PK, $14.93, Buy, C. Patrick Scholes)
+RLJ Lodging Trust (RLJ, $9.52, Buy, Gregory Miller)
+Sunstone Hotel Investors, Inc. (SHO, $10.40, Hold, C. Patrick Scholes)
+Analyst Certification
+I, Gregory J. Miller , hereby certify that the views expressed in this research report accurately reflect my personal views about the
+subject company(ies) and its (their) securities. I also certify that I have not been, am not, and will not be receiving direct or indirect
+compensation in exchange for expressing the specific recommendation(s) in this report.
+I, C. Patrick Scholes , hereby certify that the views expressed in this research report accurately reflect my personal views about the
+subject company(ies) and its (their) securities. I also certify that I have not been, am not, and will not be receiving direct or indirect
+compensation in exchange for expressing the specific recommendation(s) in this report.
+Required Disclosures
+Analyst compensation is based upon stock price performance, quality of analysis, communication skills, and the overall revenue and
+profitability of the firm, including investment banking revenue.
+As a matter of policy and practice, the firm prohibits the offering of favorable research, a specific research rating or a specific target
+price as consideration or inducement for the receipt of business or compensation. In addition, associated persons preparing research
+reports are prohibited from owning securities in the subject companies.
+Charts indicating changes in ratings can be found in recent notes and/or reports at our website or by contacting Truist Securities.
+Please see our disclosures page for more complete information at https://truist.bluematrix.com/sellside/Disclosures.action
+Important Disclosures on Equity Research Dissemination, Ratings, Designations, and
+Coverage Universe
+Dissemination of Research
+Truist Securities, Inc. ("Truist Securities") seeks to make all reasonable efforts to provide research reports simultaneously to all eligible
+clients. Reports are available as published in the restricted access area of our website to all eligible clients who have requested a
+password. Institutional investors, corporates, and members of the Press may also receive our research via third party vendors including:
+Thomson Reuters, Bloomberg, FactSet, and S&P Capital IQ. Additional distribution may be done by sales personnel via email, fax, or
+other electronic means, or regular mail.
+For access to third party vendors or our Research website: https://truistresearch.bluematrix.com/client/library.jsp
+Please email the Research Department at EquityResearchDepartment@truist.com or contact your Truist Securities sales
+representative.
+Truist Securities Rating System for Equity Securities
+Truist Securities, Inc. ("Truist Securities") rates individual equities using a three-tiered system. Each stock is rated relative to the
+broader market (generally the S&P 500) over the next 12-18 months (unless otherwise indicated).
+Buy (B) – the stock’s total return is expected to outperform the S&P 500 or relevant benchmark over the next 12-18 months (unless
+otherwise indicated)
+Hold (H) – the stock’s total return is expected to perform in line with the S&P 500 or relevant benchmark over the next 12-18 months
+(unless otherwise indicated)
+Sell (S) – the stock’s total return is expected to underperform the S&P 500 or relevant benchmark over the next 12-18 months (unless
+otherwise indicated)
+Not Rated (NR) – Truist Securities does not have an investment rating or opinion on the stock
+Coverage Suspended (CS) – indicates that Truist Securities’ rating and/or target price have been temporarily suspended due to
+applicable regulations and/or Truist Securities Management discretion. The previously published rating and target price should not be
+relied upon.
+Truist Securities
+Page 7
+Not for Investment Purposes
+
+--- PAGE 8 ---
+Truist Securities
+Truist Securities analysts have a price target on the stocks that they cover, unless otherwise indicated. The price target represents
+that analyst's expectation of where the stock will trade in the next 12-18 months (unless otherwise indicated). If an analyst believes
+that there are insufficient valuation drivers and/or investment catalysts to derive a positive or negative investment view, they may elect
+with the approval of Truist Securities Research Management not to assign a target price; likewise certain stocks that trade under $5
+may exhibit volatility whereby assigning a price target would be unhelpful to making an investment decision. As such, with Research
+Management‘s approval, an analyst may refrain from assigning a target to a sub-$5 stock.
+Legend for Rating and Price Target History Charts:
+B = Buy
+H = Hold
+S = Sell
+D = Drop Coverage
+CS = Coverage Suspended
+NR = Not Rated
+I = Initiate Coverage
+T = Transfer Coverage
+Truist Securities ratings distribution (as of 07/29/2024):
+Coverage Universe
+Investment Banking Clients Past 12 Months
+Rating
+Count
+Percent
+Rating
+Count
+Percent
+Buy
+434
+63.64%
+Buy
+62
+14.29%
+Hold
+247
+36.22%
+Hold
+34
+13.77%
+Sell
+1
+0.15%
+Sell
+0
+0.00%
+Other Disclosures
+Information contained herein has been derived from sources believed to be reliable but is not guaranteed as to accuracy and does not
+purport to be a complete analysis of the security, company or industry involved. This report is not to be construed as an offer to sell or
+a solicitation of an offer to buy any security. Truist Securities, Inc. and/or its officers or employees may have positions in any securities,
+options, rights or warrants. The firm and/or associated persons may sell to or buy from customers on a principal basis. Investors may
+be prohibited in certain states from purchasing some over the-counter securities mentioned herein. Opinions expressed are subject to
+change without notice.
+Truist Securities, Inc.’s research is primarily provided to and intended for use by Institutional Accounts as defined in FINRA Rule
+4512(c). The term “Institutional Account" shall mean the account of: (1) a bank, savings and loan association, insurance company
+or registered investment company; (2) an investment adviser registered either with the SEC under Section 203 of the Investment
+Advisers Act or with a state securities commission (or any agency or office performing like functions); or (3) any other person (whether a
+natural person, corporation, partnership, trust or otherwise) with total assets of at least $50 million. In addition, certain affiliates of Truist
+Securities, Inc., including Truist Investment Services, Inc. (an SEC registered broker-dealer and a member of FINRA, SIPC) and Truist
+Advisory Services, Inc. (an investment adviser registered with the SEC), may make Truist Securities, Inc. research available, upon
+request, to certain of their clients from time to time.
+Truist Securities, Inc. is a registered broker-dealer and a member of FINRA and SIPC. It is a service mark of Truist Financial
+Corporation. Truist Securities, Inc. is owned by Truist Financial Corporation and affiliated with Truist Investment Services, Inc. Despite
+this affiliation, securities recommended, offered, sold by, or held at Truist Securities, Inc. or Truist Investment Services, Inc. (i) are not
+insured by the Federal Deposit Insurance Corporation; (ii) are not deposits or other obligations of any insured depository institution
+(including Truist Bank); and (iii) are subject to investment risks, including the possible loss of the principal amount invested. Truist Bank
+may have a lending relationship with companies mentioned herein. Certain clients may compensate Truist Securities, Inc. for research
+via hard dollar payments, and Truist Securities, Inc. may be deemed to be an investment adviser to such clients as a result of such
+payments.
+Please see our Disclosure Database to search by ticker or company name for the current required disclosures, including valuation and
+risks. Link: https://truist.bluematrix.com/sellside/Disclosures.action
+Please visit the Truist Securities equity research library for current reports and the analyst roster with contact information. Link: https://
+truistresearch.bluematrix.com/client/library.jsp
+Truist Securities, Inc., member FINRA and SIPC. Truist, Truist Bank, Truist Securities, Truist Investment Services, and Truist Advisory
+Services are service marks of Truist Financial Corporation.
+If you no longer wish to receive this type of communication, please request removal by sending an email to
+EquityResearchDepartment@truist.com
+Truist Securities
+Page 8
+Not for Investment Purposes
+
+--- PAGE 9 ---
+Truist Securities
+© Truist Securities, Inc. 2024. All rights reserved. Reproduction or quotation in whole or part without permission is forbidden.
+ADDITIONAL INFORMATION IS AVAILABLE at our website, TruistSecurities.com, or by writing to: Truist Securities, Research
+Department, 3333 Peachtree Road N.E., Atlanta, GA 30326-1070
+Truist Securities
+Page 9
+Not for Investment Purposes

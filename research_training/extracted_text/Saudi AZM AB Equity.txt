@@ -1,0 +1,1860 @@
+--- PAGE 1 ---
+Equity Research report
+Saudi AZM AB Equity
+22 Dec 2022
+1
+
+Saudi Azm for Communication and
+Information Technology Company (Azm)
+Small cap with significant potential
+▪
+Azm’s revenues witnessed a CAGR of 75% during 2018-22, with net income growing by
+59% during the same period. The management has further guided a net income growth
+of 25% in 2023e.
+▪
+With ambitious management, the potential appears to be immense, given the currently
+small base as Azm builds up a track record to bid for larger projects in a sole capacity.
+▪
+We initiate coverage on Saudi Azm with a target price of SAR222/share (average of DCF
+and P/E valuation) and an Overweight rating.
+Sustained growth, strong guidance: In 2018, the group’s revenue was a meagre SAR15mn with
+a bottom-line of SAR3mn but has grown exponentially since then. The group’s market share in
+Consulting and Platform sectors combined has grown from less than half a percent in 2018 to
+more than 1% in 2022. Given the ambitions and capabilities, we believe this could increase to
+more than 2% in the next five years. The group has already developed nearly 14 platforms and
+products over the years. As the company builds up a track record and becomes sizeable, this
+will help the company to bid for larger Government projects. The company could also leverage
+its existing products and platforms to create additional revenue streams via maintenance,
+operations, and upgradation activities.
+Products focus: Currently, more than 50% of the group’s revenues come from the Manpower
+segment, which has single-digit margins. However, the group’s focus is more on Platforms &
+Products, and IT services and over the years is expected to see lower contribution from
+Manpower. Group’s average gross margin for the period 2020-22 is c.20%, but we expect it to
+widen to 250bps by 2025e as the products have much higher margins and become sizeable.
+Risks: Being a technology-driven company, the major risk is failure to keep up with technological
+changes in the sector. Lack of diversity in clientele, ability to maintain talent, execution risks
+leading to inability to bid for future projects, increase in competition, unfavorable changes in
+regulations are some of the risks.
+Figure 1: Key financial metrics
+SARmn
+2021a
+2022a
+2023e
+2024e
+2025e
+Revenue
+135
+153
+189
+228
+270
+Revenue growth
+31%
+13%
+24%
+20%
+19%
+Gross Profit
+29
+31
+39
+47
+57
+Gross Profit margin
+21.6%
+20.2%
+20.5%
+20.8%
+21.0%
+EBITDA
+19
+21
+21
+28
+34
+Op. income
+17
+20
+20
+26
+32
+Net profit
+16
+18
+18
+24
+29
+Net profit margin
+11.5%
+11.9%
+9.6%
+10.4%
+10.8%
+EPS (SAR)
+5.2
+6.1
+6.0
+7.9
+9.7
+P/E
+32.7x
+27.8x
+28.0x
+21.5x
+17.4x
+Source: Company data, GIB Capital
+
+Stock data
+
+TASI ticker
+9531.SE
+Mcap (SARmn)
+519
+Trd. Val (3m) (SARmn)
+0.3
+Free float
+58%
+QFI holding
+0.2%
+Source: Bloomberg
+
+Prices indexed to 100
+
+Source: Bloomberg
+80
+130
+180
+230
+280
+0
+5,000
+10,000
+15,000
+20,000
+25,000
+30,000
+01-Mar-22
+01-Jul-22
+01-Nov-22
+Nomu Index
+Azm (RHS)
+Target Price: SAR222/share
+Current Price: SAR173/share
+Upside: 28.3%
+Rating: Overweight
+Pritish Devassy, CFA, CPA
++966-11-834 8467
+Pritish.devassy@gibcapital.com
+
+Abdulaziz Alawwad
++966-11-834 8486
+Abdulaziz.alawwad@gibcapital.com
+
+--- PAGE 2 ---
+Equity Research Report
+Saudi AZM AB Equity
+22 Dec 2022
+2
+
+Investment case
+Azm is a fast-growing IT and consulting services company listed on Nomu on 01st March 22. The
+group employs more than 250 people with an average age of ~30 years. The group has been
+building its track record, with the company has grown from a small player with SAR50k capital
+five years ago into a listed company with a market cap of SAR508mn today.
+Saudi Azm has three main sources of revenue – 1) IT services, 2) Executive Services, 3) Products
+and PPP. The majority of the group’s revenues come from IT and Executive services. The group,
+however, also classifies its business according to the nature of business viz. Manpower,
+Platform, Subscription, and Services. The revenue mix is around 55% from Manpower, 35%
+Services and 15% Products. The manpower segment involves providing consultants as
+employees to clients and is not its core area of business, as per the company. Despite being
+large in terms of revenue, the business has thin margins and thus in terms of profits is less
+important as per the company. As per the management, net margins are around 8%, 30-40%,
+and likely 60%+ for the three business segments, respectively. Products is where the revenue is
+expected to jump significantly and the company is focusing on.
+With the successful launch of some unique products, the company has gained credibility to
+participate in larger Govt projects and is confident to continue its growth trajectory. The
+company conservatively has been guided to grow by 26% in revenue and 25% in profits in 2023.
+The company has ambitious management and envisions becoming bigger than Elm in the next
+five years. The group also plans to move to the main market by 2024. Given that the size is small,
+the growth can be much higher than some of its peers for at least the next few years and thus
+commands a premium multiple.
+
+The company’s topline growth in the last five years has outgrown the sector by a good margin
+with a CAGR of 75%. The bottom line has also been healthy, with a CAGR of 59% in the same
+period. For example, Azm grew by 107% over 2018-21 as compared to Elm’s growth of 26% and
+Perfect Presentation’s growth of 54% (though they are not completely comparable). In terms
+of margins, Azm has an average 14% net margin (2018-21) as compared to 15% for Elm and 11%
+for Perfect in the same period. Most recently, the group witnessed 25.5% earnings growth in
+the year ending June 2022. Azm has also established software development offices in Poland,
+Jordan, and Egypt, employing approximately 250 employees (~75+ employees in Saudi). This
+helps the group engage a larger talent pool and bring down the cost of employees. As per our
+understanding, these offshore centres help in research and developmental activities.
+
+Owing to its size, the company had to participate in one of the key Govt. projects in association
+with partnering (shadowing) with a larger firm to prove its capabilities. Not just this, the
+company has been displaying its capabilities by working on some unique products. On the
+product front, recently the group launched the National Real Estate Platform Company (Aqarek)
+in January 2021, which is fully developed and managed by Azm. The Platform provides user
+experience (UX) for buyers and sellers of lands and properties, fragmentation marketing, and
+off-pans sales activities. The platform fulfills the need for companies to make land deals. The
+Platform has witnessed nearly 300 land deals being made in a day with GMV c.SAR550mn for
+the first seven months and still has a pipeline of deals worth SAR9bn. Azm has sold 3.4% of its
+stake for c.SAR4.7mn, despite this, Azm has a substantial influence over the Platform and has
+raised an investment of SAR200mn for the same. Azm currently controls 30% of the Platform.
+
+--- PAGE 3 ---
+Equity Research Report
+Saudi AZM AB Equity
+22 Dec 2022
+3
+
+Amid rising interest rates, Azm reduced its dependency on bank facilities, lowering debt from
+SAR9mn to c.SAR2mn given the strong cash flow generation. The remaining bank loans are
+outstanding due to no early settlement options. The company has been actively hiring and
+incentivizing, offering stock options to the employees, and prefers this over paying dividends to
+retain and hire talent. The company also plans to buy back 20mn from the market reflecting the
+belief in the growth of the company.
+
+--- PAGE 4 ---
+Equity Research Report
+Saudi AZM AB Equity
+22 Dec 2022
+4
+
+Peer Analysis
+Azm which is only one-tenth the size of Elm has the highest revenue CAGR of 107% in the period
+of 2018-21 far more than any of its peers but aims to grow to the size of Elm as per the
+management. Group’s average gross and operating margins are 21% and 24%, respectively.
+While it’s lower than its peer Elm, this is because c.60% of the group’s revenue comes from a
+low-margin business, Manpower. As the group’s share of revenues from other business lines
+increases, the margins too are likely to improve. Moreover, the group’s receivables days are
+lowest at ~67 days compared to its peers, despite having Government as a major client.
+Figure 2: Comparison of financial metrics of Saudi peers
+Revenues (SARmn)
+2018
+2019
+2020
+2021
+1H22
+CAGR (2018-21)
+Elm
+1,926
+2,102
+2,466
+3,828
+2,131
+26%
+STC Solutions
+4,041
+5,257
+6,891
+7,816
+4,673
+25%
+MIS
+889
+998
+675
+639
+278
+-10%
+Azm
+15
+67
+103
+135
+153
+107%
+ArabSea
+41
+39
+24
+57
+17
+12%
+Perfect
+180
+298
+482
+655
+432
+54%
+
+Gross Margin %
+2018
+2019
+2020
+2021
+1H22
+Avg (2018-21)
+Elm
+37%
+32%
+34%
+31%
+37%
+34%
+STC Solutions
+24%
+16%
+21%
+22%
+21%
+21%
+MIS
+15%
+16%
+26%
+26%
+28%
+21%
+Azm
+28%
+27%
+20%
+22%
+
+24%
+ArabSea
+61%
+58%
+22%
+65%
+30%
+52%
+Perfect
+16%
+18%
+19%
+18%
+17%
+18%
+
+Op. Profit margin %
+2018
+2019
+2020
+2021
+1H22
+Avg (2018-21)
+Elm
+19%
+14%
+14%
+16%
+24%
+16%
+STC Solutions
+14%
+8%
+11%
+12%
+13%
+11%
+MIS
+10%
+10%
+15%
+12%
+11%
+12%
+Azm
+21%
+12%
+14%
+13%
+
+15%
+ArabSea
+-25%
+62%
+-34%
+19%
+-36%
+5%
+Perfect
+8%
+8%
+13%
+13%
+13%
+11%
+
+Net Profit margin
+2018
+2019
+2020
+2021
+1H22
+Avg (2018-21)
+Elm
+19%
+15%
+12%
+15%
+21%
+15%
+STC Solutions
+15%
+7%
+10%
+11%
+12%
+11%
+MIS
+7%
+8%
+13%
+10%
+8%
+10%
+Azm
+20%
+12%
+12%
+11%
+
+14%
+ArabSea
+-25%
+62%
+66%
+38%
+-32%
+35%
+Perfect
+10%
+8%
+13%
+12%
+12%
+11%
+
+Receivable days
+2018
+2019
+2020
+2021
+
+Avg (2018-21)
+Elm
+207
+194
+203
+158
+
+190
+STC Solutions
+165
+183
+148
+141
+
+159
+MIS
+153
+135
+334
+222
+
+211
+Azm
+
+99
+11
+91
+
+67
+ArabSea
+24
+73
+119
+54
+
+68
+Perfect
+134
+86
+92
+54
+
+92
+Source: Company, GIB Capital
+
+--- PAGE 5 ---
+Equity Research Report
+Saudi AZM AB Equity
+22 Dec 2022
+5
+
+Assumptions
+Revenue
+During 2023-2028 we expect revenue to increase at a CAGR of 13%, with Platforms/Products
+and IT services being major growth centers. We believe the contribution from Platform could
+increase to 60% by 2024 as compared to c.26% in 2022 and c.11% in 2021. While the revenue
+share of Manpower would go down, the group intends to continue catering to this segment as
+it helps maintain long-term relations with Banks and Governmental departments, which may
+be important in securing projects in the long-term. The group has excellent links with
+government ministries which account for close to 80% of the group’s revenues. Furthermore,
+the management is exploring more opportunities in the government sector as they tend to be
+more profitable.
+
+Recent Deals:
+1. SAR14.3mn project from Small & Medium Enterprises General Authority (Monsha’at)
+which includes operation and provision of the third class of program to support the
+growth of SMEs.
+2. Contract with National Center for Government Resource Systems (NCGR) spanning
+over a period of 24 months to develop digital portals and smart applications for the
+ministry, at a value of SAR16.5mn.
+3. General Commission for the Guardianship of Trust Funds for Minors and Their
+Counterparts granted a contract worth SAR8.1mn to maintain and operate
+government resource systems, update databases, and secure advisory cadres for
+commission over the period 2023-25.
+Figure 3: Revenue mix (2022) – based on operations
+
+Figure 4: Revenue mix (2021) – based on clients
+Source: Company data
+
+Source: Company data
+
+Margins:
+The cost of sales consists mainly of employee salaries, which accounted for 81.2% of total costs
+in 2022; other components are IT services and consulting. We expect the total number of
+employees to increase by 8% in 2023, and for the period thereafter, we assume an annual
+increase of ~5% and annual growth in salaries of ~10%.
+59%
+26%
+6% 10%
+Manpower
+Platforms
+Subscriptions
+Services
+56%
+23%
+21%
+Government agencies
+Semi-government Customer
+Private Customer
+Raw materials are the biggest
+cost component.
+Employee Salaries is the
+biggest cost component
+
+--- PAGE 6 ---
+Equity Research Report
+Saudi AZM AB Equity
+22 Dec 2022
+6
+
+Figure 5: Gross Margins (2022) – based on operations
+
+Figure 6: Employee split between Saudi and Non-Saudi
+Source: Company data
+
+Source: Company data
+
+Capex:
+Most IT companies have low Capex as most of the revenues are non-asset based but are based
+on employee billables. We forecast a Capex of 1-2% of sales for 2023 and beyond.
+
+Balance sheet - notable points:
+Cash and financial assets at fair value accounted for 41% of the balance sheet size at the end of
+2022. Apart from having SAR27m in cash the company has also parked SAR17m in mutual funds.
+Less than 4% of gross receivables are due for more than a year. In terms of subsidiaries, Saudi
+Azm owns 75% of Azm Tajrubah for Information Technology Company. The subsidiary is
+engaged in general information technology services with a specialization in user experience (UX)
+and user interface (UI) development-related services.
+
+Figure 7: Receivables due break-up by period
+SAR ‘000
+Gross amount
+Impairment Loss
+Loss Allowance
+Not Due
+2,235
+7
+0.3%
+Past due 1-90 days
+5,941
+77
+1.3%
+Past due 91-180 days
+1,420
+75
+5.3%
+Past due 181-270 days
+2,355
+589
+25.0%
+Past due 271 - 365 days
+0
+0
+More than 365 days
+450
+450
+100%
+Source: Company Data
+
+21%
+21%
+5%
+20%
+20%
+Manpower
+Platforms
+Subscriptions
+Services
+Group
+78%
+80%
+84%
+22%
+20%
+16%
+2019
+2020
+2021
+Saudi
+Non-Saudi
+
+--- PAGE 7 ---
+Equity Research Report
+Saudi AZM AB Equity
+22 Dec 2022
+7
+
+Vision
+Azm’s vision is to provide solutions in the field of information technology by utilizing their
+consulting and technical expertise and providing value-effective services to clients.
+Strategy
+The company’s strategy can be summarised as the following:
+•
+Targeting long-term projects which can create sustainable revenue streams through a
+partnership with the public and private sectors in building and operating projects.
+•
+Focusing on the latest technologies to help with business development activities.
+•
+For client acquisitions, the group’s target is mostly other businesses and government
+projects.
+•
+Building and operating platforms and linking them with integrated management
+consultancy services.
+•
+Activating low-code software development techniques in building systems and
+applications.
+
+SWOT Analysis
+
+• Strong competition in the IT
+sector in general
+• Less diversity in client base, high
+revenue dependency on key clients
+• More than 70% of revenues come
+from one single business segment
+(Manpower)
+•Opportunity to lure best talents via
+Government supported training
+programs
+• Increasing digitization in both public
+and private sectors
+• Sustained growth for past five years
+• Strong expansion plans for future
+• Solid margins, low debt, and
+sufficient cash flows and balances to
+fund future growth at an optimised
+capex
+•A healthy number of products and
+platforms are already there in
+group's portfolio
+Strength
+Opportunity
+Threat
+Weakness
+
+--- PAGE 8 ---
+Equity Research Report
+Saudi AZM AB Equity
+22 Dec 2022
+8
+
+Valuation and risks
+Relative valuation: For P/E valuation, we use a 25x multiple on SAR7.9 (EPS) and arrive at a
+target of 208/share. The discount to what could be an even higher multiple is because of its
+small size and liquidity.
+DCF: As for DCF, we get a valuation of SAR236/share as a target based on a terminal growth of
+5% and a WACC of 8.8% with a target capital structure of 5% debt to asset.
+We use equal weights of 50% each for DCF and P/E valuation, which gives us a weighted average
+target price of ~SAR222/share and initiate on the company with an OW rating.
+Figure 8: DCF Valuation
+DCF model (SARmn)
+2023e
+2024e
+2025e
+2026e
+2027e
+2028e
+EBIT
+20
+26
+32
+40
+49
+61
+tax
+-1
+-2
+-2
+-3
+-4
+-5
+Change in WC
+-2
+-11
+-9
+-4
+-5
+-5
+Dep & Amort
+2
+2
+3
+3
+4
+5
+Capex
+-3
+-3
+-4
+-5
+-5
+-6
+FCF
+16
+12
+19
+31
+38
+48
+Terminal Value
+0
+0
+0
+0
+0
+897
+
+Enterprise value of explicit period
+103
+
+PV of Terminal Value
+540
+
+Total Enterprise Value
+643
+
+(-)Debt, incl. lease liabilities
+-15
+
+(-) Pension/liabilties
+-4
+
+(+) Cash
+42
+
+(+) Associate
+4
+
+(-) Minority
+0
+
+Market value
+670
+
+Number of shares
+3
+
+DCF -Target Price (1 year from today)
+236
+
+Cost of Equity
+11.0%
+
+Cost of debt
+4.5%
+
+Target D/A
+5%
+
+WACC
+10.7%
+
+Source: GIB Capital
+
+Figure 9: Relative valuation
+Relative valuation
+
+EPS (2023E)
+7.9
+P/E multiple
+25.0
+PE - Target Price (1 year from today)
+207.8
+Source: GIB Capital
+
+--- PAGE 9 ---
+Equity Research Report
+Saudi AZM AB Equity
+22 Dec 2022
+9
+
+Figure 10: Valuation
+Average Valuation
+Methods
+Weightage
+Relative Valuation
+207.8
+50%
+DCF
+235.8
+50%
+Target Price per share
+
+222
+Source: GIB Capital
+
+Figure 11: Peer Valuation
+Ticker
+Name
+Market Cap
+(SARmn)
+P/E
+(TTM)
+P/E
+(FY1)
+P/E
+(FY2)
+IT Product Companies
+SAP GR Equity
+SAP SE
+389,753
+39.0
+23.7
+19.8
+INTU US Equity
+Intuit Inc
+416,360
+61.1
+29.8
+26.2
+CRM US Equity
+Salesforce Inc
+564,940
+761.6
+29.5
+25.6
+WDAY US Equity
+Workday Inc-Class A
+147,117
+48.6
+36.8
+VEEV US Equity
+Veeva Systems Inc-Class A
+96,795
+71.4
+41.9
+38.9
+SGE LN Equity
+Sage Group Plc/The
+29,618
+31.5
+26.8
+23.9
+OTEX CN Equity
+Open Text Corp
+26,788
+37.3
+9.3
+8.9
+ADSK US Equity
+Autodesk Inc
+158,015
+60.5
+30.5
+27.4
+ADBE US Equity
+Adobe Inc
+504,643
+33.5
+25.1
+22.2
+SNPS US Equity
+Synopsys Inc
+176,467
+54.6
+33.8
+29.4
+DSY FP Equity
+Dassault Systemes Se
+167,849
+58.3
+32.6
+30.5
+CDNS US Equity
+Cadence Design Sys Inc
+163,584
+55.6
+40.8
+37.1
+ANSS US Equity
+Ansys Inc
+71,448
+46.7
+33.3
+30.6
+PTC US Equity
+Ptc Inc
+48,646
+41.6
+27.8
+23.6
+CSU CN Equity
+Constellation Software Inc
+109,184
+46.2
+33.9
+27.8
+IT Service Companies
+WPRO IN Equity
+Wipro Ltd
+102,919
+20.0
+19.9
+17.1
+HCLT IN Equity
+Hcl Technologies Ltd
+119,228
+22.1
+21.3
+19.0
+MTCL IN Equity
+Mindtree Ltd
+25,191
+29.9
+28.2
+24.9
+CTSH US Equity
+Cognizant Tech Solutions-A
+113,842
+13.9
+14.0
+13.3
+TCS IN Equity
+Tata Consultancy Svcs Ltd
+520,482
+31.7
+29.6
+26.2
+WNS US Equity
+Wns Holdings Ltd-Adr
+14,901
+31.9
+22.3
+20.2
+G US Equity
+Genpact Ltd
+30,458
+24.7
+16.8
+15.3
+EXLS US Equity
+Exlservice Holdings Inc
+19,515
+44.7
+30.9
+27.7
+MPHL IN Equity
+Mphasis Ltd
+18,250
+27.9
+23.5
+20.3
+INFO IN Equity
+Infosys Ltd
+280,726
+30.0
+28.1
+24.3
+TECHM IN Equity
+Tech Mahindra Ltd
+45,691
+19.3
+18.6
+15.8
+Saudi IT companies
+ELM AB Equity
+ELM CO
+25,968
+30.9
+27.6
+24.3
+SOLUTION AB Equity
+STC Solutions
+32,040
+29.2
+27.1
+23.0
+Azm AB Equity
+Azm
+522
+26.8
+MIS AB Equity
+MIS
+3,162
+50.5
+Median
+
+111,513
+33.5
+28.0
+24.3
+Source: Bloomberg
+
+--- PAGE 10 ---
+Equity Research Report
+Saudi AZM AB Equity
+22 Dec 2022
+10
+
+Risks:
+•
+The Information, Communication, and Technology (ICT) sector is inherently exposed to
+rapid technological changes. The group needs to keep up with the rapid technological
+advancements, in case of failing to do so puts company’s ability to stay relevant in the
+industry at risk.
+•
+High contribution from two major clients representing ~57% of revenues in 2021 and high
+wage inflation.
+•
+Customer requirements in ICT are sensitive, and the company needs to stay aligned with
+the same. A failure to comply with customer requirements shall put the company’s ability
+to retain its customers at risk.
+•
+The company depends on its key employees' technical expertise to deliver client output
+and develop its products. The group needs to maintain and upgrade its workforce.
+Otherwise, it puts the company’s ability to deliver at risk.
+•
+The entrance of new players could increase competition and result in pricing pressure
+which may harm group’s ability to maintain its profitability.
+•
+Any default at payment or contract termination from the client’s end could severely impact
+the group’s source of revenue.
+•
+Azm is dependent upon contractors and suppliers, any failure on the part of suppliers in
+fulfilment of their contract can harm group’s ability to deliver.
+•
+The group is subject to law and regulations in its respective geographies. Any unfavorable
+changes in regulations may impact group’s ability to continue its ability to stay in business.
+
+--- PAGE 11 ---
+Equity Research Report
+Saudi AZM AB Equity
+22 Dec 2022
+11
+
+Company Profile
+Saudi Azm Company was established in the year 2017 by Saudi Holding Company and Mr. Ali
+Mohammed Rashid Albalaa, with the aim to provide IT services, Executive Consulting services,
+and developing products and platforms. The group was listed on 1 March 2022 with an offer
+price of SAR70/share. The group has a substantial number of Government projects leading to
+Government as the largest source of revenues till FY22. The company has a 5-year target to beat
+Elm in terms of size by building partnerships with the Government. In 2022, the company
+became one of the youngest firms to be listed on Nomu.
+Figure 12: AZM’s operating segments
+
+Source: Company Data
+
+Figure 13: Evolution of Azm over the years
+Year
+Event
+2017
+Established as a limited liability company
+2018
+Capital increased to SAR500,000
+2019
+Amending the company's articles of association
+2020
+Establishment of Nafith and Rsd
+2021
+Increased capital to SAR30mn and IPO offering
+2022
+Launched Aqarek platform and listed in NOMU
+Source: Company Data
+Figure 14: Azm: Key Personnel
+Board of Directors
+Designation
+Majed Saad Alousaimi
+Chairman
+Ahmed Abdulazizi Alhakbani
+Deputy Chairman - Non Executive
+Ali Mohammad Albalaa
+Executive
+Feras Khalid Aljuraywi
+Non - Executive
+Omer Abdulrahman Aljeraisy
+Non - Executive
+Management
+Designation
+Ali Mohammad Albalaa
+CEO
+Muhammad Hammad
+CFO
+Source: Tadawul
+
+--- PAGE 12 ---
+Equity Research Report
+Saudi AZM AB Equity
+22 Dec 2022
+12
+
+Figure 15: Revenue by type of client (2021)
+
+Figure 16: Revenue by product/ service line (2021)
+
+Source: Company Data
+
+Source: Company Data
+Overview of the company’s products
+The below list highlights group’s major products:
+
+Joud Alaskan: A crowdfunding charity platform for the Private Institute for Developmental
+Housing (SAKANI), which contributes to bridging the gap between the donor and families in
+need of housing. Raising more than SAR2bn, the Platform has managed to cover more than
+28,000 families for housing needs.
+Nafaqah Fund: The group developed this product for the Ministry of Justice to cover family's
+basic needs in which the spender refrained from fulfilling alimony during the period of litigation,
+payment of litigation and expense of litigation. Azm has helped establish the fund from its
+inception by providing consulting services, studying the project, building targets, and drawing a
+full concept for it, and up to the stage of providing a technical service platform.
+Aqarek: Aqarek, Azm’s latest product, is a national real estate platform used in marketing the
+real estate services of the National Real Estate Platform Company. With linking buyers and
+sellers of lands and properties, marketing and off-pan sales activities, the Platform has
+witnessed 300+ land deals with SAR550mn as the size of GMV. We note that the group has sold
+20% of the Platform's stake for SAR200mn.
+
+Waqfy: It’s a crowdfunding platform developed by Azm for the General Authority for Awqaf
+that aims to create a unifying channel between nonprofit organizations and the public. The
+number of products on the Platform is more than 200 in the various fields targeted by the
+Platform. The Platform has more than 640,000 contributors contributing a total amount of
+SAR172mn.
+
+Ejar: It is an integrated electronic network that regulates the real estate rental sector in the
+Kingdom of Saudi Arabia by protecting the rights of the parties to the rental process (lessor,
+lessee, broker).
+
+Support and Operating of NDTU: Azm provides support and operation for the national digital
+transformation unit in the Ministry of Communications and Information Technology, which is a
+centre of excellence established in 2017 by a royal order as an independent entity, which works
+56%
+23%
+21%
+Government agencies
+Semi-government Customer
+Private Customer
+59%
+26%
+6% 10%
+Manpower
+Platforms
+Subscriptions
+Services
+
+--- PAGE 13 ---
+Equity Research Report
+Saudi AZM AB Equity
+22 Dec 2022
+13
+
+to accelerate digital transformation in the Kingdom and achieve the goals of Vision 2030
+through strategic direction, expertise, and supervision through cooperation with the public and
+private sectors.
+
+Nafith: A digital platform developed for the Ministry of Justice that enables dealers to issue and
+manage the commercial Sadar easily and safely and aims to provide market management
+services for commercial transactions.
+
+In addition to all these products, Azm has several other products such as Saudi Codes, Najiz
+Platform, Digital Citizenship Project, Rsd, support and operating the initiatives of the Vision
+Realization Office and supporting the digital government in NEOM.
+
+IPO details
+On 29 December 2021, the group received an approval from CMA to list its shares on NOMU.
+The company set its IPO price at SAR70/share in January 2022. The share was listed on 1 March
+2022. The IPO was limited to Qualified investors only.
+
+Figure 17: Azm major client as % of revenue (2021)
+
+Figure 18: Current ownership (2022)
+
+Source: Company Data
+
+Source: Tadawul
+
+Market dynamics
+The Information and Communication Technology (ICT) sector is witnessing large growth in Saudi
+Arabia. The expected spending on ICT sector in the Kingdom is expected to reach SAR123.3bn
+resulting in a ~4% CAGR and is further expected to increase in the coming years. Digital
+transformation has been an integral part of the broader policy framework in the Kingdom since
+2006 wherein the Kingdom adopted the National Strategy for Digital Transformation under
+three five-year action plans. In addition, the Government of the Kingdom of Saudi Arabia
+recently announced the program “Shareek”, which aims to increase domestic investments of
+private sector companies (listed and non-listed companies) to reach SAR5trn by 2030 through
+Government support and incentives.
+The National Strategy for Digital Transformation is expected to allow KSA’s AI market to reach
+USD135.2bn by 2030 and contribute 12.4% of GDP. There is also an ICT Sector Strategy 2023 in
+place from the ministry, which targets creating 23,000 quality jobs in the sector, increasing the
+32%
+25%
+9%
+7%
+6.61%
+Ministry of Justice
+Ministry of communications and information technology
+ITMAM consultancy
+Takamol Holding
+King Abdullah Institute for Research & Consulting Studies
+21%
+21%
+10%
+48%
+Majed Saad Al-Osaimi
+Ali Mohammed Rashid Al-Balaa ( (CEO)
+Anova Investment Company
+Others
+
+--- PAGE 14 ---
+Equity Research Report
+Saudi AZM AB Equity
+22 Dec 2022
+14
+
+market size of IT and emerging technologies by 50%, raising women participation by 50%, and
+taking the sector’s contribution to the overall economy to SAR50bn.
+Figure 19: Spendings on the ICT sector in Saudi Arabia 2019-2021 (SARbn)
+Source: Company Data
+One of the primary goals of the National Transformation Program is that the digital economy
+should account for 20.2% of the GDP by 2025. NTP aims to digitize more than 92% of
+government services, among other goals. Also, by the end of 2020, the National Committee for
+Digital Transformation of Saudi Arabia launched the Kingdom’s digital economy policy. This
+policy is expected to develop the digital economy in the Kingdom by aligning public and private
+sectors to national programs for digitization. It will also ensure the alignment of government
+entities' approaches to achieve diversified and sustainable economic growth and create
+competitive advantages for the Kingdom.
+The spending on ICT sector is expected to see more healthy growth rates in the future,
+especially from the private sector, due to: 1) The growth of the Saudi economy in general, which
+is expected to be focused on industries with high added value, such as the ICT sectors; 2) the
+centralization of information technology by the Saudi government is expected to be led by the
+private sector such as private entities may be contacted to link technical systems between
+government agencies and private companies; 3) to fulfil the need to align businesses (both
+public and private) with the latest technologies to compete with international companies
+entering the local market.
+The number of internet users in the Kingdom increased from 91% in 2014 to about 96% at the
+end of 2020. The population coverage of Internet services reached nearly 99% in the Kingdom.
+The Kingdom's rank jumped 40 in the International Digital Infrastructure Index, reaching 27th
+globally and 8th at the level of the G20 countries. The Kingdom of Saudi Arabia is the largest
+economy among the GCC countries and the Arab world, with an expected GDP growth of 7.6%
+and 3.1% by 2022 and 2023, respectively.
+Overall, KSA is expected to achieve its digital transformation objectives on the back of support
+from a strong policy framework, improving digital infrastructure (high and rising internet and
+mobile penetration), favorable demographics (young and growing population), higher private
+sector participation, and increasing investments from domestic and international players.
+17.5
+6.5
+5.2
+4.4
+2.4
+2
+7.4
+16.2
+6.3
+5.2
+4.5
+2.4
+1.9
+7.6
+21.5
+6.7
+5.6
+5
+2.7
+2.1
+8.4
+0
+5
+10
+15
+20
+25
+Consumer
+Combined
+Government
+Media & Telecom Combined Finance
+Manufactoring
+Resource
+Industries
+Others
+2019
+2020
+2021
+
+--- PAGE 15 ---
+Equity Research Report
+Saudi AZM AB Equity
+22 Dec 2022
+15
+
+Financial analysis in charts
+Figure 20: Annual revenues (SARmn)
+
+Figure 21: Annual gross and net margin
+
+Source: Company data, GIB Capital
+
+Source: Company data, GIB Capital
+Figure 22: Improving FCF and net income
+
+Figure 23: Receivables days
+
+Source: Company data, GIB Capital
+
+Source: Company data, GIB Capital
+Figure 24: Return on assets
+
+Figure 25: Return on equity
+
+Source: Company data, GIB Capital
+
+Source: Company data, GIB Capital
+
+52.7%
+31.2%
+12.9%
+24.2%
+20.4%
+-20%
+-10%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+0
+50
+100
+150
+200
+250
+2019
+2020
+2021
+2022
+2023e
+2024e
+Revenue (in SARmn)
+y/y growth
+11%
+12%
+11%
+12%
+10%
+10%
+11%
+27%
+20%
+22%
+20%
+21%
+21%
+21%
+2018
+2019
+2020
+2021
+2022 2023e 2024e 2025e
+Net margin
+Gross margin
+Operating margin
+8
+12
+16
+18
+18
+24
+29
+-8
+25
+-12
+24
+15
+11
+18
+10
+15
+19
+21
+21
+28
+34
+2018
+2019
+2020
+2021
+2022
+2023e 2024e 2025e
+Net profit (SARmn)
+FCF (SARmn)
+EBITDA (SARmn)
+94
+11
+91
+27
+59
+0
+15
+30
+45
+60
+75
+90
+105
+2018
+2019
+2020
+2021
+2022
+2023e
+Receivable days
+20%
+17%
+14%
+15%
+15%
+15%
+2021a
+2022a
+2023e
+2024e
+2025e
+2026e
+RoA
+48%
+35%
+27%
+26%
+24%
+23%
+2021a
+2022a
+2023e
+2024e
+2025e
+2026e
+RoE
+
+--- PAGE 16 ---
+Equity Research Report
+Saudi AZM AB Equity
+22 Dec 2022
+16
+
+Financials
+Figure 26: Summarized basic financial statements (SARmn)
+Income statement
+2021a
+2022e
+2023e
+2024e
+2025e
+Revenue
+135
+153
+189
+228
+270
+y/y growth
+31%
+13%
+24%
+20%
+19%
+Cost of Services/Goods
+106
+122
+151
+181
+214
+Gross Profit
+29
+31
+39
+47
+57
+Operating margin
+22%
+20%
+21%
+21%
+21%
+Selling and Marketing
+0
+1
+2
+2
+2
+General and Administrative
+12
+15
+18
+21
+24
+EBITDA
+19
+21
+21
+28
+34
+Depreciation, Amortization &
+Impairment
+1
+1
+2
+2
+3
+Operating Profit
+17
+20
+20
+26
+32
+Operating margin
+13%
+13%
+10%
+11%
+12%
+Finance Cost
+1
+1
+0
+0
+0
+Finance Income
+0
+0
+0
+0
+0
+Profit Before Tax
+16.5
+19.6
+19.2
+25.5
+31.6
+Tax
+1.0
+1.4
+1.1
+1.9
+2.4
+Profit After Tax
+16
+18
+18
+24
+29
+y/y growth
+31%
+17%
+-1%
+30%
+23%
+Net margin
+11%
+12%
+10%
+10%
+11%
+EPS
+5.2
+6.1
+6.0
+7.9
+9.7
+DPS
+0.0
+0.0
+0.0
+0.0
+0.0
+Dividend Payout
+0%
+0%
+0%
+0%
+0%
+Balance Sheet
+2021a
+2022e
+2023e
+2024e
+2025e
+Account Receivables
+34
+11
+14
+27
+38
+Other Current Assets
+153
+81
+116
+119
+145
+Cash and Equivalents
+14
+27
+42
+53
+71
+Total Current Assets
+75
+81
+99
+129
+165
+Total Non-Current Assets
+3
+26
+28
+30
+32
+Total Assets
+79
+108
+127
+159
+197
+Current Liabilities
+41
+40
+57
+65
+74
+Non-current Liabilities
+5
+16
+4
+4
+4
+Equity
+33
+52
+66
+90
+119
+Total Equity and Liabilities
+79
+108
+127
+159
+197
+BVPS
+10.9
+17.3
+22.1
+30.0
+39.7
+Cashflow
+2021a
+2022e
+2023e
+2024e
+2025e
+Cashflow from Operations
+-1
+33
+18
+15
+23
+Cashflow from Investing
+-11
+-9
+-3
+-4
+-5
+Cashflow from Financing
+-1
+-10
+0
+0
+0
+Total Cashflows
+-12
+24
+15
+11
+18
+Source: Company, GIB Capital
+
+--- PAGE 17 ---
+Equity Research Report
+Saudi AZM AB Equity
+22 Dec 2022
+17
+
+Figure 27: Key ratios
+Key ratios
+2021a
+2022a
+2023e
+2024e
+Profitability ratios
+RoA
+20%
+17%
+14%
+15%
+RoE
+48%
+35%
+27%
+26%
+Sales/Assets
+172%
+142%
+149%
+144%
+Net margin
+11.5%
+11.9%
+9.6%
+10.4%
+Liquidity ratios
+Current Assets/ Current Liabilities
+1.8
+2.0
+1.7
+2.0
+Debt to Total Equity
+36%
+4%
+3%
+2%
+Receivable Days
+91
+27
+59
+43
+Payable days
+4
+34
+19
+26
+Debt ratios
+Debt/Equity (w/o lease liabilities)
+-0.1x
+-1.2x
+-1.9x
+-1.8x
+Debt/Equity (w/ lease liabilities)
+-0.1x
+-0.6x
+-1.3x
+-1.4x
+Debt/Assets
+15%
+2%
+2%
+1%
+Valuation ratios
+P/E
+32.7
+27.8
+28.0
+21.5
+P/B
+15.6
+9.8
+7.7
+5.6
+EV/EBITDA
+25.6
+22.5
+22.6
+17.3
+FCF yield
+-0.7%
+6.0%
+3.1%
+2.3%
+Dividend yield
+0.0%
+0.0%
+0.0%
+0.0%
+Source: Company, GIB Capital
+
+--- PAGE 18 ---
+Equity Research Report
+Saudi AZM AB Equity
+22 Dec 2022
+18
+
+Disclaimer
+This research report has been prepared by GIB Capital, Riyadh, Saudi Arabia. It has been prepared for the general use
+of GIB Capital’s clients and may not be altered, redistributed, retransmitted or disclosed, in whole or in part, or in any
+form or manner, without the express written consent of GIB Capital. Receipt and review of this research document
+constitute your agreement not to redistribute, retransmit, or disclose to others the contents, opinions, conclusion, or
+information contained in this document prior to public disclosure of such information by GIB Capital. The information
+contained was obtained from various public sources believed to be reliable, but we do not guarantee its accuracy. GIB
+Capital makes no representations or warranties (express or implied) regarding the data and information provided and
+GIB Capital does not represent that the information content of this document is complete, or free from any error, not
+misleading, or fit for any particular purpose. This research document provides general information only. Neither the
+information nor any opinion expressed constitutes an offer or an invitation to make an offer, to buy or sell any securities
+or other investment products related to such securities or investments. It is not intended to provide personal
+investment advice and it does not take into account the specific investment objectives, financial situation and the
+particular needs of any specific person who may receive this document.
+Investors should seek financial, legal or tax advice regarding the appropriateness of investing in any securities, other
+investment or investment strategies discussed or recommended in this document and should understand that
+statements regarding future prospects may not be realized. Investors should note that income from such securities or
+other investments, if any, may fluctuate and that the price or value of such securities and investments may rise or fall.
+Fluctuations in exchange rates could have adverse effects on the value of or price of, or income derived from, certain
+investments. Accordingly, investors may receive back less than originally invested. GIB Capital or its officers (including
+research analysts) may have a financial interest in securities of the issuer(s) or related investments, including long or
+short positions in securities, warrants, futures, options, derivatives, or other financial instruments. GIB Capital may from
+time to time perform investment banking or other services for, solicit investment banking or other business from, any
+company mentioned in this research document. GIB Capital and employees, shall not be liable for any direct, indirect
+or consequential loss or damages that may arise, directly or indirectly, from any use of the information contained in
+this research document. Where the report contains or refers to a recommendation about a specific security or securities
+service, please note that it may not be suitable for all recipients. Please note that the achievement of any price target
+may be impeded by general market and economic trends and other external factors, or if a company’s profits or
+operating performance exceed or fall short of our expectations. The subjectivity in future expectations is complex and
+may miss actual or reported numbers.
+This research document and any recommendations contained are subject to change without prior notice. GIB Capital
+assumes no responsibility to update the information in this research document. This research document is not directed
+to, or intended for distribution to or use by, any person or entity who is a citizen or resident of or located in any locality,
+state, country or other jurisdiction where such distribution, publication, availability or use would be contrary to law, or
+which would subject GIB Capital to any registration or licensing requirement within such jurisdiction
+The principal activities of GIB Capital are Dealing, Custody, Managing, Arranging and Advising pursuant to the Capital
+Market Authority (“CMA”) License No. 07078-37.
+We use a rating system based on potential upside, 1 year from today, based on our valuation models. For “Overweight”
+ratings, the estimated upside is >10%, for “Underweight”, the estimated downside is <10%. For returns in between +/-
+10%, we have a Neutral rating.
+Contact us for queries:
+Pritish Devassy, CFA, CPA
+Sell Side Research Department,
+GIB Capital,
+B1, Granada Business & Residential Park,
+Eastern Ring Road, PO Box 89589, Riyadh 11692
+Pritish.devassy@gibcapital.com | www.gibcapital.com

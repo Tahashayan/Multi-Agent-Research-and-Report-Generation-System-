@@ -1,0 +1,4686 @@
+--- PAGE 1 ---
+Equity Research report
+KSA Petrochemical Sector
+29 Jan 2023
+1
+
+KSA Petrochemical Sector
+Spreads and Sentiments Improving
+▪
+Key feedstock Propane and Butane are likely to see the third consecutive quarterly
+decline in Q1 ‘23, alleviating cost pressures.
+▪
+On the other hand, despite recessionary fears, product prices have shown resilience on
+China opening – 4Q ’22 product prices likely being the bottom and Q1 ‘23 higher so far.
+▪
+With Global chemical stocks rallying in January, our focus is on companies which have
+value beyond just an improvement in Petchem spreads with preferred names being
+Kayan and Alujain. Current P/B for KSA Petchems is ~20% below 3-year averages.
+Global chemicals rallying: A recovery in China’s economy could provide impetus to Petchem
+demand after Chinese PMI remained mostly below 50 in 2022 because of zero-COVID policy
+forcing the country to go into shutdowns. Global Petchems (BASF/Dow/Lyondell Basel etc.)
+have rallied around 15% in Jan. Other possible upside drivers to watch include possible revival
+in European (as gas prices have declined to mid-June 2021 levels) and Asian economies (led by
+India/Japan), Russian-Ukrainian conflict resolution, Fed rates softening etc. Overall, we see
+sentiments improving in the sector.
+Coverage: The companies chosen in this report have value more than just an upside in spreads.
+They have drivers such as expansions or are beaten-down stocks that allow entry at reasonably
+decent levels for a longer-term positioning even if complete recovery takes longer. For example,
+despite the volatility in profits, Kayan generates strong cashflows yielding FCF of ~15% (’22).
+Alujain has a single product portfolio, but the stock is likely misunderstood and mispriced.
+Despite concrete expansion plans of Advanced Petrochemicals, the stock is valued today based
+only on its current capacity. Likewise, Sipchem is also planning expansions and has attractive
+dividend yields even after factoring in the decline in spreads. Overall, while there are risks, we
+believe the downside in these names is lower. We favour Kayan and Alujain among the four.
+Figure 1: Petchem spreads trend shown by Brent (cost) and Polypropylene
+
+Source: Bloomberg
+
+1
+11
+12
+
+2
+4
+
+1
+12
+14
+un 22
+ul 22
+Aug 22
+ep 22
+ct 22
+ov 22
+ec 22
+t
+rent ( ) b
+Pritish Devassy, CFA, CPA
++966-11-834 8467
+Pritish.devassy@gibcapital.com
+
+Abdulaziz Al Awwad
++966-11-834 8486
+abdulaziz.alawwad@gibcapital.com
+Comp
+TP
+CMP
+Upside
+D.Y.(%)*
+Alujain
+53.0
+41.0
+29%
+4.9%
+Kayan
+17.0
+13.4
+26%
+0.0%
+APPC
+54.0
+48.0
+13%
+4.2%
+Sipchem
+47.0
+38.2
+23%
+7.2%
+Source: GIB Capital/ *2023
+
+--- PAGE 2 ---
+Equity Research Report
+KSA Petrochemical Sector
+29 Jan 2023
+
+2
+
+Key assumptions
+Figure 2: Key forecasts**
+
+Spot
+2018
+2019
+2020
+2021
+2022
+2023e
+2024e
+Oil/Energy
+
+Brent (US$/b)
+87
+72
+64
+43
+71
+90
+82
+82
+WTI (US$/b)
+80
+65
+57
+39
+68
+86
+77
+77
+Henry Hub (US$/mmbtu)
+2.8
+3.2
+2.6
+2.0
+3.9
+6.4
+4.3
+5.2
+
+Feedstock prices
+
+Naphtha (US$/mt)
+726
+616
+525
+382
+649
+789
+663
+644
+Propane (US$/mt)
+590
+554
+435
+396
+619
+749
+629
+613
+Butane (US$/mt)
+605
+536
+438
+403
+605
+743
+634
+613
+Saudi Ethane (US$/mmbtu)
+1.75
+1.75
+1.75
+1.75
+1.75
+1.75
+1.75
+1.75
+Saudi Methane (US$/mmbtu)
+1.25
+1.25
+1.25
+1.25
+1.25
+1.25
+1.25
+1.25
+
+Product Prices
+
+HDPE (US$/mt)
+1030
+1290
+975
+871
+1111
+1106
+1043
+1109
+LDPE (US$/mt)
+1130
+1181
+997
+1006
+1523
+1438
+1307
+1480
+LLDPE (US$/mt)
+990
+1128
+925
+837
+1123
+1101
+1029
+1060
+PP (US$/mt)
+1040
+1258
+1082
+956
+1296
+1175
+1085
+1150
+PC (US$/mt)
+2565
+3293
+2707
+2212
+3842
+2951
+2978
+3396
+MEG (US$/mt)
+595
+1100
+689
+557
+813
+682
+681
+768
+Urea (US$/mt)
+366
+265
+248
+232
+493
+606
+455
+500
+Methanol (US$/mt)
+403
+446
+323
+276
+409
+400
+396
+396
+PS (US$/mt)
+1300
+1539
+1225
+1101
+1573
+1603
+1427
+1588
+Benzene (US$/mt)
+985
+820
+640
+485
+912
+1036
+939
+939
+Acetic Acid (US$/mt)
+465
+500
+446
+366
+955
+635
+550
+601
+VAM (US$/mt)
+1090
+1258
+943
+769
+1812
+1856
+1239
+1328
+
+Key Adj. Spreads**
+
+HDPE - Naphtha (US$/mt)
+740
+1044
+765
+718
+852
+790
+778
+851
+LDPE- Naphtha (US$/mt)
+840
+934
+823
+848
+1275
+1139
+1055
+1235
+PP - propane (US$/mt)
+804
+1037
+749
+676
+880
+804
+776
+815
+Methanol-methane(US$/mt)
+393
+436
+313
+266
+399
+390
+386
+386
+Source: GIB Capital **Calculation based on assumed conversion yields. These are benchmark prices and the exact selling prices may
+differ based on the region of sale
+
+Assumptions: Our forecasts for Naphtha, Propane, and Butane are based on Brent prices which we
+have assumed US$80/b for the longer term based on Bloomberg consensus estimates. As for product
+prices we have used mean reversion and thus used approximately 2 or 5-year average prices for
+products depending on the product. While we don’t aim to pinpoint the timing of the recovery, given
+the cyclical nature and level of unsustainable margins for marginal cost producers, it would be hard to
+argue that prices would not recover by atleast 2024 which is our base case. The high upside for some
+stocks and possibility of further details of expansions also justifies a delay in recovery to even 2025. For
+example, a 30% upside over 2 years instead of 1 year still yields a good 20% (post dividends). The
+below figure shows to represent our thoughts on the spreads pictorially.
+
+--- PAGE 3 ---
+Equity Research Report
+KSA Petrochemical Sector
+29 Jan 2023
+
+3
+
+Figure 3: Representation of our benchmark spreads
+
+Source: Bloomberg
+
+Figure 4: Global chemical companies started to rally in Jan 2023
+
+Source: Bloomberg
+
+200
+250
+300
+350
+400
+450
+500
+600
+700
+800
+900
+1000
+1100
+2018
+2019
+2020
+2021
+2022
+2023e
+2024e
+HDPE-Naphtha spread
+PP-Propane spread
+Methanol spread-RHS
+95
+100
+105
+110
+115
+120
+125
+02-Jan-23
+03-Jan-23
+04-Jan-23
+05-Jan-23
+06-Jan-23
+07-Jan-23
+08-Jan-23
+09-Jan-23
+10-Jan-23
+11-Jan-23
+12-Jan-23
+13-Jan-23
+14-Jan-23
+15-Jan-23
+16-Jan-23
+17-Jan-23
+18-Jan-23
+19-Jan-23
+20-Jan-23
+21-Jan-23
+22-Jan-23
+23-Jan-23
+24-Jan-23
+Dow
+Lyon.Bas
+BASF
+Linde
+Methanex
+
+--- PAGE 4 ---
+Equity Research Report
+KSA Petrochemical Sector
+29 Jan 2023
+
+4
+
+Valuations
+Based on Bloomberg data, current P/B multiples for KSA Petchems is 20% below 3-year averages.
+Figure 5: Valuation summary - P/B
+Company
+P/B avg
+Current P/B
+Discount
+Alujain Corp
+1.6
+0.8
+-52%
+Advanced Petro
+4.0
+3.8
+-5%
+Basic Chemical
+1.7
+1.6
+-4%
+Chemanol
+2.0
+1.5
+-27%
+Kayan
+1.4
+1.2
+-13%
+Nama
+2.5
+2.1
+-18%
+NIC
+1.3
+0.9
+-30%
+Rabigh
+2.1
+1.1
+-47%
+SABIC
+1.8
+1.6
+-12%
+SAFCO
+4.5
+3.3
+-27%
+SIPCHEM
+1.6
+1.7
+7%
+Yansab
+2.2
+1.8
+-22%
+Source: Bloomberg, GIB Capital
+
+Figure 6: Valuation summary
+Company
+Mkt cap
+(SARmn)
+3Y Avg EV/ EBITDA
+3Y Avg P/E
+EV/ ’24 EBITDA
+P/’24 E
+APPC
+12,467
+17.9
+21.4
+16.5
+16.4
+Sipchem
+28,013
+5.0
+22.7
+7.5
+9.3
+Kayan
+20,160
+10.5
+32.0
+8.5
+20.4
+Alujain
+2,837
+9.3
+8.4
+8.1
+11.1
+Source: Company, GIBC, Bbg
+
+Figure 7: Performance summary
+
+4Y
+Avg
+RoIC
+4Y
+Avg
+NP%
+Net income
+DPS
+Div Yield
+Comp.
+2021
+2022
+2023
+2024
+2021
+2022
+2023
+2024
+2021
+2022
+2023
+2024
+APPC
+18.2%
+27.1%
+815
+309
+401
+633
+2.60
+2.60
+2.00
+2.50
+5.4%
+5.4%
+4.2%
+5.2%
+Sipchem
+7.2%
+14.1%
+3,592
+3,464
+2,863
+2,996
+2.25
+3.25
+2.75
+3.00
+5.9%
+8.5%
+7.2%
+7.9%
+Kayan
+4.0%
+4.1%
+2,394
+(716)
+(132)
+992
+-
+-
+-
+-
+-
+-
+-
+-
+Alujain
+-0.6%
+NM
+270
+173
+158
+255
+1.00
+1.50
+2.00
+2.50
+2.4%
+3.7%
+4.9%
+6.1%
+Source: Company, GIB Capital
+
+Sector wide risks to consider
+▪
+A common risk across the Saudi petchem firms is the possibility of an increase in feedstock
+pricing in KSA. While it depends on the extent of hike, it could take another 3 years in our
+view. With a decline in gas prices globally the difference between global and Saudi gas prices
+has narrowed weakening the case for an increase.
+▪
+Chinese expansion adding Olefins capacity is another threat to the margins. However, as
+explained by management of various companies, there have been continuous delays in the
+past which may continue.
+▪
+Spike in logistics costs as witness in the past may reduce the profit margins of the producers.
+
+--- PAGE 5 ---
+Equity Research Report
+KSA Petrochemical Sector
+29 Jan 2023
+
+5
+
+▪
+Increase in any surcharges on PE and PP sales in Europe if not passed on could weaken
+margins for the companies.
+Expansions: On the other hand, Aramco is planning to increase gas production significantly and there
+might be a possibility of increased feedstock allocation for other companies esp. cash-rich ones which
+can expand once sector fundamentals. Many companies have already announced expansion plans and
+the ones with better cash positions may be the ones more probable to see expansion. We believe it is
+better to focus on smaller companies that could see higher potential benefits given the base effect.
+Below shows the global supply and demand estimates. The key take away is that in general, operating
+rates are expected to decline in 2023 but improve in 2024.
+Figure 8: World - Ethylene capacity expansion vs demand growth
+(2021 Cap: 205.6 MMT)
+
+Figure 9: World – Ethylene operating rates
+Source: GIB Capital, IHS
+
+Source: GIB Capital, IHS
+
+Figure 10: World - PE capacity expansion vs demand growth
+(2021 Cap: 133 MMT)
+
+Figure 11: PE operating rates
+
+Source: GIB Capital, IHS
+
+Source: GIB Capital, IHS
+
+11.5
+11.3
+10.1
+11.2
+4.1
+2.8
+4.3
+6.2
+8.9
+3.7
+5
+6
+6.1
+6.3
+2020
+2021
+2022
+2023e
+2024e
+2025e
+2026e
+Increase in capacity
+Increase in demand
+87.5%
+86.5%
+85.4%
+84.8%
+86.1%
+87.6%
+87.9%
+2020
+2021
+2022
+2023e
+2024e
+2025e
+2026e
+Ethylene Operating Rate
+5.7
+7.5
+8.8
+6.7
+3.5
+1.6
+1.7
+5.8
+4.2
+3.1
+4
+4.1
+4
+4.1
+0
+2
+4
+6
+8
+10
+12
+2020
+2021
+2022
+2023e
+2024e
+2025e
+2026e
+Increase in capacity
+Increase in demand
+87.6%
+86.1%
+83.1%
+81.7%
+82.7%
+84.6%
+85.7%
+2020
+2021
+2022
+2023e
+2024e
+2025e
+2026e
+PE Operating Rate
+
+--- PAGE 6 ---
+Equity Research Report
+KSA Petrochemical Sector
+29 Jan 2023
+
+6
+
+Figure 12: World - MEG capacity expansion vs demand growth
+(2021 Cap: 48 MMT)
+
+Figure 13: MEG operating rates
+
+Source: GIB Capital, IHS
+
+Source: GIB Capital, IHS
+
+Figure 14: World - PP capacity expansion vs demand growth
+(2021 Cap: 96 MMT)
+
+Figure 15: PP Operating rates
+
+Source: GIB Capital, IHS
+
+Source: GIB Capital, IHS
+
+Figure 16: World - Propylene capacity expansion vs demand growth
+(2021 Cap: 151 MMT)
+
+Figure 17: Propylene Operating rates
+
+Source: GIB Capital, IHS
+
+Source: GIB Capital, IHS
+4.5
+6.7
+5.5
+7.0
+1.6
+0.8
+1.5
+0.6
+2.7
+1
+1.3
+1.4
+1.4
+1.4
+0
+3
+6
+2020
+2021
+2022
+2023e
+2024e
+2025e
+2026e
+Increase in capacity
+Increase in demand
+77.9%
+72.6%
+63.8%
+61.1%63.1% 65.3% 66.6%
+2020
+2021
+2022
+2023e
+2024e
+2025e
+2026e
+MEG Operating Rate
+5.4
+5.2
+6.9
+7.3
+5.4
+2.7
+2.3
+3.9
+3.2
+2.0
+3.4
+3.5
+3.5
+3.4
+0.0
+3.0
+6.0
+9.0
+2020
+2021
+2022
+2023e
+2024e
+2025e
+2026e
+Increase in capacity
+Increase in demand
+87.2% 86.4%
+84.8%
+80.8% 80.3%
+81.6%
+82.6%
+2020
+2021
+2022
+2023e
+2024e
+2025e
+2026e
+PP Operating Rate
+6.5
+7.3
+7.4
+11.8
+6.3
+2.4
+3.1
+3.3
+5.0
+5.7
+2.5
+4.6
+4.5
+4.3
+0.0
+3.0
+6.0
+9.0
+12.0
+2020
+2021
+2022
+2023e
+2024e
+2025e
+2026e
+Increase in capacity
+Increase in demand
+80.2% 80.4% 80.7%
+75.8% 75.6%
+76.7% 77.4%
+2020
+2021
+2022
+2023e
+2024e
+2025e
+2026e
+Propylene Operating Rate
+
+--- PAGE 7 ---
+Equity Research Report
+KSA Petrochemical Sector
+29 Jan 2023
+
+7
+
+Figure 18: World – MTBE capacity expansion vs demand growth
+(2021 Cap: 38.7 MMT)
+
+Figure 19: MTBE Operating rates
+
+Source: GIB Capital, IHS
+
+Source: GIB Capital, IHS
+
+Figure 20: World - PC capacity expansion vs demand growth
+(2021 Cap: 6.3 MMT)
+
+Figure 21: PC Operating rates
+
+Source: GIB Capital, IHS
+
+Source: GIB Capital, IHS
+Figure 22: World - Methanol capacity expansion vs demand growth
+(2021 Cap: 134.1 MMT)
+
+Figure 23: Methanol operating rates
+
+Source: GIB Capital, IHS
+
+Source: GIB Capital, IHS
+1.4
+0.6
+0.6
+1.0
+1.0
+0.1
+0.2
+-2.2
+1.9
+1.5
+1.6
+0.4
+0.3
+0.2
+2020
+2021
+2022
+2023e
+2024e
+2025e
+2026e
+Increase in capacity
+Increase in demand
+60.1%
+64.1%
+66.9%
+69.2% 68.5% 69.2% 69.4%
+2020
+2021
+2022
+2023e
+2024e
+2025e
+2026e
+MTBE Operating Rate
+0.38
+0.38
+0.77
+0.54
+0.23
+0.37
+0.49
+0.22
+0.26
+0.17
+0.26
+0.26
+0.23
+0.22
+0.00
+2020
+2021
+2022
+2023e
+2024e
+2025e
+2026e
+Increase in capacity
+Increase in demand
+76.7% 76.3%
+70.3%
+68.8% 70.1% 69.7% 68.4%
+2020
+2021
+2022
+2023e
+2024e
+2025e
+2026e
+PC Operating Rate
+3.40
+5.16
+6.84
+2.38
+2.13
+3.23
+1.40
+-1.20
+3.04
+3.20
+4.27
+3.68
+3.41
+2.97
+-2.00
+1.00
+4.00
+7.00
+2020
+2021
+2022
+2023e
+2024e
+2025e
+2026e
+Increase in capacity
+Increase in demand
+66.3% 65.9% 65.5%
+67.9%
+69.7% 70.3% 70.8%
+2020
+2021
+2022
+2023e
+2024e
+2025e
+2026e
+Methanol Operating Rate
+
+--- PAGE 8 ---
+Equity Research Report
+KSA Petrochemical Sector
+29 Jan 2023
+
+8
+
+Alujain Corp.
+(ALCO AB Equity)
+
+Key investment themes
+▪
+Beaten down: Despite being a straightforward single-product company (producing
+Polypropylene from Propane), the company is less widely tracked and likely suffers from
+information bias in our view. This may also have contributed to the higher-than-average
+decline in stock prices recently. For example, Alujain declined ~2 % vs A C’s ~37% in the
+last 1 year despite both having similar portfolio mix.
+▪
+Expansion plans: The company has received feedstock allocation approval from Ministry of
+Energy to build plants in Yanbu industrial city. The plan involves a propane gas processing
+plant to produce Polypropylene (600k tonnes) with a total cost of SAR7.5bn from 1H 2026.
+▪ Cheap valuations: In a cyclical sector, P/B may be a better relative valuation multiple
+indicator than P/E especially considering the volatility in earnings. The company currently
+trades at a P/B of 0.8x vs 3-year average of 1.6x (Bloomberg).
+▪ Prior Shareholder issues mostly resolved: After certain shareholder-related issues in the
+past, the company is progressing well as per expectations. The main cash cow NATPET is
+consolidated, and the company has also delivered an increase in dividends.
+▪ NATPET stake increase. Most recently the company raised stake from 57.4% in 2021 to
+currently 76.4% - the most recent acquisition at a price of SAR48/share. This implies the
+management expects there is significant value in the stock with today’s price at around
+SAR41/share. The price had also reached SAR80/share at its peak in 2022. We expect the
+stake in NATPET to increase further which would increase dividends too.
+Risk factors to consider
+▪
+Holding company costs: Though the company plans to increase its stake in NATPET,
+currently the holding company management costs are additional costs as compared to a
+direct ownership in NATPET.
+▪
+Dividends: Despite net income of SAR200mn in the last 12 months, the company paid only
+SAR104mn as dividends (~50% payout) to the shareholders. If the payout ratio does not
+increase, market may not push the valuation higher despite value in the stock.
+▪
+Clarity on treasury shares: There requires to be additional clarity on the treatment of the
+treasury shares. Lack of sufficient information may weigh on the stock.
+▪
+Shutdowns: Given that its closest competitor in terms of product mix is APPC, usually
+shutdowns are compared with that of APPC. Thus, there might be valuation discount
+applied on Alujain if number of shutdowns are frequent (APPC sets the benchmark with
+one shutdown every three years).
+▪
+Expansions: Expansions come with its own risks. Such a huge expansion planned could dent
+profitability in its early years especially when interest rates are high.
+
+Stock data
+
+TASI Ticker
+2170
+Mkt cap (SARmn)
+2,837
+Trd. Val 3m (SARmn)
+18.1
+Free float
+85.2%
+QFI holding
+3.74
+TASI FF weight
+0.15%
+Source: Bloomberg
+Prices indexed to 100
+
+Source: Bloomberg
+4
+
+1
+11
+12
+13
+14
+an 22
+eb 22
+ar 22
+Apr 22
+ay 22
+un 22
+ul 22
+Aug 22
+ep 22
+ct 22
+ov 22
+ec 22
+A
+Alu ain
+Target Price: SAR53/share
+Current Price: SAR41/share
+Upside: 29% (+Div. Yield: 4.9%)
+Rating: Overweight
+
+--- PAGE 9 ---
+Equity Research Report
+KSA Petrochemical Sector
+29 Jan 2023
+
+9
+
+Valuation
+We value the company based on an equal blend of EV/EBITDA and DCF valuation. We use an
+EV/EBITDA of 10x (3Y avg is 10.5x) to arrive at a multiple based 12 month forward valuation of
+SAR57.4/share. For DCF we use a WACC of 9.5% and cost of equity of 10.5% and arrive at a 12-
+month forward DCF valuation of SAR49.3/share. Our target price of SAR53/share (rounded) has
+an implied dividend yield of 4.9% (2023) and 6.1% (2024). Given the 29% upside, we initiate
+coverage with an Overweight rating.
+Figure 24: DCF valuation model
+SARmn
+2022e
+2023e
+2024e
+2025e
+2026e
+2027e
+2028e
+2029e
+2030e
+Pre-tax operating profit
+235
+263
+398
+386
+386
+386
+386
+386
+386
+Taxes
+-19
+-18
+-28
+-28
+-28
+-29
+-29
+-30
+-30
+Post-tax operating profit
+216
+246
+369
+358
+357
+357
+357
+356
+356
+Add: Depreciation & amortization
+204
+200
+200
+200
+200
+200
+200
+200
+200
+Change in working capital
+-22
+-25
+-37
+-36
+-36
+-36
+-36
+-36
+-36
+Less: Capex
+-96
+-84
+-90
+-88
+-88
+-88
+-88
+-88
+-88
+FCF
+302
+336
+442
+433
+433
+433
+432
+432
+431
+Terminal Value
+0
+0
+0
+0
+0
+0
+0
+0
+5,839
+
+Enterprise value of explicit period
+2,267
+
+PV of Terminal Value
+2,818
+
+EV
+5,085
+
+EV/EBITDA
+multiple
+
+10x
+
+Net debt
+-799
+
+2024E EBITDA
+
+597.3
+
+Minorities
+-1,200
+
+Multiple based TP
+
+57.4
+
+Appraised value of the equity
+3,086
+
+Number of shares ('000)
+69
+
+Equity value per share
+45
+
+Adjusted DCF-based equity value per share
+49.3
+
+Cost of Equity
+10.5%
+
+Cost of Debt
+5.6%
+
+Long term Weight of Debt
+20.0%
+
+Long term Weight of Equity
+80.0%
+
+WACC
+9.5%
+
+Source: GIB Capital
+
+--- PAGE 10 ---
+Equity Research Report
+KSA Petrochemical Sector
+29 Jan 2023
+
+10
+
+Company profile
+Alujain was established in 1991. The company's activities encompass managing its subsidiaries
+or participating in the management and providing support to companies in which it owns
+shares. The company carries out its activities as a holding company.
+The company and its subsidiaries are involved in the production and sale of polypropylene (the
+input being propane), and its derivatives, establishment, operation, and investment in industrial
+projects, including projects related to the petrochemical and chemical industries, basic and
+transformational industries, plastic industries (plastics), industries related to renewable energy
+and other vital industries inside and outside the Kingdom of Saudi Arabia.
+Most of the group's net revenue is derived from manufacturing Polypropylene.
+Figure 25: Operating segments revenue mix (3Q22)
+
+Figure 26: Geographical mix of revenue (3Q22)
+
+Source: Company
+
+Source: Company
+
+NATPET: Alujain owns majority equity (76.4%) in NATPET which operates approximately
+400,000 tons per year of Propylene & Polypropylene Complex (PP Complex) in Yanbu Industrial
+City, using Oleflex and Spheripol technologies.
+NATPET also owns four companies: Menna Company, Fawasel Advanced Chemicals Company,
+Al-Taj Towers for Plastic Industries Company, and Afaq Professional Chemicals Company.
+On 11 November 2021, the Group obtained control over NATPET thus becoming a subsidiary.
+NATPET is the cash cow for the firm and Alujain has been steadily increasing its ownership in
+NATPET and now owns 76.4% of the company. The company plans to further increase its stake
+in NATPET. This is positive to avoid minority leakage in the company.
+ZAIN: Alujain also owns 98.8% in Zain which operates its plant in Jubail Industrial City. Zain's
+main business includes the production and marketing of homecare products (spray starch, air-
+fresheners, fabric softener, oven cleaner, furniture polish, anti-static spray, bleach, stainless
+steel polish, etc.), insecticides and agricultural pesticides, fungicides, herbicides, etc. of all kinds
+and forms, besides general health products. It does not contribute materially to the group (see
+above Figure).
+99%
+1%
+Petrochemical products
+Home-care products
+80%
+20%
+Exports
+Local
+
+--- PAGE 11 ---
+Equity Research Report
+KSA Petrochemical Sector
+29 Jan 2023
+
+11
+
+Expansion Plans
+The company is planning to establish a new petrochemical project in Yanbu Industrial City. The
+new project comprises a propane gas processing plant to manufacture propylene, a plant to
+produce polypropylene, and a complex to produce polypropylene compounds and PP specialty
+materials. It will also include a grid connecting the propylene and polypropylene production
+units of NATPET to the two production units in the Yanbu project for scale and efficiency.
+The project is expected to produce more than 600,000 tons/year of polypropylene,
+polypropylene compounds, specialized construction materials from polypropylene derivatives,
+and about 25,000 tons/year of salable hydrogen. Thus it will more than double existing capacity.
+The new project is expected to cost SAR7.5bn and come on stream by 1H26.
+More details:
+Alujain, like Advanced Petrochemicals, manufactures Polypropylene from Propane with a
+similar capacity but uses a different technology to manufacture Polypropylene. Its plant
+operating rates are healthy but lower than Advanced Petrochemicals. We believe it is still
+early days for the company to assess its operating rates given that it is a new plant.
+Polypropylene is a downstream petrochemical product derived from the olefin monomer
+propylene. The polymer is produced through a process of monomer connection called addition
+polymerization. The company's products are the basic building blocks used to produce daily
+used goods, like personal care products, fresh food packaging, durable textiles, medical
+applications, automotive components, lightweight plastics, construction materials, etc.
+The key product prices/spread to track are Polypropylene and Propane.
+Polypropylene's supply and demand situation has been weak in the global market. The pricing
+has been impacted due to the slowdown in global economic growth. Global tension due to the
+ongoing Russia-Ukraine conflict, China's stringent COVID policy, and supply chain disruptions
+have put prices and demand under pressure. The long-term outlook for the industry remains
+favorable though.
+In the past, the company was facing some issues as some shareholders tried to control the
+company which resulted in the company reporting higher than usual expenses (due to various
+transactions likely not at arm's length). After a long legal battle, the company shareholders
+have been successful in resolving the issues by filing a suit against the members of the
+member of former Board of Directors.
+Interestingly, A E ’s subsidiaries had invested in the shares of Alu ain whose fair value
+amounted to SAR973mn (19.86mn). As per the 3Q22 financial report, the shares of Alujain
+(19.86mn) owned by the subsidiaries of NATPET are classified as Treasury shares. The report
+also mentions that the acquisition of these shares will be finalized in coordination with
+stakeholders and regulatory authorities.
+
+--- PAGE 12 ---
+Equity Research Report
+KSA Petrochemical Sector
+29 Jan 2023
+
+12
+
+Also, previously in ct 2 1 , a fire occurred at A E ’s plant in Yanbu and the plant became
+dysfunctional. However, the company received a final compensation of SAR1.23bn from its
+insurance claims. With it, the company was able to complete the construction of a new plant.
+Figure 27: Polypropylene and Propane price
+
+Source: GIB Capital
+
+Ownership
+The major shareholder of Alujain is Menna Company which owns 14.6%. QFI holding currently
+is 3.7%.
+
+Figure 28: Current ownership
+
+Source: Bloomberg
+
+0
+200
+400
+600
+800
+1,000
+1,200
+1,400
+1Q17
+2Q17
+3Q17
+4Q17
+1Q18
+2Q18
+3Q18
+4Q18
+1Q19
+2Q19
+3Q19
+4Q19
+1Q20
+2Q20
+3Q20
+4Q20
+1Q21
+2Q21
+3Q21
+4Q21
+1Q22
+2Q22
+3Q22
+4Q22
+(US$/mt)
+Polypropylene
+Propane
+85.5%
+14.6%
+Public
+Menna Company
+
+--- PAGE 13 ---
+Equity Research Report
+KSA Petrochemical Sector
+29 Jan 2023
+
+13
+
+Summary of Financials
+Figure 29: Summarized basic financial statements (SAR mn)
+Income statement
+2020a
+2021a
+2022e
+2023e
+2024e
+Revenue
+14
+519
+1,923
+1,689
+1,804
+revenue y/y
+-39%
+NM
+NM
+-12%
+7%
+COGS
+13
+400
+1,491
+1,257
+1,226
+Gross Profit
+1
+119
+432
+432
+578
+Gross Profit margin
+9%
+23%
+22%
+26%
+32%
+Operating expenses
+28
+64
+197
+169
+180
+Operating profit
+(26)
+55
+235
+263
+398
+Operating margin
+-183%
+11%
+12%
+16%
+22%
+Finance costs
+1
+8
+38
+47
+40
+Net income
+207
+270
+173
+158
+255
+Net margin
+1442%
+52%
+9%
+9%
+14%
+y/y
+8%
+30%
+-36%
+-8%
+61%
+EPS
+3.0
+3.9
+2.5
+2.3
+3.7
+DPS
+0.0
+1.0
+1.5
+2.0
+2.5
+Payout
+0%
+26%
+60%
+87%
+68%
+EBITDA
+(23)
+84
+432
+463
+597
+Net debt
+(5)
+768
+612
+626
+410
+Balance Sheet
+2020a
+2021a
+2022e
+2023e
+2024e
+Inventories
+4
+321
+245
+230
+213
+Trade Receivables
+3
+616
+734
+839
+792
+Prepayments and Other Current Assets
+42
+-9
+0
+0
+0
+Cash and Equivalents
+5
+411
+361
+138
+242
+Total Current Assets
+54
+1,519
+1,341
+1,207
+1,248
+Intangible Assets
+1
+15
+14
+14
+14
+Property, Plant & Equipment
+24
+2,053
+2,018
+1,936
+1,863
+Total Non-Current Assets
+1,651
+3,683
+3,653
+3,572
+3,499
+Total Assets
+1,705
+5,202
+4,994
+4,779
+4,747
+Current Liabilities
+10
+687
+632
+509
+497
+Non-current Liabilities
+4
+1,077
+872
+760
+657
+Equity
+1,691
+3,439
+3,490
+3,510
+3,592
+Total Equity and Liabilities
+1,705
+5,202
+4,994
+4,779
+4,747
+BVPS
+24.4
+49.7
+50.4
+50.7
+51.9
+Cashflow
+2020a
+2021a
+2022e
+2023e
+2024e
+Cashflow from Operations
+-64
+81
+518
+243
+515
+Cashflow from Investing
+61
+-775
+-212
+-118
+-126
+Cashflow from Financing
+-5
+847
+-356
+-347
+-285
+Total Cashflows
+-7
+153
+-50
+-223
+104
+Source: Company, GIB Capital
+
+--- PAGE 14 ---
+Equity Research Report
+KSA Petrochemical Sector
+29 Jan 2023
+
+14
+
+Figure 30: Key ratios
+Key ratios
+2020a
+2021a
+2022e
+2023e
+2024e
+Profitability ratios
+RoA
+12%
+5%
+3%
+3%
+5%
+RoE
+12%
+8%
+5%
+5%
+7%
+RoIC
+-1%
+1%
+5%
+6%
+8%
+Sales/Assets
+1%
+10%
+39%
+35%
+38%
+Net margin
+1442.4%
+52.1%
+9.0%
+9.4%
+14.1%
+Liquidity ratios
+Current Assets/ Current Liabilities
+5.5
+2.2
+2.1
+2.4
+2.5
+Debt to Total Equity
+0%
+34%
+28%
+22%
+18%
+Receivable Days
+64
+433
+139
+181
+160
+Inventory Days
+98
+292
+60
+67
+63
+Payable days
+269
+438
+103
+115
+117
+Debt ratios
+Net Debt/EBITDA
+0.2
+9.2
+1.4
+1.4
+0.7
+Debt/Assets
+0%
+23%
+19%
+16%
+14%
+Valuation ratios
+P/E
+13.7
+10.5
+16.4
+17.9
+11.1
+P/B
+1.7
+0.8
+0.8
+0.8
+0.8
+EV/EBITDA
+-214.8
+58.1
+11.3
+10.5
+8.1
+FCF yield
+9.1%
+12.9%
+8.7%
+0.7%
+9.7%
+Div. Yield
+0.0%
+2.4%
+3.7%
+4.9%
+6.1%
+Source: Company, GIB Capital
+
+--- PAGE 15 ---
+Equity Research Report
+KSA Petrochemical Sector
+29 Jan 2023
+
+15
+
+Saudi Kayan Petrochemical Co.
+(Kayan AB Equity)
+
+Key investment themes
+▪
+Solid cash flows – leading to continuous significant debt reduction: The company has
+reported an average annual operating cash flow of SAR3bn in the last 5 years and has been
+a great deleveraging story. With it, the company repaid debts of SAR 13 billion during the
+same period (average 2.6bn annually). This compares to only a current market cap of
+SAR20bn. Thereby once debt reaches manageable levels, this could all be paid out as
+dividends. Without factoring for time value, this translates to a comfortable 13% yield
+which gives a margin of safety for a longer-term value proposition.
+▪
+Focus on cashflows and not net profit: The company has higher-than-usual depreciation
+for a company of its size. In the last 4 years the average depreciation is SAR2.3bn as
+compared to maintenance capex of SAR300mn. Thus, net profit is very volatile and makes
+the P/E look high. One needs to look at the cash flows than income statement profits for
+the company.
+▪
+Increased allocation of Ethane: Saudi Kayan expects an increased allocation of ethane that
+will reduce dependence on Butane which the company has remained sensitive to. This
+would enhance the company’s ability to address market volatility and report better
+profitability.
+▪
+Diversified Product mix: Unlike Kayan and Alujain, the company has a diversified product
+mix.
+Risk factors to consider
+▪
+Uneven nature of profits and sensitivity to Butane: Given the high contribution of Butane
+and high fixed costs, the company is very sensitive to Butane prices. The high operating
+leverage has resulted in the company seeing high volatility in its bottom line in the past.
+While investors need to focus on cashflows instead of net profits, this tends to weaken
+sentiments on the stock.
+▪
+Disclosures: The company reported record quarterly losses in Q3 2022 but has not given
+detailed disclosures on the reasons for the same. Such information gaps weigh on
+sentiments.
+▪
+No dividends: We do not expect dividends as the company is focusing on growth and likely
+expansions. Also, it may take 2-3 years for dividends to be paid if there are no expansions.
+▪
+Ethane allocation: Ethane allocation could take a long time. While there is concrete news
+on the allocation of additional ethane, this could also be a substitution project whereby a
+part of butane (12%) will be replaced by ethane so that the plants are already capable to
+use ethane and butane interchangeably. Thus, this may not have additional output capacity
+but will improve margins as the company moves from high-cost Butane to low-cost Ethane.
+It will take at least 2 years for the company to receive this allocation and might incur some
+capex as well.
+
+Stock data
+
+TASI Ticker
+2350
+Mkt cap (SARmn)
+20,160
+Trd. Val 3m (SARmn)
+25.3
+Free float
+65.0%
+QFI holding
+11.24
+TASI FF weight
+0.69%
+Source: Bloomberg
+Prices indexed to 100
+
+Source: Bloomberg
+
+1
+11
+12
+13
+14
+an 22
+eb 22
+ar 22
+Apr 22
+ay 22
+un 22
+ul 22
+Aug 22
+ep 22
+ct 22
+ov 22
+ec 22
+A
+ayan
+Target Price: SAR17/share
+Current Price: SAR13/share
+Upside: 26%
+Rating: Overweight
+
+--- PAGE 16 ---
+Equity Research Report
+KSA Petrochemical Sector
+29 Jan 2023
+
+16
+
+Valuation
+We value the company based on an equal blend of EV/EBITDA and DCF valuation. We use an
+EV/EBITDA of 10x (3 year average EV/EBITDA has been 10.5x) to arrive at a multiple based 12
+month forward valuation of SAR17.3/share. For DCF we use a WACC of 10.6% and cost of equity
+of 12% and arrive at a 12 month forward DCF value of SAR16.2/share. We use an equal blend
+of to arrive at a 12-month target price of SAR17/share (rounded). Given the 26% upside, we
+initiate coverage with an Overweight rating.
+Figure 31: DCF valuation model
+SARmn
+2022e
+2023e
+2024e
+2025e
+2026e
+2027e
+2028e
+2029e
+2030e
+Pre-tax operating profit
+-252
+389
+1,478
+1,600
+1,977
+2,113
+2,235
+2,344
+2,441
+Tax
+-86
+-60
+-110
+-131
+-173
+-187
+-199
+-210
+-220
+Post-tax operating profit
+-339
+329
+1,368
+1,469
+1,803
+1,926
+2,036
+2,134
+2,222
+Add: Depreciation & amortisation
+2,427
+2,326
+2,124
+1,922
+1,763
+1,619
+1,491
+1,375
+1,271
+Change in working capital
+1,050
+-588
+-234
+67
+0
+0
+0
+0
+0
+Less: Capex
+-245
+-312
+-290
+-295
+-295
+-295
+-295
+-295
+-295
+FCF
+2,894
+1,755
+2,968
+3,162
+3,271
+3,250
+3,232
+3,214
+3,197
+Terminal Value
+0
+0
+0
+0
+0
+0
+0
+0
+37,924
+
+Enterprise value of explicit period
+15,282
+
+PV of Terminal Value
+16,938
+
+EV
+32,220
+
+Target EV/EBITDA
+
+10x
+
+Net debt
+-9,811
+
+2024E EBITDA
+
+3,602
+
+Non-operating liabilities
+-670
+
+EV/EBITDA based price
+17.3
+
+Total Market Value
+21,739
+
+No of shares
+1,500
+
+Equity value per share
+14
+
+Adjusted DCF-based equity value per share
+16.2
+
+Cost of Equity
+12.0%
+
+Cost of Debt
+5.0%
+
+Long term Weight of Debt
+20.0%
+
+Long term Weight of Equity
+80.0%
+
+WACC
+10.6%
+
+Source: GIB Capital
+
+--- PAGE 17 ---
+Equity Research Report
+KSA Petrochemical Sector
+29 Jan 2023
+
+17
+
+Company profile
+The company was established in 2007 but started commercial operations only in 2011. The
+group is involved in producing, selling, and distributing chemicals in Asia, the Middle East, Africa,
+Europe, and other geographies. Kayan is headquartered in Jubail Industrial City. The group has
+a ~90%+ Saudization rate and operates around 16 production units. The group was listed on
+Tadawul in 2007.
+The petrochemical manufacturer produces more than 20 products broadly classified into three
+categories – Chemicals, Polymers, and Specialized Chemicals. The group’s products are used as
+end-products with a wide variety of applications in multiple industries
+Figure 32: Production capacity - 2021
+
+Figure 33: Actual Production - 2021
+
+Source: Company Data
+
+Source: Company Data
+
+Chemicals account for 64% of the production capacity, followed by Polymers and Specialized,
+accounting for 20% and 16%, respectively. In proportion to the production capacity, the
+production of Chemicals accounted for the largest chunk of production quantity at 60%,
+followed by Polymers and Specialized at 28% and 12%, respectively.
+Asia, and Middle East, and Africa accounted for nearly 90% of the group’s revenues in 2 21,
+with Asia alone accounting for more than 50% of the group’s revenues. The rest of the group’s
+revenues came from Europe and North America. On the product front Chemicals which account
+for more than 60% of the group’s total production and capacity as well, form only 41% of the
+group’s revenues. olymers account for % of the group’s revenues.
+
+64%
+20%
+16%
+Chemicals
+Polymers
+Specialized
+60%
+28%
+12%
+Chemicals
+Polymers
+Specialized
+
+--- PAGE 18 ---
+Equity Research Report
+KSA Petrochemical Sector
+29 Jan 2023
+
+18
+
+Figure 34: Revenue by Product - 2021
+
+Figure 35: Revenue by Region - 2021
+
+Source: Company Data
+
+Source: Company Data
+Strategy
+•
+Feedstock restructuring: The Group plans to increase ethane feedstock usage to bring
+down its dependency on butane. Kayan has already received approval from the Ministry of
+Energy to allocate ethane feedstock up to 30mn standard cubic feet per day.
+•
+Efficiency and reliability improvement: The Company is looking to improve the efficiency
+of its existing plants to increase productivity.
+•
+Portfolio differentiation: With more than 20 products in its portfolio, the group is looking
+to differentiate its products further.
+•
+Cost leadership: With improving efficiency, the group is looking to bring down prices to
+become a cost leader in the industry.
+•
+Synergy expansion: The Group is already benefitting from the synergy created by using its
+ma or shareholder A C’s distribution channel and can look forward to further enhancing
+synergies with stakeholders.
+
+50%
+41%
+9%
+Polymers
+Chemicals
+Specialized
+51%
+38%
+8%
+3%
+Asia
+Middle East & Africa
+Europe
+Other
+
+--- PAGE 19 ---
+Equity Research Report
+KSA Petrochemical Sector
+29 Jan 2023
+
+19
+
+Products Description
+The majority of group’s products are end products used in various industries ranging from
+automobiles to pharmaceuticals. Though only a handful of products shown below are used as
+feedstock, they account for more than % of the group’s production capacity. While the
+number of products produced under the polymers category is the lowest, it accounts for the
+largest portion of group’s revenue.
+
+Figure 36: Major products capacity and uses
+Product
+Annual Production
+Uses/Applications
+(‘000 metric tons)
+Chemicals
+
+Ethylene
+1,478
+Feedstock for the Polyethylene and Ethylene Glycol.
+Propylene
+630
+Feedstock for the Polypropylene and Cumene.
+Monoethylene Glycol
+566
+Polyester fibre for the textile industry, packaging, Antifreeze, coolants and Chemical
+intermediates.
+Ethylene Oxide
+550
+Feedstock to Ethylene Glycols, Polycarbonate and Ethanolamines.
+N-Butanol
+110
+Solvents, Plasticizers, Coating.
+Benzene
+109
+Feed stock for Cumene plant.
+Diethylene glycol
+41
+Manufacture of unsaturated polyester resins, polyurethanes, plasticizers, printing ink,
+paint
+Iso-Butanol
+4
+Direct solvent, Chemical intermediate, and Additive – in gasoline and deicing fluids.
+Triethylene glycol
+2
+Dehydration for industrial gases, industrial solvents, and plasticizers.
+Polymers
+
+High Density
+Polyethylene
+400
+Automotive gasoline tanks, pipes, bottles & containers.
+Polypropylene
+350
+The automotive industry, electric appliances, water pipe fibres
+Low Density
+Polyethylene
+300
+Manufacturing various containers, bottles, tubing, and plastic parts for computer
+components
+Polycarbonate
+260
+Construction & Housing, Automotive, Aircraft, Electronic components, Lenses,
+Medical appliances.
+Specialized
+
+Cumene
+290
+Feedstock to Phenol plant.
+Bisphenol A
+240
+Polycarbonate, Epoxy resins (adhesives, flexible packaging, laminates etc.).
+Phenol
+220
+Feedstock to Bisphenol-A plant.
+Acetone
+135
+Solvents, BPA manufacturing, Methyl Methacrylate manufacturing.
+Natural Detergent
+Alcohol
+50
+Detergent.
+Ethoxylates
+40
+Detergent, paint, leather industry.
+Monoethanolamine
+34
+Gas sweetening, detergents, cleaning formulations, concrete mixtures,
+pharmaceuticals etc.
+Diethanolamine
+34
+Metalworking fluids for cutting, stamping and die-casting operations as a corrosion
+inhibitor
+Triethanolamine
+32
+Used in making surfactants, such as for emulsifier
+Source: Company Website
+
+--- PAGE 20 ---
+Equity Research Report
+KSA Petrochemical Sector
+29 Jan 2023
+
+20
+
+Key points
+▪
+Based on our understanding, the top 2 products which together contribute 50% of the
+topline are Ethylene Glycol and Polycarbonate.
+
+▪
+Despite the diversified nature of revenues, historically the company’s share price has
+been correlated with Polycarbonate prices
+
+Figure 37: PolyCarbonate prices vs Kayan share price
+
+Figure 38: Volatility in Kayan’s profits
+
+Source: Bloomberg
+
+Source: Company Data
+
+▪
+The company is sensitive to Butane prices which is the key feedstock. Despite having a
+mix of feedstock in diversified volume proportions, Butane (in absolute cost terms)
+contributes to more than 90% of the total cost of goods sold, based on our analysis.
+
+▪
+The company has a high depreciation cost which makes the operating leverage high.
+Thus, the company’s profits have been quite sensitive to spreads.
+
+▪
+As the depreciation is much higher than maintenance capex, the total asset value has
+been declining from SAR41bn at end of 2016 to currently SAR30.5bn.
+
+▪
+The company prioritizes debt payment and does not pay dividends which we expect to
+continue at least for next 2 years.
+
+▪
+The company is 35% owned by A C and is also the company’s off-taker for products.
+
+▪
+Based on our estimates, the Utilization rate for the company’s plants has averaged
+around 95%.
+
+▪
+The Ministry of Energy has increased the allocation of Ethane to Kayan. This move aims
+to reduce dependence on butane and enhance the company’s ability to address
+market volatility and maintain profitability. The details are not fully provided. Based
+on our understanding, the additional Ethane allocation of 30mmsfcd is equal to 12%
+60
+70
+80
+90
+100
+110
+120
+Jan/19
+Feb/19
+Mar/19
+Apr/19
+May/19
+Jun/19
+Jul/19
+Aug/19
+Sep/19
+Oct/19
+Nov/19
+Dec/19
+PolyCarbonate
+Kayan
+(1,000)
+(800)
+(600)
+(400)
+(200)
+0
+200
+400
+600
+800
+1,000
+1Q19
+3Q19
+1Q20
+3Q20
+1Q21
+3Q21
+1Q22
+3Q22
+1Q23
+3Q23
+
+--- PAGE 21 ---
+Equity Research Report
+KSA Petrochemical Sector
+29 Jan 2023
+
+21
+
+of its Butane requirement. This could be material for the company irrespective of
+whether the company uses this Ethane to substitute part of Butane feedstock or to add
+production capacity. In any case, we believe the implementation can take time. Based
+on our understanding, plants with propane/ethane feedstock have much higher
+margins and thus based on our study, the company could improve margins by 3%.
+
+Figure 39: Polycarbonate price
+
+Figure 40: MEG price
+
+Source: GIB Capital
+
+Source: GIB Capital
+The pricing for most petrochemical products globally has been on the decline due to muted
+global economic growth. Inflationary pressure and a high-interest rate environment have
+further impacted the demand resulting in lower prices. China's zero COVID policy, the Russia-
+Ukraine conflict and supply chain disruptions have also contributed to the weakness in demand.
+However, the potential easing of lockdowns in China and the positive signs from the automotive
+industry could support the price recovery. The long-term outlook for the industry remains
+favorable though.
+Figure 41: Polypropylene price
+
+Figure 42: HDPE price
+
+Source: GIB Capital
+
+Source: GIB Capital
+
+0
+1,200
+2,400
+3,600
+4,800
+1Q17
+3Q17
+1Q18
+3Q18
+1Q19
+3Q19
+1Q20
+3Q20
+1Q21
+3Q21
+1Q22
+3Q22
+(US$/mt)
+Polycarbonate
+0
+500
+1,000
+1,500
+1Q17
+3Q17
+1Q18
+3Q18
+1Q19
+3Q19
+1Q20
+3Q20
+1Q21
+3Q21
+1Q22
+3Q22
+(US$/mt)
+MEG
+600
+800
+1,000
+1,200
+1,400
+1Q17
+3Q17
+1Q18
+3Q18
+1Q19
+3Q19
+1Q20
+3Q20
+1Q21
+3Q21
+1Q22
+3Q22
+(US$/mt)
+Polypropylene
+0
+200
+400
+600
+800
+1,000
+1,200
+1,400
+1,600
+1Q17
+3Q17
+1Q18
+3Q18
+1Q19
+3Q19
+1Q20
+3Q20
+1Q21
+3Q21
+1Q22
+3Q22
+(US$/mt)
+HDPE
+
+--- PAGE 22 ---
+Equity Research Report
+KSA Petrochemical Sector
+29 Jan 2023
+
+22
+
+Figure 43: LDPE price
+
+Figure 44: Butane price
+
+Source: GIB Capital
+
+Source: GIB Capital
+
+Ownership
+he ma or shareholder of audi ayan is A C, which holds 3 % of the group’s shares; the rest
+is public holding. SABIC as a major shareholder has served Kayan well as the latter uses A C’s
+distribution channels for selling its products.
+
+Figure 45: Current ownership
+
+Source: Bloomberg
+
+0
+500
+1,000
+1,500
+2,000
+1Q17
+3Q17
+1Q18
+3Q18
+1Q19
+3Q19
+1Q20
+3Q20
+1Q21
+3Q21
+1Q22
+3Q22
+(US$/mt)
+LDPE
+0
+250
+500
+750
+1000
+1Q17
+3Q17
+1Q18
+3Q18
+1Q19
+3Q19
+1Q20
+3Q20
+1Q21
+3Q21
+1Q22
+3Q22
+(US$/mt)
+Butane
+65.0%
+35.0%
+Public
+SABIC
+
+--- PAGE 23 ---
+Equity Research Report
+KSA Petrochemical Sector
+29 Jan 2023
+
+23
+
+Summary of Financials
+Figure 46: Summarized basic financial statements (SAR mn)
+Income statement
+2020a
+2021a
+2022e
+2023e
+2024e
+Revenue
+8,007
+12,656
+11,549
+10,623
+11,427
+revenue y/y
+-16%
+58%
+-9%
+-8%
+8%
+COGS
+(7,590)
+(9,120)
+(11,109)
+(9,582)
+(9,241)
+Gross Profit
+418
+3,536
+440
+1,041
+2,186
+Gross Profit margin
+5%
+28%
+4%
+10%
+19%
+Operating expenses
+(610)
+(729)
+(693)
+(652)
+(708)
+Operating profit
+(193)
+2,808
+(252)
+389
+1,478
+Operating margin
+-2%
+22%
+-2%
+4%
+13%
+Finance costs
+(453)
+(275)
+(373)
+(458)
+(372)
+Net income
+(785)
+2,394
+(716)
+(132)
+992
+Net margin
+-10%
+19%
+-6%
+-1%
+9%
+y/y
+23%
+-405%
+-130%
+-81%
+-850%
+EPS
+(0.5)
+1.6
+(0.5)
+(0.1)
+0.7
+DPS
+0.0
+0.0
+0.0
+0.0
+0.0
+Payout
+0%
+0%
+0%
+0%
+0%
+EBITDA
+2,174
+5,229
+2,175
+2,715
+3,602
+Net debt
+15,827
+12,459
+9,811
+8,518
+5,925
+Balance Sheet
+2020a
+2021a
+2022e
+2023e
+2024e
+Inventories
+1,306
+1,758
+1,388
+1,704
+1,833
+Trade Receivables
+2,644
+3,840
+2,847
+3,495
+3,759
+Prepayments and Other Current Assets
+96
+95
+66
+81
+81
+Cash and Equivalents
+586
+919
+1,787
+1,080
+1,673
+Total Current Assets
+5,483
+6,944
+6,413
+6,685
+7,672
+Intangible Assets
+285
+249
+204
+166
+134
+Property, Plant & Equipment
+27,238
+25,301
+23,219
+21,304
+19,549
+Total Non-Current Assets
+28,022
+25,910
+23,744
+21,730
+19,896
+Total Assets
+33,505
+32,854
+30,158
+28,416
+27,568
+Current Liabilities
+3,347
+3,941
+5,087
+5,477
+5,637
+Non-current Liabilities
+16,150
+12,442
+9,002
+7,002
+5,002
+Equity
+14,009
+16,471
+16,069
+15,936
+16,929
+Total Equity and Liabilities
+47,514
+49,326
+46,226
+44,352
+44,496
+BVPS
+9.3
+11.0
+10.7
+10.6
+11.3
+Cashflow
+2020a
+2021a
+2022e
+2023e
+2024e
+Cashflow from Operations
+1,787
+3,818
+3,070
+1,609
+2,886
+Cashflow from Investing
+-536
+198
+-241
+-315
+-293
+Cashflow from Financing
+-1,599
+-3,683
+-1,961
+-2,000
+-2,000
+Total Cashflows
+-348
+333
+868
+-707
+593
+Source: Company, GIB Capital
+
+--- PAGE 24 ---
+Equity Research Report
+KSA Petrochemical Sector
+29 Jan 2023
+
+24
+
+Figure 47: Key ratios
+Key ratios
+2020a
+2021a
+2022e
+2023e
+2024e
+Profitability ratios
+RoA
+-2%
+7%
+-2%
+0%
+4%
+RoE
+-6%
+15%
+-4%
+-1%
+6%
+RoIC
+-1%
+9%
+-1%
+3%
+5%
+Sales/Assets
+24%
+39%
+38%
+37%
+41%
+Net margin
+-9.8%
+18.9%
+-6.2%
+-1.2%
+8.7%
+Liquidity ratios
+Current Assets/ Current Liabilities
+1.6
+1.8
+1.3
+1.2
+1.4
+Debt to Total Equity
+122%
+81%
+72%
+60%
+45%
+Receivable Days
+121
+111
+90
+120
+120
+Inventory Days
+-63
+-70
+-46
+-65
+-72
+Payable days
+-34
+-34
+-24
+-34
+-37
+Debt ratios
+Net Debt/EBITDA
+7.3
+2.4
+4.5
+3.1
+1.6
+Debt/Assets
+0.5
+0.4
+0.4
+0.3
+0.3
+Valuation ratios
+P/E
+-25.8
+8.4
+-28.3
+-152.7
+20.4
+P/B
+1.4
+1.2
+1.3
+1.3
+1.2
+EV/EBITDA
+14.1
+5.8
+14.1
+11.3
+8.5
+FCF yield
+8.5%
+18.8%
+14.4%
+8.7%
+14.8%
+Div. Yield
+0.0%
+0.0%
+0.0%
+0.0%
+0.0%
+Source: Company, GIB Capital
+
+--- PAGE 25 ---
+Equity Research Report
+KSA Petrochemical Sector
+29 Jan 2023
+
+25
+
+Advanced Petrochemical Company
+(APPC AB Equity)
+
+Key investment themes
+▪ Expansion plans. Currently, the plant has an annual production of PP of ~600k tonnes. Post-
+commissioning of the newer plants that are to come in from 2025/2026, the capacity could
+increase to 2.5x the current capacity.
+▪ Valuing existing project: Based on our valuation model as detailed in the valuation section,
+the company is likely trading without factoring the new projects because of weaker market
+sentiments. The stock is trading at ~SAR47/share as compared to its peak of ~SAR75/share
+in early 2022.
+▪ Solid operational track record: The plants have one of the best track records in the Saudi
+Petchem space with less frequent shutdowns than most of the other firms in KSA. The last
+time the utilization rate dipped below 100% was back in early 2018 as per our estimates
+The firm generally has reported an average operating rate of 110%+.
+▪ Premium prices: Efficient off-taker relationship has enabled the company to sell to regions
+that give premium prices consistently.
+▪ Superior metrics: elated to the above point, the company’s technology (different from
+Alu ain’s despite manufacturing the same olypropylene), operational efficiency, and
+management ensure they have better margins and stable profitability metrics as compared
+to peers.
+▪ Consistent dividend payments: So far, the company has managed to pay consistent and
+rising dividends which makes it a key attraction for investors.
+
+Risk factors to consider
+▪
+Dividend risk: With current spreads, there is a possibility for a reduction in dividends as
+debt and rates have increased. Already we note that the payout is above 100% in the past
+2 years.
+▪
+Expansion risks: Delay in execution, and cost overruns of the new project are major risk
+factors.
+▪
+High benchmark set: Additionally, there is a risk for the newer plants not to match the
+current plant’s efficiencies given the high bar set by the current plant. While we factor a
+lower net income per ton (85% of older plant for the newer plant), it could be even lower.
+Notably, the results of its Korean investment have not been as attractive as the Saudi plant.
+▪
+Others: Investment bets taken such as the one in Tasnee may not pay off as expected or
+may weight on sentiments of investors looking for APPC as a pure PP-P play.
+Valuation
+To value the new plants, we use a DCF standalone model with commissioning from 2026 and
+only at 85% of average EBITDA/tonne for the existing plant and arrive at a value of SAR15/share.
+The implied IRR based on our DCF is only 11%. The other view is to see the average share price
+of APPC over the years before the announcement and replicate the equity value on a per-tonne
+basis adjusting for time value and again adjusting for lower margins. The average share price of
+Stock data
+
+TASI Ticker
+2330
+Mkt cap (SARmn)
+12,467
+Trd. Val 3m (SARmn)
+19.0
+Free float
+88.2%
+QFI holding
+11.89
+TASI FF weight
+0.63%
+Source: Bloomberg
+Prices indexed to 100
+
+Source: Bloomberg
+
+1
+11
+12
+13
+an 22
+eb 22
+ar 22
+Apr 22
+ay 22
+un 22
+ul 22
+Aug 22
+ep 22
+ct 22
+ov 22
+ec 22
+A
+A C
+Target Price: SAR54/share
+Current Price: SAR48/share
+Upside: 13% (+Div. Yield: 4.2%)
+Rating: Overweight
+
+--- PAGE 26 ---
+Equity Research Report
+KSA Petrochemical Sector
+29 Jan 2023
+
+26
+
+APPC before the announcement of projects was around SAR40/share. Taking 85% of this value
+and post-factoring for the time value of 3-4 years, we arrive at SAR20/share for the new project.
+Thus, the value of the new projects is SAR15-20/share based on our analysis.
+We value the company based on an equal blend of EV/EBITDA and DCF valuation. We use an
+EV/EBITDA of 13x (3-year average EV/EBITDA has been 15x) to arrive at a multiple based 12
+month forward valuation of SAR38/share. For DCF we use a WACC of 9.1% and cost of equity of
+10.5% and arrive at a 12-month forward DCF value of SAR34/share. We add SAR17.5/share for
+the new plant. Our combined target price of SAR54/share has an implied dividend yield of 4.2%
+and 5.2% for 2023 and 2024. Given the ~13% upside, we initiate coverage with an Overweight
+rating.
+Traditionally the companies in the sector are valued based on dividend yield. If we were to
+factor only the current plant, the current dividend yield would be 5.2%.
+Figure 48: DCF valuation model
+SARmn
+2022e
+2023e
+2024e
+2025e
+2026e
+2027e
+2028e
+2029e
+2030e
+EBIT
+391
+450
+654
+641
+639
+637
+642
+640
+639
+Tax
+-22
+-29
+-45
+-45
+-46
+-46
+-47
+-47
+-47
+EBIT after taxes
+369
+421
+608
+596
+593
+591
+595
+593
+591
+Dep+Amor
+215
+222
+224
+219
+221
+223
+217
+219
+221
+Change in WC
+43
+-52
+17
+-6
+3
+0
+0
+0
+0
+Capex
+-1,396
+-67
+-65
+-64
+-64
+-64
+-64
+-64
+-64
+FCF
+-770
+524
+784
+744
+754
+750
+749
+749
+748
+Terminal value
+
+0
+0
+0
+0
+0
+0
+0
+10,808
+Enterprise value of explicit period
+3,953
+PV of terminal FCF
+5,385
+EV
+9,338
+Target EV/EBITDA
+13x
+Net debt
+-1,801
+2024E EBITDA
+877
+Associates & investment
+999
+EV/EBITDA based price
+38
+Non-operating liabilities
+-308
+Minority
+-327
+Total Market Value
+7,901
+No of shares
+260
+Equity value per share
+30
+Adj. DCF- eq. value per share
+34
+Cost of Equity
+10.5%
+Cost of Debt
+3.5%
+Long term Weight of Debt
+20.0%
+Long term Weight of Equity
+80.0%
+WACC
+9.1%
+
+Source: GIB Capital
+
+--- PAGE 27 ---
+Equity Research Report
+KSA Petrochemical Sector
+29 Jan 2023
+
+27
+
+Company Profile
+Advanced Petrochemical Company ("Advanced") was founded in 2005 and listed on Tadawul in
+2007. The company was initially launched by National Polypropylene Limited, jointly owned by
+Khalifa Al Mulhim, now the Chairman of the company.
+The company manufactures petrochemicals, including propylene (455,000 tons/year) which is
+used in turn to manufacture polypropylene (450,000 tons/year of name plate capacity) though
+the actual production is much higher. The company has its production facility in Jubail Industrial
+City. It started the construction of its plants in May 2005 and commenced commercial
+production in March 2008.
+The company has a presence across MENA, Europe, India, Asia Pacific, Turkey, and China. It
+markets and sells its products through international off-takers like Vinmar International,
+Mitsubishi Corporation, and Domo N.V. Most revenues come from overseas sales representing
+~93% of total revenues.
+The company is known for actively shifting sales of its products towards markets that have
+better pricing or are in demand. For example, the company increased its sales exposure towards
+Turkey up from 15% in 2015 to ~30% in 2019 as pricing improved. Accordingly, the company
+was involved in making material (woven PP) required for masks during COVID. he company’s
+solid management is widely acknowledged as the best in the sector in KSA.
+Figure 49: Geographic mix of revenue (3Q22)
+
+Source: Company
+
+Total production of Polypropylene (PP) was ~600k tpa in 2021. The majority of PP is
+manufactured from Propylene it produces using the Propane it procures from Aramco at
+discounted prices.
+
+The company uses the PDH-Catifin Technology, licensed by Lummus, for producing propylene,
+and it uses the Novolen Technology for making polypropylene. From the numbers we see that,
+the technology has helped the company achieve superior margins than most other
+Petrochemical manufacturers in KSA.
+
+Rest of the propylene is outsourced from SATORP. The Group had earlier signed a five year
+agreement for the purchase of 80k mt/a of propylene which has gradually increased now to
+93%
+7%
+Overseas
+Domestic
+
+--- PAGE 28 ---
+Equity Research Report
+KSA Petrochemical Sector
+29 Jan 2023
+
+28
+
+120k mt/a from the start of 2022 to end of 2025. The margin for this PP manufactured from
+Propylene is lower than the Polypropylene it manufactures by using Propane.
+
+As for spreads, the product prices are the netbacks it receives from the off-takers after all
+expenses while with regards to the cost of feedstock, Saudi Aramco announces prices for
+propane each month. Propane price is based on a free-on-board (FOB) basis from the Port of
+as anura. here is a month’s delay in accounting for costs by the companies– which means
+prices as of December, January and February are used for calculating feedstock cost in Q1.
+
+On-stream utilizations for the PDH and PP plants have always been consistently around 110%+
+and 135%+. This implies that the company has always produced much above its name plate
+capacity. Its efficient production also has been a contributing factor for the company to have
+much better margins than most of it petrochemical peers
+
+The company is currently holding around ~40mn shares or 6% shares of TASNEE which is today
+around SAR528mn (acquisition cost of SAR471mn). The company said that this is a strategic
+investment, and it doesn’t have any plan to increase its stake.
+
+The company has a long history of stable and improving dividends – most notably one of the
+few companies that pay quarterly dividends. However, the annual payout ratio has increased
+above 100% in the last 2 years.
+
+The Group also has an investment in SK Advanced Co. Limited classified as investment in an
+associate in its financial statements. The ownership of the Company is divided between AGIC
+(Advanced’s subsidiary) with 30%, SK Gas Co. Limited with 45% and Petrochemical Industries
+Company K.S.C with 25%. SK Advanced operates a PDH Plant with nameplate capacity of
+600,000 MT per annum. The project started operations in April 2016. SK Advanced inturn has
+an investment in Ulsan PP which is 49.99% owned by it. Ulsan PP commenced operations in May
+2021 and is supplied with Propylene (feedstock) from SK Advanced on a long-term basis.
+
+They key share price indicator to note for the company is the spread between Polypropylene
+and Propane prices.
+
+Polypropylene's supply and demand situation has been weak in the global market. The pricing
+has been impacted due to the slowdown in global economic growth. Global tension due to the
+ongoing Russia-Ukraine conflict, China's stringent COVID policy, and supply chain disruptions
+have put prices and demand under pressure. Nonetheless, improvement in demand from the
+automotive industry and the potential easing of lockdowns in China are likely to support the
+price recovery. The long-term outlook for the industry remains favourable.
+
+--- PAGE 29 ---
+Equity Research Report
+KSA Petrochemical Sector
+29 Jan 2023
+
+29
+
+Figure 50: Propane and Polypropylene price
+
+Source: GIB Capital
+
+Expansion Plans
+Advanced Global Investment Company (AGIC), the wholly-owned subsidiary of Advanced, and
+S.K. Gas Petrochemical Pte. Ltd. (SKGP), a subsidiary of S.K. Gas Co., Ltd. incorporated Advanced
+Polyolefins Industry Company (APOC) to construct and operate a Propane Dehydrogenation;
+Polypropylene & Isopropanol (PDH-PP-IPA) project in Jubail – 2. The project is owned 85% by
+Advanced.
+The propylene plant will produce 843,000 tons/year of propylene with all required off-sites and
+utilities using CATOFIN technology from Lummus Technology LLC, U.S. The polypropylene plants
+will have a capacity of 800,000 tons/year and will use Spheripol and Spherizone technologies by
+Basell Poliolefine Italia S.r.l, Italy. Also, it will add one more product, Isopropanol, to the
+company's product offerings. With a nameplate capacity of 70,000 tons/year, the Isopropanol
+plant will process propylene and produce isopropanol.
+The new project is expected to increase the company's polypropylene capacity to 1,130,000
+tons/year (after adjusting for Advanced's stake).
+The new project is expected to cost USD1.9bn and come on stream by 2H24. The project is
+financed 25% by the shareholders of APOC, and the remaining will be financed through
+borrowings.
+This Project is expected to produce value-added PP grades to manufacture PP compounds for
+the automotive industry as well as other specialized grades that are currently being imported
+into the Kingdom of Saudi Arabia.
+Funding for the project has increased the debt significantly. However, part of this has likely
+lower interest costs because SAR3bn was obtained from SIDF. EPC was awarded in April 2021,
+and we believe the project is likely to be around ~50% completed.
+
+0
+200
+400
+600
+800
+1000
+1200
+1400
+1Q17
+2Q17
+3Q17
+4Q17
+1Q18
+2Q18
+3Q18
+4Q18
+1Q19
+2Q19
+3Q19
+4Q19
+1Q20
+2Q20
+3Q20
+4Q20
+1Q21
+2Q21
+3Q21
+4Q21
+1Q22
+2Q22
+3Q22
+4Q22
+(US$/mt)
+Propane
+Polypropylene
+
+--- PAGE 30 ---
+Equity Research Report
+KSA Petrochemical Sector
+29 Jan 2023
+
+30
+
+Ownership
+The major shareholder of Advanced is National Polypropylene Co. which owns 8%. QFI holding
+currently is 11.9%.
+
+Figure 51: Current ownership
+
+Source: Bloomberg
+
+92.0%
+8.0%
+Public
+National Polypropylene Co.
+
+--- PAGE 31 ---
+Equity Research Report
+KSA Petrochemical Sector
+29 Jan 2023
+
+31
+
+Summary of Financials
+Figure 52: Summarized basic financial statements (SAR mn)
+Income statement
+2020a
+2021a
+2022e
+2023e
+2024e
+Revenue
+2,231
+3,111
+2,933
+2,678
+2,834
+revenue y/y
+-14%
+39%
+-6%
+-9%
+6%
+COGS
+1,502
+2,052
+2,364
+2,067
+2,011
+Gross Profit
+729
+1,059
+570
+611
+824
+Gross Profit margin
+33%
+34%
+19%
+23%
+29%
+Operating expenses
+137
+194
+179
+161
+170
+Operating profit
+592
+865
+391
+450
+654
+Operating margin
+27%
+28%
+13%
+17%
+23%
+Finance costs
+6
+16
+27
+58
+58
+Net income
+596
+815
+309
+401
+633
+Net margin
+27%
+26%
+11%
+15%
+22%
+y/y
+-22%
+37%
+-62%
+30%
+58%
+EPS
+2.8
+3.8
+1.4
+1.9
+2.9
+DPS
+2.6
+2.6
+2.6
+2.00
+2.5
+Payout
+94%
+69%
+182%
+108%
+85%
+EBITDA
+809
+1,087
+606
+671
+877
+Net debt
+(49)
+820
+1,991
+2,016
+2,100
+Balance Sheet
+2020a
+2021a
+2022e
+2023e
+2024e
+Inventories
+175
+202
+133
+157
+145
+Trade Receivables
+328
+435
+286
+339
+378
+Prepayments and Other Current
+Assets
+89
+104
+81
+78
+82
+Cash and Equivalents
+62
+243
+327
+303
+218
+Total Current Assets
+653
+1,056
+827
+877
+823
+Intangible Assets
+0
+0
+0
+0
+0
+Property, Plant & Equipment
+1,756
+2,985
+4,215
+4,061
+3,902
+Total Non-Current Assets
+3,305
+4,835
+5,622
+5,493
+5,686
+Total Assets
+3,959
+5,891
+6,449
+6,370
+6,509
+Current Liabilities
+397
+1,603
+1,962
+1,985
+2,032
+Non-current Liabilities
+12
+174
+867
+867
+867
+Equity
+3,419
+3,956
+3,519
+3,290
+3,386
+Total Equity and Liabilities
+3,959
+5,891
+6,562
+6,370
+6,509
+BVPS
+18.3
+27.2
+30.3
+29.4
+30.1
+Cashflow
+2020a
+2021a
+2022e
+2023e
+2024e
+Cashflow from Operations
+758
+1,058
+587
+562
+803
+Cashflow from Investing
+-179
+-1,181
+-1,107
+-67
+-346
+Cashflow from Financing
+-565
+303
+604
+-520
+-541
+Total Cashflows
+14
+181
+84
+-25
+-84
+Source: Company, GIB Capital
+
+--- PAGE 32 ---
+Equity Research Report
+KSA Petrochemical Sector
+29 Jan 2023
+
+32
+
+Figure 53: Key ratios
+Key ratios
+2020a
+2021a
+2022e
+2023e
+2024e
+Profitability ratios
+RoA
+15%
+14%
+5%
+6%
+10%
+RoE
+17%
+21%
+9%
+12%
+19%
+RoIC
+17%
+17%
+7%
+8%
+11%
+Sales/Assets
+56%
+53%
+45%
+42%
+44%
+Net margin
+27%
+26%
+11%
+15%
+22%
+Liquidity ratios
+Current Assets/ Current Liabilities
+1.6
+0.7
+0.4
+0.4
+0.4
+Debt to Total Equity
+0%
+27%
+66%
+70%
+68%
+Receivable Days
+54
+51
+36
+46
+49
+Inventory Days
+42
+36
+21
+28
+26
+Payable days
+35
+34
+19
+26
+35
+Debt ratios
+Net Debt/EBITDA
+-0.1
+0.8
+3.3
+3.0
+2.4
+Debt/Assets
+0.0
+0.2
+0.4
+0.4
+0.4
+Valuation ratios
+P/E
+17.4
+12.7
+33.6
+25.9
+16.4
+P/B
+2.6
+1.8
+1.6
+1.6
+1.6
+EV/EBITDA
+17.9
+13.3
+23.9
+21.6
+16.5
+Div. yield
+5.4%
+5.4%
+5.4%
+4.2%
+5.2%
+Source: Company, GIB Capital
+
+--- PAGE 33 ---
+Equity Research Report
+KSA Petrochemical Sector
+29 Jan 2023
+
+33
+
+Sahara International Petrochemical
+(SIPCHEM AB Equity)
+
+Key investment themes
+▪
+Methanol fundamentals look healthy: Methanol is one of the only few products where
+demand is expected to exceed supply in the near term. Also, Methanex the industry leader
+has kept Methanol prices unchanged at US$410/mt for the fifth month in a row.
+▪
+Feedstock allocation: Sipchem is in advanced stages of talks with Ministry of Energy
+additional feedstock allocation that could help expand the capacity especially for VAM
+though it could take time.
+▪
+Debottlenecking project: Post the implementation of a planned debottlenecking project
+for three of its plants, their capacity could increase by 25%. It would incur capex (altogether
+around SAR1.5bn as per our estimate) but more details are awaited on the same.
+▪
+Diversified product mix: With regards to product mix contribution, in the past Methanol
+had been the key contributor to profits but since 2021/22 given the rally in specialty
+chemicals such as VAM/EVA/BDO, the mix is now diversified. Now even after the recent
+drop in prices, the order of contribution is likely to be EVA, Methanol and VAM/Acetyls as
+per our understanding, highlighting the diversification.
+▪
+High operating leverage: The company also uses Methane, Ethane, Butane, and buys
+Ethylene (to produce vinyl acetate monomer). However, the main feedstock cost is fixed
+with Methane at US$1.25/mmbtu and thus there is disproportionally high operating
+leverage which works in both ways. However, considering the recent decline in product
+prices, the cyclicality could work in favour of Sipchem once Chinese economy rebounds.
+▪
+Dividends: While dividends could decline, the company could pay dividends of
+SAR2.75/share in 2023 with current spreads – implying 7.2% dividend yield. We believe that
+the company may continue to have reasonable debt on its books which unlocks value by
+decreasing the company’s WACC unlike some firms which prefer to be debt free.
+▪
+Quality Management: Management is active and efficient. For example, the company
+saved on interest costs by hedging interest rates at fixed levels at around 3% and is focused
+on selling products in regions with higher netbacks. The company also managed to obtain
+better than originally expected synergies from its merger with Sahara (SAR. The company
+also shut down two unprofitable plants highlighting efficient use of capital.
+Risk factors to consider
+▪
+Weak 4Q22: Market is expecting a weak 4Q22 which may dampen near-term sentiments
+for the stock.
+▪
+Doubled edged operating leverage: The high operating leverage acts in both ways and
+hence further weakness in key product prices may lead to disproportionally weaker profits.
+▪
+Shutdowns: The waterfall model of production (that is the output of one plant feeds as
+input into another plant) makes it difficult to forecast earnings with accuracy given the
+complexity in accounting. Additionally, a shutdown at its first-stage plant may weaken
+production at all its other plants. The last time IMC had a shutdown was in 2018.
+Stock data
+
+TASI Ticker
+2310
+Mkt cap (SARmn)
+28,013
+Trd. Val 3m (SARmn)
+79.1
+Free float
+89.0%
+QFI holding
+15.79
+TASI FF weight
+1.42%
+Source: Bloomberg
+Prices indexed to 100
+
+Source: Bloomberg
+
+1
+11
+12
+13
+14
+an 22
+eb 22
+ar 22
+Apr 22
+ay 22
+un 22
+ul 22
+Aug 22
+ep 22
+ct 22
+ov 22
+ec 22
+A
+ipchem
+Target Price: SAR47/share
+Current Price: SAR38/share
+Upside: 23% (+Div. Yield: 7.2%)
+Rating: Overweight
+
+--- PAGE 34 ---
+Equity Research Report
+KSA Petrochemical Sector
+29 Jan 2023
+
+34
+
+Valuation
+We value the company based on an equal blend of EV/EBITDA and DCF valuation. We use a
+EV/EBITDA of 9x (3 year average EV/EBITDA has been 9x) to arrive at a multiple based 12 month
+forward valuation of SAR46/share. For DCF we use a WACC of 10.3% and cost of equity of 11.3%
+and arrive at a 12 month forward DCF target of SAR49/share. Our target price of SAR47/share
+has an implied dividend yield of 7.2% (2023) and 7.9% (2024). Given the 23% upside, we initiate
+coverage with an Overweight rating. Also notably, the company had bought shares from the
+market (1.1mn), at a total value of SAR53.53mn, an average price of SAR48.52/share in 2022.
+Figure 54: DCF valuation model
+SARmn
+2022e
+2023e
+2024e
+2025e
+2026e
+2027e
+2028e
+2029e
+2030e
+Pre-tax operating profit
+3,879
+2,935
+2,968
+2,930
+2,915
+2,904
+2,833
+2,760
+2,684
+Tax rate
+-430
+-353
+-369
+-365
+-364
+-363
+-356
+-348
+-340
+Post-tax operating profit
+3,449
+2,582
+2,600
+2,565
+2,550
+2,541
+2,478
+2,412
+2,344
+Add: Depreciation & amortisation
+940
+966
+987
+964
+942
+922
+904
+887
+872
+Change in working capital
+887
+-217
+388
+4
+-3
+-5
+-3
+-3
+-3
+Less: Capex
+-664
+-879
+-699
+-698
+-699
+-701
+-702
+-703
+-604
+Free Cash Flow to Firm
+4,611
+2,453
+3,276
+2,834
+2,790
+2,756
+2,676
+2,593
+2,610
+Terminal value
+
+0
+0
+0
+0
+0
+0
+0
+32,614
+Enterprise value of explicit period
+14,594
+PV of terminal FCF
+14,908
+EV
+29,502
+Target EV/EBITDA
+9x
+Value of associates and non-core assets
+4,502
+2024E EBITDA
+3,956
+Others
+-1,285
+EV/EBITDA based price
+46
+Net debt
+128
+Minorities
+-1,107
+Total Market Value
+31,741
+Number of shares ('000)
+725
+Equity value per share
+44
+Adj. DCF- eq. value per share
+49
+Cost of Equity
+11.3%
+Cost of Debt
+4.5%
+Long term Weight of Debt
+15.0%
+Long term Weight of Equity
+85.0%
+WACC
+10.3%
+
+Source: GIB Capital
+
+--- PAGE 35 ---
+Equity Research Report
+KSA Petrochemical Sector
+29 Jan 2023
+
+35
+
+Company profile
+Sahara International Petrochemical Company (Sipchem), established in 1999, is one of the
+leading petrochemical companies in the world. The company is listed on Tadawul and included
+in the MSCI Emerging Markets Index. It is the second largest petrochemical player in Saudi after
+SABIC by market capitalization.
+The company owns and manages a petrochemicals complex at Jubail Industrial City. The
+complex is strategically located in the eastern region due to the availability of raw materials and
+required petrochemical products in the region. The complex has proximity to the King Fahd
+Industrial Port and the Jubail Commercial Port, which proves to be beneficial for exports.
+The company has a diversified product portfolio. It produces a wide range of products, from
+basic chemicals and polymers to specialty chemicals. It manufactures and markets methanol
+(MeOH), butanediol (BDO), tetra hydro furan, acetic acid (AA), maleic anhydride, and vinyl
+acetate monomer (VAM), as well as carbon monoxide through its various subsidiaries, among
+others. This is different from most of the other companies in KSA that make basic polymers as
+seen from the Figure below.
+Figure 55: Segment-wise sales volumes
+
+Source: Company Presentation
+Note: Basic chemicals: Methanol, Butanediol and Carbon Monoxide; Intermediate chemicals: Acetic Acid, Vinyl
+Acetate Monomer, Ethyl Acetate Caustic Soda and Ethylene di-chloride; Polymers: Polypropylene and Ethylene Vinyl
+Acetate
+
+489
+464
+547
+328
+391
+397
+159
+170
+245
+3Q21
+2Q22
+3Q22
+Basic chemicals
+Intermediate chemicals
+Polymers
+
+--- PAGE 36 ---
+Equity Research Report
+KSA Petrochemical Sector
+29 Jan 2023
+
+36
+
+Figure 56: Geographic mix of sales volume (3Q22)
+
+Source: Company Presentation
+
+In 2019, the company fully acquired Sahara Petrochemical Co. Sahara produces a wide range of
+petrochemicals, including propylene, polypropylene (PP), ethylene, and LLDPE.
+While there are multiple subsidiaries and products sold by the company, the main 4 profit
+generating products in our view were VAM, EVA, BDO and Methanol at the end of 2021. With
+the sharp fall in VAM, the order has slightly changed with EVA on top followed by Methanol.
+Figure 57: List of subsidiaries
+Company
+Product
+Ownership
+Sahara Petrochemicals Company
+Petrochemical & Chemical Industries, Basic and Intermediate
+100%
+International Methanol Company
+Production of Methanol (methyl alcohol)
+65%
+International Diol Company
+BDO, Maleic Anhydride (MAn), Tetrahydrofuran (THF) and gamma-Butyrolactone (GBL)
+100%
+International Acetyl Company
+Production of Acetic Acid (AA) and Acetic Anhydride (AAn)
+100%
+International Vinyl Acetate Company
+Production of Vinyl Acetate Monomer
+100%
+International Gases Company
+Production of Carbon Monoxide and Hydrogen
+100%
+Sipchem Marketing Company
+Marketing and sales of petrochemicals and plastics
+100%
+Sahara Marketing Company
+Marketing and sales of petrochemicals and plastics
+100%
+International Utility Company
+Management, operation and maintenance of utilities and facilities for ipchem’s
+subsidiaries
+93%
+International Polymers Company
+Production of Ethylene Vinyl Acetate, Low Density Polyethylene
+75%
+Sipchem Chemical Company
+Production of ethyl acetate / butyl acetate, polybutylene terephthalate and tetrahydrofuran
+100%
+Sipchem Europe Cooperative U.A.
+Providing marketing and distribution services of petchem products of Sipchem
+100%
+Sipchem Europe B.V.
+Providing marketing and distribution services of petchem products of Sipchem
+100%
+Sipchem Europe SA (Formerly Aectra SA)
+Providing marketing and distribution services of petchem products of Sipchem
+100%
+Gulf Advance Cable Insulation Company
+Cable insulation polymers products
+50%
+Saudi Specialized Products Company
+Production of transparent films and metal molds used in plastic industries
+100%
+Sipchem Asia PTE Ltd.
+Providing administrative support in marketing and logistics activities
+100%
+Saudi Advanced Technologies Company
+Metal formation for motor vehicle parts and accessories
+100%
+Source: Company
+
+33%
+23%
+16%
+14%
+13%
+1%
+NEA
+India SC
+MEAF
+Europe
+SEA
+Rest
+
+--- PAGE 37 ---
+Equity Research Report
+KSA Petrochemical Sector
+29 Jan 2023
+
+37
+
+The company reports segmental revenue in the following format:
+1) Basic chemicals (which includes Methanol and BDO) which contributed 31% of
+revenues but 42% of operating profits profits in 2021.
+2) Intermediate (which includes mainly VAM, Caustic Soda, EDC) contributed 44% of
+revenues and 36% of operating profit
+3) Polymers (mainly EVA) contributed 33% of revenues and 18% of operating profits.
+4) The other division called marketing mainly buys internally and sells to customers
+externally.
+
+Modelling the company is complex because of the interdependence of products among the
+companies. For example, Methanol is sold externally as well as used to produce AA which is
+inturn used to produce VAM. The ownership of each plant is different adding to the
+complexity. Products such as BDO do not have easily available prices such as other products.
+The company has been increasing its stake in the subsidiaries that would avoid minority leakage.
+Sipchem has increased its stake in IDC (to 100% from 54%), enabling it to take strategic
+initiatives in the subsidiaries. The company acquired the remaining 3% stakes in International
+Acetyl Company Limited and International Vinyl Acetate Company, increasing its ownership in
+both firms to 100%. Current ownerships are shown in the Figure above.
+
+Growth plans
+•
+Through continuous growth, aiming to achieve and maximize positive results
+•
+Work towards developing and exploring new investment opportunities
+•
+Project development opportunities consist of new acquisitions and mergers inside or
+outside the country to enhance the group's profitability and enable it to enter new global
+markets
+•
+Develop and explore opportunities to build new factories. Also, expand the existing
+factories to increase the production capacity in line with the increasing global demand
+Strategy
+•
+The company updated its strategy for the next ten years
+•
+The new strategy is based on five main pillars (growth, profitability, sustainability, digital
+transformation and innovation, and human resources)
+
+--- PAGE 38 ---
+Equity Research Report
+KSA Petrochemical Sector
+29 Jan 2023
+
+38
+
+Figure 58: Overview of the integrated operations of the company for representative purposes
+
+Source: Company Website
+
+As discussed above, Methanol (MeOH) is primarily converted to formaldehyde, which has many
+applications, especially in polymers. Acetic acid (AA) can be produced from methanol. MeOH
+combined with isobutene makes MTBE a major octane booster in gasoline (petrol). It can also
+be used as a clean energy source.
+Ethyl Acetate (EA) is used in nail varnish removers to clean circuit boards, decaffeinated coffee
+beans and tea leaves, paints and perfumes, among other applications. Butanediol (BDO)
+industrial use is a solvent in manufacturing certain plastics, elastic fibres, and polyurethanes.
+AA is used to manufacture paints, adhesives, inks, coatings etc. Ethylene-vinyl acetate (EVA) is
+used to manufacture car mats, artificial flowers, surfboards, plastic films etc. Sodium hydroxide
+(NaOH), called caustic soda, can make soaps, rayons, paper, explosives, dyes, and petroleum
+products. Vinyl Acetate Monomer (VAM) is a significant intermediate used in producing a wide
+range of resins and polymers for paints & coatings, adhesives, glues & sealants, elastomers,
+textile finishes, paper coatings, binders, films, and a myriad of other industrial and consumer
+applications. Polypropylene (PP) is used in plastic packaging, plastic parts for machinery and
+equipment, fibres and textiles, electrical insulation, food containers, carpets, ropes, etc.
+
+The pricing for all products has witnessed a gradual decline in 2022-YTD due to the slowdown
+in global economic growth. China's zero COVID policy, Russia-Ukraine conflict, and supply chain
+disruptions have contributed to the weakness in demand and consequently led to downward
+pressure on the prices. The rising inflation across the globe attracted aggressive monetary policy
+tightening from major central banks, which has fueled concerns about a recession in the near
+to medium term. However, the potential easing of lockdowns in China and the positive signs
+from the automotive industry could support the price recovery. The long-term outlook for the
+industry remains favorable.
+
+--- PAGE 39 ---
+Equity Research Report
+KSA Petrochemical Sector
+29 Jan 2023
+
+39
+
+Figure 59: EVA price
+
+Figure 60: Methanol price
+
+Source: GIB Capital
+
+Source: GIB Capital
+
+Figure 61: VAM price
+
+Figure 62: BDO price
+
+Source: GIB Capital
+
+Source: GIB Capital
+
+Ownership
+The major shareholder of Sipchem is Zamil Group which owns 8.8%. Zamil Group, through its
+subsidiaries, is engaged in providing products and services and investment opportunities for
+investors in the industrial, petrochemicals, trade and services, and real estate sectors. QFI
+holding currently is 15.8%.
+
+-
+1,000
+2,000
+3,000
+4,000
+5,000
+1Q17
+3Q17
+1Q18
+3Q18
+1Q19
+3Q19
+1Q20
+3Q20
+1Q21
+3Q21
+1Q22
+3Q22
+(US$/mt)
+EVA
+-
+100
+200
+300
+400
+500
+1Q17
+3Q17
+1Q18
+3Q18
+1Q19
+3Q19
+1Q20
+3Q20
+1Q21
+3Q21
+1Q22
+3Q22
+(US$/mt)
+Methanol
+-
+500
+1,000
+1,500
+2,000
+2,500
+1Q17
+3Q17
+1Q18
+3Q18
+1Q19
+3Q19
+1Q20
+3Q20
+1Q21
+3Q21
+1Q22
+3Q22
+(US$/mt)
+VAM
+-
+500
+1,000
+1,500
+2,000
+1Q17
+3Q17
+1Q18
+3Q18
+1Q19
+3Q19
+1Q20
+3Q20
+1Q21
+3Q21
+1Q22
+3Q22
+(US$/mt)
+BDO
+
+--- PAGE 40 ---
+Equity Research Report
+KSA Petrochemical Sector
+29 Jan 2023
+
+40
+
+Figure 63: Current ownership
+
+Source: Bloomberg
+
+91.2%
+8.8%
+Public
+Zamil Group Holding
+
+--- PAGE 41 ---
+Equity Research Report
+KSA Petrochemical Sector
+29 Jan 2023
+
+41
+
+Summary of Financials
+Figure 64: Summarized basic financial statements (SAR mn)
+Income statement
+2020a
+2021a
+2022e
+2023e
+2024e
+Revenue
+5,323
+9,982
+10,864
+9,763
+9,991
+revenue growth y/y
+-2%
+88%
+9%
+-10%
+2%
+COGS
+4,150
+4,402
+5,682
+5,656
+5,824
+Gross Profit
+1,173
+5,580
+5,183
+4,107
+4,167
+Gross Profit margin
+22%
+56%
+48%
+42%
+42%
+Operating expenses
+813
+1,115
+1,304
+1,172
+1,199
+Operating profit
+360
+4,464
+3,879
+2,935
+2,968
+Operating margin
+7%
+45%
+36%
+30%
+30%
+Finance costs
+294
+319
+250
+199
+199
+Net income
+176
+3,592
+3,464
+2,863
+2,996
+Net margin
+3%
+36%
+32%
+29%
+30%
+y/y
+-41%
+1942%
+-4%
+-17%
+5%
+EPS
+0.2
+4.9
+4.8
+3.9
+4.1
+DPS
+0.5
+2.3
+3.3
+2.8
+3.0
+Payout
+208%
+46%
+68%
+70%
+73%
+EBITDA
+1,291
+5,463
+4,818
+3,902
+3,956
+Net debt
+4,658
+2,829
+(128)
+(502)
+(1,663)
+Balance Sheet
+2020a
+2021a
+2022e
+2023e
+2024e
+Inventories
+908
+1,145
+945
+1,041
+869
+Trade Receivables
+1,061
+1,862
+1,423
+1,568
+1,309
+Prepayments and Other Current
+Assets
+190
+227
+289
+289
+289
+Cash and Equivalents
+2,815
+2,711
+4,550
+4,923
+6,085
+Total Current Assets
+4,973
+5,946
+7,207
+7,821
+8,552
+Intangible Assets
+379
+606
+571
+571
+571
+Property, Plant & Equipment
+13,077
+12,338
+12,127
+12,040
+11,752
+Total Non-Current Assets
+18,792
+18,559
+18,526
+19,097
+19,582
+Total Assets
+23,765
+24,504
+25,733
+26,918
+28,133
+Current Liabilities
+3,465
+2,936
+2,680
+2,703
+2,661
+Non-current Liabilities
+6,464
+5,873
+5,198
+5,245
+5,257
+Equity
+13,836
+15,696
+17,855
+18,969
+20,215
+Total Equity and Liabilities
+23,765
+24,504
+25,733
+26,918
+28,133
+BVPS
+32.4
+33.4
+35.4
+37.0
+38.7
+Cashflow
+2020a
+2021a
+2022e
+2023e
+2024e
+Cashflow from Operations
+1,603
+4,898
+5,178
+3,246
+3,861
+Cashflow from Investing
+58
+-260
+-899
+-879
+-699
+Cashflow from Financing
+-956
+-4,444
+-2,823
+-1,994
+-2,000
+Total Cashflows
+706
+194
+1,457
+374
+1,162
+Source: Company, GIB Capital
+
+--- PAGE 42 ---
+Equity Research Report
+KSA Petrochemical Sector
+29 Jan 2023
+
+42
+
+Figure 65: Key ratios
+Key ratios
+2020a
+2021a
+2022e
+2023e
+2024e
+Profitability ratios
+RoA
+1%
+15%
+13%
+11%
+11%
+RoE
+1%
+23%
+19%
+15%
+15%
+RoIC
+1%
+19%
+16%
+11%
+11%
+Sales/Assets
+22%
+41%
+42%
+36%
+36%
+Net margin
+3%
+36%
+32%
+29%
+30%
+Liquidity ratios
+Current Assets/ Current Liabilities
+1.4
+2.0
+2.7
+2.9
+3.2
+Debt to Total Equity
+54%
+35%
+25%
+23%
+22%
+Receivable Days
+73
+68
+48
+59
+48
+Inventory Days
+80
+95
+61
+67
+54
+Payable days
+20
+26
+15
+17
+13
+Debt ratios
+Net Debt/EBITDA
+3.6
+0.5
+0.0
+-0.1
+-0.4
+Debt/Assets
+31%
+23%
+17%
+16%
+16%
+Valuation ratios
+P/E
+159.3
+7.8
+8.0
+9.7
+9.3
+P/B
+1.2
+1.1
+1.1
+1.0
+1.0
+EV/EBITDA
+22.9
+5.4
+6.1
+7.6
+7.5
+Div. yield
+1.3%
+5.9%
+8.5%
+7.2%
+7.9%
+Source: Company, GIB Capital
+
+--- PAGE 43 ---
+Equity Research Report
+KSA Petrochemical Sector
+29 Jan 2023
+
+43
+
+Disclaimer
+This research report has been prepared by GIB Capital, Riyadh, Saudi Arabia. It has been prepared for the general use
+of GIB Capital's clients and may not be altered, redistributed, retransmitted or disclosed, in whole or in part, or in any
+form or manner, without the express written consent of GIB Capital. Receipt and review of this research document
+constitute your agreement not to redistribute, retransmit, or disclose to others the contents, opinions, conclusion, or
+information contained in this document prior to public disclosure of such information by GIB Capital. The information
+contained was obtained from various public sources believed to be reliable, but we do not guarantee its accuracy. GIB
+Capital makes no representations or warranties (express or implied) regarding the data and information provided and
+GIB Capital does not represent that the information content of this document is complete, or free from any error, not
+misleading, or fit for any particular purpose. This research document provides general information only. Neither the
+information nor any opinion expressed constitutes an offer or an invitation to make an offer, to buy or sell any securities
+or other investment products related to such securities or investments. It is not intended to provide personal
+investment advice and it does not take into account the specific investment objectives, financial situation and the
+particular needs of any specific person who may receive this document.
+Investors should seek financial, legal or tax advice regarding the appropriateness of investing in any securities, other
+investment or investment strategies discussed or recommended in this document and should understand that
+statements regarding future prospects may not be realized. Investors should note that income from such securities or
+other investments, if any, may fluctuate and that the price or value of such securities and investments may rise or fall.
+Fluctuations in exchange rates could have adverse effects on the value of or price of, or income derived from, certain
+investments. Accordingly, investors may receive back less than originally invested. GIB Capital or its officers (including
+research analysts) may have a financial interest in securities of the issuer(s) or related investments, including long or
+short positions in securities, warrants, futures, options, derivatives, or other financial instruments. GIB Capital may from
+time to time perform investment banking or other services for, solicit investment banking or other business from, any
+company mentioned in this research document. GIB Capital and employees, shall not be liable for any direct, indirect
+or consequential loss or damages that may arise, directly or indirectly, from any use of the information contained in
+this research document. Where the report contains or refers to a recommendation about a specific security or securities
+service, please note that it may not be suitable for all recipients. Please note that the achievement of any price target
+may be impeded by general market and economic trends and other external factors, or if a company's profits or
+operating performance exceed or fall short of our expectations. The subjectivity in future expectations is complex and
+may miss actual or reported numbers.
+This research document and any recommendations contained are subject to change without prior notice. GIB Capital
+assumes no responsibility to update the information in this research document. This research document is not directed
+to, or intended for distribution to or use by, any person or entity who is a citizen or resident of or located in any locality,
+state, country or other jurisdiction where such distribution, publication, availability or use would be contrary to law, or
+which would subject GIB Capital to any registration or licensing requirement within such jurisdiction
+The principal activities of GIB Capital are Dealing, Custody, Managing, Arranging and Advising pursuant to the Capital
+Market Authority ("CMA") License No. 07078-37.
+We use a rating system based on potential upside, 1 year from today, based on our valuation models. For "Overweight"
+ratings, the estimated upside is >10%, for "Underweight", the estimated downside is <10%. For returns in between +/-
+10%, we have a Neutral rating.
+Contact us for queries:
+Pritish Devassy, CFA, CPA
+Sell Side Research Department,
+GIB Capital,
+B1, Granada Business & Residential Park,
+Eastern Ring Road, PO Box 89589, Riyadh 11692
+Pritish.devassy@gibcapital.com | www.gibcapital.com

@@ -1,0 +1,5507 @@
+--- PAGE 1 ---
+Baader Europe
+18 May 2022
+Application Software
+Switzerland
+Opinion
+Buy
+Upside (%)
+119
+Price (€)
+12
+Target Price (€)
+26.3
+Bloomberg Code
+MLBMD FP
+Market Cap (€M)
+32.3
+Enterprise Value (CHFth)
+29,609
+Momentum
+GOOD
+Fundamental Strength
+0/10
+Sustainability
+6/10
+Analyst : Zeineb Rourou
+EquitySales@baaderbank.de
+Frankfurt
++49 69 1388 1357
+London
++44 20 7054 7100
+Munich
++49 89 5150 1850
+Zurich
++41 43 388 9200
+New York
++1 212 935 5150
+beaconsmind AG
+Uniquely positioned in location-based
+marketing & analytics
+PROS
+CONS
+KEY DATA
+06/20A
+06/21A
+06/22E
+06/23E
+06/24E
+Adjusted P/E (x)
+ns
+-38.3
+-13.4
+49.7
+5.63
+Dividend yield (%)
+0.00
+0.00
+0.00
+0.00
+0.00
+EV/EBITDA(R) (x)
+ns
+-41.3
+-13.6
+27.0
+2.78
+Adjusted EPS (CHF)
+-0.28
+-1.05
+-0.94
+0.25
+2.23
+Growth in EPS (%)
+n/a
+n/a
+n/a
+n/a
+782
+Dividend (€)
+0.00
+0.00
+0.00
+0.00
+0.00
+Sales (CHFth)
+512
+779
+1,571
+6,090
+17,753
+EBITDA/R margin (%)
+-89.3
+ns
+-140
+18.0
+50.4
+Attributable net profit (CHFth)
+-529
+-2,098
+-2,256
+681
+6,008
+ROE (after tax) (%)
+350
+-934
+-91.3
+14.5
+68.6
+Gearing (%)
+-43.9
+-53.0
+-80.2
+-53.0
+No seasonality in business thanks to the subscriptions/ recurring revenues profile,
+with a high retention rate (95%)
+Very strong demand, in both emerging (Middle East, APAC) and mature markets
+(Europe, North America)
+Low level of competition; competitors are either pure hardware or pure software
+players
+The business is entirely correlated to retailers’ revenues; store shutdowns and
+reduced marketing budgets lead to contract delays/cancellations
+Heavy dependence on one large anchor client
+The duration of setting up a new contract is relatively long
+
+--- PAGE 2 ---
+
+06/21A
+06/22E
+06/23E
+06/24E
+Adjusted P/E
+x
+-38.3
+-13.4
+49.7
+5.63
+EV/EBITDA
+x
+-41.3
+-13.6
+27.0
+2.78
+P/Book
+x
+134
+7.84
+6.65
+2.72
+Dividend yield
+%
+0.00
+0.00
+0.00
+0.00
+Free Cash Flow Yield
+%
+-2.57
+-6.98
+1.08
+14.5
+ROE (after tax)
+%
+-934
+-91.3
+14.5
+68.6
+ROCE
+%
+9,432
+-659
+149
+480
+Net debt/EBITDA
+x
+0.30
+1.80
+-3.84
+-1.00
+
+06/21A
+06/22E
+06/23E
+06/24E
+Sales
+CHFth
+779
+1,571
+6,090
+17,753
+EBITDA
+CHFth
+-2,032
+-2,199
+1,097
+8,940
+Underlying operating profit
+CHFth
+-2,088
+-2,254
+975
+8,585
+Operating profit (EBIT)
+CHFth
+-2,088
+-2,254
+975
+8,585
+Net financial expenses
+CHFth
+-9.07
+-1.40
+-1.40
+-1.40
+Pre-tax profit before exceptional items
+CHFth
+-2,097
+-2,256
+973
+8,583
+Corporate tax
+CHFth
+-0.29
+0.00
+-292
+-2,575
+Attributable net profit
+CHFth
+-2,098
+-2,256
+681
+6,008
+Adjusted attributable net profit
+CHFth
+-2,098
+-2,256
+681
+6,008
+
+06/21A
+06/22E
+06/23E
+06/24E
+Total operating cash flows
+CHFth
+-2,160
+-2,298
+610
+5,605
+Capital expenditure
+CHFth
+-5.79
+-62.8
+-244
+-710
+Total investment flows
+CHFth
+-133
+-163
+-354
+-831
+Dividends (parent company)
+CHFth
+0.00
+0.00
+0.00
+0.00
+New shareholders' equity
+CHFth
+2,909
+5,800
+0.00
+0.00
+Total financial flows
+CHFth
+2,900
+5,753
+-2.09
+-2.11
+Change in net debt position
+CHFth
+607
+3,337
+255
+4,771
+Free cash flow (pre div.)
+CHFth
+-2,175
+-2,362
+365
+4,893
+
+06/21A
+06/22E
+06/23E
+06/24E
+Goodwill
+CHFth
+0.00
+0.00
+0.00
+0.00
+Total intangible
+CHFth
+139
+277
+283
+288
+Tangible fixed assets
+CHFth
+19.3
+38.6
+57.9
+86.8
+Right-of-use
+CHFth
+0.00
+0.00
+0.00
+0.00
+WCR
+CHFth
+-173
+-76.1
+117
+876
+Total assets (net of short term liabilities)
+CHFth
+36.8
+345
+866
+3,441
+Ordinary shareholders' equity (group share)
+CHFth
+630
+4,313
+5,089
+12,436
+Provisions for pensions
+CHFth
+22.0
+-16.0
+-16.7
+-17.3
+Net debt / (cash)
+CHFth
+-615
+-3,952
+-4,207
+-8,978
+Total liabilities and shareholders' equity
+CHFth
+36.8
+345
+866
+3,441
+
+06/21A
+06/22E
+06/23E
+06/24E
+Adjusted EPS (bfr gwill amort. & dil.)
+CHF
+-1.05
+-0.94
+0.25
+2.23
+Net dividend per share
+€
+0.00
+0.00
+0.00
+0.00
+Free cash flow per share
+CHF
+-1.08
+-0.98
+0.14
+1.82
+Book value per share
+CHF
+0.30
+1.60
+1.89
+4.62
+Number of diluted shares (average)
+Th
+2,004
+2,399
+2,689
+2,689
+
+Detailed financials at the end of this report
+Key Ratios
+Consolidated P&L
+Cashflow Statement
+Balance Sheet
+Per Share Data
+Baader Europe powered by AlphaValue
+beaconsmind AG (Buy- Under Review -)
+May 18 2022
+Copyright AlphaValue - 2022 – baader.alphavalue.com
+Page 2
+
+Baader Europe powered by AlphaValue
+beaconsmind AG (Buy- Under Review -)
+May 18 2022
+Copyright AlphaValue - 2022 – baader.alphavalue.com
+Page 2
+
+--- PAGE 3 ---
+Contents
+Businesses & Trends...................................................................
+Money Making.............................................................................
+Valuation......................................................................................
+DCF..............................................................................................
+NAV/SOTP...................................................................................
+Debt.............................................................................................
+Worth Knowing.............................................................................
+Sustainability................................................................................
+Governance & Management........................................................
+Environment.................................................................................
+Social...........................................................................................
+Staff & Pension matters...............................................................
+Updates.......................................................................................
+Target Price & Opinion.................................................................
+Graphics......................................................................................
+Application Software Changes and updates...........................
+Application Software Key Data...............................................
+Related companies: beaconsmind AG, EQS Group, NEMETSCHEK GROUP,
+Sage Group (the), Temenos
+Financials.....................................................................................
+Methodology.................................................................................
+
+48
+39
+36
+34
+30
+29
+27
+26
+25
+24
+23
+22
+20
+19
+18
+17
+15
+11
+4
+Baader Europe powered by AlphaValue
+beaconsmind AG (Buy- Under Review -)
+May 18 2022
+Copyright AlphaValue - 2022 – baader.alphavalue.com
+Page 3
+
+--- PAGE 4 ---
+beaconsmind AG, founded in 2015 and with headquarter in Stäfa
+(Switzerland), is a location-based marketing software provider (SaaS).
+Location-based marketing
+
+Location-based marketing (LBM) allows merchants to target shoppers with
+online or offline messaging based on their physical location. LBM is at the
+heart of current marketing trends, with a very strong demand both in emerging
+(Middle East, APAC) and mature markets (Europe, North America).
+
+It is thriving notably because it allows traditional merchants to compete with the
+online “giants”. Retailers like Amazon are successful in part because they have
+full visibility into customers’ behaviour and their purchase history, which allows
+them to tailor offers and recommendations as consumers navigate through
+their website. LBM enables retailers to do the same in their physical shops. It
+connects all retail channels (mobile, website, social media, etc.) and thus
+bridges the gap between online and offline shopping experiences.
+
+The global market for LBM Services is expected to reach $134.5bn by 2027,
+up from $38bn in 2020 (i.e. an annual growth rate of c.20%).
+Business
+
+beaconsmind’s solution allows retailers to increase their customers’ loyalty and
+improve their sales in store and online. The group equips its clients’ physical
+stores with beacons (Bluetooth devices), enabling to locate and identify
+shoppers in real- time via their mobile app. All the data collected by the
+beacons (location, engagement, purchasing behavior, etc.) is directly stored in
+a cloud-based software developed internally.
+The Bluetooth beacons can accurately locate shoppers near or in the store,
+with range of 1m-70m. The manufacturing and installation are sub-contracted,
+enabling an asset light structure. According to the company’s data, the
+maintenance rate of its beacons is very low, as the devices are directly
+integrated into the lighting rails and thus always powered up.
+
+The software, called the ‘beaconsmind Suite’, provides both analytics
+(reporting, heatmaps, CRM/customer analysis, etc.) and marketing services
+(campaign management, message-editor, template generator, loyalty program,
+etc.). All the data is cloud-based on Microsoft Azure, and accessible for clients
+24/7. The software has been developed over the last 7 years based on real-life
+retail clients’ needs, making it the most advanced in its functionality and very
+difficult to replicate.
+
+According to the company, after using their services, clients have seen a 40%
+increased frequency in their POS, 15% improvement in stores’ sales, 50%
+increased off-to-online conversion rate and 40% enhanced purchase
+motivation.
+Key phases in the deployment of a new contract
+
+The deployment of a new contract can be done within approximatively 2
+months. The typical steps and timings are:
+
+1/ Establishing an omnichannel marketing strategy and defining the number
+and type of beacons for each store based on the client’s needs (2 weeks)
+
+2/ Hardware ordering, delivery and programming (4 weeks)
+Businesses & Trends
+Baader Europe powered by AlphaValue
+beaconsmind AG (Buy- Under Review -)
+May 18 2022
+Copyright AlphaValue - 2022 – baader.alphavalue.com
+Page 4
+
+--- PAGE 5 ---
+3/ On-site installation (3-7 hours)
+4/ Software integration into the client’s mobile app API (1 week)
+The company’s installation capacity has increased more than 3x to at least 100
+stores per week, up from less than 30 at the time of the listing in February
+2021.
+Strategy
+
+beaconsmind aims to achieve profitability by focusing on existing clients and
+signing new international accounts to reach new markets. It benefits from a
+95% retention rate and expects the annual churn rate to come down to c.3%
+going forward.
+
+The group’s strategy relies on three phases:
+
+1/ Breakthrough anchor clients (2018-21): signing of one big anchor client
+contract; announcement of global roll-out and closing of major “hardware
+purchase, installation and SaaS service agreement”
+
+2/ Segmented diversification (2021-24): signing large retailers with significant
+store networks in order to diversify the sources of income; expansion into
+APAC and then the US
+
+3/ Standardisation (from 2024): acquiring SMEs and corporates in different
+retail verticals via an automated sales & ordering system
+
+Thanks to diversification, beaconsmind expects that clients with over 300
+stores will account for c.74% of group revenue by the calendar year 2023e,
+while clients with below 300 stores will represent c.26% of total (source:
+beaconsmind presentation, March 2022).
+Scalability
+
+The company has a strong scalable recurring revenue business model based
+on the formula “Number of Stores open x Revenue per Store = Annual
+Recurring Revenues”.
+
+With the increased amount of implemented stores, the ARR should grow
+annually:
+
+source: beaconsmind presentation, March 2022 – based on calendar year
+(Jan-Dec)
+Baader Europe powered by AlphaValue
+beaconsmind AG (Buy- Under Review -)
+May 18 2022
+Copyright AlphaValue - 2022 – baader.alphavalue.com
+Page 5
+
+--- PAGE 6 ---
+COVID-19
+In the context of COVID-19, regional lockdowns, store closures and reduced
+marketing budgets resulted in contract delays (i.e. postponement of stores’ roll-
+outs), delaying beaconsmind’s business plan by one year.
+However, while COVID-19 had a clear impact on the activity, it has also
+highlighted the pertinence of the business. As the crisis pushed retailers to
+accelerate their digital transformation, beaconsmind’s offerings appeared very
+timely. Besides, Bluetooth and location data appeared as a solution for retailers
+to limit the virus spread and comply with sanitary measures (social distancing,
+contact tracing…).
+Thanks to its strong scalability, the company designed innovative features,
+allowing to track customers near the physical shop (even if the store is closed)
+and send them a push notification directing them to the retailer’s website and
+online-shops.
+Clients
+
+beaconsmind’s clients are merchants with a network of physical stores and a
+mobile app. Most of them are large retailers (Adidas, Unilever, Depot) with
+significant store capex, strong experience, global scalability and online
+presence.
+
+Although most existing clients are fashion retailers, the technology can also
+easily be used in malls, cinemas, department stores, airports, hotels,
+supermarkets, gas stations and others.
+
+As of 31 December 2021, the company had 15 clients, with a strong
+dependency on one big legacy contract (signed in October 2018; c.95% of
+FY2020/21 revenues).
+
+beaconsmind had deployed its solution in over 188 POS by end-2021 (171
+anchor client’s stores), with the objective of equipping all the anchor client
+retailer’s stores globally by 2026e (16,267 stores, including franchises).
+
+source: beaconsmind presentation, March 2022
+Aside from anchor clients, beaconsmind has signed 5 clients in 2021: DEPOT
+(furniture),
+Roberto
+Cavalli
+(fashion),
+Maison-B-More
+(fashion),
+Bilka
+(supermarkets) and Salling Group (department store). According to
+beaconsmind, those contracts combined represent over 740 potential stores
+Baader Europe powered by AlphaValue
+beaconsmind AG (Buy- Under Review -)
+May 18 2022
+Copyright AlphaValue - 2022 – baader.alphavalue.com
+Page 6
+
+--- PAGE 7 ---
+(after the full rollout), i.e. hardware & installation revenues of c.CHF0.60m and
+non-cumulative recurring software revenues of c.CHF1.20m. It has also signed
+2 clients so far in 2022: NOVE25 (jewellery) and Prodes Praha (fashion).
+As the company talks about signing other quality names with significant
+networks (such as Kiko Milano, Carrefour and others) in the coming years
+(2021-24), the anchor client’s share in group revenues is expected to gradually
+decrease (from c.95% of FY2020/21 revenues to c.39% of total by 2023e).
+
+source: beaconsmind presentation, March 2022 – based on calendar year
+(Jan-Dec)
+International ambitions
+
+beaconsmind clients were initially mainly located in Switzerland. However, with
+the deployment of the anchor client contracts (see mapping above) and thanks
+to its diversification strategy, the company is quickly expanding its geographical
+footprint. It has acquired specific licenses where required (anti-spy certification
+in Russia, China).
+
+beaconsmind intends to open three international outposts, first in the Middle
+East (completed in 2021), then APAC (planned for 2022), and finally in the US
+(planned for 2022/2023).
+
+The Middle East was chosen as a fixed point of expansion for several reasons:
+1/ retail companies in the region have a strong affinity for technology and
+location-based marketing; 2/ thanks to its geographical location, it can serve as
+a hub between Europe, the Gulf region and Asia, allowing for optimal sales
+coordination; 3/ the sanitary situation there was brought under control relatively
+quickly compared to other markets.
+
+For the opening of its UAE office in May 2021, beaconsmind has partnered
+with Seed Group, a holding company owned by the royal family of Dubai,
+which owns a significant portfolio of hotels, dining, retail and wellness locations
+across the Middle East, Europe and Asia (Emirates airlines, Jumeirah Hotels &
+Resorts…), i.e. a market with CHF40m sales potential in the next 5 years.
+
+Five months after its implementation there, beaconsmind announced in
+Baader Europe powered by AlphaValue
+beaconsmind AG (Buy- Under Review -)
+May 18 2022
+Copyright AlphaValue - 2022 – baader.alphavalue.com
+Page 7
+
+--- PAGE 8 ---
+October 2021 its first local contract with Maison-B-More, a fashion luxury group
+based in Dubai, part of the Fanar Group (a major conglomerate that operates
+hotels in the UAE and Switzerland, holiday villages, suites and restaurants,
+among others, and with which beaconsmind is currently actively negotiating the
+deployment of its solutions for the hospitality sector). The swift conclusion of
+the contract demonstrates the strong local demand for solutions that add value
+to physical stores and, more generally, digital transformation. For
+beaconsmind, this new contract, won only two months after the one signed
+with Roberto Cavalli, confirms the acceleration of its business cycle and
+validates beaconsmind’s international development strategy.
+All in all, thanks to the ongoing diversification strategy, beaconsmind expects to
+generate by 2023e c.53% of revenues in Europe, 39% in Asia, 1% in North
+America, 1% in South & Middle America, 1% in Africa and 5% in the rest of the
+world (source: beaconsmind presentation, March 2022).
+Competition
+
+The market is characterized by a low level of competition with few independent
+players. Some competitors have been bought out by large international players
+(like Swirl Networks, acquired by BestBuy in 2019 to exclusively work for
+them).
+
+The group has a few advantages versus competition in location-based
+marketing:
+
+1/ Competitors are either pure hardware or pure software players, which
+makes beaconsmind uniquely positioned as a solution encompassing both
+hardware and software;
+
+2/ beaconsmind is strategically focused on the retail sector, whereas other
+players focus more on asset tracking, supply chains and smart buildings;
+
+3/ Competitors’ beacons range from $25 to $65 in price vs. c.$94 for
+beaconsmind, but competitors’ devices require a new battery approximatively
+every
+18
+months
+(c.CHF300/store
+for
+each
+replacement)
+whereas
+beaconsmind’s does not require any maintenance because they are directly
+integrated into the lighting rails i.e. they are always powered up.
+
+Note that it could be envisaged that one of the clients decides to acquire the
+company in order to take over the value chain instead of subcontracting, as
+has been observed with competitors.
+Main risks
+
+Strong dependence on large contracts. Profitability is highly correlated to a
+limited number of customer accounts, notably one anchor client (c.95% of
+FY2020/21 total revenue), meaning that there is a substantial financial risk if
+they lose any of those contracts. Although anchor clients’ weight in total
+revenues is expected to be reduced to c.39% by 2023e, it would remain
+significant.
+
+Intellectual property. The company did not acquire any patent. Especially not
+for the software, as such (which is not aimed at commercial use and does not
+constitute a technical contribution) is not patentable. Like a literary work, Suite
+Software is protected by copyright.
+
+Data security. As it collects private data, beaconsmind remains exposed to a
+cybersecurity risk that could harm its business and reputation. For protection,
+Baader Europe powered by AlphaValue
+beaconsmind AG (Buy- Under Review -)
+May 18 2022
+Copyright AlphaValue - 2022 – baader.alphavalue.com
+Page 8
+
+--- PAGE 9 ---
+
+06/21A
+06/22E
+06/23E
+06/24E
+Change 21E/20
+Change 22E/21E
+CHFth
+of % total
+CHFth
+of % total
+Total sales
+779
+1,571
+6,090
+17,753
+792
+100%
+4,519
+100%
+O/w organic growth (%)
+56.0
+102
+288
+192
+46
+6%
+186
+4%
+Other
+779
+1,571
+6,090
+17,753
+792
+100%
+4,519
+100%
+
+the company has various data security certifications: Cloud Security Alliance
+(CSA), EU General Data Protection Regulation 2016/679 (GDPR). Since
+beaconsmind uses the customer’s existing mobile app, the GDPR
+responsibility lies with the client a priori.
+The resurgence of the pandemic. As the sanitary crisis and the resulting
+delays in contracts have slowed down the development of the business, a new
+wave of lockdowns could have a significant impact on the company’s activities.
+The Russo-Ukrainian war. The current macro environment is also causing
+contract delays. beaconsmind was expected to equip 398 stores in the
+Commonwealth of Independent States (ex-Soviet Union) region, which
+accounts for c.2.5% of Anchor client’s total store count. This portion of the
+cake, however, is on hold until (if?) the geopolitical crisis is resolved…
+Sales outlook
+
+Our forecasts, which could have been more bullish, account for the current
+macroeconomic environment (resurgence of COVID-19 cases, Russo-
+Ukrainian war, etc).
+They are based on the indicative projections provided by beaconsmind
+regarding ARR. According to the company, the share of recurring revenues is
+expected to grow from 22% in FY2020/21 (quite low due to a large number of
+stores’ set ups, i.e. extra one-off revenues) to 66% in FY2023/24e (see table
+below).
+
+source: beaconsmind revenues, AlphaValue estimates – based on fiscal year
+(end-June)
+NB: ‘Other’ refers to historical existing revenues from various clients.
+Divisional Breakdown Of Revenues
+Baader Europe powered by AlphaValue
+beaconsmind AG (Buy- Under Review -)
+May 18 2022
+Copyright AlphaValue - 2022 – baader.alphavalue.com
+Page 9
+
+--- PAGE 10 ---
+We address exposures (eg. how much of the turnover is exposed to the $ ) rather than sensitivities (say, how much a 5% move in the $ affects the bottom line). This is to make
+comparisons easier and provides useful tools when extracting relevant data.
+Actually, the subject is rather complex on the ground. The default position is one of an investor managing in €. An investor in £ will obviously not react to a £ based stock trading partly in
+€ as would a € based investor. In addition, certain circumstances can prove difficult to unravel such as for eg. a € based investor confronted to a Swiss company reporting in $ but with a
+quote in CHF... Sales exposure is probably straightforward but one has to be careful with deep cyclicals. Costs exposure is a bit less easy to determine (we do not allow for hedges as
+they can only be postponing the day of reckoning). How much of the equity is exposed to a given subject is rarely straightforward but can be quite telling
+In addition, subjects are frequently intertwined. A $ exposure may encompass all revenues in $ pegged currencies and an emerging currency exposure is likely to include $ pegged
+currencies as well.
+Exposure to global warming issues is frequently indirect and may require to stretch a bit imagination.
+
+Revenues
+Costs
+Equity
+Dollar
+10.0%
+10.0%
+10.0%
+Emerging currencies
+5.0%
+5.0%
+5.0%
+Euro
+60.0%
+60.0%
+60.0%
+Long-term global warming
+2.0%
+2.0%
+2.0%
+Key Exposures
+
+EMEA
+100.0%
+Sales By Geography
+Baader Europe powered by AlphaValue
+beaconsmind AG (Buy- Under Review -)
+May 18 2022
+Copyright AlphaValue - 2022 – baader.alphavalue.com
+Page 10
+
+--- PAGE 11 ---
+The business model is articulated around two sources of revenue: 1/ hardware
+revenues (sale and installation of the hardware i.e. one-offs); 2/ recurring SaaS
+revenues (subscription to have access to the software solution).
+Hardware revenues (average gross margin c.40%)
+
+When the company acquires a new client or sets up new stores, it generates
+one-off revenues related to the sale and the installation of the hardware.
+
+For each POS, the team determines the number of beacons that would be
+required (generally 5-10 beacons per average store depending on coverage
+needed), based on the size of the store and the features purchased. The
+device costs min. $94 (CHF87) and the installation fee starting at $196
+(CHF181) per POS, depending on the number of beacons and the size of the
+store.
+Recurring SaaS revenues (average gross margin c.90%)
+
+Clients pay a subscription to have access to ‘beaconsmind Suite’ software,
+with a minimum commitment period of 12 months. Most clients pay on a
+monthly basis and some pre-pay for the whole year. For instance, the biggest
+anchor client of the company pays its software license twelve months in
+advance.
+
+Depending on the features selected (traffic solutions, customer experience, full
+marketing suite…), the pricing starts at $97 (CHF90) per POS per month:
+According to the company, the share of recurring revenues is expected to grow
+from 22% in FY20 (quite low due to a large number of stores’ set ups, i.e. extra
+one- off revenues) to c.56% in 2023e, and c.78% in 2025e (source:
+beaconsmind presentation, March 2022).
+Asset light, highly cash generative business model
+
+beaconsmind benefits from an asset light business model (software developed
+Money Making
+‘Traffic solutions’ is the cheapest offer, conceived notably for large areas
+such as shopping malls. It enables shoppers’ localisation/identification
+in-store and traffic and layout analysis.
+‘Customer Experience’ is designed for multichannel retail, to strengthen
+customers’ loyalty thanks to personalised interactions. Based on their
+purchase patterns and locations in the store, shoppers receive
+personalised notifications (push messages, coupons, combined
+offers…) via the retailer’s app, directly to their mobile devices. Retailers
+can check the return in real time after sending the push notification (how
+many customers opened it, etc.).
+The ‘Full Marketing suite’ delivers all the services above as well as deep
+analytics tools. The analytics feature costs approximatively $600 per
+POS per month (CHF547).
+‘Bring it to me’ is a special feature developed for Adidas which allows in-
+store shoppers to scan a product using the retailer app, select their size
+and then click on a button to have the item brought to them by a
+salesperson.
+Baader Europe powered by AlphaValue
+beaconsmind AG (Buy- Under Review -)
+May 18 2022
+Copyright AlphaValue - 2022 – baader.alphavalue.com
+Page 11
+
+--- PAGE 12 ---
+internally; hardware manufacturing and installation sub-contracted to suppliers)
+and improving gross margins (thanks to the recurring revenue model).
+To maximise cost-efficiency, beaconsmind employs external developers to
+work on the software’s features remotely. The group does not hold inventories
+(hardware orders are done on-demand) and suppliers (manufacturing and
+installation) are paid 30 days after job completion, i.e. after receiving clients’
+payment. The group thus benefits from early customer payments and late
+supplier payments. This, combined with a very low level of capex (c.4% of
+sales) provides a highly cash generative business model.
+Since 2021, the company has a more diverse supplier network with lower
+hardware production costs, which helps to further boost margins. This,
+combined with the steadily growing portion of ARR, should result in a gradual
+increase in gross margins.
+Note that, due to the pandemic, the FY20 accounts are unusual and do not
+reflect the company’s full potential. The presence of inventories is due to
+contracts delays, and the increase in operating fixed costs is due to capacity
+build-up. We anticipate that this effect will persist (to a lesser extent) in FY21e
+due to the Russo-Ukrainian war.
+Prospects
+
+beaconsmind has a huge growth potential, with a total addressable market of
+over 115,000 stores within its current clients’ base (source: beaconsmind
+presentation, March 2022).
+
+Thanks to the roll-out of anchor client contracts and new global contracts in the
+pipeline (quality names with significant networks such as Sephora, Ikea…), we
+expect very strong revenue growth, with a CAGR of 143% p.a. for FY19-23e,
+and a positive EBITDA from FY22e.
+
+We anticipate gross margin expansion (from 26% in FY19 to c.77% in FY23e)
+as the recurring revenue base grows (ARR to increase from 22% in FY20 to
+c.66% in FY23e). Note that the decline in gross margins in FY20 is due to the
+higher portion of one-off revenues related to the set-up of new stores.
+Baader Europe powered by AlphaValue
+beaconsmind AG (Buy- Under Review -)
+May 18 2022
+Copyright AlphaValue - 2022 – baader.alphavalue.com
+Page 12
+
+--- PAGE 13 ---
+
+06/21A
+06/22E
+06/23E
+06/24E
+Change 21E/20
+Change 22E/21E
+CHFth
+of %
+total
+CHFth
+of %
+total
+Total
+-2,032
+-2,199
+1,097
+8,940
+-167
+100%
+3,296
+100%
+Other/cancellations
+-2,032
+-2,199
+1,097
+8,940
+-167
+100%
+3,296
+100%
+
+source: AlphaValue estimates – based on fiscal year (end-June)
+
+source: AlphaValue, beaconsmind estimates – based on calendar year (Jan-
+Dec)
+Divisional EBITDA/R
+Baader Europe powered by AlphaValue
+beaconsmind AG (Buy- Under Review -)
+May 18 2022
+Copyright AlphaValue - 2022 – baader.alphavalue.com
+Page 13
+
+--- PAGE 14 ---
+
+06/21A
+06/22E
+06/23E
+06/24E
+Total
+-261%
+-140%
+18.0%
+50.4%
+
+Divisional EBITDA/R margin
+Baader Europe powered by AlphaValue
+beaconsmind AG (Buy- Under Review -)
+May 18 2022
+Copyright AlphaValue - 2022 – baader.alphavalue.com
+Page 14
+
+--- PAGE 15 ---
+DCF
+The highly cash generative business model (see Money Making) is reflected in
+the significant upside implied by our DCF valuation.
+Being an ambitious player in a buoyant market, the company is expected to
+grow exponentially in the coming years (acquiring major clients, international
+development). We assume 10% sales growth per year in the long term as the
+pace of revenue growth is expected to gradually slow down as the business
+becomes profitable. Margins increase with the growing portion of recurring
+revenues (highly profitable).
+NAV
+
+For the calculation of the NAV/SOTP, we separate the subscription/software
+from the hardware.
+
+To calculate beaconsmind’s valuation more accurately, we reference the
+average EV/Sales multiple found in other companies whose main business
+model is based on subscriptions, then add premiums to reflect beaconsmind’s
+outperforming potential.
+
+We value the Suite Software with a ratio of 6.0× 2021-24e revenues, as it is
+developed internally, very hard to replicate and generates recurring revenues
+which are the main source of income. Considering the hardware (the Bluetooth
+trackers), we apply a more conservative ratio of 2.0x on the 2021-24e
+revenues, as the manufacturing and installation are sub-contracted to
+suppliers.
+Peers
+
+beaconsmind’s main competitors (Luokung Technology and Swirl Networks)
+are not covered by analysts and thus cannot be integrated into our peer-based
+valuation.
+
+The peers we select are: AutoStore (robotic and software technology),
+ServiceWare (enterprise service management), and Software AG (enterprise
+integration & IoT platform). These peers closely resemble the business of
+beaconsmind, while keeping their respective market capitalisation sizes in
+mind.
+Benchmarks
+
+Values (€)
+Upside
+Weight
+DCF
+
+53.3
+344%
+35%
+NAV/SOTP per share
+
+25.0
+108%
+20%
+EV/Ebitda
+Peers
+8.98
+-25%
+20%
+P/E
+Peers
+6.00
+-50%
+10%
+Dividend Yield
+Peers
+0.00
+-100%
+10%
+P/Book
+Peers
+6.00
+-50%
+5%
+Target Price
+
+26.3
+119%
+
+Valuation
+Valuation Summary
+
+Calculate your Target Price
+Edit and modify weightings
+to match your valuation principles
+Baader Europe powered by AlphaValue
+beaconsmind AG (Buy- Under Review -)
+May 18 2022
+Copyright AlphaValue - 2022 – baader.alphavalue.com
+Page 15
+
+--- PAGE 16 ---
+Computed on 18 month forecasts
+P/E (x)
+Ev/Ebitda (x)
+P/Book (x)
+Yield(%)
+Peers ratios
+25.6
+16.7
+2.77
+0.59
+beaconsmind AG's ratios
+53.2
+23.6
+5.90
+0.00
+Premium
+0.00%
+0.00%
+0.00%
+0.00%
+Default comparison based valuation (€)
+6.00
+8.98
+6.00
+0.00
+AutoStore
+31.9
+20.2
+4.09
+0.00
+Software AG
+16.6
+11.6
+1.49
+2.22
+ServiceWare
+45.5
+15.7
+2.43
+n/a
+
+Comparison based valuation
+Baader Europe powered by AlphaValue
+beaconsmind AG (Buy- Under Review -)
+May 18 2022
+Copyright AlphaValue - 2022 – baader.alphavalue.com
+Page 16
+
+--- PAGE 17 ---
+
+06/21A 06/22E 06/23E 06/24E Growth 06/25E 06/32E
+Sales
+CHFth
+
+779
+1,571
+6,090
+17,753
+10.0%
+19,529
+38,056
+EBITDA
+CHFth
+
+-2,032
+-2,199
+1,097
+8,940
+16.4%
+10,406
+30,127
+EBITDA Margin
+%
+
+-261
+-140
+18.0
+50.4
+53.3
+79.2
+Change in WCR
+CHFth
+
+-128
+-97.3
+-193
+-759
+2.00%
+-774
+-889
+Total operating cash flows (pre tax)
+CHFth
+
+-2,159
+-2,298
+902
+8,180
+9,632
+29,238
+Corporate tax
+CHFth
+
+-0.29
+0.00
+-292
+-2,575
+9.00%
+-2,807
+-5,131
+Net tax shield
+CHFth
+-2.72
+-0.42
+-0.42
+-0.42
+8.00%
+-0.45
+-0.78
+Capital expenditure
+CHFth
+
+-5.79
+-62.8
+-244
+-710
+10.0%
+-781
+-1,522
+Capex/Sales
+%
+
+-0.74
+-4.00
+-4.00
+-4.00
+-4.00
+-4.00
+Pre financing costs FCF (for DCF purposes)
+CHFth
+
+-2,168
+-2,361
+366
+4,894
+6,044
+22,584
+Various add backs (incl. R&D, etc.) for DCF
+purposes
+CHFth
+
+Free cash flow adjusted
+CHFth
+-2,168
+-2,361
+366
+4,894
+6,044
+22,584
+Discounted free cash flows
+CHFth
+-2,168
+-2,361
+330
+3,972
+4,419
+7,954
+Invested capital
+CHF
+
+-0.02
+0.24
+0.46
+1.25
+1.38
+2.68
+
+Fine tune DCFs
+with your own assumptions
+DOWNLOAD
+SPREADSHEET
+DCF Valuation Per Share
+WACC
+%
+11.0
+PV of cashflow FY1-FY11
+CHFth
+53,328
+FY11CF
+CHFth
+23,036
+Normalised long-term growth"g"
+%
+2.00
+Sustainability "g"
+%
+2.25
+Terminal value
+CHFth
+263,265
+PV terminal value
+CHFth
+92,718
+PV terminal value in % of total value
+%
+63.5
+Total PV
+CHFth
+146,046
+Avg net debt (cash) at book value
+CHFth
+-4,080
+Provisions
+CHFth
+-16.0
+Unrecognised actuarial losses (gains)
+CHFth
+0.00
+Financial assets at market price
+CHFth
+0.00
+Minorities interests (fair value)
+CHFth
+0.00
+Equity value
+CHFth
+150,142
+Number of shares
+Th
+2,689
+Implied equity value per share
+€
+53.3
+Sustainability impact on DCF
+%
+1.75
+Assessing The Cost Of Capital
+Synthetic default risk free rate
+%
+3.50
+Target equity risk premium
+%
+5.00
+Tax advantage of debt finance
+(normalised)
+%
+30.0
+Average debt maturity
+Year
+5
+Sector asset beta
+x
+1.50 (1)
+Debt beta
+x
+0.40
+Market capitalisation
+CHFth
+33,832
+Net debt (cash) at book value
+CHFth
+-3,952
+Net debt (cash) at market value
+CHFth
+-3,952
+Company debt spread
+bp
+200
+Marginal Company cost of debt
+%
+5.50
+Company beta (leveraged)
+x
+1.38
+Company gearing at market value
+%
+-11.7
+Company market gearing
+%
+-13.2
+Required return on geared equity
+%
+10.4
+Cost of debt
+%
+3.85
+Cost of ungeared equity
+%
+11.0
+WACC
+%
+11.0
+1. 1.5 beta to reflect the start-up
+nature of the company
+DCF Calculation
+Baader Europe powered by AlphaValue
+beaconsmind AG (Buy- Under Review -)
+May 18 2022
+Copyright AlphaValue - 2022 – baader.alphavalue.com
+Page 17
+
+--- PAGE 18 ---
+
+%
+owned
+Valuation
+technique
+Multiple
+used
+Valuation at
+100%
+(CHFth)
+Stake
+valuation
+(CHFth)
+In
+currency
+per share
+(€)
+% of gross
+assets
+Suite Software
+100%
+EV/Sales
+6
+57,570
+57,570
+20.4
+86.5%
+Hardware (beacons)
+100%
+EV/Sales
+2
+8,970
+8,970
+3.18
+13.5%
+Other
+Total gross assets
+66,540
+23.6
+100%
+Net cash/(debt) by year end
+3,952
+1.40
+5.94%
+Commitments to pay
+Commitments received
+NAV/SOTP
+70,492
+25.0
+106%
+Number of shares net of treasury shares - year end (Th)
+2,689
+NAV/SOTP per share, in account currency (CHF)
+26.2
+NAV/SOTP per share, in quote currency (€)
+25.0
+Current discount to NAV/SOTP (%)
+52.0
+
+NAV/SOTP fine tuning
+DOWNLOAD
+SPREADSHEET
+NAV/SOTP Calculation
+Baader Europe powered by AlphaValue
+beaconsmind AG (Buy- Under Review -)
+May 18 2022
+Copyright AlphaValue - 2022 – baader.alphavalue.com
+Page 18
+
+--- PAGE 19 ---
+
+06/21A
+06/22E
+06/23E
+06/24E
+EBITDA
+CHFth
+-2,032
+-2,199
+1,097
+8,940
+Funds from operations (FFO)
+CHFth
+-2,041
+-2,203
+801
+6,361
+Ordinary shareholders' equity
+CHFth
+630
+4,313
+5,089
+12,436
+Gross debt
+CHFth
+60.0
+15.0 (2)
+15.0
+15.0
++ Gross Cash
+CHFth
+675
+3,967
+4,222
+8,993
+= Net debt / (cash)
+CHFth
+-615
+-3,952 (2)
+-4,207
+-8,978
+Gearing (at book value)
+%
+-43.9
+-53.0
+-80.2
+-53.0
+Equity/Total asset (%)
+%
+1,714
+1,250
+588
+361
+Adj. Net debt/EBITDA(R)
+x
+0.30
+1.80
+-3.84
+-1.00
+Adjusted Gross Debt/EBITDA(R)
+x
+-0.04
+0.00
+0.00
+0.00
+Adj. gross debt/(Adj. gross debt+Equity)
+%
+11.5
+-0.02
+-0.03
+-0.02
+Ebit cover
+x
+-230
+-1,094
+467
+ns
+FFO/Gross Debt
+%
+-2,489
+ns
+-48,331
+-273,759
+FFO/Net debt
+%
+332
+55.7
+-19.0
+-70.9
+FCF/Adj. gross debt (%)
+%
+-2,652
+ns
+-22,036
+-210,578
+
+The company is currently well funded and has a robust liquidity position (net
+cash at CHF5.5m on 31 December 2021). It has reimbursed its COVID-19
+credit of CHF 45k in advance (contracted in March 2020, interest 0%, maturity
+5 years), so its gross debt now only consists in loans from the CEO Mr.
+Weiland (CHF15k).
+So far, the group has carried out several capital increases, raising over
+CHF9.2m since FY19 (including CHF5.8m in December 2021). The equity
+financings provide funds to support the group’s growth strategy while
+preserving a strong financial position, confirming beaconsmind’s compelling
+business model.
+Detailed financials at the end of this report
+
+Debt
+Funding - Liquidity
+2. The company reimbursed its
+COVID-19 credit of CHF 45k in
+advance, so its gross debt now
+only
+consists
+in
+long-term
+interest-bearing liabilities owed
+to shareholders (CHF15k).
+Baader Europe powered by AlphaValue
+beaconsmind AG (Buy- Under Review -)
+May 18 2022
+Copyright AlphaValue - 2022 – baader.alphavalue.com
+Page 19
+
+--- PAGE 20 ---
+Shareholders
+The identity of the largest shareholder (an international institutional investor
+referred to as ‘anchor investor’), who acquired a stake in beaconsmind in
+December 2021, has not been disclosed.
+The shareholders include or included:
+Groupe structure
+
+beaconsmind AG (Stäfa, Switzerland) is the parent company. It has two
+subsidiaries at the moment:
+Listing
+
+When we initiated coverage of beaconsmind, it was listed on Euronext Access
+and the Vienna Stock Exchange’s MTF (direct market plus).
+
+As part of its growth financing, the company has been listed on the Frankfurt
+Stock Exchange (in the Scale segment) since April 2022. It was delisted from
+the Vienna Stock Exchange on 18 March 2022, and it will be delisted from
+Euronext in the coming months. The re-listing benefits the company by
+providing a more simplified listing structure and a broader range of potential
+investors.
+Reporting period and currency
+
+beaconsmind’s fiscal year ends on 30 June, but it communicates its guidance
+and KPIs based on the calendar year (January-December).
+
+The company intends to change its reporting period in 2023, aligning its fiscal
+Worth Knowing
+Max Weiland: the company’s founder, CEO, Chairman and one of its
+largest shareholders (he was the largest, with a stake of c.24% until the
+capital increase of CHF5.8m in December 2021).
+Strategic Venture Partners (through SVP Europe): an asset manager
+investing in growth companies in the tech and software sectors. It held a
+stake of c.19% at the time of the IPO. We do not know if it is still a
+shareholder because beaconsmind does not detail its ownership
+structure.
+OSRAM (through Fluxunit GmbH): a high-tech photonics company that
+is increasingly focusing on sensor technology, visualization and
+treatment by light. OSRAM aims to strengthen its relationship with
+software companies to gain knowledge, as it intends to integrate a
+software solution to complement its hardware offering. Investing in
+beaconsmind therefore represents a competitive argument to win more
+contracts. The company held a stake of c.12% at the time of the IPO.
+We do not know if it is still a shareholder because beaconsmind does
+not detail its ownership structure.
+beaconsmind Deutschland GmbH (Munich, Germany), which is wholly
+owned;
+beaconsmind MENA Data LLC (Dubai, UAE), a joint-venture with Seed
+Group, the holding company of the royal family of Dubai (49% owned by
+beaconsmind / 51% owned by Seed Group).
+Baader Europe powered by AlphaValue
+beaconsmind AG (Buy- Under Review -)
+May 18 2022
+Copyright AlphaValue - 2022 – baader.alphavalue.com
+Page 20
+
+--- PAGE 21 ---
+year with the calendar year. It also plans to switch its reporting currency from
+CHF to EUR from 2023 onwards. We consider this reporting change to be
+positive, as it will make the accounts much more readable and comparable.
+Name
+% owned
+Of which
+% voting rights
+Of which
+% free to float
+Undisclosed investor
+24.5%
+24.5%
+0.00%
+Max Weiland
+18.6%
+18.6%
+0.00%
+Other undisclosed large investors
+11.3%
+11.3%
+0.00%
+Board & Employees
+4.10%
+4.10%
+0.00%
+Apparent free float
+
+41.5%
+
+Shareholders
+Baader Europe powered by AlphaValue
+beaconsmind AG (Buy- Under Review -)
+May 18 2022
+Copyright AlphaValue - 2022 – baader.alphavalue.com
+Page 21
+
+--- PAGE 22 ---
+Due to the industry in which it operates, we believe the firm is or will become
+sustainable. Indeed, the dark point comes with the lack of data reported on the
+environmental and social aspect, but this is typical for a company of this size.
+We expect these gaps to be filled as the reporting improves.
+Sustainability is made of analytical items contributing to the E, the S and the G, that
+can be highlighted as sustainability precursors and can be combined in an
+intellectually acceptable way. This is the only scale made available
+
+Score
+Weight
+Governance
+
+Independent directors rate
+10/10
+25%
+Board geographic diversity
+8/10
+20%
+Chairman vs. Executive split
+5%
+Environment
+
+CO² Emission
+1/10
+25%
+Water withdrawal
+4/10
+10%
+Social
+
+Wage dispersion trend
+0/10
+5%
+Job satisfaction
+10/10
+5%
+Internal communication
+10/10
+5%
+
+Sustainability score
+5.8/10
+100%
+
+Sustainability
+Sustainability score
+Baader Europe powered by AlphaValue
+beaconsmind AG (Buy- Under Review -)
+May 18 2022
+Copyright AlphaValue - 2022 – baader.alphavalue.com
+Page 22
+
+--- PAGE 23 ---
+beaconsmind has four directors on its board, all of whom we consider as
+independent. As is often the case for startups, there is no chairman versus
+executive split. Although Max Weiland is the founder, CEO and Chairman, this
+does not pose a conflict-of-interest problem as he is also the one of the largest
+shareholders of the company (c.19% stake).
+Company (Sector)
+Independent board
+7.8 (6.7)
+Yes
+Parameters
+Company
+Sector
+Score
+Weight
+Number of board members
+4
+8
+10/10
+5.0%
+Board feminization (%)
+0
+20
+1/10
+5.0%
+Board domestic density (%)
+25
+72
+8/10
+10.0%
+Average age of board's members
+39
+56
+10/10
+5.0%
+Type of company : Small cap, controlled
+4/10
+10.0%
+Independent directors rate
+100
+46
+10/10
+20.0%
+One share, one vote
+10.0%
+Chairman vs. Executive split
+0.0%
+Chairman not ex executive
+5.0%
+Full disclosure on mgt pay
+5.0%
+Disclosure of performance anchor for bonus trigger
+5.0%
+Compensation committee reporting to board of directors
+5.0%
+Straightforward, clean by-laws
+15.0%
+Governance score
+7.8/10
+100.0%
+
+Name
+Function
+Birth date
+Date in
+Date out
+Compensation, in kCHF (year)
+Cash
+Equity linked
+Max WEILAND
+M
+CEO
+1985
+2015
+293 (2020)
+0.00 (2020)
+Anna LANGENBACH
+F
+COO
+1980
+2018
+(2020)
+(2020)
+Christin ADLER
+F
+Head of Human Resources
+2015
+(2020)
+(2020)
+Alessandro NARDIELLO
+M
+Senior Executive
+2021
+Name
+Indep. Function
+Completion
+of current
+mandate
+Birth
+date
+Date in
+Date
+out
+Fees / indemnity,
+in kCHF (year)
+Value of holding,
+in kCHF (year)
+Max WEILAND
+M
+President/Chairman of th...
+1985
+2015
+13.8 (2020)
+0.00 (2020)
+Jörg HENSEN
+M
+Member
+2020
+17.3 (2020)
+0.00 (2020)
+Michal KRUPINSKI
+M
+Member
+1981
+2020
+7.50 (2020)
+0.00 (2020)
+Edwin NAVEZ
+M
+Member
+2020
+13.8 (2020)
+0.00 (2020)
+
+Governance & Management
+Governance score
+Management
+Board of Directors
+Baader Europe powered by AlphaValue
+beaconsmind AG (Buy- Under Review -)
+May 18 2022
+Copyright AlphaValue - 2022 – baader.alphavalue.com
+Page 23
+
+--- PAGE 24 ---
+Unfortunately, beaconsmind does not provide any quantitative data on its
+carbon emissions or other environmental metrics. Hence, the very bad grade
+granted to the firm. We expect the score to improve as beaconsmind grows
+and begins to report on its environmental impact. Note that, due to the type of
+activity, its environmental footprint is most likely to be low.
+Company
+Country
+Environment
+score
+Energy (total, in
+GJ)
+CO2 Emissions (in
+tons)
+Water Withdrawal (in
+m3)
+Waste (total, (in
+tons)
+EQS Group
+6/10
+4,175
+404,167
+311
+
+NFON AG
+3/10
+
+650
+
+beaconsmind AG
+3/10
+
+SAP
+7/10
+2,494,800
+410,000
+988,000
+134
+Sage Group (the)
+7/10
+65,781
+5,240
+19,000
+298
+Dassault Systèmes
+7/10
+236,365
+19,960
+129,893
+74
+Ubisoft Entertainment
+5/10
+263,549
+18,421
+49,067
+
+Software AG
+8/10
+25,825
+1,761
+6,151
+
+Temenos
+8/10
+32,850
+5,697
+16,178
+100
+CompuGroup Medical
+3/10
+
+NEMETSCHEK GROUP
+3/10
+
+CD Projekt
+3/10
+
+Environment
+Environmental Score
+Data sets evaluated as trends on rolling calendar, made sector relative
+Parameters
+Score
+Sector
+Weight
+Energy
+2/10
+4/10
+25%
+CO² Emission
+1/10
+6/10
+30%
+Waste
+4/10
+5/10
+15%
+Water withdrawal
+4/10
+5/10
+30%
+Company (Sector)
+2.60 (4.90)
+Environmental metrics
+Sector figures
+Baader Europe powered by AlphaValue
+beaconsmind AG (Buy- Under Review -)
+May 18 2022
+Copyright AlphaValue - 2022 – baader.alphavalue.com
+Page 24
+
+--- PAGE 25 ---
+beaconsmind, like many other companies of its size, does not provide much
+information about its social policies, which explains its score. There are some
+gaps, but we expect them to be filled as the reporting improves.
+Company (Sector)
+5.0 (6.0)
+AlphaValue analysts tick boxes on essential components of the social/HR corporate life.
+
+Decision about ticking Yes or No is very much an assessment that combines the corporate’s communication on
+relevant issue and the analyst’s better judgment from experience.
+Qualitative score
+Parameters
+Yes
+/ No
+Weight
+Accidents at work
+
+25%
+Set targets for work safety on all group sites?
+10.0%
+Are accidents at work declining?
+15.0%
+Human resources development
+
+35%
+Are competences required to meet medium term targets identified?
+3.5%
+Is there a medium term (2 to 5 years) recruitment plan?
+3.5%
+Is there a training strategy tuned to the company objectives?
+3.5%
+Are employees trained for tomorrow's objectives?
+3.5%
+Can all employees have access to training?
+3.5%
+Has the corporate avoided large restructuring lay-offs over the last year to
+date?
+3.5%
+Have key competences stayed?
+3.5%
+Are managers given managerial objectives?
+3.5%
+If yes, are managerial results a deciding factor when assessing
+compensation level?
+3.5%
+Is mobility encouraged between operating units of the group?
+3.5%
+Pay
+
+20%
+Is there a compensation committee?
+6.0%
+Is employees' performance combining group AND individual performance?
+14.0%
+Job satisfaction
+
+10%
+Is there a measure of job satisfaction?
+3.3%
+Can anyone participate ?
+3.4%
+Are there action plans to prop up employees' morale?
+3.3%
+Internal communication
+
+10%
+Are strategy and objectives made available to every employee?
+10.0%
+Qualitative score
+10.0/10
+100.0%
+
+Social
+Social score
+Quantitative metrics (67%)
+Set of staff related numerical metrics available in AlphaValue proprietary modelling
+aimed at ranking on social/HR matters
+Parameters
+Score
+Weight
+Staffing Trend
+9/10
+20%
+Average wage trend
+1/10
+35%
+Share of added value taken up by staff cost
+1/10
+25%
+Share of added value taken up by taxes
+1/10
+20%
+Wage dispersion trend
+0/10
+0%
+Pension bonus (0 or 1)
+0
+
+Quantitative score
+2.6/10
+100%
+Qualitative metrics (33%)
+Set of listed qualitative criterias and for the analyst to tick
+
+Parameters
+Score
+Weight
+Accidents at work
+10/10
+25%
+Human resources development
+10/10
+35%
+Pay
+10/10
+20%
+Job satisfaction
+10/10
+10%
+Internal communication
+10/10
+10%
+
+Qualitative score
+10.0/10
+100%
+Baader Europe powered by AlphaValue
+beaconsmind AG (Buy- Under Review -)
+May 18 2022
+Copyright AlphaValue - 2022 – baader.alphavalue.com
+Page 25
+
+--- PAGE 26 ---
+
+06/21A
+06/22E
+06/23E
+06/24E
+Pension ratio
+%
+-3.62
+-0.37
+-0.33
+-0.14
+Ordinary shareholders' equity
+CHFth
+630
+4,313
+5,089
+12,436
+Total benefits provisions
+CHFth
+-22.0
+-16.0
+-16.7
+-17.3
+of which funded pensions
+CHFth
+-22.0
+-16.0
+-16.7
+-17.3
+of which unfunded pensions
+CHFth
+0.00
+0.00
+0.00
+0.00
+of which benefits / health care
+CHFth
+0.00
+0.00
+0.00
+0.00
+Unrecognised actuarial (gains)/losses
+CHFth
+0.00
+0.00
+0.00
+0.00
+
+06/21A
+06/22E
+06/23E
+06/24E
+US exposure
+%
+20.0
+20.0
+UK exposure
+%
+Euro exposure
+%
+Nordic countries
+%
+Switzerland
+%
+80.0
+60.0
+40.0
+40.0
+Other
+%
+20.0
+40.0
+40.0
+40.0
+Total
+%
+100
+100
+100
+100
+
+beaconsmind employed 20 employees by the end of 2021 and expects to
+employ 34 people by the end of 2022. Some of the collaborators were
+externally hired (on demand consulting contracts) and working remotely.
+beaconsmind plans to open three new international outposts (one per year), in
+the Middle East (opened in May 2021), then APAC in 2022, then the US in
+2022/2023. We thus expect the number of employees to grow from 10 in FY20
+to 43 in FY23e.
+Detailed financials at the end of this report
+
+Staff & Pension matters
+Summary Of Pension Risks
+Geographic Breakdown Of Pension Liabilities
+Baader Europe powered by AlphaValue
+beaconsmind AG (Buy- Under Review -)
+May 18 2022
+Copyright AlphaValue - 2022 – baader.alphavalue.com
+Page 26
+
+--- PAGE 27 ---
+
+11/01/2022
+Initiation of coverage: pioneering location-based marketing in retail
+Initiation cov.
+
+beaconsmind AG is a location-based marketing software provider. It
+allows retailers and consumer goods companies to increase their
+customers’ loyalty and improve their sales thanks to two complementary
+products: Bluetooth beacons and a cloud-based SaaS suite. While it is
+presently heavily dependent on one large anchor client, the company is
+gradually growing and expanding its customer base by winning new
+contracts.
+Recurring revenue profile. beaconsmind equips its clients’ physical stores
+with beacons to locate and identify shoppers in real-time via their mobile app.
+All the data collected by the beacons is then stored in a cloud-based software
+developed internally, providing both analytics and marketing services. The
+business model is thus articulated around two sources of revenue: 1/ hardware
+revenues (sale and installation of the hardware i.e. one-offs); 2/ recurring SaaS
+revenues (subscription to gain access to the software solution). The company
+benefits from an asset-light business model (software developed internally;
+hardware manufacturing and installation sub-contracted to suppliers) as well as
+improving gross margins (thanks to the recurring revenue model).
+
+Well positioned in a dynamic market. Location-based marketing (LBM) is at
+the heart of current marketing trends, with very strong demand both in
+emerging (Middle East, APAC) and mature markets (Europe, North America).
+The global market for LBM Services was worth $38bn in 2020 and is expected
+to grow to $134.5bn by 2027 (i.e. an annual growth rate of c.20%). The market
+is characterized by a low level of competition with few independent players.
+beaconsmind is uniquely positioned in this market because: 1/ competitors are
+either pure hardware or pure software players, so it is the only solution
+encompassing both hardware and software; 2/ it is the only LBM player
+focused on the retail sector – competitors are more focused on asset tracking,
+supply chains, and smart buildings.
+
+Growing rapidly. Most clients are large retailers (Adidas, Unilever, DEPOT,
+Roberto Cavalli. etc.) with significant store capex, strong experience, global
+scalability and online presence. With the deployment of the anchor client
+contract, the expansion of its customer base and the opening of new offices
+worldwide, beaconsmind is gradually broadening its geographical footprint. We
+expect very strong revenue growth, with a CAGR of 134% p.a. for FY19-23e,
+and a positive EBITDA from FY21e.
+We initiate coverage of beaconsmind AG with a Buy recommendation and a
+target price of €26.9, c.200% above the current share price. We believe that
+beaconsmind’s asset-light business model and recurring revenue profile will
+put the company in a better position to capitalise on the enormous growth
+potential in LBM, although a new wave of lockdowns could have a significant
+impact on the company’s operations.
+Recent updates
+Baader Europe powered by AlphaValue
+beaconsmind AG (Buy- Under Review -)
+May 18 2022
+Copyright AlphaValue - 2022 – baader.alphavalue.com
+Page 27
+
+--- PAGE 28 ---
+
+Baader Europe powered by AlphaValue
+beaconsmind AG (Buy- Under Review -)
+May 18 2022
+Copyright AlphaValue - 2022 – baader.alphavalue.com
+Page 28
+
+--- PAGE 29 ---
+
+Stock Price and Target Price
+Earnings Per Share & Opinion
+Baader Europe powered by AlphaValue
+beaconsmind AG (Buy- Under Review -)
+May 18 2022
+Copyright AlphaValue - 2022 – baader.alphavalue.com
+Page 29
+
+--- PAGE 30 ---
+Momentum analysis consists in evaluating the stock market trend of a given financial instrument, based on the analysis of its trading flows.
+The main indicators used in our momentum tool are simple moving averages over three time frames: short term (20 trading days), medium term (50 days)
+and long term (150 days). The positioning of these moving averages relative to each other gives us the direction of the flows over these time frames.
+For example, if the short and medium-term moving averages are above the long-term moving average, this suggests an uptrend which will need to be
+confirmed. Attention is also paid to the latest stock price relative to the three moving averages (advance indicator) as well as to the trend in these three
+moving averages - downtrend, neutral, uptrend - which is more of a lagging indicator.
+The trend indications derived from the flows through moving averages and stock prices must be confirmed against trading volumes in order to confirm the
+signal. This is provided by a calculation based on the average increase in volumes over ten weeks together with a buy/sell volume ratio.
+: Strong momentum corresponding to a continuous and overall positive moving average trend confirmed by volumes
+: Relatively good momentum corresponding to a positively-oriented moving average, but offset by an overbought pattern or lack of confirmation
+from volumes
+: Relatively unfavorable momentum with a neutral or negative moving average trend, but offset by an oversold pattern or lack of confirmation from
+volumes
+: Strongly negative momentum corresponding to a continuous and overall negative moving average trend confirmed by volumes
+Momentum
+Baader Europe powered by AlphaValue
+beaconsmind AG (Buy- Under Review -)
+May 18 2022
+Copyright AlphaValue - 2022 – baader.alphavalue.com
+Page 30
+
+--- PAGE 31 ---
+Moving Average MACD & Volume
+Baader Europe powered by AlphaValue
+beaconsmind AG (Buy- Under Review -)
+May 18 2022
+Copyright AlphaValue - 2022 – baader.alphavalue.com
+Page 31
+
+--- PAGE 32 ---
+€/$ sensitivity
+Euro sensitivity
+Baader Europe powered by AlphaValue
+beaconsmind AG (Buy- Under Review -)
+May 18 2022
+Copyright AlphaValue - 2022 – baader.alphavalue.com
+Page 32
+
+--- PAGE 33 ---
+
+Sector Software
+Baader Europe powered by AlphaValue
+beaconsmind AG (Buy- Under Review -)
+May 18 2022
+Copyright AlphaValue - 2022 – baader.alphavalue.com
+Page 33
+
+--- PAGE 34 ---
+DOWNGRADES
+Reco
+Old
+Reco
+Target
+Upside
+05/04 Sage Group (the)
+Reduce
+Add
+693 p
+3.97%
+UPGRADES
+New
+Old
+Var.
+Reco
+02/08 Sage Group (the)
+17.1 p
+16.5 p
+3.46%
+Reduce
+MARKET BASICS
+SECTOR
+AV UNIVERSE
+COMPANIES
+5
+565
+MARKET CAP
+€M 23,791
+€M 11,393,057
+UPSIDE
+16.9%
+15.5%
+PRICE MOMENTUM
+Unfavorable
+UNFAVORABLE
+PERF. YTD
+-29.28%
+-7.36%
+PE 2022
+31.3 x
+14.3 x
+DIV. YIELD 2022
+1.53%
+3.26%
+EARN GROWTH 2022/2021
+24.0%
+0.81%
+EQS GROUP - May 17
+New customer momentum expected to accelerate in 2H22
+SAGE GROUP (THE) - May 13
+New customer wins, renewal rate improvement
+EQS GROUP - May 13
+1Q22 first take: A weaker start in terms of growth than we
+expected
+TEMENOS - May 03
+Which perspective to take? We are seeing a downside risk to
+the full-year targets
+NEMETSCHEK GROUP - May 02
+To raise, or not to raise, that is the question
+NEMETSCHEK GROUP - Apr 28
+1Q22 first take: A muscle flexing quarter
+TEMENOS - Apr 26
+1Q22 first take: A weaker start than we expected, but in-line
+with recently lowered consensus in terms of revenues, but a
+beat on the bottom line
+NEMETSCHEK GROUP - Apr 21
+1Q22 preview: Sound revenue growth and margin expansion
+expected
+TEMENOS - Apr 12
+1Q22 preview: Consensus expects a slow start to the year
+EQS GROUP - Mar 30
+Riding the whistleblowing wave with the ESG opportunity _in
+sight
+NEMETSCHEK GROUP - Mar 23
+As reliable as a Swiss clockwork
+NEMETSCHEK GROUP - Mar 22
+Final 4Q21 first take: Guidance for 2022 ahead of consensus
+EQS GROUP - Mar 16
+Successful completion of a capital increase with subscription
+rights
+EQS GROUP - Feb 18
+Expansion of the product offering towards ESG
+TEMENOS - Feb 17
+Upgrade from Sell to Reduce
+Application Software
+
+Opinion Change
+Eps Change
+Sector Overview
+Recent publications & Updates
+Baader Europe powered by AlphaValue
+beaconsmind AG (Buy- Under Review -)
+May 18 2022
+Copyright AlphaValue - 2022 – baader.alphavalue.com
+Page 34
+
+--- PAGE 35 ---
+Application Software Charts
+
+Sector Price
+Sector PE 2022
+Sector PBook 2022
+Sector Earning Growth 2022/2021
+Sector Yield 2022
+Baader Europe powered by AlphaValue
+beaconsmind AG (Buy- Under Review -)
+May 18 2022
+Copyright AlphaValue - 2022 – baader.alphavalue.com
+Page 35
+
+--- PAGE 36 ---
+
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+Operating revenues
+€M
+2,515
+2,797
+3,124
+3,444
+3,779
+3,703
+3,784
+4,058
+4,414
+Sales growth
+%
+13.8
+11.2
+11.7
+10.2
+9.71
+-2.00
+2.18
+7.26
+8.76
+R&D Costs
+€M
+-229
+-259
+-295
+-339
+-403
+-417
+-426
+-277
+-301
+R&D costs/Sales
+%
+-27.1
+-26.6
+-26.0
+-26.0
+-26.2
+-27.8
+-25.8
+-14.8
+-14.4
+Ebitda
+€M
+719
+726
+862
+1,033
+1,055
+1,088
+1,068
+1,160
+1,275
+Ebitda margin
+%
+29.9
+27.1
+28.5
+30.9
+28.9
+29.4
+28.2
+28.6
+28.9
+Operating profit
+€M
+496
+568
+681
+812
+774
+667
+690
+857
+973
+Operating margin
+%
+17.1
+12.9
+13.9
+15.6
+11.7
+10.1
+8.01
+9.87
+9.97
+Adj. Attrib. Net profit
+€M
+412
+411
+509
+586
+618
+514
+487
+621
+713
+Free cash flow
+€M
+240
+514
+513
+447
+275
+770
+745
+762
+914
+
+Roe (return on equity) %
+%
+22.4
+23.9
+29.6
+28.7
+26.7
+23.7
+24.6
+24.3
+23.9
+Shareholders funds (group share)
+€M
+1,543
+1,828
+1,971
+2,104
+2,551
+2,869
+2,307
+2,812
+3,150
+Net debt
+€M
+767
+633
+1,223
+1,318
+1,496
+1,080
+1,125
+1,025
+529
+Capex
+€M
+-37.5
+-50.0
+-75.8
+-83.1
+-78.5
+-86.7
+-87.5
+-88.4
+-93.0
+
+ROCE
+%
+17.3
+16.1
+15.6
+17.2
+14.8
+14.1
+14.8
+16.8
+19.0
+
+Aggregated sector data
+Baader Europe powered by AlphaValue
+beaconsmind AG (Buy- Under Review -)
+May 18 2022
+Copyright AlphaValue - 2022 – baader.alphavalue.com
+Page 36
+
+--- PAGE 37 ---
+Company
+Sector
+Performances (%)
+Mom.
+Opinion
+Upside
+Market Cap
+(€M)
+Country
+
+1W
+1M
+3M
+YTD
+
+Sage Group (the)
+Application Software
+-0.03
+-7.85
+-2.71
+-20.7
+Reduce
+3.97%
+8,846
+NEMETSCHEK GROUP
+Application Software
+3.84
+-21.0
+-16.6
+-42.5
+Buy
+47.4%
+7,494
+Temenos
+Application Software
+4.49
+12.3
+-1.49
+-21.0
+Reduce
+-2.63%
+7,103
+EQS Group
+Application Software
+3.64
+-3.69
+-8.48
+-29.8
+Buy
+72.1%
+316
+beaconsmind AG
+Application Software
+0.00
+-3.23
+20.0
+33.3
+Buy
+139%
+32.3
+Sector
+Performances (%)
+Mom.
+Opinion
+Upside
+Market Cap
+(€M)
+
+1W
+1M
+3M
+YTD
+
+Weighted average
+
+2.55
+-7.69
+-7.27
+-29.3
+Add
+16.9%
+
+Median
+
+3.64
+-3.69
+-2.71
+-21.0
+Buy
+47.4%
+
+Total
+
+23,791
+BD universe weighted avg
+
+4.37
+-4.08
+-4.15
+-7.54
+15.5%
+11,393,057
+Company
+Sector
+P/E
+Earnings growth
+P/Book
+Yield
+Market Cap
+(€M)
+
+2022
+2023
+2022/2021
+2023/2022
+2022
+2023
+2022
+2023
+
+Sage Group (the)
+Application Software
+30.1 x
+26.3 x
+48.8%
+14.5%
+5.09 x
+4.90 x
+2.72%
+2.79%
+8,846
+NEMETSCHEK GROUP
+Application Software
+41.6 x
+37.5 x
+17.3%
+10.9%
+11.4 x
+9.56 x
+0.69%
+0.77%
+7,494
+Temenos
+Application Software
+24.6 x
+22.3 x
+7.11%
+10.3%
+12.5 x
+9.90 x
+1.10%
+1.20%
+7,103
+EQS Group
+Application Software
+ns
+42.9 x
+n/a
+n/a
+2.81 x
+2.66 x
+0.00%
+0.00%
+316
+beaconsmind AG
+Application Software
+12.6 x
+4.42 x
+n/a
+185%
+3.63 x
+1.86 x
+0.00%
+0.00%
+32.3
+Sector
+P/E
+Earnings growth
+P/Book
+Yield
+Market Cap
+(€M)
+
+2022
+2023
+2022/2021
+2023/2022
+2022
+2023
+2022
+2023
+
+Weighted average
+
+31.3 x
+27.5 x
+24.0%
+14.0%
+7.79 x
+6.97 x
+1.53%
+1.61%
+
+Median
+
+30.1 x
+26.3 x
+17.3%
+12.7%
+5.09 x
+4.90 x
+0.69%
+0.77%
+
+BD universe weighted avg
+
+14.3 x
+13.5 x
+0.81%
+6.06%
+1.73 x
+1.63 x
+3.26%
+3.43%
+11,393,057
+Company
+Sector
+Adjusted attributable net profit (€M)
+Market Cap
+(€M)
+
+2021
+2022
+2023
+Chg. 22/21
+Chg. 23/22
+
+Sage Group (the)
+Application Software
+188
+271
+307
+82.6
+36.5
+8,846
+NEMETSCHEK GROUP
+Application Software
+135
+159
+180
+24.7
+20.8
+7,494
+Temenos
+Application Software
+164
+191
+225
+26.6
+34.2
+7,103
+EQS Group
+Application Software
+-6.63
+-2.67
+6.18
+3.95
+8.85
+316
+beaconsmind AG
+Application Software
+-64.4
+2,562
+7,303
+2,627
+4,741
+32.3
+Sector
+Adjusted attributable net profit (€M)
+Market Cap
+(€M)
+
+2021
+2022
+2023
+Chg. 22/21
+Chg. 23/22
+
+Total
+
+481
+621
+726
+141
+105
+23,791
+Companies
+Valuation ratios
+Earnings
+Baader Europe powered by AlphaValue
+beaconsmind AG (Buy- Under Review -)
+May 18 2022
+Copyright AlphaValue - 2022 – baader.alphavalue.com
+Page 37
+
+--- PAGE 38 ---
+Company
+Sector
+Gearing
+Goodwill / Equity
+Net Debt / Ebitda
+Market Cap
+(€M)
+
+2022
+2023
+2022
+2023
+2022
+2023
+
+Sage Group (the)
+Application Software
+25.7%
+26.3%
+154%
+148%
+1.18 x
+0.80 x
+8,846
+NEMETSCHEK GROUP
+Application Software
+-19.6%
+-39.6%
+81.0%
+67.8%
+-0.50 x
+-1.10 x
+7,494
+Temenos
+Application Software
+114%
+66.6%
+180%
+143%
+1.62 x
+1.06 x
+7,103
+EQS Group
+Application Software
+19.7%
+4.11%
+85.9%
+81.4%
+2.79 x
+0.25 x
+316
+beaconsmind AG
+Application Software
+-83.0%
+-73.3%
+0.00%
+0.00%
+-2.49 x
+-1.65 x
+32.3
+Sector
+Gearing
+Goodwill / Equity
+Net Debt / Ebitda
+Market Cap
+(€M)
+
+2022
+2023
+2022
+2023
+2022
+2023
+
+Weighted average
+
+38.0%
+23.7%
+140%
+125%
+0.96 x
+0.45 x
+
+Median
+
+25.7%
+26.3%
+85.9%
+81.4%
+1.62 x
+0.80 x
+
+Company
+Sector
+Equity (€M)
+Net Debt (€M)
+Goodwill (€M)
+Market Cap
+(€M)
+
+2022
+2023
+2022
+2023
+2022
+2023
+
+Sage Group (the)
+Application Software
+1,585
+1,648
+505
+361
+2,435
+2,435
+8,846
+NEMETSCHEK GROUP
+Application Software
+656
+784
+-128
+-310
+531
+531
+7,494
+Temenos
+Application Software
+571
+718
+648
+478
+1,030
+1,030
+7,103
+EQS Group
+Application Software
+113
+119
+22.1
+4.88
+96.7
+96.7
+316
+beaconsmind AG
+Application Software
+8,895
+17,346
+-8,814
+-16,605
+0.00
+0.00
+32.3
+Sector
+Equity (€M)
+Net Debt (€M)
+Goodwill (€M)
+Market Cap
+(€M)
+
+2022
+2023
+2022
+2023
+2022
+2023
+
+Total
+
+2,933
+3,286
+1,038
+517
+4,093
+4,093
+23,791
+Company
+Sector
+Upside Mom.
+Ev/Ebit
+Ev/Ebitda(R)
+Market Cap
+(€M)
+
+2022
+2023
+2022
+2023
+
+beaconsmind AG
+Application Software
+139%
+6.84 x
+1.61 x
+6.61 x
+1.56 x
+32.3
+EQS Group
+Application Software
+72.1%
+ns
+32.2 x
+42.9 x
+16.6 x
+316
+Temenos
+Application Software
+-2.63%
+28.1 x
+23.1 x
+18.0 x
+15.6 x
+7,103
+NEMETSCHEK GROUP
+Application Software
+47.4%
+36.1 x
+31.6 x
+28.6 x
+25.6 x
+7,494
+Sage Group (the)
+Application Software
+3.97%
+21.7 x
+19.4 x
+17.4 x
+15.7 x
+8,846
+Sector
+Ev/Ebit
+Ev/Ebitda(R)
+Market Cap
+(€M)
+
+2022
+2023
+2022
+2023
+
+Weighted average
+
+58.6 x
+51.4 x
+20.2 x
+17.7 x
+
+Median
+
+21.7 x
+23.1 x
+18.0 x
+15.7 x
+
+BD universe weighted avg
+
+14.0 x
+12.5 x
+8.43 x
+7.66 x
+11,393,057
+
+Risk ratios
+B/S data
+EV ratios
+Baader Europe powered by AlphaValue
+beaconsmind AG (Buy- Under Review -)
+May 18 2022
+Copyright AlphaValue - 2022 – baader.alphavalue.com
+Page 38
+
+--- PAGE 39 ---
+
+06/21A
+06/22E
+06/23E
+06/24E
+Adjusted P/E
+x
+-38.3
+-13.4
+49.7
+5.63
+Reported P/E
+x
+-40.3
+-15.0
+49.7
+5.63
+EV/EBITDA(R)
+x
+-41.3
+-13.6
+27.0
+2.78
+EV/EBIT
+x
+-40.2
+-13.2
+30.4
+2.89
+EV/Sales
+x
+ns
+19.0
+4.86
+1.40
+P/Book
+x
+134
+7.84
+6.65
+2.72
+Dividend yield
+%
+0.00
+0.00
+0.00
+0.00
+Free cash flow yield
+%
+-2.57
+-6.98
+1.08
+14.5
+Average stock price
+€
+36.9
+12.0
+12.0
+12.0
+
+Detailed Financials
+Valuation Key Data
+Baader Europe powered by AlphaValue
+beaconsmind AG (Buy- Under Review -)
+May 18 2022
+Copyright AlphaValue - 2022 – baader.alphavalue.com
+Page 39
+
+--- PAGE 40 ---
+
+06/21A
+06/22E
+06/23E
+06/24E
+Sales
+CHFth
+779
+1,571
+6,090
+17,753
+Sales growth
+%
+52.1
+102
+288
+192
+Sales per employee
+CHFth
+77.9
+78.6
+179
+413
+Organic change in sales
+%
+56.0
+102
+288
+192
+Purchases and external costs (incl. IT)
+CHFth
+-2,177 (3)
+-2,600
+-2,850
+-4,650
+R&D Costs
+CHFth
+0.00
+0.00
+0.00
+0.00
+R&D costs as % of sales
+%
+0.00
+0.00
+0.00
+0.00
+Staff costs
+CHFth
+-599
+-1,100
+-1,870
+-3,365
+Operating lease payments
+CHFth
+0.00
+0.00
+0.00
+0.00
+Cost of sales/COGS (indicative)
+CHFth
+-34.8
+-70.7
+-274
+-799
+EBITDA
+CHFth
+-2,032
+-2,199
+1,097
+8,940
+EBITDA(R)
+CHFth
+-2,032
+-2,199
+1,097
+8,940
+EBITDA(R) margin
+%
+-261
+-140
+18.0
+50.4
+EBITDA(R) per employee
+CHFth
+-203
+-110
+32.3
+208
+Depreciation
+CHFth
+-56.6
+-55.0
+-122
+-355
+Depreciations/Sales
+%
+7.27
+3.50
+2.00
+2.00
+Amortisation
+CHFth
+0.00
+0.00
+0.00
+0.00
+Additions to provisions
+CHFth
+0.00
+0.00
+0.00
+0.00
+Reduction of provisions
+CHFth
+0.00
+0.00
+0.00
+0.00
+Underlying operating profit
+CHFth
+-2,088
+-2,254
+975
+8,585
+Underlying operating margin
+%
+-268
+-143
+16.0
+48.4
+Other income/expense (cash)
+CHFth
+0.00
+0.00
+0.00
+0.00
+Other inc./ exp. (non cash; incl. assets revaluation)
+CHFth
+0.00
+0.00
+0.00
+0.00
+Mark to market on various operation-related hedges
+CHFth
+0.00
+0.00
+0.00
+0.00
+Earnings from joint venture(s)
+CHFth
+0.00
+0.00
+0.00
+0.00
+Impairment charges/goodwill amortisation
+CHFth
+0.00
+0.00
+0.00
+0.00
+Operating profit (EBIT)
+CHFth
+-2,088
+-2,254
+975
+8,585
+Interest expenses
+CHFth
+0.00
+0.00
+0.00
+0.00
+of which effectively paid cash interest expenses
+CHFth
+-9.07
+-1.40
+-1.40
+-1.40
+Financial income
+CHFth
+0.00
+0.00
+0.00
+0.00
+Other financial income (expense)
+CHFth
+-9.07
+-1.40
+-1.40
+-1.40
+Net financial expenses
+CHFth
+-9.07
+-1.40
+-1.40
+-1.40
+of which related to pensions
+CHFth
+0.00
+0.66
+0.69
+0.71
+Pre-tax profit before exceptional items
+CHFth
+-2,097
+-2,256
+973
+8,583
+Exceptional items and other (before taxes)
+CHFth
+0.00
+0.00
+0.00
+0.00
+Current tax
+CHFth
+-0.29
+0.00
+-292
+-2,575
+Impact of tax loss carry forward
+CHFth
+0.00
+0.00
+0.00
+0.00
+Deferred tax
+CHFth
+0.00
+0.00
+0.00
+0.00
+Corporate tax
+CHFth
+-0.29
+0.00
+-292
+-2,575
+Tax rate
+%
+-0.01
+0.00
+30.0
+30.0
+Net margin
+%
+-269
+-144
+11.2
+33.8
+Equity associates
+CHFth
+0.00
+0.00
+0.00
+0.00
+Actual dividends received from equity holdings
+CHFth
+Minority interests
+CHFth
+0.00
+0.00
+0.00
+0.00
+Income from discontinued operations
+CHFth
+0.00
+0.00
+0.00
+0.00
+Attributable net profit
+CHFth
+-2,098
+-2,256
+681
+6,008
+Impairment charges/goodwill amortisation
+CHFth
+0.00
+0.00
+0.00
+0.00
+Other adjustments
+CHFth
+0.00
+0.00
+0.00
+0.00
+Adjusted attributable net profit
+CHFth
+-2,098
+-2,256
+681
+6,008
+Interest expense savings
+CHFth
+0.00
+0.00
+0.00
+0.00
+Fully diluted adjusted attr. net profit
+CHFth
+-2,098
+-2,256
+681
+6,008
+NOPAT
+CHFth
+-1,462
+-1,579
+682
+6,009
+
+Consolidated P&L
+3. Increase in operating fixed costs
+due to capacity build-up
+Baader Europe powered by AlphaValue
+beaconsmind AG (Buy- Under Review -)
+May 18 2022
+Copyright AlphaValue - 2022 – baader.alphavalue.com
+Page 40
+
+--- PAGE 41 ---
+
+06/21A
+06/22E
+06/23E
+06/24E
+EBITDA
+CHFth
+-2,032
+-2,199
+1,097
+8,940
+Change in WCR
+CHFth
+-128
+-97.3
+-193
+-759
+of which (increases)/decr. in receivables
+CHFth
+-121
+-33.4
+-600
+-1,438
+of which (increases)/decr. in inventories
+CHFth
+2.74
+5.54
+10.0
+0.00
+of which increases/(decr.) in payables
+CHFth
+-52.7
+96.5
+303
+472
+of which increases/(decr.) in other curr. liab.
+CHFth
+43.4
+-166
+94.7
+207
+Actual dividends received from equity holdings
+CHFth
+0.00
+0.00
+0.00
+0.00
+Paid taxes
+CHFth
+-0.29
+0.00
+-292
+-2,575
+Exceptional items
+CHFth
+0.00
+0.00
+0.00
+0.00
+Other operating cash flows
+CHFth
+0.00
+-1.40
+-1.40
+-1.40
+Total operating cash flows
+CHFth
+-2,160
+-2,298
+610
+5,605
+Capital expenditure
+CHFth
+-5.79
+-62.8
+-244
+-710
+Capex as a % of depreciation & amort.
+%
+10.2
+114
+200
+200
+Net investments in shares
+CHFth
+0.00
+0.00
+0.00
+0.00
+Other investment flows
+CHFth
+-127
+-100
+-110
+-121
+Total investment flows
+CHFth
+-133
+-163
+-354
+-831
+Net interest expense
+CHFth
+-9.07
+-1.40
+-1.40
+-1.40
+of which cash interest expense
+CHFth
+-9.07
+-2.06
+-2.09
+-2.11
+Dividends (parent company)
+CHFth
+0.00
+0.00
+0.00
+0.00
+Dividends to minorities interests
+CHFth
+0.00
+0.00
+0.00
+0.00
+New shareholders' equity
+CHFth
+2,909
+5,800 (4)
+0.00
+0.00
+of which (acquisition) release of treasury shares
+CHFth
+(Increase)/decrease in net debt position
+CHFth
+0.00
+-45.0 (2)
+0.00
+0.00
+Other financial flows
+CHFth
+0.00
+0.00
+0.00
+0.00
+Total financial flows
+CHFth
+2,900
+5,753
+-2.09
+-2.11
+Change in scope of consolidation, exchange rates & other
+CHFth
+0.00
+0.00
+0.00
+0.00
+Change in cash position
+CHFth
+607
+3,292
+255
+4,771
+Change in net debt position
+CHFth
+607
+3,337
+255
+4,771
+Free cash flow (pre div.)
+CHFth
+-2,175
+-2,362
+365
+4,893
+Operating cash flow (clean)
+CHFth
+-2,160
+-2,298
+610
+5,605
+Reinvestment rate (capex/tangible fixed assets)
+%
+30.0
+163
+421
+818
+
+Cashflow Statement
+4. CHF5.8m
+(€5.5m)
+raised
+in
+December 2021
+2. The company reimbursed its
+COVID-19 credit of CHF 45k in
+advance, so its gross debt now
+only
+consists
+in
+long-term
+interest-bearing liabilities owed
+to shareholders (CHF15k).
+Baader Europe powered by AlphaValue
+beaconsmind AG (Buy- Under Review -)
+May 18 2022
+Copyright AlphaValue - 2022 – baader.alphavalue.com
+Page 41
+
+--- PAGE 42 ---
+
+06/21A
+06/22E
+06/23E
+06/24E
+Capitalised R&D
+CHFth
+0.00
+0.00
+0.00
+0.00
+Goodwill
+CHFth
+0.00
+0.00
+0.00
+0.00
+Contracts & Rights (incl. concession) intangible assets
+CHFth
+0.00
+0.00
+0.00
+0.00
+Other intangible assets
+CHFth
+139
+277
+283
+288
+Total intangible
+CHFth
+139
+277
+283
+288
+Tangible fixed assets
+CHFth
+19.3
+38.6
+57.9
+86.8
+Right-of-use
+CHFth
+0.00
+0.00
+0.00
+0.00
+Financial fixed assets (part of group strategy)
+CHFth
+0.00
+0.00
+0.00
+0.00
+Financial hedges (LT derivatives)
+CHFth
+0.00
+0.00
+0.00
+0.00
+Other financial assets (investment purpose mainly)
+CHFth
+0.00
+0.00
+0.00
+1,000
+WCR
+CHFth
+-173
+-76.1
+117
+876
+of which trade & receivables (+)
+CHFth
+117
+151
+751
+2,189
+of which inventories (+)
+CHFth
+15.5
+10.0
+0.00
+0.00
+of which payables (+)
+CHFth
+101
+198
+501
+973
+of which other current liabilities (+)
+CHFth
+205
+38.7
+133
+340
+Other current assets
+CHFth
+52.3
+105
+408
+1,190
+of which tax assets (+)
+CHFth
+Total assets (net of short term liabilities)
+CHFth
+36.8
+345
+866
+3,441
+Ordinary shareholders' equity (group share)
+CHFth
+630
+4,313
+5,089
+12,436
+Minority interests
+CHFth
+Provisions for pensions
+CHFth
+22.0
+-16.0
+-16.7
+-17.3
+Other provisions for risks and liabilities
+CHFth
+0.00
+0.00
+0.00
+0.00
+Deferred tax liabilities
+CHFth
+Other liabilities
+CHFth
+0.00
+0.59
+0.59
+0.59
+Net debt / (cash)
+CHFth
+-615
+-3,952 (2)
+-4,207
+-8,978
+Total liabilities and shareholders' equity
+CHFth
+36.8
+345
+866
+3,441
+Average net debt / (cash)
+CHFth
+-277
+-2,284
+-4,080
+-6,593
+
+06/21A
+06/22E
+06/23E
+06/24E
+EV/EBITDA(R)
+x
+-41.3
+-13.6
+27.0
+2.78
+EV/EBIT
+x
+-40.2
+-13.2
+30.4
+2.89
+EV/Sales
+x
+ns
+19.0
+4.86
+1.40
+EV/Invested capital
+x
+-5,412
+125
+64.7
+19.9
+Market cap
+CHFth
+84,472
+33,832
+33,832
+33,832
++ Provisions (including pensions)
+CHFth
+22.0
+-16.0
+-16.7
+-17.3
++ Unrecognised actuarial losses/(gains)
+CHFth
+0.00
+0.00
+0.00
+0.00
++ Net debt at year end (ex Right-of-use from 2019)
+CHFth
+-615
+-3,952
+-4,207
+-8,978
++ Right-of-use (from 2019)/Leases debt equivalent
+CHFth
+0.00
+0.00
+0.00
+0.00
+- Financial fixed assets (fair value) & Others
+CHFth
++ Minority interests (fair value)
+CHFth
+= Enterprise Value
+CHFth
+83,879
+29,864
+29,609
+24,836
+
+Balance Sheet
+2. The company reimbursed its
+COVID-19 credit of CHF 45k in
+advance, so its gross debt now
+only
+consists
+in
+long-term
+interest-bearing liabilities owed
+to shareholders (CHF15k).
+EV Calculations
+Baader Europe powered by AlphaValue
+beaconsmind AG (Buy- Under Review -)
+May 18 2022
+Copyright AlphaValue - 2022 – baader.alphavalue.com
+Page 42
+
+--- PAGE 43 ---
+
+06/21A
+06/22E
+06/23E
+06/24E
+Adjusted EPS (bfr gwill amort. & dil.)
+CHF
+-1.05
+-0.94
+0.25
+2.23
+Growth in EPS
+%
+n/a
+n/a
+n/a
+782
+Reported EPS
+CHF
+-0.99
+-0.84
+0.25
+2.23
+Net dividend per share
+€
+0.00
+0.00
+0.00
+0.00
+Free cash flow per share
+CHF
+-1.08
+-0.98
+0.14
+1.82
+Operating cash flow per share
+CHF
+-1.08
+-0.96
+0.23
+2.08
+Book value per share
+CHF
+0.30
+1.60
+1.89
+4.62
+Number of ordinary shares
+Th
+2,109
+2,689
+2,689
+2,689
+Number of equivalent ordinary shares (year end)
+Th
+2,109
+2,689
+2,689
+2,689
+Number of shares market cap.
+Th
+2,109
+2,689
+2,689
+2,689
+Treasury stock (year end)
+Th
+Number of shares net of treasury stock (year end)
+Th
+2,109
+2,689
+2,689
+2,689
+Number of common shares (average)
+Th
+2,004
+2,399
+2,689
+2,689
+Conversion of debt instruments into equity
+Th
+Settlement of cashable stock options
+Th
+Probable settlement of non mature stock options
+Th
+Other commitments to issue new shares
+Th
+Increase in shares outstanding (average)
+Th
+0.00
+0.00
+0.00
+0.00
+Number of diluted shares (average)
+Th
+2,004
+2,399
+2,689
+2,689
+Goodwill per share (diluted)
+CHF
+0.00
+0.00
+0.00
+0.00
+EPS after goodwill amortisation (diluted)
+CHF
+-1.05
+-0.94
+0.25
+2.23
+EPS before goodwill amortisation (non-diluted)
+CHF
+-1.05
+-0.94
+0.25
+2.23
+Payout ratio
+%
+0.00
+0.00
+0.00
+0.00
+Capital payout ratio (div +share buy back/net income)
+%
+0.00
+0.00
+0.00
+
+06/21A
+06/22E
+06/23E
+06/24E
+EBITDA
+CHFth
+-2,032
+-2,199
+1,097
+8,940
+Funds from operations (FFO)
+CHFth
+-2,041
+-2,203
+801
+6,361
+Ordinary shareholders' equity
+CHFth
+630
+4,313
+5,089
+12,436
+Gross debt
+CHFth
+60.0
+15.0 (2)
+15.0
+15.0
+o/w 1 to 5 year - Gross debt
+CHFth
+45.0
+of which Y+4
+CHFth
+45.0
+o/w Beyond 5 years - Gross debt
+CHFth
+15.0 (5)
+15.0
+15.0
+15.0
++ Gross Cash
+CHFth
+675
+3,967
+4,222
+8,993
+= Net debt / (cash)
+CHFth
+-615
+-3,952 (2)
+-4,207
+-8,978
+Bank borrowings
+CHFth
+45.0
+0.00
+0.00
+0.00
+Financial leases liabilities
+CHFth
+15.0
+15.0
+15.0
+15.0
+Other financing
+CHFth
+0.00
+0.00
+0.00
+0.00
+Gearing (at book value)
+%
+-43.9
+-53.0
+-80.2
+-53.0
+Equity/Total asset (%)
+%
+1,714
+1,250
+588
+361
+Adj. Net debt/EBITDA(R)
+x
+0.30
+1.80
+-3.84
+-1.00
+Adjusted Gross Debt/EBITDA(R)
+x
+-0.04
+0.00
+0.00
+0.00
+Adj. gross debt/(Adj. gross debt+Equity)
+%
+11.5
+-0.02
+-0.03
+-0.02
+Ebit cover
+x
+-230
+-1,094
+467
+ns
+FFO/Gross Debt
+%
+-2,489
+ns
+-48,331
+-273,759
+FFO/Net debt
+%
+332
+55.7
+-19.0
+-70.9
+FCF/Adj. gross debt (%)
+%
+-2,652
+ns
+-22,036
+-210,578
+
+Per Share Data
+Funding - Liquidity
+2. The company reimbursed its
+COVID-19 credit of CHF 45k in
+advance, so its gross debt now
+only
+consists
+in
+long-term
+interest-bearing liabilities owed
+to shareholders (CHF15k).
+5. Long-term
+interest
+bearing
+liabilities due to shareholders of
+15,000 CHF
+Baader Europe powered by AlphaValue
+beaconsmind AG (Buy- Under Review -)
+May 18 2022
+Copyright AlphaValue - 2022 – baader.alphavalue.com
+Page 43
+
+--- PAGE 44 ---
+
+06/21A
+06/22E
+06/23E
+06/24E
+Tax burden (Net income/pretax pre excp income)
+x
+1.00
+1.00
+0.70
+0.70
+EBIT margin (EBIT/sales)
+%
+-268
+-143
+16.0
+48.4
+Assets rotation (Sales/Avg assets)
+%
+-2,701
+823
+1,006
+824
+Financial leverage (Avg assets /Avg equity)
+x
+-0.13
+0.08
+0.13
+0.25
+ROE
+%
+-934
+-91.3
+14.5
+68.6
+ROA
+%
+13,473
+-941
+213
+686
+
+06/21A
+06/22E
+06/23E
+06/24E
+Y-1 shareholders' equity
+CHFth
+-181
+630
+4,313
+5,089
++ Net profit of year
+CHFth
+-2,098
+-2,256
+681
+6,008
+- Dividends (parent cy)
+CHFth
+0.00
+0.00
+0.00
+0.00
++ Additions to equity
+CHFth
+2,909
+5,800
+0.00
+0.00
+o/w reduction (addition) to treasury shares
+CHFth
+0.00
+0.00
+0.00
+0.00
+- Unrecognised actuarial gains/(losses)
+CHFth
+0.00
+0.00
+0.00
+0.00
++ Comprehensive income recognition
+CHFth
+-0.89
+139
+94.6
+1,339
+= Year end shareholders' equity
+CHFth
+630
+4,313
+5,089
+12,436
+
+06/21A
+06/22E
+06/23E
+06/24E
+Sales per staff
+CHFth
+77.9
+78.6
+179
+413
+Staff costs per employee
+CHFth
+-59.9
+-55.0
+-55.0
+-78.2
+Change in staff costs
+%
+93.7
+83.5
+70.0
+80.0
+Change in unit cost of staff
+%
+-22.5
+-8.27
+0.00
+42.3
+Staff costs/(EBITDA+Staff costs)
+%
+-41.9
+-100
+63.0
+27.3
+Average workforce
+unit
+10.0
+20.0
+34.0
+43.0
+Europe
+unit
+5.00
+5.00
+19.0
+19.0
+North America
+unit
+0.00
+0.00
+0.00
+9.00
+South Americas
+unit
+0.00
+0.00
+0.00
+0.00
+Asia
+unit
+0.00
+5.00
+5.00
+5.00
+Other key countries
+unit
+5.00
+10.0
+10.0
+10.0
+Total staff costs
+CHFth
+-599
+-1,100
+-1,870
+-3,365
+Wages and salaries
+CHFth
+-599
+-1,100
+-1,870
+-3,365
+of which social security contributions
+CHFth
+-59.9
+-110
+-187
+-336
+Pension related costs
+CHFth
+0.00
+0.00
+0.00
+
+06/21A
+06/22E
+06/23E
+06/24E
+Total sales
+CHFth
+779
+1,571
+6,090
+17,753
+O/w organic growth (%)
+%
+56.0
+102
+288
+192
+Other
+CHFth
+779
+1,571
+6,090
+17,753
+
+06/21A
+06/22E
+06/23E
+06/24E
+EBITDA/R Analysis
+Other/cancellations
+CHFth
+-2,032
+-2,199
+1,097
+8,940
+Total
+CHFth
+-2,032
+-2,199
+1,097
+8,940
+EBITDA/R margin
+%
+ns
+-140
+18.0
+50.4
+
+06/21A
+06/22E
+06/23E
+06/24E
+EMEA
+%
+100
+100
+Other
+%
+0.00
+0.00
+
+ROE Analysis (Dupont's Breakdown)
+Shareholder's Equity Review (Group Share)
+Staffing Analytics
+Divisional Breakdown Of Revenues
+Divisional Breakdown Of Earnings
+Revenue Breakdown By Country
+Baader Europe powered by AlphaValue
+beaconsmind AG (Buy- Under Review -)
+May 18 2022
+Copyright AlphaValue - 2022 – baader.alphavalue.com
+Page 44
+
+--- PAGE 45 ---
+
+06/21A
+06/22E
+06/23E
+06/24E
+ROCE (NOPAT+lease exp.*(1-tax))/(net) cap employed adjusted
+%
+9,432
+-659
+149
+480
+CFROIC
+%
+14,030
+-986
+79.9
+391
+Goodwill
+CHFth
+0.00
+0.00
+0.00
+0.00
+Accumulated goodwill amortisation
+CHFth
+0.00
+0.00
+0.00
+0.00
+All intangible assets
+CHFth
+139
+277
+283
+288
+Accumulated intangible amortisation
+CHFth
+0.00
+0.00
+0.00
+0.00
+Financial hedges (LT derivatives)
+CHFth
+0.00
+0.00
+0.00
+0.00
+Capitalised R&D
+CHFth
+0.00
+0.00
+0.00
+0.00
+Rights of use/ Capitalised leases
+CHFth
+0.00
+0.00
+0.00
+0.00
+Other fixed assets
+CHFth
+19.3
+38.6
+57.9
+86.8
+Accumulated depreciation
+CHFth
+0.00
+0.00
+0.00
+0.00
+WCR
+CHFth
+-173
+-76.1
+117
+876
+Other assets
+CHFth
+0.00
+0.00
+0.00
+0.00
+Unrecognised actuarial losses/(gains)
+CHFth
+0.00
+0.00
+0.00
+0.00
+Capital employed after deprec. (Invested capital)
+CHFth
+-15.5
+240
+457
+1,251
+Capital employed before depreciation
+CHFth
+-15.5
+240
+457
+1,251
+
+06/21A
+06/22E
+06/23E
+06/24E
+Other
+CHFth
+-15.5
+240
+457
+1,251
+Total capital employed
+CHFth
+-15.5
+240
+457
+1,251
+
+ROCE
+Divisional Breakdown Of Capital Employed
+Baader Europe powered by AlphaValue
+beaconsmind AG (Buy- Under Review -)
+May 18 2022
+Copyright AlphaValue - 2022 – baader.alphavalue.com
+Page 45
+
+--- PAGE 46 ---
+
+06/21A
+06/22E
+06/23E
+06/24E
+Pension ratio
+%
+-3.62
+-0.37
+-0.33
+-0.14
+Ordinary shareholders' equity
+CHFth
+630
+4,313
+5,089
+12,436
+Total benefits provisions
+CHFth
+-22.0
+-16.0
+-16.7
+-17.3
+of which funded pensions
+CHFth
+-22.0
+-16.0
+-16.7
+-17.3
+of which unfunded pensions
+CHFth
+0.00
+0.00
+0.00
+0.00
+of which benefits / health care
+CHFth
+0.00
+0.00
+0.00
+0.00
+Unrecognised actuarial (gains)/losses
+CHFth
+0.00
+0.00
+0.00
+0.00
+Company discount rate
+%
+2.00
+2.00
+2.00
+2.00
+Normalised recomputed discount rate
+%
+1.60
+Company future salary increase
+%
+3.00
+3.00
+3.00
+3.00
+Normalised recomputed future salary increase
+%
+1.40
+Company expected rate of return on plan assets
+%
+3.00
+3.00
+3.00
+3.00
+Normalised recomputed expd rate of return on plan assets
+%
+4.00
+Funded : Impact of actuarial assumptions
+CHFth
+0.00
+Unfunded : Impact of actuarial assumptions
+CHFth
+0.00
+
+06/21A
+06/22E
+06/23E
+06/24E
+US exposure
+%
+20.0
+20.0
+UK exposure
+%
+Euro exposure
+%
+Nordic countries
+%
+Switzerland
+%
+80.0
+60.0
+40.0
+40.0
+Other
+%
+20.0
+40.0
+40.0
+40.0
+Total
+%
+100
+100
+100
+100
+
+06/21A
+06/22E
+06/23E
+06/24E
+Funded status surplus / (deficit)
+CHFth
+22.0
+22.9
+23.8
+24.7
+Unfunded status surplus / (deficit)
+CHFth
+0.00
+0.00
+0.00
+0.00
+Total surplus / (deficit)
+CHFth
+22.0
+22.9
+23.8
+24.7
+Total unrecognised actuarial (gains)/losses
+CHFth
+0.00
+0.00
+0.00
+0.00
+Provision (B/S) on funded pension
+CHFth
+-22.0
+-16.0
+-16.7
+-17.3
+Provision (B/S) on unfunded pension
+CHFth
+0.00
+0.00
+0.00
+0.00
+Other benefits (health care) provision
+CHFth
+0.00
+0.00
+0.00
+0.00
+Total benefit provisions
+CHFth
+-22.0
+-16.0
+-16.7
+-17.3
+
+06/21A
+06/22E
+06/23E
+06/24E
+Funded obligations periodic costs
+CHFth
+0.00
+0.66
+0.69
+0.71
+Unfunded obligations periodic costs
+CHFth
+0.00
+0.00
+0.00
+0.00
+Total periodic costs
+CHFth
+0.00
+0.66
+0.69
+0.71
+of which incl. in labour costs
+CHFth
+0.00
+0.00
+0.00
+0.00
+of which incl. in interest expenses
+CHFth
+0.00
+0.66
+0.69
+0.71
+
+Pension Risks
+Summary Of Pension Risks
+Geographic Breakdown Of Pension Liabilities
+Balance Sheet Implications
+P&L Implications
+Baader Europe powered by AlphaValue
+beaconsmind AG (Buy- Under Review -)
+May 18 2022
+Copyright AlphaValue - 2022 – baader.alphavalue.com
+Page 46
+
+--- PAGE 47 ---
+
+06/21A
+06/22E
+06/23E
+06/24E
+Balance beginning of period
+CHFth
+0.00
+0.00
+0.00
+0.00
+Current service cost
+CHFth
+0.00
+0.00
+0.00
+Interest expense
+CHFth
+0.00
+0.00
+0.00
+Employees' contributions
+CHFth
+Impact of change in actuarial assumptions
+CHFth
+0.00
+0.00
+0.00
+of which impact of change in discount rate
+CHFth
+0.00
+of which impact of change in salary increase
+CHFth
+0.00
+Changes to scope of consolidation
+CHFth
+Currency translation effects
+CHFth
+Pension payments
+CHFth
+Other
+CHFth
+Year end obligation
+CHFth
+0.00
+0.00
+0.00
+0.00
+
+06/21A
+06/22E
+06/23E
+06/24E
+Value at beginning
+CHFth
+22.0
+22.0
+22.9
+23.8
+Company expected return on plan assets
+CHFth
+0.66
+0.69
+0.71
+Actuarial gain /(loss)
+CHFth
+0.22
+0.23
+0.24
+Employer's contribution
+CHFth
+0.00
+0.00
+0.00
+Employees' contributions
+CHFth
+0.00
+0.00
+0.00
+0.00
+Changes to scope of consolidation
+CHFth
+Currency translation effects
+CHFth
+Pension payments
+CHFth
+0.00
+0.00
+0.00
+0.00
+Other
+CHFth
+Value end of period
+CHFth
+22.0
+22.9
+23.8
+24.7
+Actual and normalised future return on plan assets
+CHFth
+0.00
+0.88
+0.92
+0.95
+
+06/21A
+06/22E
+06/23E
+06/24E
+Balance beginning of period
+CHFth
+0.00
+0.00
+0.00
+0.00
+Current service cost
+CHFth
+0.00
+0.00
+0.00
+Interest expense
+CHFth
+0.00
+0.00
+0.00
+Employees' contributions
+CHFth
+Impact of change in actuarial assumptions
+CHFth
+0.00
+0.00
+0.00
+of which Impact of change in discount rate
+CHFth
+0.00
+of which Impact of change in salary increase
+CHFth
+0.00
+Changes to scope of consolidation
+CHFth
+Currency translation effects
+CHFth
+Pension payments
+CHFth
+Other
+CHFth
+Year end obligation
+CHFth
+0.00
+0.00
+0.00
+0.00
+
+Funded Obligations
+Plan Assets
+Unfunded Obligations
+Baader Europe powered by AlphaValue
+beaconsmind AG (Buy- Under Review -)
+May 18 2022
+Copyright AlphaValue - 2022 – baader.alphavalue.com
+Page 47
+
+--- PAGE 48 ---
+Fundamental Opinion
+It is implicit that recommendations are made in good faith but should not be regarded as the sole source of advice.
+There are different approaches and methodologies for determining and valuing stocks in research products, each provided by AlphaValue and Baader
+Helvea, as decribed below.
+AlphaValue Research
+Recommendations are geared to a “value” approach.
+Valuations are computed from the point of view of a secondary market minority holder looking at a medium term (say 6 months) performance.
+Valuation tools are built around the concepts of transparency, all underlying figures are accessible, and consistency, same methodology whichever the
+stock, allowing for differences in nature between financial and non financial stocks. A stock with a target price below its current price should not and will not
+be regarded as an Add or a Buy.
+Recommendations are based on target prices with no allowance for dividend returns. The thresholds for the four recommendation levels may change from
+time to time depending on market conditions. Thresholds are defined as follows, ASSUMING long risk free rates remain in the 2-5% region.
+Recommendation
+Low Volatility
+10 < VIX index < 30
+Normal Volatility
+15 < VIX index < 35
+High Volatility
+35 < VIX index
+Buy
+More than 15% upside
+More than 20% upside
+More than 30% upside
+Add
+From 5% to 15%
+From 5% to 20%
+From 10% to 30%
+Reduce
+From -10% to 5%
+From -10% to 5%
+From -10% to 10%
+Sell
+Below -10%
+Below -10%
+Below -10%
+There is deliberately no “neutral” recommendation. The principle is that there is no point investing in equities if the return is not at least the risk free rate (and
+the dividend yield which again is not allowed for).
+Although recommendations are automated (a function of the target price whenever a new equity research report is released), the management of AlphaValue
+intends to maintain global consistency within its universe coverage and may, from time to time, decide to change global parameters which may affect the
+level of recommendation definitions and /or the distribution of recommendations within the four levels above. For instance, lowering the risk premium in a
+gloomy context may increase the proportion of positive recommendations.
+Baader Helvea Research
+Rating categories:
+The following is an explanation of the ratings, if any, included in Baader Helvea research.
+Interpretation matrix per risk category for each rating:
+Expected total return based on forecast dividend and 12-month price targets.
+Rating
+Upside/downside to the target
+price
+Buy
+>20%
+Add
+5%-20%
+Reduce
+-10% to 5%
+Sell
+<-10%
+Research ratings key:
+There are four possible ratings: Buy, Add, Reduce or Sell.
+Examples of certain ratings:
+Buy: A company that the analyst(s) named in this report deem(s) higher risk with a forecast dividend yield of 5% and price appreciation potential of 16%,
+generating a forecast total return of 21% over 12 months.
+Reduce:A company with a forecast dividend yield of 7% and price appreciation potential of -5%, generating a forecast total return of +2% over 12 months.
+Baader Helvea uses three further categorizations for stocks in our coverage:
+Restricted: A rating and/or financial forecast and/or target price is not disclosed due to compliance or other regulatory considerations such as blackout
+period or conflict of interest.
+Coverage in transition:Due to changes in the research team, the disclosure of a stock's rating and/or target price and/or financial information are
+Baader Europe powered by AlphaValue
+beaconsmind AG (Buy- Under Review -)
+May 18 2022
+Copyright AlphaValue - 2022 – baader.alphavalue.com
+Page 48
+
+--- PAGE 49 ---
+temporarily suspended. The stock remains in the research universe and disclosures of relevant information will be resumed in due course.
+Not rated: Suspension of coverage.
+Valuation methodology
+Company valuations are based on the following general valuation methods: Multiple-based models, peer-group comparisons, discount models, break-up
+value approaches, asset-based valuation methods as well as economic profit based models. Furthermore, recommendations are also based on the economic
+profit approach. Valuation models (including the underlying assumptions) are dependent on macroeconomic factors such as interest rates, exchange rates
+and raw material prices, and on assumptions about the economy. Furthermore, market sentiment affects the valuation of companies.
+The valuation is also based on expectations that might change rapidly and without notice, depending on developments specific to individual companies or
+industries. Our analysts' recommendations and target prices are derived from the models we use and might therefore change as a result of the use or
+development of different models. Our analysts' investment ratings generally relate to a 12-month horizon. They are, however, also subject to market
+conditions and can only represent a snapshot. The ratings may in fact be achieved more quickly or slowly than expected and therefore a rating may need to
+be revised upward or downward. Further information on the valuation methodology can be found under
+http://www.baaderbank.de/valuation_methodology.html.
+
+Baader Europe powered by AlphaValue
+beaconsmind AG (Buy- Under Review -)
+May 18 2022
+Copyright AlphaValue - 2022 – baader.alphavalue.com
+Page 49
+
+--- PAGE 50 ---
+Valuation
+Valuation processes have been organized around transparency and consistency as primary objectives.
+Stocks belong to different categories that recognise their main operating features : Banks, Insurers and Non Financials.
+Within those three universes, the valuation techniques are the same and in relation to the financial data available.
+The weighting given to individual valuation techniques is managed centrally and may be changed from time to time. As a rule, all stocks of a similar profile
+are valued using equivalent weighting of the various valuation techniques. This is for obvious consistency reasons.
+Within the very large universe of Non Financials, there are in effect 4 sub-categories of weightings to cater for subsets: 1) 'Mainstream' stocks; 2) 'Holding
+companies' where the stress is on NAV measures; 3) 'Growth' companies where the stress is on peer based valuations; 4) 'Loss making sectors' where peers
+review is essentially pointing nowhere (ex: Bio techs). The bulk of the valuation is then built on DCF and NAV, in effect pushing back the time horizon.
+Valuation Issue
+Normal
+industrials
+Growth
+industrials
+Holding
+company
+Loss
+runners
+Bank
+Insurers
+DCF
+35%
+35%
+10%
+40%
+0%
+0%
+NAV
+20%
+20%
+55%
+40%
+50%
+15%
+PE
+10%
+10%
+10%
+5%
+10%
+20%
+EV/EBITDA
+20%
+20%
+0%
+5%
+0%
+0%
+Yield
+10%
+10%
+20%
+5%
+10%
+15%
+Book
+5%
+5%
+5%
+5%
+10%
+10%
+Banks' instrinsic method
+0%
+0%
+0%
+0%
+10%
+0%
+Embedded Value
+0%
+0%
+0%
+0%
+0%
+40%
+Mkt Cap/Gross Operating Profit
+0%
+0%
+0%
+0%
+10%
+0%
+
+Baader Europe powered by AlphaValue
+beaconsmind AG (Buy- Under Review -)
+May 18 2022
+Copyright AlphaValue - 2022 – baader.alphavalue.com
+Page 50
+
+--- PAGE 51 ---
+AlphaValue Research Disclaimer
+A. GENERAL STATEMENTS
+This "Research Document" was prepared by its named author, who is an employee of AlphaValue SA ("AlphaValue"), a French company, who is an
+independent and unregulated research provider with no other business.
+AlphaValue does not have nor seek any business with companies covered in AlphaValue Research. As a result, investors can be confident that there is no
+conflict of interest that could affect the objectivity of AlphaValue Research. This publication is strictly for subscriber’s own, non-commercial, internal use. No
+part of it may be reproduced, resold, stored or transmitted in any printed, electronic or other form, or used for generating or marketing any printed or
+electronic publication, service or product.
+Baader Bank AG and its subsidiaries and affiliates, including Baader Helvea AG and Baader Helvea Limited, are collectively referred to below as the
+("Group Companies") and each of them is referred to separately as a "Group Company". Pursuant to a cooperation agreement between AlphaValue SA
+and Baader Bank AG, AlphaValue SA provides certain research and distribution services to the Group Companies. Consequently, research clients of Baader
+Bank AG have access to this research.
+Important disclosures which apply to the Group Companies also apply to the cooperation of AlphaValue SA and the Group Companies and can be found
+below.
+AlphaValue is solely responsible for its research and Baader Bank AG and all other members of the Baader Bank Group do not assume any liability in
+respect thereof. This Research Document is intended for clients of AlphaValue and of Baader Companies
+This Research Document is being distributed by electronic and ordinary mail to professional investors, who are expected to make their own investment
+decisions without reliance on any analysis in this Research Document. The investment opportunities discussed in this Research Document may not be
+suitable for certain investors, depending on their specific investment objectives, their timetable for investment or their overall financial situation, and this
+Research Document is not a substitute for advice from investment and tax advisors. Investors must make their own determination of the appropriateness of
+an investment in any instruments referred to herein based on the merits and risks involved, their own investment strategy and their legal, fiscal and financial
+position. As this Research Document does not constitute a direct or indirect investment recommendation, neither this Research Document nor any part of it
+should be construed as establishing, or be relied on in connection with or act as an inducement to enter into, any contract or commitment whatsoever.
+The investments discussed herein may fluctuate in price or value and may result in losses. Changes in rates of exchange may have an adverse effect on the
+value of investments. Furthermore, past performance is not indicative of future results. In particular, the risks associated with an investment in the relevant
+financial, money market or investment instrument or securities are not explained here in their entirety.
+This Research Document has been exclusively prepared for the party who receives the Research Document, and does not establish any liability whatsoever
+vis-à-vis any third party. Transmission or reproduction of this Research Document without prior written consent from AlphaValue is not permitted. In the event
+of any approved disclosure or dissemination of the Research Document, the initial receiver is required to obtain prior confirmation from any third party to
+whom it discloses or transmits the Research Document that it may not rely on the Research Document in whole or in part and that no liability of AlphaValue
+or any Group Company will be established vis-à-vis the third party and that it may not disclose or transmit the Research Document to any other third party.
+Any party receiving the Research Document is responsible for the compliance with the laws applicable to the reception and, as applicable, the disclosure or
+transmission of the Research Document, particularly the requirements under Directive 2014/65/EU (MiFID II) and Regulation (EU) no. 596/2014, the
+regulations promulgated there-under and the national laws implementing such laws, and none of AlphaValue or the Group Companies may be held liable for
+any non-compliance with such laws.
+This Research Document (i) is for information purposes only, (ii) does not constitute or form part of any offer for sale or subscription of or solicitation of any
+offer to buy or subscribe for any financial instrument, money market or investment instrument or any security, (iii) is not intended as an offer for sale or
+subscription of or solicitation of an offer to buy or subscribe for any financial instrument, money market or investment instrument or any security and (iv) is not
+an advertisement thereof.
+The analyst(s) named in this report certify that: (1) the views expressed in this Research Document accurately reflect their own personal views about any or
+all of the subject securities referred to in this Research Document, (2) no part of their compensation was, is or will be, directly or indirectly, related to the
+specific recommendation or views expressed in this Research Document and (3) no part of their compensation is directly tied to transactions or services of
+AlphaValue or a Group Company set out in Sections A and B of Annex I of Directive 2014/65/EU or other types of transactions which a Group Company
+performs, or to trading fees for services that a Group Company performs.
+This Research Document reflects the assumptions, views and analytical methods of the analyst(s) named in this report and does not constitute the
+investment policy of AlphaValue or of any Group Company.
+Copyright ©: 2020 AlphaValue, all rights reserved. Published by AlphaValue. Disseminated by AlphaValue, Baader Bank AG or on its behalf by Baader
+Helvea Inc., Baader Helvea AG or Baader Helvea Limited or via third-party platforms including Bloomberg, Refinitiv, FactSet and CapitalIQ.
+France: AlphaValue SA is a stock corporation (Société Anonyme) organized under the laws of France with its principal place of business in Paris. It is
+unregulated. It is registered in Paris, France as RCS Paris 500 324 439. The value added tax identification number of Alpha Value SA is FR 82 500 324 439.
+Germany: Baader Bank AG is a stock corporation (Aktiengesellschaft) organized under the laws of the Federal Republic of Germany with its principal place
+of business in Munich. It is registered with the District Court (Amtsgericht) in Munich under No. HRB 121537 and supervised by the German Financial
+Supervisory Authority (Bundesanstalt für Finanzdienstleistungsaufsicht – BaFin), Marie-Curie-Strasse 24-28, 60439 Frankfurt am Main and Graurheindorfer
+Strasse 108, 53117 Bonn. The value added tax identification number of Baader Bank AG is DE 114123893.
+Switzerland: Baader Helvea AG is a corporation organized under the laws of Switzerland with its principal place of business in Zurich. It is registered with
+the Zurich commercial registry under No. CH-110.356.568. Baader Helvea AG is authorized and regulated as a Securities Dealer by the Swiss Financial
+Market Supervisory Authority ("FINMA").
+Baader Europe powered by AlphaValue
+beaconsmind AG (Buy- Under Review -)
+May 18 2022
+Copyright AlphaValue - 2022 – baader.alphavalue.com
+Page 51
+
+--- PAGE 52 ---
+United Kingdom: Baader Helvea Limited is a limited company incorporated under the laws of England and Wales with its registered office at 5 Royal
+Exchange Buildings, London, EC3V 3NL. It is registered with Companies House under the company number 04935018. Baader Helvea Limited is authorized
+and regulated in the United Kingdom by the Financial Conduct Authority ("FCA"), 25 North Colonnade, London E14 5HS with the firm reference number
+400056. There are no branches or related entities of Baader Helvea Limited that are also regulated by the FCA.
+B. ADDITIONAL REQUIRED DISCLOSURES UNDER THE LAWS OF JURISDICTIONS SET FORTH BELOW
+It cannot be excluded that Baader Bank AG or a Group Company, one of their products or any of their employees have a long or short position or deal as
+principal or agent in any of the securities issued by or linked to the company that is the subject of this Research Document or provide advisory or other
+services to it. Opinions expressed herein may differ or be contrary to those expressed by other business areas of Baader Bank AG or of any other Group
+Company as a result of using different assumptions.
+Notice to Recipients in Australia
+This Research Document may only be distributed by Group Companies which are authorized to provide financial services in Australia – Baader Helvea
+Limited and Baader Bank AG. Baader Bank AG discloses that it: (i) is exempt from the requirement to hold an Australian financial services license under the
+Australian Corporations Act 2001 ("Corporations Act") in respect of financial services provided in Australia, and (ii) is regulated by Bundesanstalt für
+Finanzdienstleistungsaufsicht of Germany (BaFin) under German laws, which differ from Australian laws. Baader Helvea Limited discloses that it: (i) is
+exempt from the requirement to hold an Australian financial services license under the Corporations Act in respect of financial services provided in Australia
+(ii) is authorized and regulated by the Financial Conduct Authority of the United Kingdom (FCA) under UK laws which differ from Australian laws.
+This Research Document is intended only for wholesale clients referred to in Section 761G of the Corporations Act who are also either professional or
+sophisticated investors for the purposes of Section 708(8) and (11) of the Corporations Act, and only to those persons who receive this Research Document
+(electronically or otherwise) in Australia ("Wholesale Clients"). Persons who are not Wholesale Clients may not act upon or rely on the information contained
+in this Research Document. Any investment or investment activity to which this Research Doc-ument relates is available only to Wholesale Clients and will be
+engaged in only with Wholesale Clients. You should speak to your legal advisor to confirm whether you are a Wholesale Client.
+This Research Document has not been and will not be lodged with the Australian Securities and Investments Commission. This Research Document is not a
+product disclosure statement, prospectus or other disclosure document for the purposes of the Corporations Act. The information contained in this Research
+Document is general information only.
+Notice to Recipients in Austria
+This Research Document serves information purposes only and does not constitute investment advice nor an investment recommendation and shall not be
+regarded as solicitation or an offer in particular for purposes of the EU prospectus directive and the corresponding Austrian implementing statute, the
+Austrian Capital Markets Act ("KMG") to purchase or sell any of the investment instruments mentioned herein. The illustrations, analyses and conclusions are
+of general nature only. This Research Document is directed solely to qualified investors ("qualifizierte Anleger") within the meaning of Section 1 Paragraph 1
+Subparagraph 5a KMG.
+Notice to Recipients in Canada
+This Research Document is directed to persons in Canada who are "permitted clients" of a Group Company, as such term is defined National Instrument 31-
+103 – Registration Requirements, Exemptions and Ongoing Registrant Obligations ("NI 31-103"). No Group Company is registered as a broker-dealer with
+any securities commission or similar regulatory authority in Canada, and therefore they are each restricted to activities permitted in Canada in compliance
+with the requirements and conditions of the international dealer exemption under NI 31-103, which include, except in limited circumstances, trading with or on
+behalf of "permitted clients" in foreign securities (including a security issued by an issuer formed under the laws of a foreign jurisdiction). The jurisdictions in
+which the head office or principal place of business of each Group Company is located are outside of Canada.
+All or substantially all of the assets of the Group Companies are situated outside of Canada. Accordingly, there may be difficulty enforcing legal rights against
+the Group Company due to the foregoing.
+This Research Document is not, and under no circumstances is to be construed as, a general solicitation of an offer to buy, an offer to sell or a public offering
+of the securities described herein in Canada or any province or territory thereof. Any offer or sale of the securities referred to in this Research Document in
+Canada will comply with applicable securities laws in Canada concerning the subscription, purchase, holding and resale of the securities. The company that
+is the subject of this Research Document may not be subject to Canadian reporting and/or other requirements under applicable securities laws in Canada.
+Available information regarding the company that is the subject of this Research Document may be limited, and that company may not be subject to the
+same auditing and reporting standards as reporting issuers in Canada.
+Under no circumstances is the information contained in this Research Document to be construed as investment advice in any province or territory of Canada,
+and such information is not tailored to the needs of the recipient. No securities commission or similar regulatory authority in Canada has reviewed or in any
+way passed upon these materials, the information contained herein or the merits of the securities described herein, and any representation to the contrary is
+an offence.
+Notice to Recipients in Guernsey
+Neither AlphaValue nor any of the Group Companies are licensed by the Guernsey Financial Services Commission ("GFSC") under the Protection of
+Investors (Bailiwick of Guernsey) Law, 1987, as amended (the "POI Law") to carry on controlled investment business in Guernsey. This Research Document
+is not being, and may not be, circulated or made available to, or directed at, any person in the Bailiwick of Guernsey to the extent that doing so constitutes
+carrying out a restricted activity (including promotion, subscription, registration, dealing, management, administration, advising or custody) in, or from within,
+the Bailiwick of Guernsey.
+Notice to Recipients in Israel
+This Research Document is directed only to "Qualified Clients" in Israel, as such term is defined in the Regulation of Investment Advice, Investment
+Marketing and Investment Portfolio Management Law, 1995 (the "Law"). None of AlphaValue or any Group Company holds a license under the Law, or the
+insurance required of licensed Investment Advisers under the Law.
+Baader Europe powered by AlphaValue
+beaconsmind AG (Buy- Under Review -)
+May 18 2022
+Copyright AlphaValue - 2022 – baader.alphavalue.com
+Page 52
+
+--- PAGE 53 ---
+Notice to Recipients in Japan
+None of AlphaValue or any of the Group Companies is registered as a Financial Instruments Business Operator under the Financial Instruments and
+Exchange Act of Japan (Act No. 25 of 1948, as amended, the "FIEA"). This Research Document may be distributed only to certain professional investors
+who are the addressees of our email pursuant to an exemption from the registration requirements of, and otherwise in compliance with the FIEA and other
+relevant laws and regulations of Japan.
+Notice to Recipients in Jersey
+None of AlphaValue or any of the Group Companies are licensed by the Jersey Financial Services Commission under the Financial Services (Jersey) Law
+1998, as amended (the "FSJL") to carry on financial service business in Jersey. To the extent this Research Document contains investment advice for the
+purposes of the FSJL, the Group Companies are relying on the Financial Services (Investment Business (Overseas Persons – Exemption)) (Jersey) Order
+2001.
+Notice to Recipients in the Principality of Monaco
+This Research Document may only be offered or distributed, directly or indirectly, to Monaco banks duly licensed by the French "Autorité de Contrôle
+Prudentiel et de Résolution" and fully licensed financial service provider companies regulated by the "Commission de Contrôle des Activités Financières".
+The Recipients declare being perfectly fluent in English and expressly waive the possibility of a French translation of this Research Document: Les
+destinataires du présent document reconnaissent être à même d’en prendre connaissance en langue anglaise et renoncent expressément à une traduction
+française.
+Notice to Recipients in New Zealand
+This Research Document may only be distributed by Baader Helvea Limited and Baader Bank AG to wholesale clients as defined in section 5C (Wholesale
+Clients) of the Financial Advisers Act 2008 (NZ) (FAA). Both Baader Helvea Limited and Baader Bank AG can (i) provide financial adviser services to
+Wholesale Clients as exempt providers, and (ii) provide broking services under the FAA to persons who are Wholesale Clients and, to the extent that the
+broking services comprise custodial services as defined in the FAA, are also persons falling within the categories set out in clause 11 of the Financial
+Advisers (Custodians of FMCA Financial Products) Regulations 2014. Persons who are not Wholesale Clients (as referred to in the FAA) may not act upon or
+rely on the information contained in this Research Document. Any investment or investment activity to which this Research Document relates is available
+only to Wholesale Clients and will be engaged in only with Wholesale Clients. You should speak to your legal advisor to confirm whether you are a Wholesale
+Client.
+Baader Bank AG discloses that it is regulated by Bundesanstalt für Finanzdienstleistungsaufsicht of Germany (BaFin) under German laws, which differ from
+New Zealand laws. Baader Helvea Limited discloses that it is authorized and regulated by the Financial Conduct Authority of the United Kingdom (FCA)
+under UK laws which differ from New Zealand laws. Neither Baader Helvea Limited nor Baader Bank AG are required to be registered under the Financial
+Service Providers (Registration and Dispute Resolution) Act 2008 (NZ) (FSPR) due to the territorial scope of the FSPR.
+This Research Document has not been and will not be lodged with the New Zealand Registrar of Financial Service Providers. This Research Document is not
+a product disclosure statement for the purposes of the Financial Markets Conduct Act 2013 (NZ) nor an investment statement or prospectus for the purposes
+of the Securities Act 1978 (NZ). The information contained in this Research Document is general information only.
+Notice to Recipients in South Africa
+Baader Helvea Limited is exempted from the provisions of the Financial Advisory and Intermediary Services Act, 2002 (FAIS) and is not a registered financial
+services provider in terms of FAIS. Baader Helvea Limited will provide clients with confirmation of the exemption on request.
+Notice to Recipients in Switzerland
+This document has been prepared without regard to the disclosure standards for prospectuses under art 652a or art 1156 of the Swiss Federal Code of
+Obligations ("CO"), the Swiss Federal Act on Collective Investment Schemes ("CISA") or the disclosure rules of any stock exchange or regulated trading
+facility in Switzerland, and does neither constitute a prospectus under such laws, nor a similar communication within the meaning of art 752 CO, nor a
+simplified prospectus under the CISA.
+Notice to Recipients in Taiwan
+None of AlphaValue or any of the Group Companies is licensed by the Financial Supervisory Commission ("FSC") of Taiwan to conduct the securities
+advisory or consulting business in Taiwan, The distribution of this Research Document from the jurisdiction outside of Taiwan has not been registered with or
+approved by the FSC. Neither this Research Document nor the information contained in it is an offer or is intended to be an offer to make with any person, or
+to induce or attempt to induce any person to enter into or to offer (or intent to offer) to enter into any agreement for or with a view to acquiring, disposing of,
+subscribing for or underwriting securities.
+Notice to Recipients in the United Kingdom
+This communication is directed to persons in the United Kingdom who (i) are reasonably believed to be such persons as are described in Article 19
+("investment professionals") or Article 49(2)(a) to (d) ("high net worth companies, unincorporated associations, etc.") of the United Kingdom Financial
+Services and Markets Act 2000 (Financial Promotion) Order 2005 or (ii) are persons to whom it may otherwise lawfully be communicated (all such persons
+together being referred to as "relevant persons"). Persons who are not relevant persons may not act upon or rely on the information contained in this
+communication. Any investment or investment activity to which this communication relates is available only to relevant persons and will be engaged in only
+with relevant persons.
+Notice to Recipients in the United States
+This Research Document has been prepared outside the United States by AlphaValue. Neither AlphaValue nor any Group Company is registered with the
+U.S. Securities and Exchange Commission as a broker-dealer in the United States or a member of the Financial Institutions Regulatory Authority ("FINRA").
+Baader Helvea Inc. (a Group Company that is a registered U.S. broker-dealer and a member of FINRA) did not contribute to the preparation of this Research
+Document. This Research Document has been prepared and reviewed by research analysts employed by AlphaValue, who are not associated persons or
+employees of Baader Helvea Inc., are not registered or qualified as research analysts with FINRA, and are not subject to FINRA rules.
+This Research Document may be distributed in the United States by a Group Company only to "major US institutional investors" (as defined in, and pursuant
+to the exemption provided by, Rule 15a-6 under the U.S. Securities Exchange Act of 1934). Neither any such Group Company nor any major US institutional
+investor receiving this Research Document may distribute it to any other person in the United States.
+Baader Europe powered by AlphaValue
+beaconsmind AG (Buy- Under Review -)
+May 18 2022
+Copyright AlphaValue - 2022 – baader.alphavalue.com
+Page 53
+
+--- PAGE 54 ---
+Regardless of whether this Research Document is distributed by another Group Company or by Baader Helvea Inc., orders utilizing the services of Group
+Companies for the purchase or sale of the securities that are the subject of this Research Document may be given only to Baader Helvea Inc.
+Other Jurisdictions
+The distribution of this Research Document in any other jurisdiction may be restricted by law, and persons into whose possession this Research Document
+comes should inform themselves about, and observe, any such restrictions. This Research Document is not directed to, or intended for distribution to or use
+by, any person or entity that is a citizen or resident of, or located in, any locality, state, country or other jurisdiction where such distribution, publication,
+availability or use would be contrary to law or regulation.
+Baader Europe powered by AlphaValue
+beaconsmind AG (Buy- Under Review -)
+May 18 2022
+Copyright AlphaValue - 2022 – baader.alphavalue.com
+Page 54

@@ -1,0 +1,317 @@
+--- PAGE 1 ---
+Truist Securities
+Equity Research Report
+CONSUMER: Lodging
+C. Patrick Scholes
+212-319-3915
+Patrick.Scholes@truist.com
+Gregory J. Miller
+212-303-4198
+Gregory.J.Miller@truist.com
+Samuel Durno
+212-303-4183
+Samuel.Durno@truist.com
+7 Page Document
+Reasons for this report
+✓Our analysis of the most recent weekly
+China and Europe lodging results
+SEE PAGE 6 FOR REQUIRED DISCLOSURE INFORMATION
+September 11, 2024
+International hotels’ RevPAR last week:
+China -6.0% y/y, Europe +2.0% y/y.
+China: Per STR/CoStar for the week ending September 7th, hotel RevPAR in China
+in local currency was -6.0% y/y vs. +8.3% y/y in the prior week. Last week’s RevPAR
+was up against a +58.1% y/y comparable result in 2023 vs. +30.7% y/y in the prior
+week. RevPAR results in China experienced sequential decline following last weeks
+results which were unusually high due to a leisure-centric week (Source: AA Stocks
+Financial News).
+Europe: RevPAR in Europe in Euros was +2.0% y/y vs. +6.1% in the prior week.
+Last week’s RevPAR was up against a +3.8% comparable result in 2023 and +8.5%
+in the prior week.
+Overall U.S. RevPAR was -5.2% y/y, below the prior week's result of +3.6% y/y and
+below the trailing 10-week average of +0.6%.
+Exhibit 1: Y/Y RevPAR Change for China, Europe, US
+.
+Source: STR, Truist Securities Research
+RevPAR detail for week ending September 7th vs. trailing 28 days (see charts at
+end of note for graphical representations):
+China (local currency):
+•
+RevPAR was -6.0% y/y for the week ending September 7th, lower than the -3.8%
+for the trailing 28 days.
+•
+ADR was -4.4% y/y for the week ending September 7th, higher than the -5.7% for
+the trailing 28 days.
+•
+Occupancy was -1.7% y/y for the week ending September 7th, lower than the +2.0%
+for the trailing 28 days.
+Not for Investment Purposes
+
+--- PAGE 2 ---
+Truist Securities
+Europe (in Euros):
+•
+RevPAR was +2.0% y/y for the week ending September 7th, lower than with the +5.8% for the trailing 28 days.
+•
+ADR was +3.5% y/y for the week ending September 7th, lower than with the +4.5% for the trailing 28 days.
+•
+Occupancy was -1.4% y/y for the week ending September 7th, higher than the +1.3% for the trailing 28 days.
+EBITDA and rooms exposure by region:
+EBITDA: Hyatt (H, Buy), InterContinental (IHG, NR), and Marriott (MAR, Hold) are among the Lodging C-corps that have the
+greatest exposure to Europe and Asia. From Europe, MAR generates approximately 15% of EBITDA, IHG 15%, Wyndham (WH, Buy)
+less than 5%, H roughly 5%, and Hilton (HLT, Hold) 10% each. Of these companies, H and MAR have the greatest exposure to Asia
+(~10-20% of EBITDA). HLT is approximately 10%. Each of the other companies generates 5% to 10% of EBITDA from the Asia-Pacific
+region. Following the Apple Leisure Group acquisition, H has a relatively high ~25% exposure to the Americas ex-US/Canada.
+•
+In a normalized environment, Greater China inclusive of Macau and Hong Kong generally represents half of the Asia-Pacific EBITDA
+from the C-corps.
+Rooms (as of 4Q23; figures may not round to 100%):
+•
+CHH:
+○Domestic: 79%
+○Asia-Pacific: 4%
+○Europe/Middle East: 9%
+○Latin America & Canada: 9%
+•
+H (includes owned/leased hotels):
+○United States: 49%
+○Americas (ex U.S.): 14%
+○Greater China: 13%
+○Asia Pacific (ex Greater China): 10%
+○Europe: 11%
+○Middle East/Africa: 3%
+•
+HLT:
+○US: 67%
+○Americas: 6%
+○Europe: 9%
+○Middle East/Africa: 3%
+○Asia Pacific: 14%
+○Other hotels, likely to be converted to a brand, with no geography noted: 0.4%
+•
+IHG:
+○Americas: 55%
+○EMEAA: 26%
+○Greater China: 19%
+•
+MAR (ex-timeshare):
+○North America: 62%
+○Europe: 9%
+○Middle East/Africa: 5%
+○Asia Pacific: 18%
+○Caribbean/Latin America ("CALA"): 6%
+•
+WH:
+○US: 57%
+○Canada: 5%
+○Greater China: 20%
+○Rest of Asia: 4%
+○Europe/Middle East/Africa: 10%
+○Latin America: 5%
+Truist Securities
+Page 2
+Not for Investment Purposes
+
+--- PAGE 3 ---
+Exhibit 2: Y/Y Occupancy change for China, Europe, US
+
+Source: STR, Truist Securities research
+
+-30.0
+-20.0
+-10.0
+0.0
+10.0
+20.0
+30.0
+40.0
+50.0
+60.0
+70.0
+80.0
+90.0
+Y/Y Occupancy Change
+(point of occupancy)
+China
+Europe
+United States
+Truist Securities
+Truist Securities
+Page 3
+Not for Investment Purposes
+
+--- PAGE 4 ---
+Exhibit 3: Absolute Occupancy % for China, Europe, US
+
+Source: STR, Truist Securities research
+
+30.0
+40.0
+50.0
+60.0
+70.0
+80.0
+90.0
+Absolute Occupancy %
+China
+Europe
+United States
+Truist Securities
+Truist Securities
+Page 4
+Not for Investment Purposes
+
+--- PAGE 5 ---
+Exhibit 4: Y/Y ADR % change for China, Europe, US
+
+Source: STR, Truist Securities research
+-30.0
+-20.0
+-10.0
+0.0
+10.0
+20.0
+30.0
+40.0
+50.0
+60.0
+70.0
+Y/Y ADR% Growth
+China
+Europe
+United States
+Truist Securities
+Truist Securities
+Page 5
+Not for Investment Purposes
+
+--- PAGE 6 ---
+Truist Securities
+Companies Mentioned in This Note
+Choice Hotels International, Inc. (CHH, $120.98, Hold, C. Patrick Scholes)
+Hyatt Hotels Corporation (H, $143.18, Buy, C. Patrick Scholes)
+Hilton Worldwide Holdings Inc. (HLT, $210.65, Hold, C. Patrick Scholes)
+Marriott International, Inc. (MAR, $225.67, Hold, C. Patrick Scholes)
+Wyndham Hotels & Resorts, Inc. (WH, $76.77, Buy, C. Patrick Scholes)
+InterContinental (IHG, Not Rated)
+Analyst Certification
+I, C. Patrick Scholes , hereby certify that the views expressed in this research report accurately reflect my personal views about the
+subject company(ies) and its (their) securities. I also certify that I have not been, am not, and will not be receiving direct or indirect
+compensation in exchange for expressing the specific recommendation(s) in this report.
+Required Disclosures
+Analyst compensation is based upon stock price performance, quality of analysis, communication skills, and the overall revenue and
+profitability of the firm, including investment banking revenue.
+As a matter of policy and practice, the firm prohibits the offering of favorable research, a specific research rating or a specific target
+price as consideration or inducement for the receipt of business or compensation. In addition, associated persons preparing research
+reports are prohibited from owning securities in the subject companies.
+Charts indicating changes in ratings can be found in recent notes and/or reports at our website or by contacting Truist Securities.
+Please see our disclosures page for more complete information at https://truist.bluematrix.com/sellside/Disclosures.action
+Important Disclosures on Equity Research Dissemination, Ratings, Designations, and
+Coverage Universe
+Dissemination of Research
+Truist Securities, Inc. ("Truist Securities") seeks to make all reasonable efforts to provide research reports simultaneously to all eligible
+clients. Reports are available as published in the restricted access area of our website to all eligible clients who have requested a
+password. Institutional investors, corporates, and members of the Press may also receive our research via third party vendors including:
+Thomson Reuters, Bloomberg, FactSet, and S&P Capital IQ. Additional distribution may be done by sales personnel via email, fax, or
+other electronic means, or regular mail.
+For access to third party vendors or our Research website: https://truistresearch.bluematrix.com/client/library.jsp
+Please email the Research Department at EquityResearchDepartment@truist.com or contact your Truist Securities sales
+representative.
+Truist Securities Rating System for Equity Securities
+Truist Securities, Inc. ("Truist Securities") rates individual equities using a three-tiered system. Each stock is rated relative to the
+broader market (generally the S&P 500) over the next 12-18 months (unless otherwise indicated).
+Buy (B) – the stock’s total return is expected to outperform the S&P 500 or relevant benchmark over the next 12-18 months (unless
+otherwise indicated)
+Hold (H) – the stock’s total return is expected to perform in line with the S&P 500 or relevant benchmark over the next 12-18 months
+(unless otherwise indicated)
+Sell (S) – the stock’s total return is expected to underperform the S&P 500 or relevant benchmark over the next 12-18 months (unless
+otherwise indicated)
+Not Rated (NR) – Truist Securities does not have an investment rating or opinion on the stock
+Coverage Suspended (CS) – indicates that Truist Securities’ rating and/or target price have been temporarily suspended due to
+applicable regulations and/or Truist Securities Management discretion. The previously published rating and target price should not be
+relied upon.
+Truist Securities analysts have a price target on the stocks that they cover, unless otherwise indicated. The price target represents
+that analyst's expectation of where the stock will trade in the next 12-18 months (unless otherwise indicated). If an analyst believes
+that there are insufficient valuation drivers and/or investment catalysts to derive a positive or negative investment view, they may elect
+with the approval of Truist Securities Research Management not to assign a target price; likewise certain stocks that trade under $5
+may exhibit volatility whereby assigning a price target would be unhelpful to making an investment decision. As such, with Research
+Management‘s approval, an analyst may refrain from assigning a target to a sub-$5 stock.
+Legend for Rating and Price Target History Charts:
+Truist Securities
+Page 6
+Not for Investment Purposes
+
+--- PAGE 7 ---
+Truist Securities
+B = Buy
+H = Hold
+S = Sell
+D = Drop Coverage
+CS = Coverage Suspended
+NR = Not Rated
+I = Initiate Coverage
+T = Transfer Coverage
+Truist Securities ratings distribution (as of 09/11/2024):
+Coverage Universe
+Investment Banking Clients Past 12 Months
+Rating
+Count
+Percent
+Rating
+Count
+Percent
+Buy
+436
+63.19%
+Buy
+60
+13.76%
+Hold
+252
+36.52%
+Hold
+35
+13.89%
+Sell
+2
+0.29%
+Sell
+0
+0.00%
+Other Disclosures
+Information contained herein has been derived from sources believed to be reliable but is not guaranteed as to accuracy and does not
+purport to be a complete analysis of the security, company or industry involved. This report is not to be construed as an offer to sell or
+a solicitation of an offer to buy any security. Truist Securities, Inc. and/or its officers or employees may have positions in any securities,
+options, rights or warrants. The firm and/or associated persons may sell to or buy from customers on a principal basis. Investors may
+be prohibited in certain states from purchasing some over the-counter securities mentioned herein. Opinions expressed are subject to
+change without notice.
+Truist Securities, Inc.’s research is primarily provided to and intended for use by Institutional Accounts as defined in FINRA Rule
+4512(c). The term “Institutional Account" shall mean the account of: (1) a bank, savings and loan association, insurance company
+or registered investment company; (2) an investment adviser registered either with the SEC under Section 203 of the Investment
+Advisers Act or with a state securities commission (or any agency or office performing like functions); or (3) any other person (whether a
+natural person, corporation, partnership, trust or otherwise) with total assets of at least $50 million. In addition, certain affiliates of Truist
+Securities, Inc., including Truist Investment Services, Inc. (an SEC registered broker-dealer and a member of FINRA, SIPC) and Truist
+Advisory Services, Inc. (an investment adviser registered with the SEC), may make Truist Securities, Inc. research available, upon
+request, to certain of their clients from time to time.
+Truist Securities, Inc. is a registered broker-dealer and a member of FINRA and SIPC. It is a service mark of Truist Financial
+Corporation. Truist Securities, Inc. is owned by Truist Financial Corporation and affiliated with Truist Investment Services, Inc. Despite
+this affiliation, securities recommended, offered, sold by, or held at Truist Securities, Inc. or Truist Investment Services, Inc. (i) are not
+insured by the Federal Deposit Insurance Corporation; (ii) are not deposits or other obligations of any insured depository institution
+(including Truist Bank); and (iii) are subject to investment risks, including the possible loss of the principal amount invested. Truist Bank
+may have a lending relationship with companies mentioned herein. Certain clients may compensate Truist Securities, Inc. for research
+via hard dollar payments, and Truist Securities, Inc. may be deemed to be an investment adviser to such clients as a result of such
+payments.
+Please see our Disclosure Database to search by ticker or company name for the current required disclosures, including valuation and
+risks. Link: https://truist.bluematrix.com/sellside/Disclosures.action
+Please visit the Truist Securities equity research library for current reports and the analyst roster with contact information. Link: https://
+truistresearch.bluematrix.com/client/library.jsp
+Truist Securities, Inc., member FINRA and SIPC. Truist, Truist Bank, Truist Securities, Truist Investment Services, and Truist Advisory
+Services are service marks of Truist Financial Corporation.
+If you no longer wish to receive this type of communication, please request removal by sending an email to
+EquityResearchDepartment@truist.com
+© Truist Securities, Inc. 2024. All rights reserved. Reproduction or quotation in whole or part without permission is forbidden.
+ADDITIONAL INFORMATION IS AVAILABLE at our website, TruistSecurities.com, or by writing to: Truist Securities, Research
+Department, 3333 Peachtree Road N.E., Atlanta, GA 30326-1070
+Truist Securities
+Page 7
+Not for Investment Purposes

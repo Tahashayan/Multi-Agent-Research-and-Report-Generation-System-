@@ -9,18 +9,26 @@ authors = [
 requires-python = ">=3.11"
 
 dependencies = [
+    "cerebras-cloud-sdk>=1.91.0",
     "ddgs>=9.16.0",
     "duckduckgo-search>=8.1.1",
     "fastapi>=0.141.1",
+    "google-genai>=2.23.0",
+    "groq>=1.7.0",
+    "langchain>=1.4.0",
     "langchain-community>=0.4.2",
     "langchain-core>=1.6.1",
     "langchain-ollama>=1.1.0",
     "langgraph>=1.2.11",
+    "pip>=26.2.1",
     "pydantic-settings>=2.15.0",
+    "pymupdf>=1.28.2",
+    "pypdf>=6.18.1",
     "pytest>=9.1.1",
     "pytest-asyncio>=1.4.0",
     "python-dotenv>=1.2.3",
     "supabase>=2.31.0",
+    "tiktoken>=0.14.0",
     "uvicorn>=0.52.4",
 ]
 

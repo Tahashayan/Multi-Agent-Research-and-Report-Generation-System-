@@ -1,0 +1,1004 @@
+--- PAGE 1 ---
+0
+
+The Influence of Securities Analysts on Innovation: An Evolutionary Approach
+
+Mary J. Benner
+3-365 Carlson School of Management
+University of Minnesota
+321-19th Avenue South
+Minneapolis, MN 55455
+612-626-6660
+mbenner@umn.edu
+
+Daniel Beunza
+Faculty of Management
+Cass Business School
+106 Bunhill Row
+London, EC1Y 8TZ
++44 20 7040 8622
+daniel.beunza@city.ac.uk
+
+January 15, 2020
+
+Preliminary Draft – Please do not cite or quote without permission
+
+--- PAGE 2 ---
+1
+
+The Influence of Securities Analysts on Innovation: An Evolutionary Approach
+
+Abstract
+
+The literature on sell-side securities analysts is marked by a debate about their influence on innovation.
+Some researchers find analysts supportive of innovation, spurring high valuations for innovative firms,
+while others emphasize their constraints on firms. We take an evolutionary view to reconcile this contrast.
+We consider evolution in technology and the shifting characteristics of industry contexts in addition to
+evolution in analysts’ “interpretive frames,” i.e. the categories, schema, and narratives that shape analysts’
+evaluations of the firms they cover and explain how firms’ strategies link to stock valuations. We present
+our theory in three parts: nascent industries sparked by technological change, where analysts develop new
+interpretive frames to make sense of radical innovation by new firms, convergent periods of technology
+evolution, where analyst frames become increasingly institutionalized, and technological discontinuities
+affecting incumbents in existing industries. We describe the mechanisms underlying changes in analysts’
+interpretive frames as the industry technology evolves, and develop testable predictions about the
+influences of analysts’ evolving frames on firm innovation. Our theory depicts how analysts make sense
+of nascent industries and develop new interpretive frames that enable radical innovation, while
+institutionalized frames enable incremental but dampen radical innovation by firms already categorized in
+existing industries.
+
+--- PAGE 3 ---
+2
+
+Researchers across multiple fields have begun to study securities analysts’1 reactions to – and
+influences on – innovation and novelty (e.g. Benner, 2010; Benner & Ranganathan, 2012; 2013; 2017;
+Beunza & Garud, 2007; Derrien & Kecskes, 2013; Guo, Perez-Castrillo, & Toldra-Simats, 2019; He &
+Tian, 2013; Litov, Moreton, & Zenger, 2012; Theeke, Polidoro, & Fredrickson, 2017). This research is
+marked by contrasting findings. Some scholars find that analysts dampen innovation and novelty in firms,
+through their coverage decisions or the content of their recommendations (e.g. Benner & Ranganathan,
+2012; He & Tian, 2013; Theeke et al, 2017). Yet, other work finds a positive influence of analysts on
+innovation (Derrien & Kecskes, 2013; Guo et al, 2019), and portrays analysts as supportive enablers of
+innovation, in particular, facilitating high stock prices for innovative firms (e.g. Beunza and Garud, 2007).
+These divergent views in research coincide with notable examples: Analysts were critical of Verizon’s
+investments to respond to the radical technological change in telecommunications that would allow it to
+compete with cable firms (Benner, 2010; Benner & Ranganathan, 2017). But analysts also play an
+important part in enabling high stock market valuations (i.e. lower costs of capital) for publicly traded
+firms like Amazon, Uber, or Tesla, that pursue novel technologies and business models (e.g. Beunza &
+Garud, 2007; Damodaran, 2017).
+We develop theory to help explain this puzzle by considering how analysts’ influences on innovation
+changes as an industry technology evolves. Our starting point is evolutionary theory (Aldrich & Ruef,
+2006), and specifically, research on technological evolution (e.g. Abernathy & Utterback, 1978; Anderson
+& Tushman, 1990; Tushman & Anderson, 1986). This theory depicts phases of technological change
+unfolding in industries, beginning with major technological discontinuities, i.e. radical innovation that
+shifts the base of knowledge underlying the products in an industry (e.g. Henderson & Clark, 1990) and
+
+1 Consistent with prior research on analysts in the management literature, we focus on the “sell-side” securities analysts who
+function as intermediaries in capital markets (e.g. Benner & Ranganathan, 2012; Brauer & Wiersema, 2018; Zuckerman, 1999;
+2000). Sell-side analysts typically specialize in one or two industries, providing forecasts of firms’ earnings and stock prices,
+assessments of how firms’ strategies will influence financial performance and stock prices, and recommendations to “buy,”
+“hold,” or “sell” a firm’s stock. Sell-side analysts function as the “critics” in research about the influences of categories in equity
+markets (Zuckerman 1999; 2000; 2004). “For the community of publicly traded organizations, securities analysts thus operate as
+powerful arbiters of categorical conformity to cultural codes” (Aldrich and Ruef, 2006:197).
+
+--- PAGE 4 ---
+3
+
+triggers an era of ferment, i.e. a period of rapid innovation, variation, and high uncertainty about the
+technology and how quickly it will diffuse. Eras of ferment typically close with the emergence (selection)
+of a technical standard (a “dominant design”), often the outcome of competition between product designs,
+but also influenced by social, political, and organizational factors (Murmann & Frenken, 2006; Tushman
+& Rosenkopf, 1992). Periods of convergence follow dominant designs, characterized by firms engaging
+in incremental innovation that elaborates and improves the selected technology.
+We ask how analysts influence innovation as an industry technology evolves. We propose that the
+main mechanism underlying analysts’ influences on innovation is the corresponding evolution in their
+“interpretive frames” as technology evolves. Interpretive frames include the “category,” i.e. the firms
+classified into the industry an analyst covers (Zuckerman, 1999), the accompanying “schemas” analysts
+use to evaluate the firms they cover (e.g. Benner & Ranganathan, 2017; Feldman, 2016; Hsu, 2006), and
+the “narratives,” or stories (Damodaran, 2017; Wansleben, 2012) 2 that explain how the strategies and
+financial performance of firms in the category translate into stock valuations. In considering evolution in
+interpretive frames, our theory also builds on prior research on socio-cognitive categories and category
+evolution (Grodal, Gotsopoulos, & Suarez, 2015; Navis & Glynn, 2010; Ruef & Patterson, 2009;
+Zuckerman 1999; 2000; 2004).
+We address the puzzle that motivates our paper by describing how analysts have both a positive and
+negative influence on firm innovation as an industry technology evolves. We depict these influences in
+three parts, considering how analysts influence radical and incremental innovation in new firms and
+incumbents. First, in nascent industries sparked by technological discontinuities, analysts engage in
+sensemaking interactions with investors, executives, and other analysts to develop new interpretive
+frames; in turn, these frames help explain and enable the radical innovation undertaken by new firms in
+eras of ferment. Second, as the technology evolves through a phase of convergence characterized by
+
+2 “Narratives” explain how the activities and performance of firms in a category translate to stock valuations. This broad concept
+is similar to other concepts that have been used in the literature to describe related ideas, such as “stories” (Wansleben, 2012),
+“analogies” (Beunza & Garud, 2007) or “logics” (Benner & Ranganathan, 2017).
+
+--- PAGE 5 ---
+4
+
+incumbent firms engaging in incremental innovation, analysts’ interpretive frames similarly converge.
+With increasing institutionalization in interpretive frames, analysts become enforcers of categorical
+boundaries, rewarding incumbents for category-conforming incremental innovation. Third, when
+subsequent technological discontinuities challenge incumbents in existing industries, analysts’
+institutionalized frames persist, continuing to reward incumbents’ incremental innovations while
+penalizing radical innovations, even in settings of discontinuous technological change. We further
+consider how managerial actions in these different stages of evolution can shape analysts’ reactions. We
+draw on theory and evidence from past research to support our deductive theory and develop testable
+propositions. We depict the mechanisms in our theory in Figure 1.
+Our work makes three important contributions. First, we contribute to research on the influence of
+sell-side securities analysts’ on firms. We explain the divergent findings in prior work and provide new
+insights into how analysts shape innovation. Prior research on analysts has considered their influences on
+innovation and has found both positive and negative effects, but has not explained how it can be that
+analysts both enable and constrain innovation. Prior work has not studied how analysts’ views of
+innovation shift across different phases of technology evolution. By theorizing about how technological
+change shapes analysts’ interpretive frames, and in turn how analysts’ frames shape innovation, we
+provide fresh insights into the influence of analysts, as important capital market participants, on
+innovation outcomes for different types of firms. We unpack the specific mechanisms that underlie the
+shifts from analysts enabling radical innovation for new firms in nascent industries as they initially
+develop interpretive frames, to enabling incremental but constraining radical innovation in already-
+categorized incumbent firms as these frames become institutionalized. Innovation is an important engine
+underlying the growth and success of firms, industries, and nations, and a rich stream of research has
+sought to understand the forces that facilitate it (e.g. Tushman & Nelson, 1990; Solow, 1957). As analysts
+directly influence the availability of capital for public firms and therefore, their resources for innovation,
+a better understanding of the factors that shape analysts’ influences on firm innovation is critical for
+
+--- PAGE 6 ---
+5
+
+gaining an understanding of the drivers of innovation more generally. Our theory also points to
+underlying reasons why new firms in nascent industries may appear more innovative than incumbents.
+Second, our work contributes to theories of technological evolution. Theories of technology evolution
+typically consider how a body of new scientific or engineering knowledge influences technological
+change and subsequent firm outcomes, but this work has not studied how firms’ categorization in public
+equity markets influences both the outcomes for firm innovation and technological evolution more
+broadly. Our work further suggestions how coevolution in technology and analysts’ frames unfolds.
+While variation and convergence in analysts’ interpretive frames are driven, in part, by corresponding
+phases of technology evolution, evolving analyst frames further support these phases of technological
+evolution. Specifically, the formation of new analysts’ frames during eras of ferment is driven in part by
+the technological discontinuity and corresponding variation in technical designs, but the creation of new
+interpretive frames also explains and supports the technological variation during these periods.
+Correspondingly, periods of technological convergence drive convergence in analysts’ frames, while the
+convergence in frames also rewards incumbent firms for engaging in the incremental product and process
+innovation that characterizes these periods.
+Third, we contribute to research on the socio-cognitive processes that underpin industry emergence
+and evolution (Benner & Tripsas, 2012; Bingham & Kahl, 2013; Grodal et al, 2015; Kaplan & Tripsas,
+2008). Past work has not considered the important role of capital markets in how industries emerge and
+evolve. We provide a deeper understanding of securities analysts as a key audience in industry and
+category emergence, as they create, label and legitimate new categories of firms and enable sensemaking
+about new phenomena. Understanding the role of securities analysts in industry emergence and evolution
+is important since legitimation by analysts directly affects the availability of capital for firms’ innovative
+efforts.
+TECHNOLOGICAL DISCONTINUITIES AND NASCENT INDUSTRIES: ANALYST
+INTERPRETIVE FRAME CREATION AND RADICAL INNOVATION BY NEW FIRMS
+
+--- PAGE 7 ---
+6
+
+We first consider how analysts influence innovation in nascent industries sparked by technological
+discontinuities. Our argument is that in new industries, analysts have opportunities to create new
+interpretive frames for understanding novel phenomena. When they do and initiate coverage of new firms,
+their efforts spur sensemaking interactions with managers and investors, enabling the radical innovation
+by new firms that characterizes these periods.
+Prior work studying how new industries are established and legitimated has highlighted the important
+interactions between producers and audiences as they engage in sensemaking about the identities and
+activities of firms classified in the category (Durand & Khaire, 2017; Navis & Glynn, 2010). Among
+these audiences are securities analysts, the intermediaries who create the categories and evaluation criteria
+to help investors in equity markets assess firms and make stock purchase decisions (Wansleben, 2012).
+When analysts engage in interactions with investors and managers to create new interpretive frames, they
+facilitate sensemaking about how to evaluate firms in new industry categories.
+Daniel Reingold’s (Reingold & Reingold, 2006) description of his experiences as an analyst covering
+the new telecommunications industry provides an example of the creation of an entirely new interpretive
+frame for assessing firms in a new industry. Seven new telecommunications companies were created from
+the breakup of AT&T in 1984 (i.e. the “Baby Bells,” or RBOCs, the Regional Bell Operating
+Companies). Reingold highlights the new industry category and the heightened activities to “help
+investors figure it all out,” via interactions between firms’ executives, investors, and analysts.
+Every time a new industry came along, Wall Street staffed up with analysts, traders, and bankers to cover
+it. …Wall Street desperately needed people who could help investors figure it all out. So in the early 1980s
+the Street went on a hiring binge, recruiting practically everyone it could find with experience in both
+financial analysis and the telecom sector….[analysts were] doing everything from analyzing the financial
+trends in an industry to interviewing top executives to gauging the impact of upcoming regulatory
+changes…
+
+More evidence of the increased attention and search analysts devote to understanding new industries
+is provided by the “initiating coverage” reports they produce on new industries. These lengthy reports
+
+--- PAGE 8 ---
+7
+
+often contain 50-100 pages (CFI Institute)3 and more thorough analyses of industry-level information
+than the typical reports on individual firms (Crawford, Roulstone, & So, 2012).
+Beunza and Garud (2007) also highlight an example of a new industry category, Internet and New
+Media, created by analysts around 1999, that included new firms in the nascent Internet industry. These
+firms also were valued at a premium; these authors suggest that the new frames that analysts created
+played a part in enabling their high valuations.
+Yet it is not clear from prior research specifically what spurs analysts to create the entirely new
+interpretive frames that enable sensemaking about new phenomena. While prior research has shown that
+the industry categories that structure analysts’ coverage, once established, have important influences on
+stock prices and firms’ strategies (Benner & Ranganathan, 2013; Zuckerman, 1999; 2000), this work does
+not explain the emergence of new analyst categories. Findings from prior work further suggest that new
+interpretive frames do not automatically arise due to a major technological discontinuity, even when firms
+are engaging in radical innovation (Benner & Ranganathan, 2017). Therefore, understanding the
+mechanisms that underlie the emergence of new analyst frames is important for understanding their
+potential influences on innovation in nascent industries. Thus, we first describe mechanisms that underlie
+the formation of new interpretive frames, and then propose how the activities to develop these new frames
+shape analysts’ influences on innovation in nascent industries.
+New Interpretive Frames in Nascent Industries
+The creation of new interpretive frames in nascent industries frames is driven first, by the
+technological discontinuity and corresponding factors that arise during an era of ferment, that increase the
+difficulty of evaluating firms using already established interpretive frames. As firms undertake radical
+innovation, involving new technologies, products, and business models that depart from existing
+categories, analysts face increased difficulty using existing interpretive frames to categorize, evaluate, and
+explain firms’ stock valuations. This challenge of valuation is even greater when the firms engaging in
+
+3 https://corporatefinanceinstitute.com/resources/knowledge/valuation/equity-research-report/
+
+--- PAGE 9 ---
+8
+
+uncertain radical innovation in a nascent industry are “growth” stocks, i.e. firms that have revenues but no
+earnings or dividends (e.g. Benner, 2007; Benner & Ranganathan, 2013), and frequently have high
+valuations (Aghion & Stein, 2008). Such firms are relatively common in nascent industries created by
+new technologies, such as the dot-coms in the early years of the Internet, or more recent examples of
+firms like Uber and Tesla. In these cases, understanding the relationships between firm performance and
+investor behaviors is not straightforward, since stock price forecasts cannot proceed from conventional
+calculations of valuation using discounted earnings or dividends (e.g. Brealey & Myers, 1984; see also
+Zuckerman, 2004). Therefore, explaining and forecasting the stock valuations of these public firms likely
+drives increased analyst attention to understanding the drivers of investors’ behaviors in the absence of
+profits or dividends. For example, firms like Tesla, Uber, and AirBnb4, have little to no profit but
+relatively high valuations, in particular higher than the values of their traditional industry counterparts
+(i.e. auto, taxicab, and hotel firms, respectively), suggesting that investors are positive about the promise
+of such firms (Damodaran, 2017). In such cases, narratives that explain investors’ behaviors become
+particularly important for making sense of firms’ stock prices, triggering analysts’ activities to create new
+interpretive frames.
+However, findings from prior research also suggest that technological discontinuities and eras of
+ferment do not necessarily spur analysts to create entirely new categories or schema for evaluating firms
+(e.g. Benner & Ranganathan, 2017). Other research similarly finds that even when firms radically shift
+their strategies or identities, analysts do not automatically create new categories or change their schemas
+for evaluating such firms (Feldman, 2016; Tripsas, 2009).
+Indeed, accounts of the triggers of new categories often involve entirely new firms, such as the
+example of the dot-coms and Amazon in the late 1990s, the new firms that sparked the formation of a new
+Internet industry category. This suggests a second important mechanism underlying the formation of new
+interpretive frames: the entry of de novo firms into a nascent industry. In prior work on the “disk array”
+
+4 AirBnB is not yet a public company, but currently is valued by private investors at $38 billion.
+
+--- PAGE 10 ---
+9
+
+industry (McKendrick & Carroll, 2001), researchers similarly suggest the importance of de novo firms in
+the process of legitimating a new industry category. These researchers found that despite 130 producers
+of disk arrays, over $12 billion in annual revenues, and industry associations, the disk array industry did
+not emerge as a recognized, legitimated industry category. They speculate that it was because most of the
+entrants in the disk array industry were existing firms with a substantial portion of their activities (and
+identities) still in other industry domains. They suggest further that recognition of an industry category by
+external audiences is more likely when the new industry involves new firms.
+As analysts ask “what type of firm is this?” in their efforts to categorize a firm, evaluate its
+performance, and explain and anticipate its stock price, existing firms are analyzed within prevailing
+categories. It is the new firms that are engaging in radical innovation and are not previously categorized in
+existing industries that trigger analysts’ search and activities to create new interpretive frames.
+Analysts’ Influence on Innovation in Nascent Industries
+In turn, as analysts encounter difficulties evaluating the new firms that are undertaking radical
+innovation and seek to explain the valuations of these firms, they undertake search and sensemaking
+interactions with firms’ executives or founders and investors, determining how to classify firms and
+evaluate their activities and financial performance. These activities include organizing investor
+conferences that include buy-side investors and executives, as well as company visits for investors to
+meet with managers (Groysberg & Healy, 2013: 29). Brown et al (2015) also found, in their survey of
+analysts, that analysts regularly communicate with managers on quarterly earnings conference calls and
+follow-ups on earnings conference calls. As analysts undertake these activities in nascent industries, they
+develop and disseminate new interpretive frames, including the evaluative schemas and narratives that
+explain how firms’ actions and performance translate into current and future stock prices (e.g. Beunza &
+Garud, 2007; Damodaran, 2017; Wansleben, 2012). As frames develop, they help investors and other
+analysts sort and assess these new firms, products, and business models, leading to increasing legitimation
+of the new category (e.g. Navis & Glynn, 2010), and spurring further acceptance and adoption of the new
+frame by investors and other analysts. As the narratives provided by analysts become accepted, they
+
+--- PAGE 11 ---
+10
+
+further legitimate classification and evaluation of firms in the new category. Emerging interpretive frames
+both reflect investors’ views of these nascent public firms and influence investors’ behaviors, as
+“investors draw on analysts (critics) to learn about socially legitimated valuation” (Wansleben, 2012:16).
+In nascent industries involving new firms engaged in novel activities, analysts therefore specifically shape
+and disseminate explanations of how to evaluate firms engaging in radical innovation, enabling an
+understanding of its value.
+More generally, analyst coverage reduces information asymmetries and provides the important
+recognition that improves firms’ stock price performance, reduces firms’ costs of capital, and enables
+innovation (Derrien & Kecskes, 2014; Li & You, 2015; Litov et al, 2012; Mola, Rau, & Khorana, 2013).
+Thus, to the extent that analysts make coverage decisions and engage in interactions to build and
+disseminate new interpretive frames to facilitate understanding of new firms in nascent industries, these
+industries and firms gain investor recognition, enabling the radical innovation they are undertaking during
+eras of ferment.
+Proposition 1: In nascent industries sparked by technological discontinuities, the more analysts
+engage in sensemaking interactions with executives, investors, and other analysts to develop new
+interpretive frames, the more they will be positive toward and enable radical innovation undertaken
+by new firms.
+
+These dynamics suggest further the potential for co-evolution in technology and analysts’ frames.
+The development of (and variation in) analysts’ frames is driven in part by the advent of a discontinuous
+technological change. But variation in analysts’ frames during an era of ferment also provides the
+requisite variety for understanding and supporting the technological variation in this period. As new firms
+enter with different radical innovations and competing technological designs, analysts are facilitating an
+understanding of – and capital market support for – this variation. Therefore, while technological
+variation drives variation in analysts’ frames, analysts’ sensemaking activities during eras of ferment also
+support the technological variation that characterizes these periods.
+
+--- PAGE 12 ---
+11
+
+TECHNOLOGY CONVERGENCE AND CATEGORY INSTITUTIONALIZATION:
+INCREMENTAL INNOVATION BY INCUMBENT FIRMS
+
+Next, we consider the convergent periods following the selection of a dominant design, characterized
+by incumbent firms engaging in incremental innovation (Anderson & Tushman, 1990). Our argument is
+that analysts’ interpretive frames similarly converge and become institutionalized during these periods,
+and as they do, analysts’ activities shift to evaluating individual firms’ fit with prevailing interpretive
+frames, supporting and enabling incremental innovation, while highlighting deviance and dropping
+coverage or issuing negative evaluations as firms pursue innovation that departs from categorical
+expectations.
+Convergence in Interpretive Frames
+Convergence and institutionalization in interpretive frames is driven first, by convergence in the
+evolving technology. As one or a small number of technological standards emerges from among the
+variation in previously competing designs (Anderson & Tushman, 1990; Grodal et al, 2015; Murmann &
+Frenken, 2006), both technological and demand uncertainty are increasingly resolved (Anderson &
+Tushman, 1990). Elimination of competing variants of the technological design simplifies market
+participants’ understandings about how the technology and product designs work and are produced, as
+well as about the features that are valued by customers (Benner & Tripsas, 2012). Correspondingly,
+variation in - and uncertainty about - business models is also reduced, as managers, investors, and
+analysts increasingly understand how firms’ activities and financial performance drive investor behaviors
+and corresponding stock prices, making assessments increasingly straightforward. Selection among
+technological designs typically involves selection among firms as well, via a “shakeout,” as a few firms
+emerge as the industry leaders, while many firms exit the product class, typically those lacking
+knowledge, capabilities, or products in the selected technology (Anderson & Tushman, 1990; Argyres,
+Bigelow, & Nickerson, 2015; Murmann & Frenken, 2006). This reduction in the number of firms in the
+industry further reduces variation and uncertainty. Taken together, these mechanisms, spurred by
+convergence phase in the evolving technology, allow greater clarity about category membership, business
+
+--- PAGE 13 ---
+12
+
+models, firm activities, and the appropriate ways to evaluate firms and anticipate stock values, driving
+convergence in interpretive frames.
+A second mechanism underlying interpretive frame convergence is the rise of one or a small number
+of frames to dominance, as an analyst promoting a particular frame provides a more compelling narrative
+than other analysts for explaining drivers of investor behavior and stock valuations. For example, in the
+early years of the Internet, analysts held markedly different views of how to value the new Internet firms,
+illustrated by the striking differences in valuation for Amazon (McGough & Wingfield, 2000). Analysts
+ranged from categorizing Amazon as a high-tech company, with a valuation of $400 per share, to
+categorizing it as a brick and mortar bookstore, with a valuation of $50 per share. A leading analyst’s
+framing of Amazon as a high-tech firm provided a more accurate prediction and a clearer narrative for
+explaining its high stock market valuation (Beunza & Garud, 2007).
+As particular analysts appear prescient in their assessments and explanations, and as investors adopt
+these frames, other analysts also adopt these frames, abandoning their own frames, and spurring further
+convergence in interpretive frames. Conversely, when forecasts of future stock price arising from an
+analyst’s frame are persistently inaccurate, analysts will be more likely to abandon these frames, also
+driving convergence on the more compelling and accurate frames.
+Prior work similarly suggests that in situations of high uncertainty, analysts imitate each other or even
+herd, i.e. ignore their own private information and beliefs, and follow an emerging consensus view (Hong,
+Kubik, & Solomon, 2000). Convergence in views among analysts also unfolds through social
+psychological mechanisms such as social proof (Rao, Greve & Davis, 2001) or pluralistic ignorance (Zhu
+& Westphal, 2011). Ideas about convergence in analysts’ frames are also echoed in research that
+observes that analysts tend to use similar heuristics and metrics to evaluate firms within the same industry
+category (e.g. Schipper, 1991; Zuckerman, 1999; Benner & Ranganathan, 2017).
+With convergence in analysts’ interpretive frames, the surviving frames become increasingly
+coherent, institutionalized, and “stricter” (e.g. Grodal, et al 2015; Ruef & Patterson, 2009). Scholars
+adopting evolutionary views of category change (e.g. Grodal, et al 2015; Navis & Glynn, 2010; Ruef &
+
+--- PAGE 14 ---
+13
+
+Patterson, 2009) highlight the increasing institutionalization and hardening of categories as they mature,
+as the outcome of social processes involving interactions and negotiation among market participants.
+Institutionalization in analysts’ frames similarly proceeds from both directions, i.e. as interpretive frames
+in an industry are increasingly shared across analysts making similar classifications of firms in their
+coverage decisions, and as firms, seeking to gain coverage by analysts, increasingly conform to the
+expectations for membership in an increasingly legitimated category (Zuckerman, 1999).
+Institutionalization unfolds further when analysts drop coverage of firms engaging in category-deviant
+innovation, moving the remaining firms in the category toward even greater coherence. In turn, analysts’
+understanding of the remaining category-conforming firms is also likely to improve, further supporting
+the institutionalization of a dominant interpretive frame.
+An additional mechanism driving institutionalization unfolds as the metrics and models to evaluate
+category members are codified into spreadsheets and handed from the senior or lead analysts who initially
+developed the frames, to the lower level research associates on the analyst team to perform routinized
+analyses (Groysberg & Healy, 2013). While more senior, experienced analysts may have engaged in the
+initial search and activities to understand the industry and create a new interpretive frame, once these
+codified models are handed off to more junior assistants in the form of spreadsheets, such models arrive
+as part of the junior analysts’ jobs – as established, taken for granted “facts” and ways to do their job
+evaluating firm performance (cf. Scott, 2001). The continued routinized application of interpretive frames
+gives rise to further institutionalization and hardening of the frames.
+Analysts’ Influences on Innovation in Convergent Phases
+Once interpretive frames are established, and subsequently converge and become institutionalized, the
+analysts’ search and sensemaking activities that characterized the nascent period are reduced. As analysts’
+interpretive frames cohere, their boundaries likely become increasingly rigid in evaluations of category
+members, categorical expectations become clearer, and boundary violations become more salient (e.g.
+Ruef & Patterson, 2009).
+
+--- PAGE 15 ---
+14
+
+As analysts now apply the increasingly shared and institutionalized interpretive frames to evaluate the
+activities and performance of individual firms within an established category, the alignment of individual
+firms’ strategies, activities, and financial performance against the category expectations becomes
+increasingly salient. Firms that are coherent with the category or best represent the category “prototype”
+receive positive evaluations, whereas firms whose activities, strategies, or financial performance depart
+from the expectations of the category receive more negative evaluations or less coverage (Ruef &
+Patterson, 2009; Zuckerman, 1999; 2004). Notably, the activities that are most consistent with the
+institutionalized frame are the incremental product and process innovations that elaborate the current
+technological design, while the activities that depart most from categorical expectations are likely to be
+the most novel or innovative with respect to the increasingly rigid category.
+Thus, as analysts view firms’ activities through institutionalized interpretive frames, they are likely to
+issue more positive recommendations on the firms that are undertaking incremental innovations that “fit”
+with the period of convergence, and issue more negative recommendations or abandon coverage as firms
+undertake the more radical innovation that departs from expectations (e.g. Benner & Zenger, 2016; Litov
+et al, 2012; Theeke et al, 2017).
+For example, Benner (2010) found that analysts were positive toward Kodak’s and Polaroid’s
+incremental efforts to extend film technology, but ignored or were negative toward these firms’
+investments in the radically new digital technology. Litov et al (2012) found that analysts tended to drop
+coverage of firms pursuing novel corporate strategies that were unique compared to industry peers (but
+that were on average more valuable), triggering a lower stock price. Similarly, Theeke et al (2017) found
+that medical device firms pursuing novelty were less likely to obtain analyst coverage. Thus, as
+interpretive frames converge and become institutionalized, analysts become gatekeepers, rewarding
+incremental innovation and highlighting deviations; generally influencing the availability and cost of
+capital through their coverage decisions and the content of their recommendations.
+Proposition 2: In phases of technological convergence, the greater the convergence and
+institutionalization of analysts’ interpretive frames (i.e. the more that similar categories, schema, and
+narratives are shared across analysts covering the same industry), the more that analysts will be
+
+--- PAGE 16 ---
+15
+
+positive toward incumbents’ incremental innovations that extend the current technology and negative
+toward radical innovations that depart from the current technology.
+
+In turn, firms face pressures for conformity; both those already covered in an analyst category or
+those seeking coverage by analysts. Firms that are pursuing incremental innovations will be rewarded by
+analysts, whereas firms that attempt more radical innovations in these periods of convergence will elicit
+negative evaluations or dropped coverage. Firms are likely to seek to alleviate the penalties that arise
+from category deviance and change strategies, retreating from radical innovation and novelty and
+engaging in incremental innovation that improves their coherence with the category (e.g. Benner &
+Ranganathan, 2012; Benner & Zenger, 2017). Analysts’ enforcement of category boundaries in this
+convergent phase is therefore likely to spur an increase in incremental innovation in incumbent firms and
+a decrease in radical innovation or novelty that is difficult to evaluate within an institutionalized
+interpretive frame.
+Proposition 3: The more that analysts’ evaluations toward firms engaging in incremental innovations
+become negative or result in dropped coverage, the more firms will respond to pressures for
+conformity. This will spur incremental innovations that extend the current technology, and dampen
+the more radical innovation that departs from existing categories.
+
+Our arguments here further illustrate co-evolution in technology and analysts’ frames. While
+convergence in the technology spurs convergence in analysts’ frames, as we discuss above, as analysts’
+frames converge, they also reward incremental innovation by incumbents, supporting the corresponding
+convergence phase in technological evolution. That is, as frames converge and analysts encourage
+incremental innovation, incumbent firms are rewarded for focusing on elaborating a dominant design
+through the incremental product innovation and process innovation characteristic of this phase (Anderson
+& Tushman, 1990; Abernathy & Utterback, 1980).
+
+REVISITING TECHNOLOGICAL DISCONTINUITIES: ANALYSTS INFLUENCES ON
+INNOVATION IN INCUMBENT FIRMS DURING ERAS OF FERMENT
+
+Next, we revisit technological discontinuities, but now consider incumbent firms that already are
+classified in the industry categories covered by analysts. We explore forces that underpin persistence in
+
+--- PAGE 17 ---
+16
+
+analysts’ interpretive frames and the resulting influences of analysts on innovation undertaken by
+incumbent firms faced with technological discontinuities.
+Even as technological discontinuities spark nascent industries, they also have important implications
+for the incumbent firms in existing industries affected by the change. For example, the radical
+technological change to digital photography spurred many new entrants into the new digital camera
+product class, but also fundamentally challenged Kodak and Polaroid, incumbent firms in the existing
+“photography” industry (Benner, 2010; Tripsas & Gavetti, 2000). Similarly, the potential for a radical
+shift to electric vehicle technology that is currently underway clearly has important implications for firms
+currently in the auto industry that are producing autos based on the traditional internal combustion
+technology.
+Heterogeneous incumbent responses to technological discontinuities
+Recent work highlights ways that incumbent firms respond to technological discontinuities. An
+important approach for responding to a radically new technology is to directly engage in radical
+innovation that allows a firm to adopt - or even initiate - the technological change. Indeed, evidence from
+research on incumbent adaptation suggests that incumbent firms often do respond directly to
+technological discontinuities, both initiating and adopting radical technological changes (Benner, 2010;
+Benner & Ranganathan, 2017; Eggers & Kaul, 2018; Eggers & Park, 2018). For example, Kodak created
+the first camera incorporating digital technology, initiating a technological discontinuity (Benner, 2010).
+Verizon responded to the discontinuous technological change in telecommunications (from copper
+wireline technology to voice over Internet protocol (VoIP)) by undertaking investments in radical
+innovation in fiber to the home (Benner & Ranganathan, 2017).
+Alternatively, incumbent firms can retain their focus on an existing technology rather than attempt the
+transition to a radically new technology (Adner & Snow, 2010). For example, rather than engaging in
+investments in radical innovation as Verizon did in response to the technological discontinuity, Qwest
+curtailed its investments and focused on more incremental changes (Benner & Ranganathan, 2017).
+
+--- PAGE 18 ---
+17
+
+Incumbents’ efforts focused on incremental improvements can improve the performance of an old
+technology sufficiently to prevent or slow substitution by the new technology for a time. This
+corresponds with the observation that the price and performance of old technologies can improve
+dramatically as the technology faces a threat of substitution. For example, Furr and Snow (2014) identify
+a “last gasp” of carburetor technology when faced with substitution by fuel injection systems, Utterback
+(1994) describes the efficiency improvements in the ice harvesting industry as mechanical refrigeration
+technology emerged, and Kodak’s efforts to lower the price and improve the resolution in “reusable” film
+cameras lengthened the time for digital cameras to achieve the superior price and performance required
+for substitution. Firms can deliberately engage in a technology “racing” strategy as they face the threat of
+new technologies, i.e. attempts to radically improve an old technology to allow it to compete for a time
+with the potential substitute technology (Adner & Snow, 2010).
+Persistence in analysts’ interpretive frames
+Evidence from prior research suggests that analysts tend to persist in applying existing interpretive
+frames to evaluate the activities and performance of established firms, even in industries facing
+technological discontinuities, and even in the cases where incumbents do adopt the radically new
+technologies and business models. For example, as analysts continued to apply a persistent frame to
+evaluating Kodak and Polaroid, they issued positive evaluations of Kodak’s and Polaroid’s film-related
+products that did not address the unfolding challenge of digital technology, while ignoring or issuing
+negative views of these firms’ digital camera efforts (Benner, 2010). Similarly, analysts persisted in
+analyzing Verizon using evaluative schema and metrics that were increasingly obsolete given the major
+technological change and the accompanying radical changes in Verizon’s strategy (Benner &
+Ranganathan, 2017). Scholars have found further evidence of analysts’ persistence in other settings of
+underlying change, for example, when firms undertake fundamental changes in their corporate strategies
+(Feldman, 2016) or identities (Tripsas, 2009), that would make new interpretive frames appropriate,
+analysts tended to continue to evaluate firms within pre-change industry categories and schema.
+
+--- PAGE 19 ---
+18
+
+We first describe drivers of persistence in analysts’ interpretive frames, followed by the effects of
+persistent frames on innovation by incumbents. Persistence in analysts’ frames arises, in part, from their
+continued usefulness in providing accurate forecasts and explanations of firms’ financial performance and
+stock price. Accuracy in assessments using existing frames, in turn, can arise from several factors. First, if
+incumbent firms engage in incremental innovation in the old technology rather than undertaking
+investments to respond directly to a new technology, existing frames are more likely to continue to
+provide an accurate view of firm performance. Moreover, even if one or a small number of the incumbent
+firms covered by an analyst undertakes radical innovation to respond to a new technology, analysts are
+likely to drop coverage of those firms rather than revisit and revise their interpretive frames.
+Characteristics of the new technology, and in particular, the pace of technology diffusion among
+producers and customers is also a factor influencing the continued usefulness of existing interpretive
+frames. Although a technological discontinuity may be underway, additional technological improvements
+or innovations to overcome ecosystem bottlenecks are often required for new technologies to be adopted
+and diffuse widely. For example, Adner and Kapoor (2016b) discuss the relatively slow diffusion of high
+definition television (HDTV) over 30 years. Although pioneering producers initially created HDTV
+products in the 1980s, additional innovation in other parts of the ecosystem were necessary before HDTV
+diffused. As a new technology diffuses relatively slowly, the implications of the change may not be
+revealed in the financial performance of an individual firm for a time. In turn, this might allow the
+existing interpretive frames to continue to provide accurate forecasts and explanations of stock valuation
+based on the old technology.
+Second, retention of existing interpretive frames is reinforced further by the extent to which the
+frames have become institutionalized, widely shared among the analysts covering firms in the same
+industry category, as well as important buy-side investors who have adopted the same frames in their
+investment behaviors. Sell-side analysts are evaluated for their usefulness by these buy side customers,
+and are rewarded through broker votes and recommendations for Institutional Investor rankings
+(Groysberg & Healy, 2013). To the extent existing interpretive frames have provided accurate forecasts
+
+--- PAGE 20 ---
+19
+
+and compelling explanations for stock valuations, analysts may be more reluctant to abandon these
+models and metrics. In part, this is because the relationships with buy side investors arise from shared,
+negotiated understandings about particular stocks that are built from – and reflected in – existing
+interpretive frames. Marked changes in an analysts’ interpretive frame for evaluating incumbent firms
+might negatively affect stock prices and harm the investors currently holding the stock.
+Analysts’ Influence on Incumbents’ Innovations during Eras of Ferment
+In turn, the extent to which analysts continue to apply persistent interpretive frames in their
+assessments of firms further shapes their views of – and influences on – innovation. Incumbents’
+investments and innovations in radically new technologies to address a technological discontinuity are
+likely to depart from the expectations of persistent interpretive frames. These innovations are likely to
+receive negative reactions from analysts, constraining innovation, even during the eras of ferment
+triggered by discontinuous technological change. For example, as Benner & Ranganathan (2012)
+highlight, analysts covering Kodak were negative toward its investments in digital technology:
+Shareholders will revolt once the meager (and distant) potential returns from electronic imaging become clear. .
+. . We are eager to see shareholders’ reactions when they realize how much of their money is squandered on
+“digital nonsense.” (Prudential Securities, 1994)
+
+Analysts covering Verizon were similarly critical of its investments in radical innovation in fiber-to-the
+home technology to respond to the technological discontinuity in telecommunications (Benner &
+Ranganathan, 2012):
+We are concerned about the economics of the FiOS initiative [Verizon’s investment to respond to VoIP], but a pull-
+back on this could make us more constructive on the stock (Morgan Stanley, 2005–06).
+
+Thus, we propose:
+
+Proposition 4: In an era of ferment following a technological discontinuity, to the extent that
+interpretive frames persist, incumbent firms that undertake radical innovation will be penalized by
+analysts with negative evaluations or downgrades in recommendations.
+
+In contrast, when an incumbent firm continues to engage incrementally in an existing technology
+rather than undertaking radical innovation to respond directly to the new technology, reactions from
+analysts are likely to be positive, further enabling incremental innovation. Incremental innovation in an
+
+--- PAGE 21 ---
+20
+
+old technology is likely to be more consistent than radical innovation with the expectations arising from
+the persistent analyst frames. For example, even as Polaroid faced the threat of digital technology and
+invested in digital camera products, it also continued to introduce instant film cameras that extended both
+the old technology and the existing razor/blade business model (Tripsas & Gavetti, 2000). As Benner
+(2010) highlights, analysts were particularly positive about the instant film cameras, as they viewed these
+innovations through existing interpretive frames as an important driver of performance and stock price.
+New products and new market segments should drive near-term growth in the core instant consumer
+photography business. The products that we saw give us confidence (Credit Suisse First Boston 1998).
+
+A key driver of Polaroid’s stock price will be the success of the new products, particularly the Pop-Shot
+Instant single-use camera (Credit Suisse First Boston 1998).
+
+Similarly, analysts were positive toward the more incremental approach that Qwest took in response
+to technological change in telecommunications (Benner & Ranganathan, 2017). Therefore, we propose:
+Proposition 5: In an era of ferment following a technological discontinuity, to the extent that existing
+interpretive frames persist, incumbent firms undertaking incremental innovations that extend an old
+technology will be rewarded by analysts with positive evaluations and upgrades in recommendations.
+
+Change in Analysts’ Interpretive Frames
+
+Our arguments above suggest that new firms in nascent industries elicit positive reactions from
+analysts and support for radical innovation, while incumbent firms in convergent phases elicit positive
+reactions from analysts and support for incremental innovation. In both cases, analysts’ influences are
+generally in alignment or “fit” with the type of innovation that generally characterizes these periods of
+technology evolution. However, as incumbent firms are faced with technological discontinuities, analysts’
+persistent frames are no longer aligned with innovation firms seek to undertake, creating a constraint on
+innovation. While incumbents’ incremental innovation will continue to be rewarded when viewed through
+persistent interpretive frames, these frames prevent the radical innovation that would allow an incumbent
+to respond directly to the technology change. In these cases, positive reactions and support for radical
+innovation from analysts is possible only if firms can, at the same time, also spur increased analyst search
+and attention to the technological change, and drive change in interpretive frames.
+
+--- PAGE 22 ---
+21
+
+Past research suggests that analysts covering established industry incumbents can eventually change
+their interpretive frames as changes unfold. For example, the schema analysts used for evaluating firms
+in the wireline telecommunications industry changed, as VoIP technology increasingly substituted for
+copper wire, and Verizon (and AT&T) changed their strategies and increased investments in “fiber to the
+home” products (Benner & Ranganathan, 2017). Notably however, these changes in analysts’ interpretive
+frames did not occur for several years.5 Tripsas (2009) that new analysts covering Linco changed their
+categorization of the firm as it changed its identity. In turn, to the extent analysts’ interpretive frames do
+change, existing firms may be re-categorized or the schema employed to evaluate them may be updated,
+such that the more radical innovations that previously departed from categorical expectations are more
+likely to be understood and enabled.
+As we note above, if incumbents conform to pressures from analysts and continue to engage in
+incremental innovation, frames are likely to persist. However, if incumbents undertake radical innovation
+to respond directly to technological change despite the pressures, analysts are more likely to engage in the
+search that leads to changes in their frames. Thus, despite the pressures for conformity we note above,
+incumbents’ persistence in radical innovation and investments in new technologies is one factor that
+makes analysts more likely to engage in sensemaking activities to understand the new technology and
+create new frames.
+As incumbents undertake radical innovation to respond to a new technology, the prevailing
+interpretive frame becomes less useful for accurate forecasts and explanations of firms’ financial
+performance and stock valuations. The inaccuracies or difficulties that spur change in analysts’ frames
+could arise from behaviors of firms or investors. For example, if firms’ investments or financial
+performance changes unexpectedly with a technological discontinuity, analysts may be spurred to search
+for new schema to guide their assessments and forecasts of earnings and stock price. Inaccuracy in
+analysts’ recommendations and stock price forecasts can also arise from investor behaviors, as investors
+
+5 That frames eventually change, but with a long delay, suggests inertia in interpretive frames, as opposed to the persistence of a
+“correct” frame.
+
+--- PAGE 23 ---
+22
+
+become particularly positive or negative toward an industry undergoing technological change, and these
+beliefs are reflected in unanticipated changes in stock prices. While the difficulty of assessing radical
+innovation undertaken by a single incumbent may spur analysts to simply drop coverage, as more firms
+that an analyst covers change their strategies or experience unexpected changes in performance, analysts
+may incur the information costs to re-engage in search and initiate changes in their interpretive frames.
+Lounsbury and Rao (2004) similarly highlight increased ambiguity and performance variation as drivers
+of change in categories.
+Second, prior research also suggests that to the extent an incumbent firm focuses on activities
+corresponding with a new technology and abandons participation in other technologies or product classes,
+analysts are more likely to engage in revising interpretive frames. Feldman (2016) showed that analysts
+were more likely to update their schema and subsequently provide more accurate evaluations of firms
+after firms spun off their legacy businesses. As the firms entering the new product class created by the
+technological change abandon old technologies and have identities and activities focused largely in a new
+industry, analysts face pressure to re-categorize firms that no longer fit in an existing industry category.
+This is likely to trigger the search and sensemaking interactions with managers and investors to create
+new frames to understand the new technology and business models.
+Third, as managers undertaking radical innovation emphasize growth in their interactions with
+investors and analysts, and as their performance and stock price become more difficult to forecast using
+conventional discounted dividend or cash flow calculations, analysts are more likely to engage in search
+to revise interpretive frames or develop new ones. Benner & Ranganathan (2017) showed that as
+Verizon’s CEO provided analysts with new metrics focused on growth (rather than profit) to evaluate
+Verizon’s performance, analysts became more positive.
+
+As analysts increase interactions with investors and managers, seeking ways to revise or
+reconstruct interpretive frames, they are increasingly likely to facilitate understanding of firms’
+innovations and enable radical innovation (e.g. Benner & Ranganathan, 2017).
+
+--- PAGE 24 ---
+23
+
+Proposition 6: In an era of ferment following a technological discontinuity, the more that incumbent
+firms persist in radical innovation, abandon participation in other industry domains, and emphasize
+growth, the more that analysts will re-engage in search to understand a technological discontinuity
+and change interpretive frames.
+
+DISCUSSION
+
+Prior research on sell-side securities analysts is marked by contrasting views of analysts’ influences
+on firm innovation. While some research depicts analysts as supportive enablers of innovation, others
+emphasize the constraints they impose on firms. We offer a way to reconcile these competing views, by
+developing theory that explains how analysts’ influences on innovation shift through evolutionary stages
+in an industry technology (Anderson & Tushman, 1990), differentially affecting innovation in new firms
+and incumbents. Our core theoretical mechanism is the evolution in analysts’ interpretive frames, i.e. the
+categories, schema, and narratives that analysts develop (through their interactions with managers and
+investors) for classifying and evaluating firms and explaining the links between firm behavior, financial
+performance, and stock prices. By adopting an evolutionary view, we are able to understand how
+changing contexts shape these different influences of analysts on innovation, allowing us to explain why
+analysts can both enable and constrain innovation. Figure 1 depicts these relationships in our theory.
+We present our theory about analyst influences on firms’ innovation in three parts, including their
+influences on incremental and radical innovation in both new and incumbent firms. First, we consider
+new firms in nascent industries sparked by technological discontinuities. In these settings, analysts engage
+in heightened interactions with managers and investors to understand new phenomena. They build and
+disseminate the interpretive frames that shape new industry categories and category membership, and
+provide the schema and narratives for assessing performance and explaining the drivers of investors’
+behaviors and firms’ stock prices. These activities, and the developing frames, help capital market
+participants make sense of novelty during eras of ferment, spurring recognition of new firms in new
+industries, lowering their costs of capital for innovative activities, and spurring radical innovation.
+In subsequent phases of technological convergence that follow the emergence of dominant designs,
+analysts’ interpretive frames also converge and become increasingly institutionalized. During these
+
+--- PAGE 25 ---
+24
+
+phases, analysts’ activities shift to applying a shared interpretive frame to evaluating now-incumbent
+firms. As interpretive frames become institutionalized, misalignments between firms’ strategies and the
+interpretive frames, i.e. “boundary violations” (Ruef & Patterson, 2009) become increasingly salient.
+Firms that fit clearly with the category by undertaking incremental innovations receive positive
+evaluations, while firms that deviate by undertaking more radical innovation receive negative evaluations
+or spur analysts to drop coverage (Zuckerman, 1999; Benner & Zenger, 2016). Firms are rewarded in
+these periods for the incremental innovation that elaborates an existing technological design.
+Third, we consider the already-categorized incumbents facing technological discontinuities in existing
+industries. We describe analysts’ reactions to the heterogeneous ways incumbents respond to
+technological change, and how persistence in interpretive frames in these periods shapes analysts’
+influences on different types of incumbent innovation. Viewing innovation through persistent frames and
+strict categories, analysts are likely to continue to support incremental innovation, even in eras of ferment,
+but penalize incumbents for radical innovation.
+Conversely, incumbents pursuing radical innovation might elicit positive evaluations from analysts if
+they undertake efforts to change interpretive frames at the same time. We describe how managers can
+influence change in the frames; spurring analysts to undertake search and heightened interactions with
+managers and investors to develop new interpretive frames.
+Our work further suggests coevolution in industry technology and analysts’ frames (e.g. Grodal, et al,
+2015). Variation in the interpretive frames held by different analysts during an era of ferment provides
+the requisite variety for understanding innovation and novelty, and supports the variation in technological
+designs that characterize this period. Moreover, as analysts develop interpretive frames that both
+influence and explain investors’ behaviors (and stock prices), they make sense of nascent industries and
+facilitate the availability of capital that allows firms to advance beyond the nascent phase. Subsequently,
+convergence in analysts’ frames is driven in part by convergence in technological designs. As frames are
+shared and become institutionalized, they also reward incumbent firms for the incremental innovation that
+
+--- PAGE 26 ---
+25
+
+elaborates a specific dominant design, reinforcing the incremental product and process innovation that is
+characteristic of these periods of convergence following a dominant design.
+We make important contributions to research, and suggest opportunities for future work. First, our
+theory helps resolve the puzzle that initially motivated this paper, that is, the divergent findings from past
+work on analysts’ influence on innovation. By taking an evolutionary approach and theorizing how
+analysts’ evolving interpretive frames shape innovation across different phases of technology evolution,
+we are able to reconcile the contrasting findings in prior work, and provide a more complete picture of
+analysts’ influence. Future work in this area can extend these ideas with more development and empirical
+tests of the mechanisms we propose.
+Second, our theory contributes to research and theory in technological evolution and innovation. We
+explain the role that analysts, as important capital market participants, play in the emergence of new
+industries sparked by technological discontinuities, as well as in shaping firms’ responses to technological
+change. A frequent claim in research on technological change, beginning with Schumpeter (1934), is that
+new firms are nimble and innovative, providing sources of creative destruction in industries, whereas
+incumbent firms are sluggish and inertial, and struggle to respond to changes in their environments.
+Research has supported these stories by highlighting internal sources of inertia in established firms (e.g.
+Henderson & Clark, 1990). Our work highlights the potential for securities analysts, as important
+intermediaries in capital markets, to reinforce this mechanism of creative destruction by new firms, as
+they facilitate innovation for new entrants engaged in novel activities while constraining already
+established firms into conformity with rigid expectations of existing categories. We are able to describe
+how these dynamics unfold by separately considering how analysts’ frames are shaped by changing
+technologies and context, and how these changes in frames, in turn, shape analysts’ influences on
+innovation and the types of firms that are rewarded for innovation. Our theory also may help explain the
+apparent paradox observed in practice: while capital for innovation is readily available for new public
+firms that have low or no profits, like Uber or Tesla, many existing firms face pressure from shareholders
+to curtail innovation. For example, Dell struggled with investors seeking to prevent its investments in
+
+--- PAGE 27 ---
+26
+
+innovation, and Michael Dell ultimately believed changing course was possible only by becoming a
+private firm (De La Merced & Hardy, 2013).
+Third, our work also contributes to research on socio-cognitive drivers of industry emergence and
+evolution. Past work on category emergence and evolution has mainly considered the interactions of
+producers, customers, and the media in the development and legitimation of industry categories (e.g.
+Navis & Glynn, 2010; Lounsbury & Rao, 2004; Ruef & Patterson, 2009). We provide a deeper
+understanding of securities analysts as a key audience in industry and category emergence. Analysts play
+a major part in the social construction of new industries as they specifically create the new industry
+categories and labels, and determine which firms will be classified in the industry and gain analyst
+coverage. Analysts’ category structure of coverage organizes and legitimates the activities of publicly
+traded firms; thus, they play an important role in socio-cognitive understandings of firms during both
+industry emergence and subsequent evolution. Our theory sheds light on an important aspect of analysts’
+influences by considering how they shape innovation outcomes in firms and industries.
+Our work also highlights important managerial implications. As firms seek to engage in innovation or
+responses to technological discontinuities, there are possible opportunities to influence analysts’
+evaluations through both the type of innovation firms engage in, and through managers’ interactions with
+analysts and investors.
+In nascent industries, managers or founders of new firms have opportunities to shape analysts’
+reactions both by undertaking the radical innovation that is expected in during eras of ferment, as well as
+through engagement with investors and analysts to influence understanding the new technology and the
+corresponding development of interpretive frames. As analysts undertake search and interactions with
+managers and investors to develop frames to understand and evaluate new firms in nascent industries, the
+frames are fluid and malleable, offering opportunities for managers to influence sensemaking, shaping
+analysts’ and investors’ views of their firms. An example is Amazon CEO Jeff Bezos’s early involvement
+with analysts that helped shape the framing of Amazon as a high tech firm rather than a bookstore.
+
+--- PAGE 28 ---
+27
+
+In phases of technological convergence, incumbent firms elicit positive analyst reactions first by
+engaging in incremental innovation that conforms to the expectations associated with the analyst frame.,
+and by highlighting category coherence in interactions with investors and analysts, for example by
+communicating compliance in meeting expectations measured institutionalized performance metrics, such
+as earnings forecasts.
+Finally, as incumbent firms are faced with technological discontinuities, they have opportunities to
+influence analysts’ evaluations both by the nature of the innovation they undertake in these periods, as
+well as through efforts to change interpretive frames. Undertaking incremental innovation will continue
+to be rewarded when viewed through persistent interpretive frames, and may even slow or prevent change
+in interpretive frames, particularly if incumbents engage in “racing” strategies to improve the
+performance of an old technology (Adner & Snow, 2010). However, if incumbents undertake radical
+innovation to respond to a new technology, they are likely to be penalized by analysts unless interpretive
+frames also change. We suggest new firms are important for the creation of new analyst industry
+categories; this suggests further that analysts might enable radical innovation to the extent that they
+perceive industries and the firms in them as new, with products and business models that depart from
+existing categories. New firms in nascent industries spur sensemaking and new interpretive frames that
+can facilitate understanding of innovation and novelty. If managers’ communication with analysts
+emphasizes newness and growth, the new activities in incumbent firms may be increasingly evaluated
+outside the constraining boundaries of current categorizations, enabling firms to engage in radical
+innovation to respond to technological discontinuities.
+
+--- PAGE 29 ---
+28
+
+FIGURE 1
+
+--- PAGE 30 ---
+29
+
+REFERENCES
+Abernathy, W.J. & Utterback, J.M. 1978. Patterns of industrial innovation. Technology Review, 80: 40-
+47.
+Adner R. & Kapoor, R. 2016a. Innovation ecosystems and the pace of substitution: Re-examining
+technology s-curves. Strategic Management Journal, 37: 625-648.
+Adner R. & Kapoor, R. 2016b. Right tech, wrong time. How to make sure your ecosystem is ready for the
+newest technologies. Harvard Business Review, November 2016.
+Adner, R. & Snow, D. 2010. Old technology responses to new technology threats: demand heterogeneity
+and technology retreats. Industrial and Corporate Change, 19(5): 1655–1675.
+Aldrich, H. & Ruef, M. 2006. Organizations evolving, Second edition. Thousand Oaks, CA: Sage.
+Anderson, P. & Tushman, M.L. 1990. Technological discontinuities and dominant designs: A cyclical
+model of technological change. Administrative Science Quarterly, 35: 604-633.
+Argyres, N, Bigelow, L. & Nickerson, J. Dominant designs, innovation shocks, and the follower’s
+dilemma. Strategic Management Journal, 36: 216-234.
+Benner, M. J. 2010. Securities analysts and incumbent response to radical technological change: Evidence
+from digital photography and internet telephony. Organization Science, 21 (1): 42-62.
+Benner, M. J. & Ranganathan, R. 2012. Offsetting illegitimacy? How pressures from securities analysts
+influence incumbents in the face of new technologies. Academy of Management Journal, 55: 213-
+233.
+Benner, Mary J. and Ram Ranganathan, 2013. Divergent reactions to convergent strategies: Investor
+beliefs and analyst reactions during technological change. Organization Science, 24(2): 378-394.
+Benner, M. J. & Ranganathan, R. 2017. Measuring up? Persistence and change in analysts’ evaluative
+schema following technological change. Organization Science, 28:760-780.
+Benner, M. J. & Tripsas, M. 2012. The influence of prior industry affiliation on framing in nascent
+industries: The evolution of digital cameras. Strategic Management Journal, 33: 277-302.
+Beunza, D. & Garud, R. 2007. Calculators, lemmings, or frame-makers? The intermediary role of
+securities analysts. Sociological Review, pp 13-39.
+Bingham C.B & Kahl, S.J. 2013. The process of schema emergence: Assimilation, deconstruction,
+unitization and the plurality of analogies. Academy of Management Journal, 56:14–34.
+Bradshaw, M.T. 2011. Analysts’ forecasts: What do we know after decades of work? SSRN working
+paper. DOI:10.2139/ssrn.1880339
+Brauer, M. & Wiersema, M. 2018. Analyzing analyst research: A review of past coverage and
+recommendations for future research. Journal of Management, 44(1):218-248.
+Brealey, R. & Myers, S. 1984. Principles of corporate finance. McGraw-Hill, New York.
+Brown, L.D., Call, A.C. Clement, M.B. & Sharp, N.Y., 2016. The activities of buy-side analysts and the
+determinants of their stock recommendations. Journal of Accounting and Economics, 62: 139-156.
+Brown, L.D., Call, A.C. Clement, M.B. & Sharp, N.Y. 2015. Inside the “black box” of sell-side financial
+analysts. Journal of Accounting Research, 53(1): 1-47.
+Busenbark, J.R., Lange, D. & Certo, S.T. 2017. Foreshadowing as impression management: Illuminating
+the path for security analysts. Strategic Management Journal, 38: 2486-2507.
+Crawford, S.S., Roulstone, D.T. & So, E.C. 2012. Analyst initiations of coverage and stock return
+synchronicity. The Accounting Review, 87(5): 1527-1553.
+Damodaran, A. 2017. Narrative and numbers: The value of stories in business. Columbia University
+Press: New York.
+De La Merced, M.J. & Hardy, Q 2013. Dell in $24 billion deal to go private. New York Times, Feb 5.
+
+--- PAGE 31 ---
+30
+
+Derrien, F. & Kecskes, A. 2013. The real effects of financial shocks: Evidence from exogenous changes
+in analyst coverage. The Journal of Finance, LXXVII (4): 1407-1440.
+Dosi, G. 1982. Technological paradigms and technological trajectories. A suggested interpretation of the
+determinants and directions of technical change. Research Policy, 11: 147-162.
+Durand, R. & Khaire, M. 2017. Where do market categories come from and how? Distinguishing
+category creation from category emergence. Journal of Management, 43(1): 87-110.
+Eggers, J.P. & Kaul, A. 2018. Motivation and ability? A behavioral perspective on the pursuit of radical
+invention in multi-technology incumbents. Academy of Management Journal, 61(1): 67-93.
+Eggers, J.P. & Park, K. F. 2018. Incumbent adaptation to technological change: The past, present, and
+future of research on heterogeneous incumbent response. Academy of Management Annals, 12(1):
+357-389.
+Feldman, E.R. 2016. Corporate spinoffs and analysts’ coverage decisions: The implications for diversified
+firms. Strategic Management Journal, 37: 1196-1219.
+Francis & Philbrick, 1993. Analysts’ decisions as products of a multi-task environment. Journal of
+Accounting Research, 31(2): 216-230.
+Furr, N. & Snow, D.C., 2015. Intergenerational hybrids: Spillbacks, spillforwards, and adapting to
+technology discontinuities. Organization Science, 26(2): 475-493.
+Gentry, R. J. & Shen, W. 2013. The impacts of performance relative to analyst forecasts and analyst
+coverage on firm R&D intensity. Strategic Management Journal, 34: 121-130.
+Grodal, S., Gotsopoulos, A., & Suarez, F.F. 2015. The coevolution of technologies and categories during
+industry emergence. Academy of Management Review, 40(3): 423-445.
+Groysberg, B. & Healy, P.M. 2013. Wall Street research: Past, present, and future. Stanford University
+Press: Stanford, CA.
+Groysberg, B., Healy, P. Serafeim, G. & Shanthikumar, D. 2013. The stock selection and performance of
+buy-side analysts. Management Science, 59(5): 1062-1075.
+Guo, B., Perez-Castrillo, D. & Toldra-Simats, A. 2019. Firms’ innovation strategy under the shadow of
+analyst coverage. Journal of Financial Economics, 131:456-483.
+Hayward, M.L.A. & Boeker, W. 1998. Power and conflicts of interest in professional firms: Evidence
+from investment banking. Administrative Science Quarterly, 43(1): 1-22.
+He, J. & Tian, X. 2013. The dark side of analyst coverage: The case of innovation. Journal of Financial
+Economics, 109: 856-878.
+Henderson, R.M. & Clark, K. 1990. Architectural innovation: The reconfiguration of existing product
+technologies and the failure of established firms. Administrative Science Quarterly, 35: 9-30.
+Hong, H., & Kubik, J. 2003. Analyzing the analysts: Career concerns and biased earnings forecasts. The
+Journal of Finance, 58(1): 313-351.
+Hong, H., Kubik, J. & Solomon, A. 2000. Security analysts’ career concerns and herding of earnings
+forecasts. RAND Journal of Economics 31(1): 121-144.
+Hsu G., 2006. Evaluative schemas and the attention of critics in the US film industry. Industrial
+Corporate Change, 15(3):467–496.
+Kaplan, S. & Tripsas, M. 2008. Thinking about technology: Applying a cognitive lens to technical
+change. Research Policy, 37: 790-805.
+Li, K.K and You, H. 2015. What is the value of sell-side analysts? Evidence from coverage initiations and
+terminations. Journal of Accounting and Economics, 60: 141-160.
+Litov, L. Moreton, P. & Zenger T.R. 2012. Corporate strategy, analyst coverage, and the uniqueness
+paradox. Management Science, 58(10): 1797-1815.
+
+--- PAGE 32 ---
+31
+
+Lounsbury, M. & Rao, H. 2004. Sources of durability and change in market classifications: A study of the
+reconstitution of product categories in the American mutual fund industry, 1944-1985. Social
+Forces, 82(3): 969-999.
+McGough, R. & Wingfield, N. 2000. Amazon or Rashomon? Every analyst has different view of e-tailer’s
+prospects. Wall Street Journal, September 27, 2000.
+McKendrick, D.G, & Carroll, G.R. 2001. On the genesis of organizational forms: Evidence from the
+market for disk arrays. Organization Science, 12(6): 661-682.
+Mola, S., Rau, P. & Khorana, A. 2013. Is there life after the complete loss of analyst coverage? The
+Accounting Review, 88(2): 667-705.
+Murmann, P. & Frenken, K. 2006. Toward a systematic framework for research on dominant designs,
+technological innovations, and industrial change. Research Policy, 35: 925-952.
+Navis, C. & M.A. Glynn, 2010. How new market categories emerge: Temporal dynamics of legitimacy,
+identity, and entrepreneurship in satellite radio, 1990-2005. Administrative Science Quarterly, (55):
+439-471.
+Rao, H., Greve, H.R. & Davis, G.F. 2001. Fool’s gold: social proof in the initiation and abandonment of
+coverage by Wall Street analysts. Administrative Science Quarterly, 46(3): 502-526
+Reingold, D., & Reingold, J. 2006. Confessions of a Wall Street analyst. New York: Harper Collins.
+Rosa, J.A., Porac, J.F., Runser-Spanjol, J. & Saxon, M.S. 1999. Sociocognitive dynamics in a product
+market. Journal of Marketing, 63:64-77.
+Ruef, M & Patterson, K. 2009. Credit and classification: The impact of industry boundaries in nineteenth-
+century America. Administrative Science Quarterly, 54: 486-529
+Schipper, K. 1991. Commentary on analysts’ forecasts. Accounting Horizons 5(4): 105-121.
+Schumpeter, J.A. 1934. Theory of economic development. Cambridge, MA: Harvard University Press.
+Scott, W.R. 2001. Institutions and organizations. 2nd Ed. Sage Publications: Thousand Oaks, CA.
+Solow, R. M. 1957. “Technical Change and the Aggregate Production Function.” The Review of
+Economics and Statistics, 39(3): 312– 320
+Theeke, M., Polidoro, Jr., F. & Fredrickson, J.W. 2018. Path dependent routines in the evaluation of
+novelty: The effects of innovators’ new knowledge use on brokerage firms’ coverage.
+Administrative Science Quarterly, 63(4): 910-942.
+Tripsas, M. 2009. Technology, identity and inertia through the lens of “The Digital Photography
+Company.” Organization Science, 20: 440-461.
+Tripsas M, & Gavetti, G. 2000. Capabilities, cognition, and inertia: Evidence from digital imaging.
+Strategic Management Journal, 21: 1147–1161.
+Tushman, M. L., & Anderson, P. 1986. Technological discontinuities and organizational environments.
+Administrative Science Quarterly, 31 439–465.
+Tushman, M.L. & Nelson, R.R. 1990. Introduction: technology, organizations, and innovation.
+Administrative Science Quarterly, 35:1-8.
+Tushman, M.L., Rosenkopf, L. 1992. On the organizational determinants of technological change:
+towards a sociology of technological evolution. Research in Organizational Behavior 14: 311-347.
+Wansleben, L. 2012. Financial Analysts. In the Oxford Handbook of the Sociology of Finance, ed Knorr
+Cetina, K. & Preda, A. Oxford Handbooks Online.
+Zhu, D.H. & Westphal, J.D. 2011. Misperceiving the beliefs of others: How pluralistic ignorance
+contributes to the persistence of positive security analyst reactions to the adoption of stock
+repurchase plans. Organization Science, 22: 869-886.
+Zuckerman, E.W. 1999. The categorical imperative: Securities analysts and the illegitimacy discount.
+American Journal of Sociology, 104(5): 1398-1438.
+
+--- PAGE 33 ---
+32
+
+Zuckerman, E.W. 2000. Focusing the corporate product: Securities analysts and de-diversification.
+Administrative Science Quarterly, 45(3): 591-619.
+Zuckerman, E.W. 2004. Structural incoherence and stock market activity. American Sociological Review,
+(69): 405-432.
+Zuckerman, G., & Bandler, J. 2003. Investors seek to rewind Kodak. Wall Street Journal, October 21: C-
+1.

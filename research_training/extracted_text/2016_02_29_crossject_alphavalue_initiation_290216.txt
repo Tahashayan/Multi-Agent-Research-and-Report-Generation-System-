@@ -1,0 +1,3435 @@
+--- PAGE 1 ---
+Contract research, paid for by the above corporate entity. Equity research methods and procedures are as applied by AlphaValue. Target prices and opinions are thus exclusively determined by those
+methods and procedures.
+Crossject
+Pharma / France
+Document generated on the 29/02/2016
+
+Patience will pay
+Buy
+Upside potential : 182%
+Target Price (6 months)
+24.6
+Share Price
+€ 8.7
+Market Capitalisation €M
+57.9
+Price Momentum
+GOOD
+Extremes 12Months
+3.52
+10.4
+Bloomberg ticker
+ALCJ FP
+
+Analyst
+Fabrice Farigoule
+pharma@alphavalue.eu
+@
+www.alphavalue.com
+
++33 (0) 1 70 61 10 50
+sales@alphavalue.eu
+KEY DATA
+12/14A
+12/15A
+12/16E
+12/17E
+12/18E
+Adjusted P/E (x)
+-14.0
+-8.17
+-9.71
+-23.9
+26.7
+Dividend yield (%)
+0.00
+0.00
+0.00
+0.00
+0.00
+EV/EBITDA(R) (x)
+-12.7
+-7.63
+-10.1
+ns
+10.4
+Adjusted EPS (€)
+-0.68
+-0.88
+-0.90
+-0.36
+0.33
+Growth in EPS (%)
+n/a
+n/a
+n/a
+n/a
+n/a
+Dividend (€)
+0.00
+0.00
+0.00
+0.00
+0.00
+Sales (€M)
+1.74
+2.37
+2.37
+13.8
+49.9
+EBITA margin (%)
+ns
+ns
+ns
+2.46
+11.8
+Attributable net profit (€M)
+-4.44
+-5.73
+-5.80
+-2.36
+2.13
+ROE (after tax) (%)
+-30.6
+-49.2
+-98.5
+-130
+117
+Gearing (%)
+-91.3
+-190
+-766
+15.7
+Last forecasts updated on the 25/02/2016
+Benchmarks
+
+Values (€)
+Upside
+Weight
+DCF
+
+31.6
+263%
+40%
+NAV/SOTP per share
+
+28.7
+230%
+40%
+P/E
+Peers
+4.35
+-50%
+5%
+EV/Ebitda
+Peers
+0.00
+-100%
+5%
+P/Book
+Peers
+4.35
+-50%
+5%
+Dividend Yield
+Peers
+0.00
+-100%
+5%
+TARGET PRICE
+
+24.6
+182%
+100%
+Conflicts of interest
+Corporate broking
+NO
+Trading in corporate shares
+NO
+Analyst ownership
+NO
+Advising of corporate (strategy, marketing, debt, etc)
+NO
+Research paid for by corporate
+YES
+Provision of corporate access paid for by corporate
+NO
+Link between AlphaValue and a banking entity
+NO
+Brokerage activity at AlphaValue
+NO
+Client of AlphaValue Research
+NO
+
+--- PAGE 2 ---
+
+ALPHAVALUE CORPORATE SERVICES
+Crossject (Buy)
+Supergenerics / France
+February 29 2016
+Copyright AlphaValue - 2016 – www.alphavalue.com
+Page 2
+Contents
+Contents
+Contents
+Contents
+Recent Updates....................................................................................................................
+3
+Body of research..................................................................................................................
+6
+Businesses & Trends......................................................................................................
+7
+Money Making.................................................................................................................
+9
+Debt.................................................................................................................................
+11
+Valuation.........................................................................................................................
+12
+DCF.................................................................................................................................
+13
+NAV/SOTP......................................................................................................................
+14
+Worth Knowing................................................................................................................
+15
+Financials........................................................................................................................
+16
+Pension Risks..................................................................................................................
+22
+Governance & Management...........................................................................................
+24
+Graphics..........................................................................................................................
+26
+Methodology.........................................................................................................................
+29
+
+--- PAGE 3 ---
+Recent Updates
+ALPHAVALUE CORPORATE SERVICES
+Crossject (Buy)
+Supergenerics / France
+February 29 2016
+Copyright AlphaValue - 2016 – www.alphavalue.com
+Page 3
+
+--- PAGE 4 ---
+25/02/2016 Initiating coverage of Crossject.
+Initiation cov.
+Recommendation and upside
+We initiate coverage of Crossject, a new entrant in the New Therapeutic Entities field. Its differentiating feature is its
+delivery mechanism, Zeneo, a pretty unique injection system. Crossject has completed clinical trials on a first well-
+known molecule, Methotrexate, with another six to go in the pipeline. The current market capitalisation stands at c.
+€50m based on a share price of €7.5, while we see a massive potential upside (over 220%), with a target price of
+€24.5, reflecting the company’s huge growth prospects.
+Business and Trend
+Today, Crossject has a portfolio of seven products under development: Methotrexate (anti-rheumatic), Sumatriptan
+(acute migraine), Epinephrin (treatment of anaphylactic shocks), Naloxone (opioid overdoses), Apomorphine
+(Parkinson disease) Midazolam (epilepsy) and L15 (name and indication confidential). The first sales are expected
+in FY17 (Methotrexate in H2, with clinical studies already done), while clinical studies are currently being carried out
+for Sumatriptan, which should get market approval and be commercially launched in H1 18 as well as for L15, while
+Midazolam should be filed in H2 17 for a market launch in FY18. Epinephrin should be on shelves in FY18 and
+Apomorphine a year later together with Naloxone.
+Based on our estimates, Crossject should be able to generate total turnover of over €190m as soon as 2021, which
+should breakdown as follows:
+Need to know
+Zeneo, an automatic, single-use needle-free injection device was orginally developed within Laboratoires Fournier
+in its « drug delivery » division, together with SNPE (Société Nationale des Poudres et Explosifs, which is a
+shareholder of Crossject). In 2001, the technology was sold to the newly-created Crossject. GSK was originally the
+main partner of Crossject, with a view to developing a solution for its vaccines. This market was ultimately
+ALPHAVALUE CORPORATE SERVICES
+Crossject (Buy)
+Supergenerics / France
+Updates
+February 29 2016
+Copyright AlphaValue - 2016 – www.alphavalue.com
+Page 4
+
+--- PAGE 5 ---
+considered as too risky in terms of investment needs, low margins and the high volumes required. Therefore,
+Crossject was restructured in 2011-13, with a change in the group’s strategy: the goal of Crossject is no longer to
+sell a device to the Big Pharmas to market their own chemical entities, but to provide the market with its own pre-
+filled devices, on the basis of New Therapeutic Entities, using a known drug (generic) with an innovative delivery
+system. New industrial partnerships were also signed with Hirtenberger (for the pyrotechnical and mechanical sides)
+and Cenexi (aseptic filling and final packaking). Today, the Zeneo device is protected by over 400 patents covering
+80% of the market (including the US, Europe and Japan) valid until 2035.
+ALPHAVALUE CORPORATE SERVICES
+Crossject (Buy)
+Supergenerics / France
+Updates
+February 29 2016
+Copyright AlphaValue - 2016 – www.alphavalue.com
+Page 5
+
+--- PAGE 6 ---
+Body of research
+ALPHAVALUE CORPORATE SERVICES
+Crossject (Buy)
+Supergenerics / France
+February 29 2016
+Copyright AlphaValue - 2016 – www.alphavalue.com
+Page 6
+
+--- PAGE 7 ---
+A new entrant on the supergeneric market
+We regard Crossject as a new entrant in the supergeneric field. Its differentiating feature is its delivery mechanism, Zeneo, a pretty
+unique painless injection system. Crossject has completed clinical trials on a first well-known molecule, Methotrexate, with another
+six to go in the pipeline. Zeneo is the fruit of over 12 years of R&D. It is an automatic, single-use needle-free injection device with a
+pre-filled container, to be used on the arm, abdomen or thigh. The technology is based on a high pressure injection allowing a drug
+to be administered rapidly (1/10 sec) into the tissue. This is a major technological breakthrough in relation to traditional injection
+methods (syringe and needle) and to the best current auto-injectors (injector pens). This new medical device is user-friendly, reliable
+and safe and is the best self-injection device available on the market today. Zeneo guarantees a safe, controlled and effective
+injection to patients. It is also designed to perform intradermal, subcutaneous and intramuscular injections, the three most commonly
+used methods. All tests (over 10,000 on human skin) have shown that Zeneo is equivalent to any traditional injection method and the
+device has been tested on various molecules (size, structure, fragility….). This said, the device still needs to be approved « once it
+is combined with a drug », since it then represents a new therapeutic entity.
+Crossject has initially chosen to address the supergeneric market or NTEs (New Therapeutic Entities), a concept that consists of
+using a known drug (generic) with an innovative delivery system, thus improving patient comfort. This strategy, particularly used by
+Teva (the world leader in generics) has proven successful since it typically results in an improved quality of drug administration as
+well as offering its promoters patent protection, independent from that of the initial molecule. This results in better patient
+compliance and in turn enhanced overall drug efficacy. Crossject’s strategy is to develop its NTE proprietary portfolio and to use
+partnerships for the marketing.
+The portfolio is already wide
+Today, Crossject has a portfolio of seven products under development: Methotrexate (anti-rheumatic), Sumatriptan (acute migraine),
+Epinephrin (treatment of anaphylactic shocks), Naloxone (opioid overdoses), Apomorphine (Parkinson’s disease), Midazolam
+(epilepsy) and L15 (name and indication confidential). The first sales are expected in FY17 (Methotrexate in H2, clinical studies
+being already done), while clinical studies are currently being carried out for Sumatriptan, which should get market approval and be
+commercially launched in H1 18 as well as for L15, while Midazolam should be filed in H2 17 for a market launch in FY18.
+Epinephrin should be on shelves in FY18 and Apomorphine a year later together with Naloxone.
+The competition Crossject has to face depends on the NTEs currently under development one looks at: pens or nasal sprays
+already exist as far as Naloxone (« Evzio » pen and Narcan), Midazolam (Pfizer, Upsher-Smith) or Epinephrine (six pens on the
+market) are concerned, while injections are available for most of the diseases mentioned (as well as other routes, e.g. oral or
+inhalation). The key issue is that Zeneo offers a superior quality (in terms of ease-of-use, efficiency, control and safety) and thus
+aims at gaining market share over existing products, while its needle-free feature is a clear competitive advantage. A recent study
+quoted by EMA showed that only 16% of pen users performed the injection correctly in cases of severe anaphylactic shock
+(Adrenaline), which gives a feeling for the sound prospects of Zeneo.
+A huge market backs sound growth prospects
+It is not easy to determine the total size of the markets Crossject addresses: first, the company will develop other NTEs in the future.
+From c. 900 identified compounds that could be injected, Crossject estimates that 200 are compatible with the Zeneo device, 100
+of which are free of rights. The company has thus identified 20 molecules which could be developped as first priorities. Secondly,
+each market should be looked at independently, since their size varies a lot. As an example, the group estimates the Triptan market
+to be worth more than US$5bn, the Apomorphine or Methotrexate markets to be worth US$1.4bn and US$2.5bn, respectively,
+worldwide while the Midazolam or Naloxone markets are clearly smaller than US$500m (around US$300m). L15, as far as it is
+concerned, is a niche market of c. US$50m. However, we can still derive from these numbers that the total adressable market today
+is worth some US$10bn (for the seven NTEs under development) which gives Crossject ample room for growth. Moreover, the
+theoretical total market is much wider, since many NTEs are compatible with the Zeneo drug-delivering device, as stated earlier.
+Although this is not in management’s plans today, we can only notice that the diabetes mellitus market (valued at more than
+US$25bn yearly, growing at c.13% yearly) or the vaccine market (almost US$15bn, with a CAGR of c.10%) would each more than
+double the total market targeted by Crossject, which gives a feeling for the potential « limitless » growth the company could enjoy.
+Based on our estimates, Crossject should be able to generate a total turnover of c. €200m as soon as 2021, which should
+Businesses & Trends
+ALPHAVALUE CORPORATE SERVICES
+Crossject (Buy)
+Supergenerics / France
+Businesses & Trends
+February 29 2016
+Copyright AlphaValue - 2016 – www.alphavalue.com
+Page 7
+
+--- PAGE 8 ---
+
+Sector
+12/15A
+12/16E
+12/17E
+12/18E
+Change 16E/15 Change 17E/16E
+€M
+of %
+total
+€M
+of % total
+Methotrexate
+Smaller Pharma
+0.00
+0.00
+13.8
+22.9
+0
+NA
+14
+121%
+Epinephrin
+Smaller Pharma
+0.00
+10.6
+0
+0%
+Sumatriptan
+Smaller Pharma
+0.00
+8.77
+0
+0%
+Midazolam
+Smaller Pharma
+0.00
+3.78
+0
+0%
+L15
+Smaller Pharma
+0.00
+3.81
+0
+0%
+Naloxone
+Smaller Pharma
+0.00
+0.00
+0
+0%
+Apomorphine
+Smaller Pharma
+0.00
+0.00
+0
+0%
+Other
+2.37
+2.37
+0.00
+0.00
+0
+NA
+-2
+-21%
+Total sales
+2.37
+2.37
+13.8
+49.9
+0
+NA
+11
+100%
+
+breakdown as follows:
+We address exposures (eg. how much of the turnover is exposed to the $ ) rather than sensitivities (say, how much a 5% move in the $ affects the bottom line). This is to make
+comparisons easier and provides useful tools when extracting relevant data.
+Actually, the subject is rather complex on the ground. The default position is one of an investor managing in €. An investor in £ will obviously not react to a £ based stock trading partly in €
+as would a € based investor. In addition, certain circumstances can prove difficult to unravel such as for eg. a € based investor confronted to a Swiss company reporting in $ but with a
+quote in CHF... Sales exposure is probably straightforward but one has to be careful with deep cyclicals. Costs exposure is a bit less easy to determine (we do not allow for hedges as
+they can only be postponing the day of reckoning). How much of the equity is exposed to a given subject is rarely straightforward but can be quite telling
+In addition, subjects are frequently intertwined. A $ exposure may encompass all revenues in $ pegged currencies and an emerging currency exposure is likely to include $ pegged
+currencies as well.
+Exposure to global warming issues is frequently indirect and may require to stretch a bit imagination.
+Divisional Breakdown Of Revenues
+
+Revenues
+Costs
+Equity
+Dollar
+55.0%
+35.0%
+0.0%
+Emerging currencies
+20.0%
+10.0%
+0.0%
+Long-term global warming
+0.0%
+0.0%
+0.0%
+Key Exposures
+
+Europe
+25.0%
+Of which France
+10.0%
+Americas
+55.0%
+Asia
+20.0%
+Of which China
+15.0%
+Sales By Geography
+ALPHAVALUE CORPORATE SERVICES
+Crossject (Buy)
+Supergenerics / France
+Businesses & Trends
+February 29 2016
+Copyright AlphaValue - 2016 – www.alphavalue.com
+Page 8
+
+--- PAGE 9 ---
+Rather conservative assumptions
+Our assumptions are based on the launches of the seven current NTEs the group is developing, only one of which (Methotrexate)
+has already successfully completed clinical studies. For the remaining six specialities, clinical studies will be carried out in FY16-17
+(with the exception of Apomorphine in FY18). Thereafter, regulatory approvals can be obtained with commercial launches expected
+in FY17 (Methotrexate), FY18 (L15, Midazolam, Sumatriptan and Adrenaline) or FY19 (Apomorphine and Naloxone). We have
+based our estimates on the following assumptions: first, products will be sold through partnerhip agreements (except for L15, to be
+sold directly). This means Crossject will benefit from upfront fees and royalties, the former financing part of the clinical studies.
+Altogether, this boils down to sharing (on a 50/50 basis) the margin between Crossject and its partner, the margin being defined as
+revenues less COGS, distribution and marketing costs. We have also considered a risk factor: 50% for all NTEs, except for
+Methotrexate (70%), where clinical studies were completed and partners found in France, India and China, and Adrenaline (70%)
+for which a partnership agreement is already in place. This seems to be reasonable and quite conservative, given the fact that the
+registration/filing process is much lighter and, in all odds, much quicker than for a new compound (which typically takes 10 years
+from early development stages to the market). In the case of NTEs, the time needed is closer to 3-5 years, depending on which
+product/geography is involved and should never exceed five years in our view. The efficacy of molecules has already been proven
+(as is the lack of toxicity). The application for NTEs should only require bioequivalence studies (and not the full scope of clinical
+surveys), reducing costs (€3-4m vs €200m for a new chemical entity, i.e. a new drug) and, just as important, the time needed before
+products reach the market. In brief, the filing (FDA and EMA) will then only focus on the product’s reliability (technical file) and the
+bioequivalence results.
+Our forecasts are even more cautious
+As a result, our estimates are based on the group’s assumptions in terms of number of units sold (i.e. Zeneo devices) and their
+ramp-up from commercial launch to maturity, for each sub-market (i.e each NTE), with a probability that is the risk factor assessing
+both potential issues in the approval process and the risk not being able to find a suitable partner. Although it is not easy to
+determine so early on the market share Crossject could gain in each sub-market, the group has reasonable targets (10-20% except
+for L15 where it claims to be able to control 30% of this small market). To be on the conservative side, we have also considered that
+these market share targets will not be reached before 2025, that is (at least) six years after market launch depending on the NTE.
+As an example, we have assumed Adrenaline to be launched in 2018, in line with management’s expectations, with a 70%
+probability since a partnership is already in place with a big pharma, and that Crossject will sell two million doses a year by 2023
+(with a target at maturity of 3m) for a price of €40 in Europe and US$120 in the US. This results in a theoretical €151m turnover by
+2023 (even if, from an accounting standpoint, Crossject will get royalties and the turnover will be booked on its partner’s books).
+Altogether, our forecasts lead to the following cash flows for Crossject until 2021:
+Money Making
+ALPHAVALUE CORPORATE SERVICES
+Crossject (Buy)
+Supergenerics / France
+Money Making
+February 29 2016
+Copyright AlphaValue - 2016 – www.alphavalue.com
+Page 9
+
+--- PAGE 10 ---
+
+12/15A
+12/16E
+12/17E
+12/18E
+Change 16E/15
+Change 17E/16E
+€M
+of % total
+€M
+of % total
+Royalty income
+Product sales
+-5.51
+-5.00
+0.34
+5.88
+1
+100%
+5
+100%
+Other/cancellations
+Total
+-5.51
+-5.00
+0.34
+5.88
+1
+100%
+5
+100%
+
+12/15A
+12/16E
+12/17E
+12/18E
+Total
+-232%
+-211%
+2.46%
+11.8%
+
+Divisional EBITA
+Divisional EBITA margin
+ALPHAVALUE CORPORATE SERVICES
+Crossject (Buy)
+Supergenerics / France
+Money Making
+February 29 2016
+Copyright AlphaValue - 2016 – www.alphavalue.com
+Page 10
+
+--- PAGE 11 ---
+
+12/15A
+12/16E
+12/17E
+12/18E
+EBITDA
+€M
+-5.51
+-5.00
+0.34
+5.88
+Funds from operations (FFO)
+€M
+-4.21
+-4.30
+0.04
+4.53
+Ordinary shareholders' equity
+€M
+8.80
+2.99
+0.63
+3.00
+Gross debt
+€M
+0.00
+0.00
+10.0
+15.0
+o/w Less than 1 year - Gross debt
+€M
+10.0
+15.0
++ Gross Cash
+€M
+5.14
+6.24
+13.4
+10.6
+= Net debt / (cash)
+€M
+-5.14
+-6.24
+-3.44
+4.38
+Other financing
+€M
+0.00
+0.00
+10.0
+15.0
+Gearing (at book value)
+%
+-91.3
+-190
+-766
+15.7
+Adj. Net debt/EBITDA(R)
+x
+0.93
+1.25
+-10.1
+0.75
+Adjusted Gross Debt/EBITDA(R)
+x
+-0.06
+-0.07
+30.5
+2.61
+Adj. gross debt/(Adj. gross debt+Equity)
+%
+3.75
+10.3
+94.2
+83.6
+Ebit cover
+x
+24.0
+-21.7
+-6.87
+11.6
+FFO/Gross Debt
+%
+-1,229
+-1,253
+0.38
+29.5
+FFO/Net debt
+%
+82.0
+68.8
+-1.13
+103
+FCF/Adj. gross debt (%)
+%
+-1,874
+-3,171
+-57.1
+-51.0
+(Gross cash+ "cash" FCF+undrawn)/ST debt
+x
+0.75
+0.19
+"Cash" FCF/ST debt
+x
+-0.59
+-0.52
+
+At year-end 2015, the group had a net cash position of c. €5m. The bulk of the capex has been spent (i.e. the industrial investment
+needed for the production of c.1.5m Zeneo devices). This has implied €3.8m capex in 2014-15. Looking into 2016 onwards, we
+have considered a recurring capex (€1m) to which is added an « expansion » capex of €3m for each additional 3m units sold.
+Another important issue before first sales are booked is the amount needed to finance the clinical studies. According to
+management, each study costs c. €3m and there are three of them planned in 2016 (Sumatriptan, Adrenaline, L15), two in 2017
+(Midazolam and Naloxone) and one in 2018 (Apomorphine). This comes on top of the « normal » cash-burn of the company before
+its products are on shelves. However, Crossject will also benefit from upfront fees once partnership agreements are signed, on top
+of the benefit for tax credits and the « PIAVE » financing still to come (for a total of €6.8m, with the bulk of it in 2016 and 2017). It is
+also worth noting that the partner for Adrenaline still has to pay €9m (as an upfront fee) when or before regulatory approvals are
+obtained in Europe and the US, which provides another means to finance the clinical studies to come. At the end of the day, our
+view is that the group is self-financing provided it is able to sign partnerhips in the short term. Otherwise, Crossject may have to
+resort to the financial markets or find another financial solution to raise cash (for instance by « selling » future royalties to a financial
+partner). In our forecasts, we have only considered that in FY16 the group will get the €9m upfront-fee relating to the Adrenaline
+partnership.
+Debt
+Funding - Liquidity
+ALPHAVALUE CORPORATE SERVICES
+Crossject (Buy)
+Supergenerics / France
+Debt
+February 29 2016
+Copyright AlphaValue - 2016 – www.alphavalue.com
+Page 11
+
+--- PAGE 12 ---
+All peer-based valuations have no meaning since Crossject currently has no revenues and negative results. Our NAV valuation is
+based on a 4x multiple of 2018-20 revenues for all segments, which compares to a ratio of 4.15x for our sample. On the one hand,
+these revenues will not be booked for three years, which should lead us to a discount, however, they only correspond to the ramp-up
+in sales, meaning that growth rates will be high after 2018 and that these figures are very conservative ones, which explains why we
+chose not to discount them. The multiple used is rather common for biotech and pharma companies, particularly for those that have
+a significant R&D pipeline and, thus, high growth prospects.
+Our DCF is based on our forecasts for each of the seven NTEs currently under development, considering that all of them will be sold
+through partnerships (i.e. with a 50/50 split of results between Crossject and its partners). We have also factored in a risk
+associated with the development of each speciality (50% or 70% as discussed in the Money Making section, depending on the
+status of clinical trials and the need to find a partner). We have also used a long-term top-line growth of 25% and an out-year
+EBITDA growth of 25% to reach a margin of c.17.5% in 2026 (Crossject’s share, or 35% overall including the share of its partners).
+Our discount-rate is 13.5% (the cost of capital), calculated by using a beta of 2 to take into account the risk associated with the
+sector and the nature of Crossject’s business, still in a developing phase.
+It is worth noting that our target price is derived from a weighted average of all methods used, NAV and DCF both showing huge
+potential upsides (which together account for 55% of our total valuation), while all comparison-based methods lead to zero in the
+absence of results for the time being. In other words, the valuation of the stock is penalised and should go up quickly when the first
+products reach the market and enable Crossject to post profits. This also suggests it will take some time for the market to reflect the
+group’s potential fully and explains our title. Patience will indeed be needed but the reward could be huge.
+Benchmarks
+
+Values (€)
+Upside
+Weight
+DCF
+
+31.6
+263%
+40%
+NAV/SOTP per share
+
+28.7
+230%
+40%
+P/E
+Peers
+4.35
+-50%
+5%
+EV/Ebitda
+Peers
+0.00
+-100%
+5%
+P/Book
+Peers
+4.35
+-50%
+5%
+Dividend Yield
+Peers
+0.00
+-100%
+5%
+Target Price
+
+24.6
+182%
+
+Computed on 18 month forecasts
+P/E (x)
+Ev/Ebitda (x)
+P/Book (x)
+Yield(%)
+Peers ratios
+21.5
+12.4
+2.98
+1.38
+Crossject's ratios
+-11.6
+-14.5
+21.2
+0.00
+Premium
+0.00%
+0.00%
+0.00%
+0.00%
+Default comparison based valuation (€)
+4.35
+0.00
+4.35
+0.00
+UCB
+26.0
+13.5
+2.25
+1.30
+Actelion
+24.4
+17.2
+8.43
+1.16
+Hikma Pharmaceuticals
+16.5
+10.0
+1.92
+1.36
+Ipsen
+20.4
+10.4
+3.09
+1.63
+Stada Arzneimittel
+10.9
+7.46
+2.00
+2.38
+Faes Farma
+18.3
+11.5
+2.33
+2.98
+Valuation
+Valuation Summary
+Comparison based valuation
+ALPHAVALUE CORPORATE SERVICES
+Crossject (Buy)
+Supergenerics / France
+Valuation
+February 29 2016
+Copyright AlphaValue - 2016 – www.alphavalue.com
+Page 12
+
+--- PAGE 13 ---
+
+12/15A 12/16E 12/17E 12/18E 12/19E 12/20E 12/21E Growth
+Sales
+€M
+
+2.37
+2.37
+13.8
+49.9
+98.5
+142
+194
+25.0%
+EBITDA
+€M
+
+-5.51
+-5.00
+0.34
+5.88
+16.1
+25.8
+34.4
+25.0%
+EBITDA Margin
+%
+
+-232
+-211
+2.46
+11.8
+16.3
+18.1
+17.8
+Change in WCR
+€M
+
+-0.41
+0.92
+-4.95
+-11.3
+-17.2
+-15.9
+-16.6
+10.0%
+Total operating cash flows (pre tax)
+€M
+
+-5.96
+-4.07
+-4.61
+-5.42
+-1.14
+9.90
+17.8
+Corporate tax
+€M
+
+1.05
+1.00
+0.00
+-1.05
+-4.42
+-7.61
+-10.5
+1.65%
+Net tax shield
+€M
+
+0.09
+-0.09
+-0.09
+-0.09
+-0.09
+-0.09
+-0.09
+1.00%
+Capital expenditure
+€M
+
+-1.81
+-7.50
+-1.00
+-1.05
+-1.10
+-2.16
+-2.27
+10.0%
+Capex/Sales
+%
+
+-76.2
+-317
+-7.26
+-2.10
+-1.12
+-1.51
+-1.17
+Pre financing costs FCF (for DCF
+purposes)
+€M
+
+-6.63
+-10.7
+-5.70
+-7.61
+-6.75
+0.04
+4.96
+Various add backs (incl. R&D, etc.) for
+DCF purposes
+€M
+
+Free cash flow adjusted
+€M
+
+-6.63
+-10.7
+-5.70
+-7.61
+-6.75
+0.04
+4.96
+Discounted free cash flows
+€M
+
+-6.63
+-10.7
+-5.02
+-5.91
+-4.61
+0.02
+2.63
+Invested capital
+€
+
+3.42
+8.49
+12.0
+22.2
+38.4
+54.3
+71.0
+
+DCF Valuation Per Share
+WACC
+%
+13.5
+PV of cashflow FY1-FY11
+€M
+44.2
+FY11CF
+€M
+64.4
+Normalised long-term growth"g"
+%
+2.00
+Terminal value
+€M
+560
+PV terminal value
+€M
+158
+PV terminal value in % of total value
+%
+78.1
+Total PV
+€M
+202
+Avg net debt (cash) at book value
+€M
+-4.84
+Provisions
+€M
+0.34
+Unrecognised actuarial losses (gains)
+€M
+0.00
+Financial assets at market price
+€M
+0.00
+Minorities interests (fair value)
+€M
+0.00
+Equity value
+€M
+206
+Number of shares
+Mio
+6.53
+Implied equity value per share
+€
+31.6
+Assessing The Cost Of Capital
+Synthetic default risk free rate
+%
+3.50
+Target equity risk premium
+%
+5.00
+Tax advantage of debt finance
+(normalised)
+%
+30.0
+Average debt maturity
+Year
+5
+Sector asset beta
+x
+2.00
+Debt beta
+x
+0.40
+Market capitalisation
+€M
+56.4
+Net debt (cash) at book value
+€M
+-6.24
+Net debt (cash) at market value
+€M
+-6.24
+Company debt spread
+bp
+200
+Marginal Company cost of debt
+%
+5.50
+Company beta (leveraged)
+x
+1.84
+Company gearing at market value
+%
+-11.1
+Company market gearing
+%
+-12.5
+Required return on geared equity
+%
+12.7
+Cost of debt
+%
+3.85
+Cost of ungeared equity
+%
+13.5
+WACC
+%
+13.5
+DCF Calculation
+ALPHAVALUE CORPORATE SERVICES
+Crossject (Buy)
+Supergenerics / France
+DCF
+February 29 2016
+Copyright AlphaValue - 2016 – www.alphavalue.com
+Page 13
+
+--- PAGE 14 ---
+
+% owned
+Valuation
+technique
+Multiple
+used
+Valuation at
+100%
+(€M)
+Stake
+valuation
+(€M)
+In
+currency
+per share
+(€)
+% of gross
+assets
+Methotrexate
+100%
+EV/Sales
+4
+68.8
+68.8
+10.5
+37.7%
+Epinephrin
+100%
+EV/Sales
+4
+49.4
+49.4
+7.56
+27.0%
+Sumatriptan
+100%
+EV/Sales
+4
+22.6
+22.6
+3.46
+12.4%
+Midazolam
+100%
+EV/Sales
+4
+15.1
+15.1
+2.32
+8.28%
+L15
+100%
+EV/Sales
+4
+10.9
+10.9
+1.67
+5.98%
+Apomorphine
+100%
+EV/Sales
+4
+8.16
+8.16
+1.25
+4.47%
+Naloxone
+100%
+EV/Sales
+4
+7.56
+7.56
+1.16
+4.14%
+Other
+Total gross assets
+183
+28.0
+100%
+Net cash/(debt) by year end
+5.14
+0.79
+2.81%
+Commitments to pay
+Commitments received
+NAV/SOTP
+188
+28.7
+103%
+Number of shares net of treasury shares - year end (Mio)
+6.53
+NAV/SOTP per share (€)
+28.7
+Current discount to NAV/SOTP (%)
+69.7
+
+NAV/SOTP Calculation
+ALPHAVALUE CORPORATE SERVICES
+Crossject (Buy)
+Supergenerics / France
+NAV/SOTP (edit)
+February 29 2016
+Copyright AlphaValue - 2016 – www.alphavalue.com
+Page 14
+
+--- PAGE 15 ---
+Zeneo, an automatic, single-use needle-free injection device was orginally developed within Laboratoires Fournier in its « drug
+delivery » division, together with SNPE (Société Nationale des Poudres et Explosifs, which is a shareholder of Crossject). In 2001,
+the technology was sold to the newly-created Crossject. GSK was originally the main partner of Crossject, with a view to developing
+a solution for its vaccines. This market was ultimately considered as too risky in terms of investment needs, low margins and the
+high volumes required and so Crossject was restructured in 2011-13, with a change in the group’s strategy: the goal of Crossject is
+no longer to sell a device to the Big Pharmas to market their own chemical entities, but to provide the market with its own pre-filled
+devices, on the basis of New Therapeutic Entities, using a known drug (generic) with an innovative delivery system. New industrial
+partnerships have also been signed with Hirtenberger (for the pyrotechnical and mechanical sides) and Cenexi (aseptic filling and
+final packaging). Today, the Zeneo device is protected by over 400 patents covering 80% of the market (including the US, Europe
+and Japan) valid until 2035.
+Name
+% owned
+Of which
+% voting rights
+Of which
+% free to float
+Gemmes Ventures
+21.9%
+21.9%
+0.00%
+Other
+6.79%
+6.79%
+0.00%
+A Plus Finance
+6.38%
+6.38%
+0.00%
+IDEB
+5.26%
+5.26%
+0.00%
+SNPE
+4.77%
+4.77%
+0.00%
+Treasury Shares
+2.68%
+2.68%
+0.00%
+Management & Employees
+1.64%
+1.64%
+0.00%
+Apparent free float
+
+50.6%
+Worth Knowing
+Shareholders
+ALPHAVALUE CORPORATE SERVICES
+Crossject (Buy)
+Supergenerics / France
+Worth Knowing
+February 29 2016
+Copyright AlphaValue - 2016 – www.alphavalue.com
+Page 15
+
+--- PAGE 16 ---
+
+12/15A
+12/16E
+12/17E
+12/18E
+Adjusted P/E
+x
+-8.17
+-9.71
+-23.9
+26.7
+Reported P/E
+x
+-8.17
+-9.71
+-23.9
+26.5
+EV/EBITDA(R)
+x
+-7.63
+-10.1
+ns
+10.4
+P/Book
+x
+5.32
+18.8
+89.3
+18.8
+Dividend yield
+%
+0.00
+0.00
+0.00
+0.00
+Free cash flow yield
+%
+-13.7
+-19.3
+-10.5
+-13.9
+Average stock price
+€
+7.22
+8.70
+8.70
+8.70
+
+12/15A
+12/16E
+12/17E
+12/18E
+Sales
+€M
+2.37
+2.37
+13.8
+49.9
+Sales growth
+%
+35.8
+0.00
+481
+262
+Sales per employee
+€th
+108
+94.8
+344
+1,188
+Purchases and external costs (incl. IT)
+€M
+5.33
+5.43
+10.3
+28.1
+R&D costs as % of sales
+%
+0.00
+0.00
+0.00
+0.00
+Staff costs
+€M
+-2.18
+-2.53
+-4.13
+-4.42
+Operating lease payments
+€M
+Cost of sales/COGS (indicative)
+€M
+5.33
+5.43
+7.58
+13.2
+EBITDA
+€M
+-5.51
+-5.00
+0.34
+5.88
+EBITDA(R)
+€M
+-5.51
+-5.00
+0.34
+5.88
+EBITDA(R) margin
+%
+-232
+-211
+2.46
+11.8
+EBITDA(R) per employee
+€th
+-250
+-200
+8.47
+140
+Depreciation
+€M
+-1.51
+-1.51
+-2.40
+-2.40
+Depreciations/Sales
+%
+63.6
+63.6
+17.4
+4.81
+Amortisation
+€M
+Additions to provisions
+€M
+0.00
+0.00
+0.00
+0.00
+Underlying operating profit
+€M
+-7.01
+-6.50
+-2.06
+3.48
+Underlying operating margin
+%
+-296
+-275
+-15.0
+6.98
+Other income/expense (cash)
+€M
+-0.05
+0.00
+0.00
+0.00
+Other inc./ exp. (non cash; incl. assets revaluation)
+€M
+Earnings from joint venture(s)
+€M
+Impairment charges/goodwill amortisation
+€M
+Operating profit (EBIT)
+€M
+-7.06
+-6.50
+-2.06
+3.48
+Interest expenses
+€M
+0.00
+-0.30
+-0.30
+-0.30
+of which effectively paid cash interest expenses
+€M
+0.29
+Financial income
+€M
+0.29
+0.00
+0.00
+0.00
+Other financial income (expense)
+€M
+Net financial expenses
+€M
+0.29
+-0.30
+-0.30
+-0.30
+of which related to pensions
+€M
+0.00
+0.00
+0.00
+Pre-tax profit before exceptional items
+€M
+-6.77
+-6.80
+-2.36
+3.18
+Exceptional items and other (before taxes)
+€M
+-0.01
+0.00
+0.00
+0.00
+of which cash (cost) from exceptionals
+€M
+Current tax
+€M
+1.05
+1.00
+0.00
+-1.05
+Impact of tax loss carry forward
+€M
+Deferred tax
+€M
+Corporate tax
+€M
+1.05
+1.00
+0.00
+-1.05
+Tax rate
+%
+15.4
+14.7
+0.00
+33.0
+Net margin
+%
+-241
+-245
+-17.2
+4.27
+Equity associates
+€M
+Actual dividends received from equity holdings
+€M
+Minority interests
+€M
+Actual dividends paid out to minorities
+€M
+Income from discontinued operations
+€M
+Attributable net profit
+€M
+-5.73
+-5.80
+-2.36
+2.13
+Impairment charges/goodwill amortisation
+€M
+0.00
+0.00
+0.00
+0.00
+Other adjustments
+€M
+Adjusted attributable net profit
+€M
+-5.73
+-5.80
+-2.36
+2.13
+
+Valuation Key Data
+Consolidated P&L
+ALPHAVALUE CORPORATE SERVICES
+Crossject (Buy)
+Supergenerics / France
+Financials
+February 29 2016
+Copyright AlphaValue - 2016 – www.alphavalue.com
+Page 16
+
+--- PAGE 17 ---
+Interest expense savings
+€M
+Fully diluted adjusted attr. net profit
+€M
+-5.73
+-5.80
+-2.36
+2.13
+NOPAT
+€M
+-4.91
+-4.55
+-1.44
+2.44
+
+12/15A
+12/16E
+12/17E
+12/18E
+EBITDA
+€M
+-5.51
+-5.00
+0.34
+5.88
+Change in WCR
+€M
+-0.41
+0.92
+-4.95
+-11.3
+of which (increases)/decr. in receivables
+€M
+0.00
+0.00
+-3.39
+-8.91
+of which (increases)/decr. in inventories
+€M
+-0.76
+0.76
+-3.39
+-8.91
+of which increases/(decr.) in payables
+€M
+0.40
+0.09
+1.77
+6.43
+of which increases/(decr.) in other curr. liab.
+€M
+-0.05
+0.07
+0.07
+0.08
+Actual dividends received from equity holdings
+€M
+0.00
+0.00
+0.00
+0.00
+Paid taxes
+€M
+1.00
+1.00
+0.00
+-1.05
+Exceptional items
+€M
+0.00
+0.00
+0.00
+0.00
+Other operating cash flows
+€M
+0.00
+0.00
+0.00
+0.00
+Total operating cash flows
+€M
+-4.91
+-3.07
+-4.61
+-6.47
+Capital expenditure
+€M
+-1.81
+-7.50
+-1.00
+-1.05
+Capex as a % of depreciation & amort.
+%
+120
+498
+41.7
+43.8
+Net investments in shares
+€M
+0.00
+0.00
+0.00
+0.00
+Other investment flows
+€M
+0.00
+0.00
+0.00
+0.00
+Total investment flows
+€M
+-1.81
+-7.50
+-1.00
+-1.05
+Net interest expense
+€M
+0.29
+-0.30
+-0.30
+-0.30
+of which cash interest expense
+€M
+0.29
+-0.30
+-0.30
+-0.30
+Dividends (parent company)
+€M
+Dividends to minorities interests
+€M
+0.00
+0.00
+0.00
+0.00
+New shareholders' equity
+€M
+0.00
+0.00
+0.00
+0.00
+of which (acquisition) release of treasury shares
+€M
+(Increase)/decrease in net debt position
+€M
+0.83
+0.00
+10.0
+5.00
+Other financial flows
+€M
+12.0
+3.10
+0.00
+Total financial flows
+€M
+1.12
+11.7
+12.8
+4.70
+Change in cash position
+€M
+-5.60
+1.11
+7.19
+-2.82
+Change in net debt position
+€M
+-6.43
+1.11
+-2.81
+-7.82
+Free cash flow (pre div.)
+€M
+-6.43
+-10.9
+-5.91
+-7.82
+Operating cash flow (clean)
+€M
+-4.91
+-3.07
+-4.61
+-6.47
+Reinvestment rate (capex/tangible fixed assets)
+%
+104
+433
+70.9
+103
+
+Cashflow Statement
+ALPHAVALUE CORPORATE SERVICES
+Crossject (Buy)
+Supergenerics / France
+Financials
+February 29 2016
+Copyright AlphaValue - 2016 – www.alphavalue.com
+Page 17
+
+--- PAGE 18 ---
+
+12/15A
+12/16E
+12/17E
+12/18E
+Capitalised R&D
+€M
+2.32
+8.32
+7.24
+6.52
+Goodwill
+€M
+0.00
+0.00
+0.00
+0.00
+Contracts & Rights (incl. concession) intangible assets
+€M
+0.00
+0.00
+0.00
+0.00
+Other intangible assets
+€M
+0.01
+0.01
+0.01
+0.01
+Total intangible
+€M
+2.33
+8.33
+7.25
+6.53
+Tangible fixed assets
+€M
+1.74
+1.73
+1.41
+1.02
+Financial fixed assets (part of group strategy)
+€M
+1.85
+1.85
+1.85
+1.85
+Financial hedges (LT derivatives)
+€M
+0.00
+0.00
+0.00
+0.00
+Other financial assets (investment purpose mainly)
+€M
+0.01
+0.01
+0.01
+0.01
+of which available for sale
+€M
+0.00
+0.00
+0.00
+0.00
+WCR
+€M
+-2.50
+-3.42
+1.52
+12.8
+of which trade & receivables (+)
+€M
+0.00
+0.00
+3.39
+12.3
+of which inventories (+)
+€M
+0.76
+0.00
+3.39
+12.3
+of which payables (+)
+€M
+1.87
+1.96
+3.73
+10.2
+of which other current liabilities (+)
+€M
+1.39
+1.46
+1.53
+1.61
+Other current assets
+€M
+2.04
+2.04
+2.04
+2.04
+of which tax assets (+)
+€M
+1.47
+1.47
+1.47
+1.47
+Total assets (net of short term liabilities)
+€M
+5.48
+10.5
+14.1
+24.3
+Ordinary shareholders' equity (group share)
+€M
+8.80
+2.99
+0.63
+3.00
+Minority interests
+€M
+Provisions for pensions
+€M
+0.00
+0.00
+0.00
+0.00
+Other provisions for risks and liabilities
+€M
+0.34
+0.34
+0.34
+0.34
+Deferred tax liabilities
+€M
+0.00
+0.00
+0.00
+0.00
+Other liabilities
+€M
+1.48
+13.5
+16.6
+16.6
+Net debt / (cash)
+€M
+-5.14
+-6.24
+-3.44
+4.38
+Total liabilities and shareholders' equity
+€M
+5.48
+10.5
+14.1
+24.3
+Average net debt / (cash)
+€M
+-8.03
+-5.69
+-4.84
+0.47
+
+12/15A
+12/16E
+12/17E
+12/18E
+EV/EBITDA(R)
+x
+-7.63
+-10.1
+ns
+10.4
+EV/EBIT (underlying profit)
+x
+-5.99
+-7.76
+-25.9
+17.6
+EV/Sales
+x
+17.7
+21.3
+3.87
+1.22
+EV/Invested capital
+x
+12.3
+5.95
+4.43
+2.75
+Market cap
+€M
+46.8
+56.4
+56.4
+56.4
++ Provisions (including pensions)
+€M
+0.34
+0.34
+0.34
+0.34
++ Unrecognised actuarial losses/(gains)
+€M
+0.00
+0.00
+0.00
+0.00
++ Net debt at year end
+€M
+-5.14
+-6.24
+-3.44
+4.38
++ Leases debt equivalent
+€M
+0.00
+0.00
+0.00
+0.00
+- Financial fixed assets (fair value) & Others
+€M
++ Minority interests (fair value)
+€M
+= Enterprise Value
+€M
+42.0
+50.5
+53.3
+61.1
+
+Balance Sheet
+EV Calculations
+ALPHAVALUE CORPORATE SERVICES
+Crossject (Buy)
+Supergenerics / France
+Financials
+February 29 2016
+Copyright AlphaValue - 2016 – www.alphavalue.com
+Page 18
+
+--- PAGE 19 ---
+
+12/15A
+12/16E
+12/17E
+12/18E
+Adjusted EPS (bfr gwill amort. & dil.)
+€
+-0.88
+-0.90
+-0.36
+0.33
+Growth in EPS
+%
+n/a
+n/a
+n/a
+n/a
+Reported EPS
+€
+-0.88
+-0.90
+-0.36
+0.33
+Net dividend per share
+€
+0.00
+0.00
+0.00
+0.00
+Free cash flow per share
+€
+-0.99
+-1.68
+-0.91
+-1.20
+Operating cash flow per share
+€
+-0.76
+-0.47
+-0.71
+-1.00
+Book value per share
+€
+1.36
+0.46
+0.10
+0.46
+Number of ordinary shares
+Mio
+6.65
+6.65
+6.65
+6.65
+Number of equivalent ordinary shares (year end)
+Mio
+6.65
+6.65
+6.65
+6.65
+Number of shares market cap.
+Mio
+6.65
+6.65
+6.65
+6.65
+Treasury stock (year end)
+Mio
+0.17
+0.17
+0.17
+0.17
+Number of shares net of treasury stock (year end)
+Mio
+6.48
+6.48
+6.48
+6.48
+Number of common shares (average)
+Mio
+6.48
+6.48
+6.48
+6.48
+Conversion of debt instruments into equity
+Mio
+0.10
+Settlement of cashable stock options
+Mio
+Probable settlement of non mature stock options
+Mio
+Other commitments to issue new shares
+Mio
+Increase in shares outstanding (average)
+Mio
+0.00
+0.00
+0.00
+0.05
+Number of diluted shares (average)
+Mio
+6.48
+6.48
+6.48
+6.53
+Goodwill per share (diluted)
+€
+0.00
+0.00
+0.00
+0.00
+EPS after goodwill amortisation (diluted)
+€
+-0.88
+-0.90
+-0.36
+0.33
+EPS before goodwill amortisation (non-diluted)
+€
+-0.88
+-0.90
+-0.36
+0.33
+Actual payment
+€
+Payout ratio
+%
+0.00
+0.00
+0.00
+0.00
+Capital payout ratio (div +share buy back/net income)
+%
+0.00
+0.00
+0.00
+0.00
+
+12/15A
+12/16E
+12/17E
+12/18E
+EBITDA
+€M
+-5.51
+-5.00
+0.34
+5.88
+Funds from operations (FFO)
+€M
+-4.21
+-4.30
+0.04
+4.53
+Ordinary shareholders' equity
+€M
+8.80
+2.99
+0.63
+3.00
+Gross debt
+€M
+0.00
+0.00
+10.0
+15.0
+o/w Less than 1 year - Gross debt
+€M
+10.0
+15.0
++ Gross Cash
+€M
+5.14
+6.24
+13.4
+10.6
+= Net debt / (cash)
+€M
+-5.14
+-6.24
+-3.44
+4.38
+Other financing
+€M
+0.00
+0.00
+10.0
+15.0
+Gearing (at book value)
+%
+-91.3
+-190
+-766
+15.7
+Adj. Net debt/EBITDA(R)
+x
+0.93
+1.25
+-10.1
+0.75
+Adjusted Gross Debt/EBITDA(R)
+x
+-0.06
+-0.07
+30.5
+2.61
+Adj. gross debt/(Adj. gross debt+Equity)
+%
+3.75
+10.3
+94.2
+83.6
+Ebit cover
+x
+24.0
+-21.7
+-6.87
+11.6
+FFO/Gross Debt
+%
+-1,229
+-1,253
+0.38
+29.5
+FFO/Net debt
+%
+82.0
+68.8
+-1.13
+103
+FCF/Adj. gross debt (%)
+%
+-1,874
+-3,171
+-57.1
+-51.0
+(Gross cash+ "cash" FCF+undrawn)/ST debt
+x
+0.75
+0.19
+"Cash" FCF/ST debt
+x
+-0.59
+-0.52
+
+Per Share Data
+Funding - Liquidity
+ALPHAVALUE CORPORATE SERVICES
+Crossject (Buy)
+Supergenerics / France
+Financials
+February 29 2016
+Copyright AlphaValue - 2016 – www.alphavalue.com
+Page 19
+
+--- PAGE 20 ---
+
+12/15A
+12/16E
+12/17E
+12/18E
+Tax burden (Net income/pretax pre excp income)
+x
+0.85
+0.85
+1.00
+0.67
+EBIT margin (EBIT/sales)
+%
+-298
+-275
+-15.0
+6.98
+Assets rotation (Sales/Avg assets)
+%
+47.3
+29.6
+112
+260
+Financial leverage (Avg assets /Avg equity)
+x
+0.43
+1.36
+6.80
+10.6
+ROE
+%
+-49.2
+-98.5
+-130
+117
+ROA
+%
+-450
+-98.0
+-20.2
+17.1
+
+12/15A
+12/16E
+12/17E
+12/18E
+Y-1 shareholders' equity
+€M
+14.4
+8.65
+2.99
+0.63
++ Net profit of year
+€M
+-5.73
+-5.80
+-2.36
+2.13
+- Dividends (parent cy)
+€M
+0.00
+0.00
+0.00
+0.00
++ Additions to equity
+€M
+0.00
+0.00
+0.00
+0.00
+o/w reduction (addition) to treasury shares
+€M
+0.00
+0.00
+0.00
+0.00
+- Unrecognised actuarial gains/(losses)
+€M
+0.00
+0.00
+0.00
+0.00
++ Comprehensive income recognition
+€M
+0.15
+0.00
+0.24
+= Year end shareholders' equity
+€M
+8.65
+2.99
+0.63
+3.00
+
+12/15A
+12/16E
+12/17E
+12/18E
+Sales per staff
+€th
+108
+94.8
+344
+1,188
+Staff costs per employee
+€th
+-99.2
+-101
+-103
+-105
+Change in staff costs
+%
+32.0
+15.9
+63.2
+7.10
+Change in unit cost of staff
+%
+2.00
+2.00
+2.00
+2.00
+Staff costs/(EBITDA+Staff costs)
+%
+-65.6
+-102
+92.4
+42.9
+Average workforce
+unit
+22.0
+25.0
+40.0
+42.0
+Europe
+unit
+22.0
+25.0
+40.0
+42.0
+North America
+unit
+0.00
+0.00
+0.00
+0.00
+South Americas
+unit
+0.00
+0.00
+0.00
+0.00
+Asia
+unit
+0.00
+0.00
+0.00
+0.00
+Other key countries
+unit
+0.00
+0.00
+0.00
+0.00
+Total staff costs
+€M
+-2.18
+-2.53
+-4.13
+-4.42
+Wages and salaries
+€M
+-2.18
+-2.53
+-4.13
+-4.42
+of which social security contributions
+€M
+-0.71
+-0.82
+-1.34
+-1.43
+Equity linked payments
+€M
+Pension related costs
+€M
+0.00
+0.00
+0.00
+
+12/15A
+12/16E
+12/17E
+12/18E
+Methotrexate
+€M
+0.00
+0.00
+13.8
+22.9
+Epinephrin
+€M
+0.00
+10.6
+Sumatriptan
+€M
+0.00
+8.77
+Midazolam
+€M
+0.00
+3.78
+L15
+€M
+0.00
+3.81
+Naloxone
+€M
+0.00
+0.00
+Apomorphine
+€M
+0.00
+0.00
+Other
+€M
+2.37
+2.37
+0.00
+0.00
+Total sales
+€M
+2.37
+2.37
+13.8
+49.9
+
+12/15A
+12/16E
+12/17E
+12/18E
+EBITA Analysis
+Royalty income
+€M
+Product sales
+€M
+-5.51
+-5.00
+0.34
+5.88
+Other/cancellations
+€M
+Total
+€M
+-5.51
+-5.00
+0.34
+5.88
+EBITA margin
+%
+ns
+ns
+2.46
+11.8
+
+ROE Analysis (Dupont's Breakdown)
+Shareholder's Equity Review (Group Share)
+Staffing Analytics
+Divisional Breakdown Of Revenues
+Divisional Breakdown Of Earnings
+ALPHAVALUE CORPORATE SERVICES
+Crossject (Buy)
+Supergenerics / France
+Financials
+February 29 2016
+Copyright AlphaValue - 2016 – www.alphavalue.com
+Page 20
+
+--- PAGE 21 ---
+
+12/15A
+12/16E
+12/17E
+12/18E
+Europe
+%
+25.0
+25.0
+Of Which France
+%
+10.0
+10.0
+Americas
+%
+55.0
+55.0
+Asia
+%
+20.0
+20.0
+Of Which China
+%
+15.0
+15.0
+Other
+%
+0.00
+0.00
+
+12/15A
+12/16E
+12/17E
+12/18E
+ROCE (NOPAT+lease exp.*(1-tax))/(net) cap employed adjusted
+%
+-143
+-53.6
+-12.0
+11.0
+Goodwill
+€M
+0.00
+0.00
+0.00
+0.00
+Accumulated goodwill amortisation
+€M
+0.00
+0.00
+0.00
+0.00
+All intangible assets
+€M
+0.01
+0.01
+0.01
+0.01
+Accumulated intangible amortisation
+€M
+0.00
+0.00
+0.00
+0.00
+Financial hedges (LT derivatives)
+€M
+0.00
+0.00
+0.00
+0.00
+Capitalised R&D
+€M
+2.32
+8.32
+7.24
+6.52
+PV of non-capitalised lease obligations
+€M
+0.00
+0.00
+0.00
+0.00
+Other fixed assets
+€M
+1.74
+1.73
+1.41
+1.02
+Accumulated depreciation
+€M
+0.00
+0.00
+0.00
+0.00
+Capital employed before depreciation
+€M
+3.42
+8.49
+12.0
+22.2
+WCR
+€M
+-2.50
+-3.42
+1.52
+12.8
+Other assets
+€M
+1.85
+1.85
+1.85
+1.85
+Unrecognised actuarial losses/(gains)
+€M
+0.00
+0.00
+0.00
+0.00
+Capital employed after deprec. (Invested capital)
+€M
+3.42
+8.49
+12.0
+22.2
+
+12/15A
+12/16E
+12/17E
+12/18E
+Royalty income
+€M
+3.00
+9.00
+15.0
+24.5
+Product sales
+€M
+Other
+€M
+0.42
+-0.51
+-2.96
+-2.27
+Total capital employed
+€M
+3.42
+8.49
+12.0
+22.2
+
+Revenue Breakdown By Country
+Capital Employed
+Divisional Breakdown Of Capital
+ALPHAVALUE CORPORATE SERVICES
+Crossject (Buy)
+Supergenerics / France
+Financials
+February 29 2016
+Copyright AlphaValue - 2016 – www.alphavalue.com
+Page 21
+
+--- PAGE 22 ---
+
+12/15A
+12/16E
+12/17E
+12/18E
+Pension ratio
+%
+0.00
+0.00
+0.00
+0.00
+Ordinary shareholders' equity
+€M
+8.80
+2.99
+0.63
+3.00
+Total benefits provisions
+€M
+0.00
+0.00
+0.00
+0.00
+of which funded pensions
+€M
+0.00
+0.00
+0.00
+0.00
+of which unfunded pensions
+€M
+0.00
+0.00
+0.00
+0.00
+of which benefits / health care
+€M
+0.00
+0.00
+0.00
+Unrecognised actuarial (gains)/losses
+€M
+0.00
+0.00
+0.00
+0.00
+Company discount rate
+%
+2.50
+2.50
+2.50
+2.50
+Normalised recomputed discount rate
+%
+2.50
+Company future salary increase
+%
+2.00
+2.00
+2.00
+2.00
+Normalised recomputed future salary increase
+%
+2.00
+Company expected rate of return on plan assets
+%
+3.00
+3.00
+3.00
+3.00
+Normalised recomputed expd rate of return on plan assets
+%
+3.30
+Funded : Impact of actuarial assumptions
+€M
+0.00
+Unfunded : Impact of actuarial assumptions
+€M
+0.00
+
+12/15A
+12/16E
+12/17E
+12/18E
+US exposure
+%
+UK exposure
+%
+Euro exposure
+%
+100
+100
+100
+100
+Nordic countries
+%
+Switzerland
+%
+Other
+%
+Total
+%
+100
+100
+100
+100
+
+12/15A
+12/16E
+12/17E
+12/18E
+Funded status surplus / (deficit)
+€M
+0.00
+0.00
+0.00
+0.00
+Unfunded status surplus / (deficit)
+€M
+0.00
+0.00
+0.00
+0.00
+Total surplus / (deficit)
+€M
+0.00
+0.00
+0.00
+0.00
+Total unrecognised actuarial (gains)/losses
+€M
+0.00
+0.00
+0.00
+0.00
+Provision (B/S) on funded pension
+€M
+0.00
+0.00
+0.00
+0.00
+Provision (B/S) on unfunded pension
+€M
+0.00
+0.00
+0.00
+0.00
+Other benefits (health care) provision
+€M
+0.00
+0.00
+0.00
+Total benefit provisions
+€M
+0.00
+0.00
+0.00
+0.00
+
+12/15A
+12/16E
+12/17E
+12/18E
+Funded obligations periodic costs
+€M
+0.00
+0.00
+0.00
+0.00
+Unfunded obligations periodic costs
+€M
+0.00
+0.00
+0.00
+0.00
+Total periodic costs
+€M
+0.00
+0.00
+0.00
+0.00
+of which incl. in labour costs
+€M
+0.00
+0.00
+0.00
+0.00
+of which incl. in interest expenses
+€M
+0.00
+0.00
+0.00
+0.00
+
+At year-end 2014, Crossject had 23 employees. We expect this number to rise, although we have considered that all NTEs under
+development will be marketed through partnerships, which does not require a significant workforce. Of course, the situation could be
+different if the group decided to change this marketing policy in the future, although we don’t believe Crossject to be able to market
+its products on its own in the foreseeable future.
+Pension matters
+Summary Of Pension Risks
+Geographic Breakdown Of Pension Liabilities
+Balance Sheet Implications
+P&L Implications
+ALPHAVALUE CORPORATE SERVICES
+Crossject (Buy)
+Supergenerics / France
+Pension Risks
+February 29 2016
+Copyright AlphaValue - 2016 – www.alphavalue.com
+Page 22
+
+--- PAGE 23 ---
+
+12/15A
+12/16E
+12/17E
+12/18E
+Balance beginning of period
+€M
+0.00
+0.00
+0.00
+0.00
+Current service cost
+€M
+0.00
+0.00
+0.00
+Interest expense
+€M
+0.00
+0.00
+0.00
+Employees' contributions
+€M
+Impact of change in actuarial assumptions
+€M
+0.00
+0.00
+0.00
+of which impact of change in discount rate
+€M
+0.00
+of which impact of change in salary increase
+€M
+0.00
+Changes to scope of consolidation
+€M
+Currency translation effects
+€M
+Pension payments
+€M
+Other
+€M
+Year end obligation
+€M
+0.00
+0.00
+0.00
+0.00
+
+12/15A
+12/16E
+12/17E
+12/18E
+Value at beginning
+€M
+0.00
+0.00
+0.00
+Company expected return on plan assets
+€M
+0.00
+0.00
+0.00
+Actuarial gain /(loss)
+€M
+0.00
+0.00
+0.00
+Employer's contribution
+€M
+0.00
+0.00
+0.00
+Employees' contributions
+€M
+0.00
+0.00
+0.00
+0.00
+Changes to scope of consolidation
+€M
+Currency translation effects
+€M
+Pension payments
+€M
+0.00
+0.00
+0.00
+0.00
+Other
+€M
+Value end of period
+€M
+0.00
+0.00
+0.00
+0.00
+Actual and normalised future return on plan assets
+€M
+0.00
+0.00
+0.00
+0.00
+
+12/15A
+12/16E
+12/17E
+12/18E
+Balance beginning of period
+€M
+0.00
+0.00
+0.00
+0.00
+Current service cost
+€M
+0.00
+0.00
+0.00
+Interest expense
+€M
+0.00
+0.00
+0.00
+Employees' contributions
+€M
+Impact of change in actuarial assumptions
+€M
+0.00
+0.00
+0.00
+of which Impact of change in discount rate
+€M
+0.00
+of which Impact of change in salary increase
+€M
+0.00
+Changes to scope of consolidation
+€M
+Currency translation effects
+€M
+Pension payments
+€M
+Other
+€M
+Year end obligation
+€M
+0.00
+0.00
+0.00
+0.00
+
+Funded Obligations
+Plan Assets
+Unfunded Obligations
+ALPHAVALUE CORPORATE SERVICES
+Crossject (Buy)
+Supergenerics / France
+Pension Risks
+February 29 2016
+Copyright AlphaValue - 2016 – www.alphavalue.com
+Page 23
+
+--- PAGE 24 ---
+Name
+Function
+Birth date
+Date in
+Date out
+Compensation, in k€ (year)
+Cash
+Equity linked
+Patrick ALEXANDRE
+M
+CEO
+175 (2014)
+Timothée MULLER
+M
+COO
+0.00 (2014)
+Name
+Indep. Function
+Completion
+of current
+mandate
+Birth
+date
+Date in
+Date out
+Fees / indemnity,
+in k€ (year)
+Value of holding,
+in k€ (year)
+Philippe MONNOT
+M
+
+President/Chairman of th...
+Jean-Michel PIMONT
+M
+
+Member
+Marc BLONDET
+M
+
+Member
+Patrice COISSAC
+M
+
+Member
+Eric NEMETH
+M
+
+Deputy Chairman
+
+Yes
+/ No
+Weighting
+One share, one vote
+
+15%
+Chairman vs. Executive split
+
+5%
+Chairman not ex executive
+
+5%
+Independent directors equals or above 50% of total directors
+
+20%
+Full disclosure on mgt pay (performance related bonuses, pensions and non
+financial benefits)
+
+20%
+Disclosure of performance anchor for bonus trigger
+
+15%
+Compensation committee reporting to board of directors
+
+5%
+Straightforward, clean by-laws
+
+15%
+Governance score
+45
+100%
+Governance parameters
+Existing committees
+Audit / Governance Committee
+Compensation committee
+Financial Statements Committee
+Litigation Committee
+Nomination Committee
+Safety committee
+SRI / Environment
+Management
+Board of Directors
+ALPHAVALUE CORPORATE SERVICES
+Crossject (Buy)
+Supergenerics / France
+Governance & Management
+February 29 2016
+Copyright AlphaValue - 2016 – www.alphavalue.com
+Page 24
+
+--- PAGE 25 ---
+Accidents at work
+25% Of H.R. Score
+Human resources development
+35% Of H.R. Score
+Pay
+20% Of H.R. Score
+Job satisfaction
+10% Of H.R. Score
+Internal communication
+10% Of H.R. Score
+
+Yes
+/ No
+
+Rating
+Accidents at work
+25%
+
+10/100
+Set targets for work safety on all group sites?
+40%
+10/100
+Are accidents at work declining?
+60%
+0/100
+Human resources development
+35%
+
+25/100
+Are competences required to meet medium term targets identified?
+10%
+4/100
+Is there a medium term (2 to 5 years) recruitment plan?
+10%
+4/100
+Is there a training strategy tuned to the company objectives?
+10%
+0/100
+Are employees trained for tomorrow's objectives?
+10%
+4/100
+Can all employees have access to training?
+10%
+0/100
+Has the corporate avoided large restructuring lay-offs over the last year to date?
+10%
+4/100
+Have key competences stayed?
+10%
+4/100
+Are managers given managerial objectives?
+10%
+4/100
+If yes, are managerial results a deciding factor when assessing compensation level?
+10%
+4/100
+Is mobility encouraged between operating units of the group?
+10%
+0/100
+Pay
+20%
+
+6/100
+Is there a compensation committee?
+30%
+6/100
+Is employees' performance combining group performance AND individual performance?
+70%
+0/100
+Job satisfaction
+10%
+
+10/100
+Is there a measure of job satisfaction?
+33%
+3/100
+Can anyone participate ?
+34%
+3/100
+Are there action plans to prop up employees' morale?
+33%
+3/100
+Internal communication
+10%
+
+10/100
+Are strategy and objectives made available to every employee?
+100%
+10/100
+
+Human Ressources score:
+61/100
+Human Resources
+HR Breakdown
+HR Score
+H.R. Score : 6.1/10
+
+Pharma
+Crossject
+ALPHAVALUE CORPORATE SERVICES
+Crossject (Buy)
+Supergenerics / France
+Governance & Management
+February 29 2016
+Copyright AlphaValue - 2016 – www.alphavalue.com
+Page 25
+
+--- PAGE 26 ---
+
+: Strong momentum corresponding to a continuous and overall positive moving average trend confirmed by volumes
+: Relatively good momentum corresponding to a positively-oriented moving average, but offset by an overbought pattern or lack of confirmation
+from volumes
+: Relatively unfavorable momentum with a neutral or negative moving average trend, but offset by an oversold pattern or lack of confirmation from
+volumes
+: Strongly negative momentum corresponding to a continuous and overall negative moving average trend confirmed by volumes
+Momentum analysis consists in evaluating the stock market trend of a given financial instrument, based on the analysis of its trading flows.
+The main indicators used in our momentum tool are simple moving averages over three time frames: short term (20 trading days), medium term (50 days)
+and long term (150 days). The positioning of these moving averages relative to each other gives us the direction of the flows over these time frames.
+For example, if the short and medium-term moving averages are above the long-term moving average, this suggests an uptrend which will need to be
+confirmed. Attention is also paid to the latest stock price relative to the three moving averages (advance indicator) as well as to the trend in these three
+moving averages - downtrend, neutral, uptrend - which is more of a lagging indicator.
+The trend indications derived from the flows through moving averages and stock prices must be confirmed against trading volumes in order to confirm the
+signal. This is provided by a calculation based on the average increase in volumes over ten weeks together with a buy/sell volume ratio.
+Momentum
+ALPHAVALUE CORPORATE SERVICES
+Crossject (Buy)
+Supergenerics / France
+Graphics
+February 29 2016
+Copyright AlphaValue - 2016 – www.alphavalue.com
+Page 26
+
+--- PAGE 27 ---
+
+Moving Average MACD & Volume
+ALPHAVALUE CORPORATE SERVICES
+Crossject (Buy)
+Supergenerics / France
+Graphics
+February 29 2016
+Copyright AlphaValue - 2016 – www.alphavalue.com
+Page 27
+
+--- PAGE 28 ---
+
+€/$ sensitivity
+Sector Pharma
+ALPHAVALUE CORPORATE SERVICES
+Crossject (Buy)
+Supergenerics / France
+Graphics
+February 29 2016
+Copyright AlphaValue - 2016 – www.alphavalue.com
+Page 28
+
+--- PAGE 29 ---
+Methodology
+ALPHAVALUE CORPORATE SERVICES
+Crossject (Buy)
+Supergenerics / France
+February 29 2016
+Copyright AlphaValue - 2016 – www.alphavalue.com
+Page 29
+
+--- PAGE 30 ---
+Fundamental Opinion
+It is implicit that recommendations are made in good faith but should not be regarded as the sole source of advice.
+Recommendations are geared to a “value” approach.
+Valuations are computed from the point of view of a secondary market minority holder looking at a medium term (say 6 months) performance.
+Valuation tools are built around the concepts of transparency, all underlying figures are accessible, and consistency, same methodology whichever the
+stock, allowing for differences in nature between financial and non financial stocks. A stock with a target price below its current price should not and will not
+be regarded as an Add or a Buy.
+Recommendations are based on target prices with no allowance for dividend returns. The thresholds for the four recommendation levels may change from
+time to time depending on market conditions. Thresholds are defined as follows, ASSUMING long risk free rates remain in the 2-5% region.
+RecommendationLow Volatility
+(10-30)
+Normal Volatility
+(15-35)
+High Volatility
+(above 35)
+Buy
+More than 15% upsideMore than 20% upsideMore than 30% upside
+Add
+From 5% to 15%
+From 5% to 20%
+From 10% to 30%
+Reduce
+From -10% to 5%
+From -10% to 5%
+From -10% to 10%
+Sell
+Below -10%
+Below -10%
+Below -10%
+There is deliberately no “neutral” recommendation. The principle is that there is no point investing in equities if the return is not at least the risk free rate (and
+the dividend yield which again is not allowed for).
+Although recommendations are automated (a function of the target price whenever a new equity research report is released), the management of AlphaValue
+intends to maintain global consistency within its universe coverage and may, from time to time, decide to change global parameters which may affect the
+level of recommendation definitions and /or the distribution of recommendations within the four levels above. For instance, lowering the risk premium in a
+gloomy context may increase the proportion of positive recommendations.
+Valuation
+Valuation processes have been organized around transparency and consistency as primary objectives.
+Stocks belong to different categories that recognise their main operating features : Banks, Insurers and Non Financials.
+Within those three universes, the valuation techniques are the same and in relation to the financial data available.
+The weighting given to individual valuation techniques is managed centrally and may be changed from time to time. As a rule, all stocks of a similar profile
+are valued using equivalent weighting of the various valuation techniques. This is for obvious consistency reasons.
+Within the very large universe of Non Financials, there are in effect 4 sub-categories of weightings to cater for subsets: 1) 'Mainstream' stocks; 2) 'Holding
+companies' where the stress is on NAV measures; 3) 'Growth' companies where the stress is on peer based valuations; 4) 'Loss making sectors' where
+peers review is essentially pointing nowhere. The bulk of the valuation is then built on DCF and NAV, in effect pushing back the time horizon.
+Valuation Issue
+Normal
+industrials
+Growth
+industrials
+Holding
+company
+Loss
+runners
+Bank
+Insurers
+DCF
+35%
+35%
+10%
+40%
+0%
+0%
+NAV
+20%
+20%
+55%
+40%
+25%
+15%
+PE
+10%
+10%
+10%
+5%
+10%
+20%
+EV/EBITDA
+20%
+20%
+0%
+5%
+0%
+0%
+Yield
+10%
+10%
+20%
+5%
+15%
+15%
+P/Book
+5%
+5%
+5%
+5%
+15%
+10%
+Banks' instrinsic method
+0%
+0%
+0%
+0%
+25%
+0%
+Embedded Value
+0%
+0%
+0%
+0%
+0%
+40%
+Mkt Cap/Gross Operating Profit
+0%
+0%
+0%
+0%
+10%
+0%
+Typical sectors
+
+Bio Techs
+
+ALPHAVALUE CORPORATE SERVICES
+Crossject (Buy)
+Supergenerics / France
+Methodology
+February 29 2016
+Copyright AlphaValue - 2016 – www.alphavalue.com
+Page 30
+
+--- PAGE 31 ---
+Important Warning
+Above comments are solely aimed at institutional and other professional investors. They are designed to complement services made available by
+subscription only to AlphaValue via www.alphavalue.com . Above comments may only make sense in connection with an access to AlphaValue on line
+equity research
+ALPHAVALUE CORPORATE SERVICES
+Crossject (Buy)
+Supergenerics / France
+Methodology
+February 29 2016
+Copyright AlphaValue - 2016 – www.alphavalue.com
+Page 31
